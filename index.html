@@ -66,20 +66,30 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC'
 .blind-mode { text-align: center; }
 .blind-state { font-size: 14px; color: var(--text-muted); margin-bottom: 16px; }
 .blind-transcript { font-size: 22px; font-weight: 600; margin-bottom: 20px; min-height: 60px; display: flex; align-items: center; justify-content: center; opacity: 0; transition: opacity .5s; }
-.blind-transcript.show { opacity: 1; }
-.blind-controls { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; }
-.blind-btn { padding: 12px 28px; border-radius: 24px; border: none; font-size: 15px; font-weight: 600; cursor: pointer; transition: all .2s; }
-.blind-btn:active { transform: scale(.95); }
-.blind-btn.got { background: var(--success); color: white; }
-.blind-btn.not-got { background: var(--danger); color: white; }
-.blind-btn.replay { background: var(--primary); color: white; }
-.blind-btn.slow { background: var(--warning); color: white; }
-.blind-btn:disabled { opacity: .5; }
-.blind-result { margin-top: 16px; }
+.blind-transcript.reveal { opacity: 1; }
+.blind-result { margin-bottom: 16px; min-height: 40px; }
 .blind-result-item { display: inline-block; width: 32px; height: 32px; border-radius: 50%; margin: 4px; line-height: 32px; text-align: center; font-size: 14px; font-weight: 600; }
 .blind-result-item.got { background: #D1FAE5; color: #065F46; }
 .blind-result-item.not-got { background: #FEE2E2; color: #991B1B; }
 .blind-result-item.pending { background: #F3F4F6; color: var(--text-muted); }
+.blind-result-item.active-dot { background: var(--primary); color: white; border: 2px solid var(--primary-light); }
+
+/* Blind controls */
+.blind-controls { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; }
+.blind-btn { padding: 12px 28px; border-radius: 24px; border: none; font-size: 15px; font-weight: 600; cursor: pointer; transition: all .2s; }
+.blind-btn:active { transform: scale(.95); }
+.blind-btn:disabled { opacity: .4; cursor: not-allowed; transform: none; }
+.blind-btn.got { background: var(--success); color: white; }
+.blind-btn.not-got { background: var(--danger); color: white; }
+.blind-btn.replay { background: var(--primary); color: white; }
+.blind-btn.play { background: var(--primary); color: white; font-size: 17px; padding: 14px 40px; }
+.blind-btn.pause { background: var(--warning); color: white; font-size: 24px; width: 60px; height: 60px; padding: 0; border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; }
+
+/* Blind playback bar */
+.blind-playback-bar { display: flex; align-items: center; gap: 12px; margin-bottom: 16px; }
+.blind-progress { flex: 1; height: 6px; background: #D1D5DB; border-radius: 3px; overflow: hidden; }
+.blind-progress-fill { height: 100%; background: var(--primary); border-radius: 3px; transition: width .3s; }
+.blind-time { font-size: 12px; color: var(--text-muted); min-width: 80px; text-align: right; }
 
 /* 精听 (Intensive Listening) */
 .intensive-sentence { padding: 16px; border-bottom: 1px solid var(--border); cursor: pointer; }
@@ -97,6 +107,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC'
 .word-popup .popup-btn { display: block; width: 100%; padding: 12px; border: none; border-radius: 8px; font-size: 15px; font-weight: 600; cursor: pointer; margin-bottom: 8px; }
 .word-popup .popup-btn.known { background: var(--success); color: white; }
 .word-popup .popup-btn.close { background: var(--bg); color: var(--text); }
+.word-popup .popup-btn.play { background: var(--primary); color: white; }
 .overlay { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,.3); z-index: 199; }
 
 /* 跟读 (Repeat) */
@@ -116,7 +127,11 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC'
 .repeat-progress { display: flex; justify-content: center; gap: 8px; margin-bottom: 20px; }
 .repeat-dot { width: 32px; height: 32px; border-radius: 50%; border: 2px solid var(--border); display: flex; align-items: center; justify-content: center; font-size: 12px; font-weight: 600; color: var(--text-muted); }
 .repeat-dot.done { background: var(--success); border-color: var(--success); color: white; }
-.repeat-dot.active { border-color: var(--primary); color: var(--primary); }
+.repeat-dot.active { border-color: var(--primary); color: var(--primary); background: var(--primary-bg); }
+.repeat-sentence-num { font-size: 13px; color: var(--text-muted); margin-bottom: 6px; font-weight: 500; }
+.repeat-visual { position: relative; min-height: 100px; }
+.repeat-listening { font-size: 12px; color: var(--primary); margin-top: 8px; min-height: 20px; }
+.repeat-listening .listening-dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: var(--primary); margin-right: 6px; animation: pulse 0.8s infinite; }
 
 /* 测试 (Quiz) */
 .quiz-question { font-size: 20px; font-weight: 600; margin-bottom: 20px; }
@@ -136,6 +151,43 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC'
 
 /* Status Bar */
 .status-bar { display: flex; justify-content: space-between; padding: 8px 0; font-size: 12px; color: var(--text-muted); }
+
+/* AI Dialogue Chat */
+.ai-sub-tabs { display: flex; gap: 4px; margin-bottom: 16px; background: var(--bg); border-radius: 8px; padding: 3px; }
+.ai-sub-tab { flex: 1; padding: 8px; border: none; background: transparent; border-radius: 6px; font-size: 13px; font-weight: 500; color: var(--text-muted); cursor: pointer; transition: all .2s; }
+.ai-sub-tab.active { background: var(--card-bg); color: var(--primary); box-shadow: 0 1px 3px rgba(0,0,0,.08); }
+
+.ai-chat-container { display: flex; flex-direction: column; height: 480px; max-height: 70vh; }
+.ai-chat-messages { flex: 1; overflow-y: auto; padding: 12px; display: flex; flex-direction: column; gap: 12px; }
+.ai-msg { max-width: 85%; padding: 12px 16px; border-radius: 16px; font-size: 15px; line-height: 1.5; animation: fadeIn .3s ease; }
+.ai-msg.ai { align-self: flex-start; background: var(--primary-bg); color: var(--text); border-bottom-left-radius: 4px; }
+.ai-msg.user { align-self: flex-end; background: var(--primary); color: white; border-bottom-right-radius: 4px; }
+.ai-msg.system { align-self: center; background: #FEF3C7; color: #92400E; font-size: 13px; border-radius: 12px; text-align: center; max-width: 90%; }
+.ai-msg .msg-label { font-size: 11px; font-weight: 700; margin-bottom: 4px; opacity: .7; text-transform: uppercase; letter-spacing: .5px; }
+.ai-msg.user .msg-label { color: rgba(255,255,255,.8); }
+.ai-msg.ai .msg-label { color: var(--primary); }
+.ai-msg .msg-feedback { margin-top: 8px; padding-top: 8px; border-top: 1px solid rgba(0,0,0,.1); font-size: 13px; }
+.ai-msg .msg-feedback .hint-label { font-weight: 600; color: var(--primary); }
+.ai-msg .msg-feedback .hint-text { color: var(--text-muted); }
+.ai-input-bar { display: flex; gap: 8px; padding: 12px; border-top: 1px solid var(--border); background: var(--card-bg); border-radius: 0 0 var(--radius) var(--radius); }
+.ai-input { flex: 1; padding: 12px 16px; border: 2px solid var(--border); border-radius: 24px; font-size: 15px; outline: none; transition: border-color .2s; }
+.ai-input:focus { border-color: var(--primary); }
+.ai-input:disabled { background: var(--bg); opacity: .6; }
+.ai-send-btn { width: 44px; height: 44px; border-radius: 50%; border: none; background: var(--primary); color: white; font-size: 20px; cursor: pointer; display: flex; align-items: center; justify-content: center; flex-shrink: 0; transition: all .2s; }
+.ai-send-btn:active { transform: scale(.9); }
+.ai-send-btn:disabled { opacity: .4; cursor: default; }
+.ai-start-btn { display: block; width: 100%; padding: 16px; border: 2px dashed var(--primary); border-radius: var(--radius); background: transparent; color: var(--primary); font-size: 16px; font-weight: 600; cursor: pointer; transition: all .2s; margin-bottom: 12px; }
+.ai-start-btn:hover { background: var(--primary-bg); }
+.ai-start-btn:active { transform: scale(.98); }
+.ai-typing { display: flex; align-items: center; gap: 4px; padding: 8px 0; }
+.ai-typing .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--primary-light); animation: typingBounce 1.4s infinite; }
+.ai-typing .dot:nth-child(2) { animation-delay: .2s; }
+.ai-typing .dot:nth-child(3) { animation-delay: .4s; }
+@keyframes typingBounce { 0%,60%,100% { transform: translateY(0); } 30% { transform: translateY(-6px); } }
+@keyframes fadeIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+.ai-msg .msg-feedback .grammar-hint { color: #7C3AED; }
+.ai-msg .msg-feedback .vocab-hint { color: #059669; }
+.ai-msg .msg-feedback .encourage { font-weight: 600; }
 
 /* Notifications */
 .toast { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%); background: var(--text); color: white; padding: 12px 24px; border-radius: 24px; font-size: 14px; z-index: 300; opacity: 0; transition: opacity .3s; }
@@ -178,7 +230,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC'
         </div>
         <span class="time-display" id="readingTime">0:00 / 0:00</span>
       </div>
-      <div class="progress-text" id="readingProgressText">第 0/0 句</div>
+      <div class="progress-text" id="readingProgressText">自然朗读</div>
       <ul class="sentence-list" id="readingSentences"></ul>
     </div>
   </div>
@@ -187,14 +239,30 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC'
   <div id="blindPanel" class="panel hidden">
     <div class="card blind-mode">
       <div class="blind-state" id="blindState">准备开始盲听训练</div>
-      <div class="blind-transcript" id="blindTranscript"></div>
-      <div class="blind-controls">
-        <button class="blind-btn slow" id="blindSlowBtn">🐢 慢速</button>
-        <button class="blind-btn replay" id="blindReplayBtn">🔄 再放一遍</button>
-        <button class="blind-btn not-got" id="blindNotGotBtn">❌ 没懂</button>
-        <button class="blind-btn got" id="blindGotBtn">✅ 听懂</button>
+      <!-- Playback bar (shown during playback) -->
+      <div class="blind-playback-bar hidden" id="blindPlaybackBar">
+        <div class="blind-progress"><div class="blind-progress-fill" id="blindProgressFill"></div></div>
+        <span class="blind-time" id="blindTime">0:00</span>
       </div>
+      <!-- Transcript (revealed only on 'got') -->
+      <div class="blind-transcript" id="blindTranscript"></div>
+      <!-- Result dots -->
       <div class="blind-result" id="blindResult"></div>
+      <!-- Controls Phase 1: Start -->
+      <div class="blind-controls" id="blindStartArea">
+        <button class="blind-btn play" id="blindStartBtn">▶ 开始盲听</button>
+      </div>
+      <!-- Controls Phase 2: During playback -->
+      <div class="blind-controls hidden" id="blindPlayArea">
+        <button class="blind-btn pause" id="blindPauseBtn">⏸</button>
+      </div>
+      <!-- Controls Phase 3: After audio ends - judgment -->
+      <div class="blind-controls hidden" id="blindJudgeArea">
+        <button class="blind-btn got" id="blindGotBtn">✅ 听懂 ✓</button>
+        <button class="blind-btn not-got" id="blindNotGotBtn">❌ 没懂 ✗</button>
+        <button class="blind-btn replay" id="blindReplayBtn">🔄 单句重放</button>
+        <button class="blind-btn replay" id="blindReplayAllBtn">🔄 整段重放</button>
+      </div>
     </div>
   </div>
 
@@ -209,8 +277,12 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC'
   <div id="repeatPanel" class="panel hidden">
     <div class="card repeat-mode">
       <div class="repeat-progress" id="repeatProgress"></div>
-      <div class="repeat-sentence" id="repeatSentence">—</div>
-      <div class="repeat-zh" id="repeatZh">—</div>
+      <div class="repeat-sentence-num" id="repeatSentenceNum">第 1 句</div>
+      <div class="repeat-visual">
+        <div class="repeat-sentence" id="repeatSentence">—</div>
+        <div class="repeat-zh" id="repeatZh">—</div>
+        <div class="repeat-listening hidden" id="repeatListening"><span class="listening-dot"></span>播放中...</div>
+      </div>
       <div class="repeat-controls">
         <button class="repeat-btn listen" id="repeatListenBtn">🔊</button>
         <button class="repeat-btn record" id="repeatRecordBtn">🎙️</button>
@@ -225,7 +297,26 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC'
   <!-- 测试 (Quiz) -->
   <div id="quizPanel" class="panel hidden">
     <div class="card">
+      <div class="ai-sub-tabs">
+        <button class="ai-sub-tab active" data-sub="quiz" onclick="switchQuizSub('quiz')">📝 Quiz</button>
+        <button class="ai-sub-tab" data-sub="ai-chat" onclick="switchQuizSub('ai-chat')">💬 AI Dialogue</button>
+      </div>
       <div id="quizContent"></div>
+      <div id="aiChatPanel" class="hidden">
+        <div class="ai-chat-container" id="aiChatContainer">
+          <div class="ai-chat-messages" id="aiChatMessages">
+            <div class="ai-msg ai">
+              <div class="msg-label">AI Tutor</div>
+              Click the button below to start an English conversation about this lesson. I'll ask questions and help you practice!
+            </div>
+          </div>
+          <div class="ai-input-bar">
+            <input type="text" class="ai-input" id="aiChatInput" placeholder="Type your answer in English..." disabled>
+            <button class="ai-send-btn" id="aiChatSendBtn" disabled>➤</button>
+          </div>
+        </div>
+        <button class="ai-start-btn" id="aiChatStartBtn" onclick="startAIConversation()">🎯 Start AI Conversation</button>
+      </div>
     </div>
   </div>
 </div>
@@ -235,8 +326,8 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC'
   <h3 id="popupWord"></h3>
   <div class="ipa" id="popupIpa"></div>
   <div class="def" id="popupDef"></div>
-  <button class="popup-btn known" id="popupKnownBtn">✅ 认识这个词</button>
-  <button class="popup-btn close" id="popupCloseBtn">关闭</button>
+  <button class="popup-btn play" id="popupPlayBtn">🔊 Play</button>
+  <button class="popup-btn close" id="popupCloseBtn">Close</button>
 </div>
 <div class="toast" id="toast"></div>
 
@@ -249,10 +340,9 @@ let articleAudio = null;
 let isPlaying = false;
 
 // Blind listening state
-let blindState = { current: 0, history: [], isSlow: false };
+let blindState = { current: 0, history: [], isPaused: false, audioEl: null };
 
-// Intensive listening state
-let intensiveKnownWords = new Set();
+// Intensive listening state (no longer needs knownWords tracking)
 
 // Repeat state
 let repeatState = { current: 0, scores: [] };
@@ -297,10 +387,11 @@ function resetAllModes() {
   isPlaying = false;
   document.getElementById('readingPlayBtn').textContent = '▶';
   
-  blindState = { current: 0, history: [], isSlow: false };
+  blindState = { current: 0, history: [], isPaused: false, audioEl: null };
   repeatState = { current: 0, scores: [] };
   quizState = { current: 0, answers: [], done: false };
-  intensiveKnownWords = new Set();
+  resetAIDialogue();
+  if (repeatAudio) { repeatAudio.pause(); repeatAudio = null; }
 }
 
 // ============== Tabs ==============
@@ -318,6 +409,9 @@ function switchTab(tab) {
   currentTab = tab;
   document.querySelectorAll('.panel').forEach(p => p.classList.add('hidden'));
   document.getElementById(`${tab}Panel`).classList.remove('hidden');
+  
+  // Cleanup blind audio when leaving blind tab
+  if (tab !== 'blind') cleanupBlindAudio();
   
   if (tab === 'blind') renderBlind();
   if (tab === 'repeat') renderRepeat();
@@ -339,8 +433,6 @@ function playArticleAudio(onTimeUpdate) {
   articleAudio = new Audio(getAudioUrl(lesson.audio_full));
   articleAudio.addEventListener('timeupdate', () => {
     if (onTimeUpdate) onTimeUpdate(articleAudio.currentTime, articleAudio.duration);
-    // Highlight current sentence based on progress
-    highlightSentenceByProgress(articleAudio.currentTime, articleAudio.duration);
   });
   articleAudio.addEventListener('ended', () => {
     isPlaying = false;
@@ -372,68 +464,6 @@ function toggleArticlePlay() {
   }
 }
 
-function highlightSentenceByProgress(currentTime, duration) {
-  if (!duration) return;
-  const lesson = LESSONS[currentLesson];
-  const sentences = lesson.sentences;
-  const pct = currentTime / duration;
-  const idx = Math.min(Math.floor(pct * sentences.length), sentences.length - 1);
-  
-  document.querySelectorAll('.sentence-item').forEach((el, i) => {
-    el.classList.toggle('active', i === idx);
-  });
-  document.getElementById('readingProgressText').textContent = `第 ${idx+1}/${sentences.length} 句`;
-  // Show Chinese for current sentence
-  document.querySelectorAll('.sentence-item').forEach((el, i) => {
-    el.classList.toggle('show-zh', i === idx);
-  });
-}
-
-// Play a single sentence audio
-function playSentenceAudio(sentenceIndex) {
-  const lesson = LESSONS[currentLesson];
-  const s = lesson.sentences[sentenceIndex];
-  if (!s) return;
-  
-  // Use full article audio and seek to approximate position
-  if (!lesson.audio_full) {
-    showToast('暂无音频');
-    return;
-  }
-  
-  if (articleAudio && !articleAudio.paused) {
-    articleAudio.pause();
-  }
-  
-  const totalChars = lesson.article_text.length;
-  let charPos = 0;
-  for (let i = 0; i < sentenceIndex; i++) {
-    charPos += lesson.sentences[i].en.length + 1;
-  }
-  const startRatio = charPos / totalChars;
-  const sentLen = s.en.length;
-  const endRatio = (charPos + sentLen) / totalChars;
-  
-  if (!articleAudio || articleAudio.src !== getAudioUrl(lesson.audio_full)) {
-    articleAudio = new Audio(getAudioUrl(lesson.audio_full));
-  }
-  
-  articleAudio.currentTime = 0;
-  articleAudio.play().then(() => {
-    // Rough seek - estimate based on character position
-    // This won't be perfect but works for demo
-    const estDuration = articleAudio.duration || 30;
-    articleAudio.currentTime = startRatio * estDuration;
-  }).catch(() => {});
-  
-  // Auto-stop after estimated time
-  setTimeout(() => {
-    if (articleAudio && !articleAudio.paused) {
-      articleAudio.pause();
-    }
-  }, Math.max(2000, s.en.length * 200));
-}
-
 // ============== 课文 Reading ==============
 function renderReading() {
   const lesson = LESSONS[currentLesson];
@@ -446,7 +476,7 @@ function renderReading() {
     </li>
   `).join('');
   
-  document.getElementById('readingProgressText').textContent = `第 0/${lesson.sentences.length} 句`;
+  document.getElementById('readingProgressText').textContent = '自然朗读';
   document.getElementById('readingProgressFill').style.width = '0%';
   document.getElementById('readingTime').textContent = '0:00 / 0:00';
   document.getElementById('readingPlayBtn').onclick = toggleArticlePlay;
@@ -457,126 +487,234 @@ function toggleSentenceZh(idx) {
   if (el) el.classList.toggle('show-zh');
 }
 
-// ============== 盲听 Blind Listening ==============
+// ============== 盲听 Blind Listening (New Design) ==============
 function renderBlind() {
   const lesson = LESSONS[currentLesson];
-  const total = lesson.sentences.length;
+  cleanupBlindAudio();
   
+  // Init history on first render
   if (blindState.current === 0 && blindState.history.length === 0) {
     blindState.history = lesson.sentences.map(() => 'pending');
   }
   
-  updateBlindUI();
+  // Reset transcript
+  const transcript = document.getElementById('blindTranscript');
+  transcript.textContent = '';
+  transcript.classList.remove('reveal');
   
-  if (blindState.current === 0 && blindState.history.every(h => h === 'pending')) {
-    // Auto-start
-    setTimeout(playBlindSentence, 500);
+  // Show ready state
+  updateBlindDots();
+  showBlindPhase('start');
+  
+  if (blindState.current >= lesson.sentences.length) {
+    document.getElementById('blindState').textContent = '🎉 盲听完成！看看你的成绩';
+    document.getElementById('blindStartBtn').textContent = '🔄 重新盲听';
+  } else {
+    document.getElementById('blindState').textContent = `准备盲听 — 共 ${lesson.sentences.length} 句`;
+    document.getElementById('blindStartBtn').textContent = '▶ 开始盲听';
   }
 }
 
-function updateBlindUI() {
+function showBlindPhase(phase) {
+  // phase: 'start' | 'play' | 'judge'
+  document.getElementById('blindStartArea').classList.toggle('hidden', phase !== 'start');
+  document.getElementById('blindPlayArea').classList.toggle('hidden', phase !== 'play');
+  document.getElementById('blindJudgeArea').classList.toggle('hidden', phase !== 'judge');
+  document.getElementById('blindPlaybackBar').classList.toggle('hidden', phase !== 'play');
+}
+
+function updateBlindDots() {
   const lesson = LESSONS[currentLesson];
   const total = lesson.sentences.length;
   const current = blindState.current;
   
-  document.getElementById('blindState').textContent = current >= total 
-    ? '🎉 盲听完成！看看你的成绩'
-    : `正在听第 ${current+1}/${total} 句`;
+  document.getElementById('blindResult').innerHTML = blindState.history.map((h, i) => {
+    if (h === 'got') return '<span class="blind-result-item got">✓</span>';
+    if (h === 'not-got') return '<span class="blind-result-item not-got">✗</span>';
+    if (i === current) return '<span class="blind-result-item active-dot">◉</span>';
+    return '<span class="blind-result-item pending">○</span>';
+  }).join('');
+}
+
+function startBlind() {
+  const lesson = LESSONS[currentLesson];
   
-  // Result dots
-  document.getElementById('blindResult').innerHTML = blindState.history.map((h, i) => 
-    `<span class="blind-result-item ${h}">${h === 'got' ? '✓' : h === 'not-got' ? '✗' : (i === current ? '◉' : '○')}</span>`
-  ).join('');
+  // If completed, reset entirely
+  if (blindState.current >= lesson.sentences.length) {
+    blindState = { current: 0, history: [], isPaused: false, audioEl: null };
+    blindState.history = lesson.sentences.map(() => 'pending');
+    document.getElementById('blindStartBtn').textContent = '▶ 开始盲听';
+    document.getElementById('blindTranscript').textContent = '';
+    document.getElementById('blindTranscript').classList.remove('reveal');
+  }
   
-  // Controls
-  document.getElementById('blindReplayBtn').disabled = current >= total;
-  document.getElementById('blindGotBtn').disabled = current >= total;
-  document.getElementById('blindNotGotBtn').disabled = current >= total;
-  document.getElementById('blindSlowBtn').disabled = current >= total;
+  playBlindSentence();
 }
 
 function playBlindSentence() {
   const lesson = LESSONS[currentLesson];
   if (blindState.current >= lesson.sentences.length) return;
   
-  const s = lesson.sentences[blindState.current];
+  const idx = blindState.current;
+  const s = lesson.sentences[idx];
+  if (!s || !lesson.audio_full) return;
+  
+  // Cleanup previous blind audio
+  cleanupBlindAudio();
+  
+  // Clear any revealed text
   const transcript = document.getElementById('blindTranscript');
   transcript.textContent = '';
-  transcript.classList.remove('show');
+  transcript.classList.remove('reveal');
   
-  document.getElementById('blindState').textContent = `🔄 播放中...第 ${blindState.current+1}/${lesson.sentences.length} 句`;
+  // Show playing indicator
+  document.getElementById('blindState').textContent = `🔊 盲听第 ${idx+1}/${lesson.sentences.length} 句...`;
   
-  // Play audio
-  playSentence(blindState.current, blindState.isSlow);
+  // Calculate approximate position in full audio
+  let charPos = 0;
+  for (let i = 0; i < idx; i++) {
+    charPos += lesson.sentences[i].en.length + 1;
+  }
+  const startRatio = charPos / (lesson.article_text.length || 1);
   
-  // Show transcript after a delay
-  setTimeout(() => {
-    transcript.textContent = s.en;
-    transcript.classList.add('show');
-    document.getElementById('blindState').textContent = `第 ${blindState.current+1}/${lesson.sentences.length} 句 — 听懂了吗？`;
-    updateBlindUI();
-  }, Math.max(2000, s.en.length * 180) + 500);
+  // Create and setup audio
+  const audio = new Audio(getAudioUrl(lesson.audio_full));
+  blindState.audioEl = audio;
+  blindState.isPaused = false;
+  
+  const fill = document.getElementById('blindProgressFill');
+  const timeEl = document.getElementById('blindTime');
+  
+  // Calculate end position (approximate based on this sentence length + next)
+  const sentLength = s.en.length;
+  const endRatio = Math.min(1, (charPos + sentLength) / (lesson.article_text.length || 1));
+  
+  audio.ontimeupdate = () => {
+    if (!audio.duration) return;
+    // Normalize progress to show within-sentence percentage
+    const currentRatio = audio.currentTime / audio.duration;
+    const pct = Math.max(0, Math.min(100, 
+      ((currentRatio - startRatio) / (endRatio - startRatio)) * 100
+    ));
+    fill.style.width = Math.min(pct, 100) + '%';
+    const secs = Math.floor(audio.currentTime);
+    timeEl.textContent = `${Math.floor(secs/60)}:${String(secs%60).padStart(2,'0')}`;
+  };
+  
+  audio.onended = () => {
+    blindState.isPaused = false;
+    fill.style.width = '100%';
+    onBlindAudioEnded();
+  };
+  
+  // Show playback bar, start playing
+  showBlindPhase('play');
+  document.getElementById('blindPauseBtn').textContent = '⏸';
+  
+  audio.play().then(() => {
+    // Seek to sentence position
+    const estDuration = audio.duration || 30;
+    const seekPos = startRatio * estDuration;
+    audio.currentTime = Math.min(seekPos, Math.max(0, estDuration - 1));
+  }).catch(() => {
+    showToast('⚠️ 音频播放失败');
+    showBlindPhase('start');
+  });
 }
 
-function playSentence(idx, slow) {
+function onBlindAudioEnded() {
   const lesson = LESSONS[currentLesson];
-  const s = lesson.sentences[idx];
-  if (!s) return;
+  const idx = blindState.current;
   
-  // Use full article with seek
-  if (!lesson.audio_full) return;
+  // Show judgment phase
+  showBlindPhase('judge');
+  document.getElementById('blindState').textContent = `第 ${idx+1}/${lesson.sentences.length} 句 — 你听懂了吗？`;
+  updateBlindDots();
+}
+
+function pauseBlind() {
+  const audio = blindState.audioEl;
+  if (!audio) return;
   
-  if (articleAudio && !articleAudio.paused) {
-    articleAudio.pause();
+  if (audio.paused) {
+    audio.play().catch(() => {});
+    blindState.isPaused = false;
+    document.getElementById('blindPauseBtn').textContent = '⏸';
+  } else {
+    audio.pause();
+    blindState.isPaused = true;
+    document.getElementById('blindPauseBtn').textContent = '▶';
   }
-  
-  if (!articleAudio || articleAudio.src !== getAudioUrl(lesson.audio_full)) {
-    articleAudio = new Audio(getAudioUrl(lesson.audio_full));
-  }
-  
-  articleAudio.playbackRate = slow ? 0.7 : 1.0;
-  articleAudio.currentTime = 0;
-  articleAudio.play().catch(() => {});
-  
-  // Rough position estimate
-  setTimeout(() => {
-    let charPos = 0;
-    for (let i = 0; i < idx; i++) {
-      charPos += lesson.sentences[i].en.length + 1;
-    }
-    const ratio = charPos / (lesson.article_text.length || 1);
-    const estPos = ratio * (articleAudio.duration || 30);
-    articleAudio.currentTime = Math.min(estPos, (articleAudio.duration || 30) - 2);
-  }, 100);
 }
 
 function handleBlindResponse(got) {
-  blindState.history[blindState.current] = got ? 'got' : 'not-got';
-  blindState.current++;
-  updateBlindUI();
+  const lesson = LESSONS[currentLesson];
+  if (blindState.current >= lesson.sentences.length) return;
   
-  if (blindState.current < LESSONS[currentLesson].sentences.length) {
-    setTimeout(playBlindSentence, 500);
-  } else {
-    // Done
-    document.getElementById('blindTranscript').textContent = '🎉 盲听完成！';
-    document.getElementById('blindState').textContent = '点击下方按钮可以重听';
-    updateBlindUI();
+  const s = lesson.sentences[blindState.current];
+  
+  // Record result
+  blindState.history[blindState.current] = got ? 'got' : 'not-got';
+  
+  // If got, reveal sentence text
+  const transcript = document.getElementById('blindTranscript');
+  if (got) {
+    transcript.textContent = s.en;
+    transcript.classList.add('reveal');
+  }
+  
+  updateBlindDots();
+  blindState.current++;
+  
+  // Check if done
+  if (blindState.current >= lesson.sentences.length) {
+    document.getElementById('blindState').textContent = '🎉 盲听完成！看看你的成绩';
+    document.getElementById('blindStartBtn').textContent = '🔄 重新盲听';
+    showBlindPhase('start');
+    // Keep last revealed text visible
+    return;
+  }
+  
+  // Auto-start next sentence with brief transition
+  document.getElementById('blindState').textContent = `✓ 已记录 — 准备听第 ${blindState.current+1} 句`;
+  cleanupBlindAudio();
+  setTimeout(() => playBlindSentence(), 800);
+}
+
+function replayBlindSentence() {
+  playBlindSentence();
+}
+
+function replayBlindAll() {
+  const lesson = LESSONS[currentLesson];
+  blindState = { current: 0, history: [], isPaused: false, audioEl: null };
+  blindState.history = lesson.sentences.map(() => 'pending');
+  
+  const transcript = document.getElementById('blindTranscript');
+  transcript.textContent = '';
+  transcript.classList.remove('reveal');
+  
+  updateBlindDots();
+  document.getElementById('blindStartBtn').textContent = '▶ 开始盲听';
+  setTimeout(() => playBlindSentence(), 500);
+}
+
+function cleanupBlindAudio() {
+  if (blindState.audioEl) {
+    blindState.audioEl.pause();
+    blindState.audioEl.onended = null;
+    blindState.audioEl.ontimeupdate = null;
+    blindState.audioEl = null;
   }
 }
 
-function toggleBlindSpeed() {
-  blindState.isSlow = !blindState.isSlow;
-  const btn = document.getElementById('blindSlowBtn');
-  btn.textContent = blindState.isSlow ? '🐢 慢速 ✓' : '🐢 慢速';
-  btn.style.background = blindState.isSlow ? 'var(--success)' : 'var(--warning)';
-}
-
 // Bind blind controls
+document.getElementById('blindStartBtn').addEventListener('click', startBlind);
+document.getElementById('blindPauseBtn').addEventListener('click', pauseBlind);
 document.getElementById('blindGotBtn').addEventListener('click', () => handleBlindResponse(true));
 document.getElementById('blindNotGotBtn').addEventListener('click', () => handleBlindResponse(false));
-document.getElementById('blindReplayBtn').addEventListener('click', playBlindSentence);
-document.getElementById('blindSlowBtn').addEventListener('click', toggleBlindSpeed);
+document.getElementById('blindReplayBtn').addEventListener('click', replayBlindSentence);
+document.getElementById('blindReplayAllBtn').addEventListener('click', replayBlindAll);
 
 // ============== 精听 Intensive Listening ==============
 function renderIntensive() {
@@ -584,22 +722,18 @@ function renderIntensive() {
   const container = document.getElementById('intensiveSentences');
   
   container.innerHTML = lesson.sentences.map((s, i) => {
-    const words = s.en.split(/(\s+)/).map((token, ti) => {
+    const tokens = s.en.split(/(\s+)/).map((token, ti) => {
       if (token.trim() === '') return token;
       const cleanWord = token.replace(/[^a-zA-Z'-]/g, '');
+      if (!cleanWord) return token;
       const found = s.words.find(w => w.word.toLowerCase() === cleanWord.toLowerCase());
-      if (found) {
-        const key = `${i}-${cleanWord}`;
-        const isKnown = intensiveKnownWords.has(key);
-        return `<span class="word ${isKnown ? 'known' : ''}" onclick="showWordPopup(event, '${found.word}', '${found.def}', '${found.ipa}', '${i}-${cleanWord}', ${i})" data-sentence="${i}">${token}</span>`;
-      }
-      return token;
+      const engDef = found ? (found.eng_def || '') : '';
+      return `<span class="word" onclick="showWordPopup(event,'${cleanWord}','${engDef.replace(/'/g, "\\'")}',${i})">${token}</span>`;
     });
     
     return `
       <div class="intensive-sentence" onclick="playIntensiveSentence(${i})">
-        <div class="en">${words.join('')}</div>
-        <div class="zh">${s.zh}</div>
+        <div class="en">${tokens.join('')}</div>
       </div>
     `;
   }).join('');
@@ -617,23 +751,26 @@ function playIntensiveSentence(idx) {
   });
 }
 
-function showWordPopup(event, word, def, ipa, key, sentenceIdx) {
+function showWordPopup(event, word, engDef, sentenceIdx) {
   event.stopPropagation();
-  document.getElementById('popupWord').textContent = word;
-  document.getElementById('popupIpa').textContent = ipa || '';
-  document.getElementById('popupDef').textContent = def;
+  const popupWord = document.getElementById('popupWord');
+  const popupIpa = document.getElementById('popupIpa');
+  const popupDef = document.getElementById('popupDef');
+  
+  popupWord.textContent = word;
+  popupIpa.textContent = '';
+  popupDef.textContent = engDef || 'No definition available yet.';
+  
   document.getElementById('overlay').classList.remove('hidden');
   document.getElementById('wordPopup').classList.remove('hidden');
   
-  const isKnown = intensiveKnownWords.has(key);
-  document.getElementById('popupKnownBtn').textContent = isKnown ? '✅ 已标记认识' : '✅ 认识这个词';
-  document.getElementById('popupKnownBtn').style.background = isKnown ? 'var(--success)' : 'var(--primary)';
+  // Play pronunciation on show
+  playIntensiveSentence(sentenceIdx);
   
-  document.getElementById('popupKnownBtn').onclick = () => {
-    intensiveKnownWords.add(key);
-    showToast('已标记 ✨');
-    closeWordPopup();
-    renderIntensive();
+  // Bind play button
+  document.getElementById('popupPlayBtn').onclick = (e) => {
+    e.stopPropagation();
+    playIntensiveSentence(sentenceIdx);
   };
 }
 
@@ -648,6 +785,7 @@ document.getElementById('popupCloseBtn').addEventListener('click', closeWordPopu
 let mediaRecorder = null;
 let recordedChunks = [];
 let isRecording = false;
+let repeatAudio = null;
 
 function renderRepeat() {
   const lesson = LESSONS[currentLesson];
@@ -666,6 +804,8 @@ function renderRepeat() {
       : 0;
     document.getElementById('repeatSentence').textContent = '🎉 跟读完成！';
     document.getElementById('repeatZh').textContent = `平均分 ${avg} 分`;
+    document.getElementById('repeatSentenceNum').classList.add('hidden');
+    document.getElementById('repeatListening').classList.add('hidden');
     document.getElementById('repeatListenBtn').disabled = true;
     document.getElementById('repeatRecordBtn').disabled = true;
     document.getElementById('repeatScore').classList.add('hidden');
@@ -673,20 +813,79 @@ function renderRepeat() {
   }
   
   const s = lesson.sentences[current];
+  document.getElementById('repeatSentenceNum').textContent = `第 ${current + 1}/${total} 句`;
+  document.getElementById('repeatSentenceNum').classList.remove('hidden');
   document.getElementById('repeatSentence').textContent = s.en;
   document.getElementById('repeatZh').textContent = s.zh;
+  document.getElementById('repeatListening').classList.add('hidden');
   document.getElementById('repeatListenBtn').disabled = false;
   document.getElementById('repeatRecordBtn').disabled = false;
   document.getElementById('repeatScore').classList.add('hidden');
+}
+
+/** Play only the current sentence - properly seek without playing from position 0 */
+function repeatPlaySentence(idx) {
+  const lesson = LESSONS[currentLesson];
+  const s = lesson.sentences[idx];
+  if (!s) return;
+  if (!lesson.audio_full) {
+    showToast('暂无音频');
+    return;
+  }
+  
+  // Calculate estimated position based on character ratio
+  const totalChars = lesson.article_text.length;
+  let charPos = 0;
+  for (let i = 0; i < idx; i++) {
+    charPos += lesson.sentences[i].en.length + 1;
+  }
+  const startRatio = charPos / totalChars;
+  
+  // Stop any existing audio
+  if (repeatAudio) { repeatAudio.pause(); repeatAudio = null; }
+  
+  // Show listening indicator
+  document.getElementById('repeatListening').classList.remove('hidden');
+  showToast('🔊 播放当前句子...');
+  
+  repeatAudio = new Audio(getAudioUrl(lesson.audio_full));
+  
+  function doSeekAndPlay() {
+    const duration = repeatAudio.duration || 30;
+    repeatAudio.currentTime = Math.min(startRatio * duration, Math.max(duration - 0.5, 0));
+    repeatAudio.play().catch(() => {
+      document.getElementById('repeatListening').classList.add('hidden');
+    });
+  }
+  
+  // Seek before playing - wait for metadata if needed
+  if (repeatAudio.readyState >= HTMLMediaElement.HAVE_METADATA) {
+    doSeekAndPlay();
+  } else {
+    repeatAudio.addEventListener('loadedmetadata', doSeekAndPlay, { once: true });
+  }
+  
+  // Auto-stop after estimated sentence duration
+  const estDuration = Math.max(2000, s.en.length * 200);
+  const autoStopTimer = setTimeout(() => {
+    if (repeatAudio && !repeatAudio.paused) {
+      repeatAudio.pause();
+      document.getElementById('repeatListening').classList.add('hidden');
+    }
+  }, estDuration + 5000); // 5s buffer for seeking
+  
+  // Also stop on natural end
+  repeatAudio.addEventListener('ended', () => {
+    document.getElementById('repeatListening').classList.add('hidden');
+    clearTimeout(autoStopTimer);
+  }, { once: true });
 }
 
 document.getElementById('repeatListenBtn').addEventListener('click', () => {
   const idx = repeatState.current;
   const lesson = LESSONS[currentLesson];
   if (idx >= lesson.sentences.length) return;
-  
-  playSentence(idx, false);
-  showToast('🔊 听示范...');
+  repeatPlaySentence(idx);
 });
 
 document.getElementById('repeatRecordBtn').addEventListener('click', async () => {
@@ -697,6 +896,10 @@ document.getElementById('repeatRecordBtn').addEventListener('click', async () =>
   if (!isRecording) {
     // Start recording
     try {
+      // Stop any playing audio
+      if (repeatAudio) { repeatAudio.pause(); repeatAudio = null; }
+      document.getElementById('repeatListening').classList.add('hidden');
+      
       const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
       recordedChunks = [];
       mediaRecorder = new MediaRecorder(stream);
@@ -747,7 +950,7 @@ function showRepeatScore(score) {
   let comment = score >= 85 ? '🌟 非常棒！发音清晰' : score >= 60 ? '👍 不错，继续加油' : '💪 再练练吧';
   document.getElementById('repeatScoreDetail').textContent = comment;
   
-  // Auto-advance
+  // Auto-advance to next sentence after showing score
   setTimeout(() => {
     repeatState.current++;
     renderRepeat();
@@ -867,6 +1070,280 @@ function showToast(msg) {
   t.classList.add('show');
   setTimeout(() => t.classList.remove('show'), 2000);
 }
+
+// ============== AI Dialogue (Pure English) ==============
+const AI_QUESTION_TEMPLATES = [
+  { type: 'what', pattern: (s) => `What does "${s.en}" mean? Can you explain it in your own words?` },
+  { type: 'detail', pattern: (s) => `What happens in this sentence: "${s.en}"?` },
+  { type: 'paraphrase', pattern: (s) => `Can you paraphrase this sentence: "${s.en}"?` },
+  { type: 'opinion', pattern: (s) => `What do you think about this: "${s.en}"?` },
+  { type: 'vocab', pattern: (s) => {
+    const vocabWords = s.words.filter(w => w.word.length > 3);
+    if (vocabWords.length > 0) {
+      const w = vocabWords[Math.floor(Math.random() * vocabWords.length)];
+      return `What does the word "${w.word}" mean in this context? Can you use it in a new sentence?`;
+    }
+    return `Can you tell me what this sentence means: "${s.en}"?`;
+  }},
+  { type: 'connection', pattern: (s) => `How does "${s.en}" relate to the rest of the story?` },
+];
+
+let aiDialogueState = {
+  active: false,
+  usedSentences: new Set(),
+  usedQuestions: [],
+  topicKeys: [],
+};
+
+function resetAIDialogue() {
+  aiDialogueState = {
+    active: false,
+    usedSentences: new Set(),
+    usedQuestions: [],
+    topicKeys: [],
+  };
+  // Reset UI
+  const container = document.getElementById('aiChatMessages');
+  if (container) {
+    container.innerHTML = `<div class="ai-msg ai">
+      <div class="msg-label">AI Tutor</div>
+      Click the button below to start an English conversation about this lesson. I'll ask questions and help you practice!
+    </div>`;
+  }
+  const input = document.getElementById('aiChatInput');
+  const sendBtn = document.getElementById('aiChatSendBtn');
+  const startBtn = document.getElementById('aiChatStartBtn');
+  if (input) input.disabled = true;
+  if (sendBtn) sendBtn.disabled = true;
+  if (startBtn) {
+    startBtn.disabled = false;
+    startBtn.textContent = '🎯 Start AI Conversation';
+  }
+}
+
+function switchQuizSub(sub) {
+  document.querySelectorAll('.ai-sub-tab').forEach(t => t.classList.toggle('active', t.dataset.sub === sub));
+  document.getElementById('quizContent').classList.toggle('hidden', sub !== 'quiz');
+  document.getElementById('aiChatPanel').classList.toggle('hidden', sub !== 'ai-chat');
+  if (sub === 'quiz') renderQuiz();
+}
+
+function addAIMessage(role, text, feedback) {
+  const container = document.getElementById('aiChatMessages');
+  const msgDiv = document.createElement('div');
+  msgDiv.className = `ai-msg ${role}`;
+  
+  let html = '';
+  if (role === 'ai') {
+    html += `<div class="msg-label">AI Tutor</div>`;
+  } else if (role === 'user') {
+    html += `<div class="msg-label">You</div>`;
+  }
+  if (text) {
+    html += `<div class="msg-text">${text}</div>`;
+  }
+  if (feedback) {
+    html += `<div class="msg-feedback">${feedback}</div>`;
+  }
+  
+  msgDiv.innerHTML = html;
+  container.appendChild(msgDiv);
+  container.scrollTop = container.scrollHeight;
+}
+
+function showAITyping(show) {
+  const container = document.getElementById('aiChatMessages');
+  const typingEl = document.getElementById('aiTypingIndicator') || (() => {
+    const el = document.createElement('div');
+    el.id = 'aiTypingIndicator';
+    el.className = 'ai-msg ai';
+    el.innerHTML = '<div class="msg-label">AI Tutor</div><div class="ai-typing"><span class="dot"></span><span class="dot"></span><span class="dot"></span></div>';
+    container.appendChild(el);
+    return el;
+  })();
+  
+  if (show) {
+    typingEl.classList.remove('hidden');
+    container.scrollTop = container.scrollHeight;
+  } else {
+    typingEl.classList.add('hidden');
+  }
+}
+
+function setAIChatEnabled(enabled) {
+  const input = document.getElementById('aiChatInput');
+  const sendBtn = document.getElementById('aiChatSendBtn');
+  const startBtn = document.getElementById('aiChatStartBtn');
+  input.disabled = !enabled;
+  sendBtn.disabled = !enabled;
+  startBtn.disabled = enabled;
+  if (enabled) input.focus();
+}
+
+function startAIConversation() {
+  const lesson = LESSONS[currentLesson];
+  if (!lesson || !lesson.sentences || lesson.sentences.length === 0) {
+    addAIMessage('system', 'No lesson content available. Please select a lesson first.');
+    return;
+  }
+  
+  // Reset state
+  aiDialogueState = {
+    active: true,
+    usedSentences: new Set(),
+    usedQuestions: [],
+    topicKeys: lesson.sentences.slice(0, 3).map(s => s.en.split(/\s+/).filter(w => w.length > 3).map(w => w.toLowerCase())).flat(),
+  };
+  
+  // Clear messages except the intro
+  const container = document.getElementById('aiChatMessages');
+  container.innerHTML = '';
+  
+  addAIMessage('ai', "Hello! I'm your AI English tutor. Let's practice using the lesson. I'll ask you questions about the text, and you answer in English. Ready? Let's begin!");
+  
+  setAIChatEnabled(true);
+  document.getElementById('aiChatStartBtn').textContent = '🔄 Restart Conversation';
+  
+  // Ask first question after a brief delay
+  setTimeout(() => askAIQuestion(), 1000);
+}
+
+function askAIQuestion() {
+  const lesson = LESSONS[currentLesson];
+  const sentences = lesson.sentences;
+  
+  // Pick an unused sentence (or random if all used)
+  let available = sentences.filter((_, i) => !aiDialogueState.usedSentences.has(i));
+  if (available.length === 0) {
+    // All sentences used — ask a wrap-up or review question
+    const allWords = sentences.map(s => s.words.map(w => w.word)).flat().filter(w => w.length > 3);
+    if (allWords.length > 0) {
+      const word = allWords[Math.floor(Math.random() * allWords.length)];
+      const q = `Great progress! Let's review. Can you make a new sentence using the word "${word}"?`;
+      addAIMessage('ai', q);
+      aiDialogueState.usedQuestions.push(q);
+      return;
+    }
+    addAIMessage('ai', "You've answered questions about the whole lesson! Do you want to start a new round or switch to the quiz?");
+    setAIChatEnabled(true);
+    return;
+  }
+  
+  // Pick a random available sentence
+  const idx = Math.floor(Math.random() * available.length);
+  const sentence = available[idx];
+  const realIdx = sentences.indexOf(sentence);
+  aiDialogueState.usedSentences.add(realIdx);
+  
+  // Choose a question template
+  const template = AI_QUESTION_TEMPLATES[Math.floor(Math.random() * AI_QUESTION_TEMPLATES.length)];
+  const question = template.pattern(sentence);
+  
+  addAIMessage('ai', question);
+  aiDialogueState.usedQuestions.push(question);
+  setAIChatEnabled(true);
+}
+
+function sendAIMessage() {
+  const input = document.getElementById('aiChatInput');
+  const text = input.value.trim();
+  if (!text) return;
+  
+  input.value = '';
+  addAIMessage('user', text);
+  setAIChatEnabled(false);
+  
+  // Evaluate the answer
+  const feedback = evaluateAIAnswer(text);
+  
+  // Show typing indicator
+  showAITyping(true);
+  
+  setTimeout(() => {
+    showAITyping(false);
+    addAIMessage('ai', '', feedback);
+    
+    // Small pause, then ask next question
+    setTimeout(() => askAIQuestion(), 1500);
+  }, 1500);
+}
+
+function evaluateAIAnswer(userAnswer) {
+  const lesson = LESSONS[currentLesson];
+  const sentences = lesson.sentences || [];
+  const allLessonText = lesson.article_text.toLowerCase();
+  const userWords = userAnswer.toLowerCase().split(/\s+/).filter(w => w.length > 2);
+  
+  // Collect all key vocabulary from the lesson
+  const allVocab = sentences.map(s => s.words.map(w => w.word.toLowerCase())).flat().filter(w => w.length > 2);
+  const allContentWords = sentences.map(s => s.en.toLowerCase().split(/\s+/).filter(w => w.length > 3)).flat();
+  
+  // Count how many lesson-relevant words the user used
+  const matchedVocab = allVocab.filter(v => userWords.some(uw => uw.includes(v) || v.includes(uw)));
+  const matchedContent = allContentWords.filter(cw => userWords.some(uw => uw.includes(cw) || cw.includes(uw)));
+  
+  // Check answer length (reasonable answer should have 3+ meaningful words)
+  const isLongEnough = userWords.length >= 3;
+  const vocabScore = matchedVocab.length + matchedContent.length;
+  
+  // Generate feedback
+  let encouragement = '';
+  let grammarHint = '';
+  let vocabHint = '';
+  
+  // Check for common grammar issues
+  const commonErrors = [
+    { pattern: /\bi\s+[a-z]/g, hint: "Capitalize 'I' when talking about yourself." },
+    { pattern: /\b(he|she|it)\s+(don't|doesn't)\s+(\w+)\b/gi, hint: "With he/she/it, use 'doesn't' + base verb (e.g., 'doesn't go')." },
+    { pattern: /\b(he|she|it)\s+(\w+[^s])\b/g, hint: "With he/she/it, add 's' to the verb (e.g., 'he goes')." },
+    { pattern: /\byesterday\s+.+ed\b/gi, hint: "Simple past tense ending in '-ed' — good job using past tense!" },
+  ];
+  
+  for (const err of commonErrors) {
+    if (err.pattern.test(userAnswer)) {
+      grammarHint = err.hint;
+      break;
+    }
+  }
+  
+  // Vocab hint: suggest a lesson word they could have used
+  const unusedVocab = allVocab.filter(v => !userWords.includes(v));
+  if (unusedVocab.length > 0 && vocabScore < 2) {
+    const suggest = unusedVocab[Math.floor(Math.random() * unusedVocab.length)];
+    vocabHint = `Try using the word "${suggest}" from this lesson in your answer.`;
+  }
+  
+  if (vocabScore >= 3 && isLongEnough) {
+    encouragement = '🌟 Excellent answer! You used lesson vocabulary correctly.';
+  } else if (vocabScore >= 1 && isLongEnough) {
+    encouragement = '👍 Good attempt! You\'re using some lesson vocabulary.';
+  } else if (isLongEnough) {
+    encouragement = '💪 Nice try! Try to include more words from the lesson.';
+  } else {
+    encouragement = '🤔 Try writing a longer answer. What more can you say about the lesson?';
+  }
+  
+  let feedbackHtml = `<div class="encourage">${encouragement}</div>`;
+  if (vocabHint) {
+    feedbackHtml += `<div class="vocab-hint">📖 ${vocabHint}</div>`;
+  }
+  if (grammarHint) {
+    feedbackHtml += `<div class="grammar-hint">📝 ${grammarHint}</div>`;
+  }
+  
+  // Auto-follow-up suggestions
+  if (userAnswer.toLowerCase().includes('?')) {
+    feedbackHtml += `<div style="margin-top:6px;font-size:12px;color:var(--text-muted);">Good question! Let me ask you another one.</div>`;
+  }
+  
+  return feedbackHtml;
+}
+
+// Bind AI chat input
+document.getElementById('aiChatInput').addEventListener('keydown', (e) => {
+  if (e.key === 'Enter') sendAIMessage();
+});
+document.getElementById('aiChatSendBtn').addEventListener('click', sendAIMessage);
 
 // ============== Start ==============
 document.addEventListener('DOMContentLoaded', init);

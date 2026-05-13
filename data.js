@@ -12,12 +12,14 @@ const LESSONS = [
           {
             "word": "open",
             "def": "打开",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "to move something so that it is not closed"
           },
           {
             "word": "eye",
             "def": "眼睛",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "the part of the body that you use to see"
           }
         ]
       },
@@ -29,7 +31,8 @@ const LESSONS = [
           {
             "word": "morning",
             "def": "早上",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "the early part of the day"
           }
         ]
       },
@@ -41,7 +44,8 @@ const LESSONS = [
           {
             "word": "get",
             "def": "得到；变得",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "to receive or have something"
           }
         ]
       },
@@ -53,12 +57,14 @@ const LESSONS = [
           {
             "word": "eat",
             "def": "吃",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "to take food into your body"
           },
           {
             "word": "drink",
             "def": "喝",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "to take water or other liquid into your body"
           }
         ]
       },
@@ -70,12 +76,14 @@ const LESSONS = [
           {
             "word": "walk",
             "def": "走路",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "to move on your feet"
           },
           {
             "word": "school",
             "def": "学校",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "a place where children go to learn"
           }
         ]
       },
@@ -87,7 +95,8 @@ const LESSONS = [
           {
             "word": "see",
             "def": "看见",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "to use your eyes to know something"
           }
         ]
       },
@@ -99,7 +108,8 @@ const LESSONS = [
           {
             "word": "class",
             "def": "课；班级",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "a group of students who learn together"
           }
         ]
       },
@@ -183,7 +193,8 @@ const LESSONS = [
           {
             "word": "park",
             "def": "公园",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "a green area where people play and rest"
           }
         ]
       },
@@ -195,12 +206,14 @@ const LESSONS = [
           {
             "word": "tree",
             "def": "树",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "a tall plant with a long body made of wood"
           },
           {
             "word": "bird",
             "def": "鸟",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "an animal with wings that can fly"
           }
         ]
       },
@@ -212,7 +225,8 @@ const LESSONS = [
           {
             "word": "dog",
             "def": "狗",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "an animal that many people keep at home"
           }
         ]
       },
@@ -224,7 +238,8 @@ const LESSONS = [
           {
             "word": "run",
             "def": "跑",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "to move your feet very fast"
           }
         ]
       },
@@ -236,7 +251,8 @@ const LESSONS = [
           {
             "word": "play",
             "def": "玩",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "to do things for fun"
           }
         ]
       },
@@ -248,7 +264,8 @@ const LESSONS = [
           {
             "word": "home",
             "def": "家",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "the place where you live with your family"
           }
         ]
       },
@@ -266,7 +283,8 @@ const LESSONS = [
           {
             "word": "water",
             "def": "水",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "the clear drink without color or taste"
           }
         ]
       },
@@ -290,7 +308,8 @@ const LESSONS = [
           {
             "word": "happy",
             "def": "开心的",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "feeling good"
           }
         ]
       },
@@ -302,7 +321,8 @@ const LESSONS = [
           {
             "word": "time",
             "def": "时间；时光",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "the thing we measure in hours, days, and years"
           }
         ]
       }
@@ -380,7 +400,8 @@ const LESSONS = [
           {
             "word": "new",
             "def": "新的",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "not old; just made or found"
           }
         ]
       },
@@ -392,7 +413,8 @@ const LESSONS = [
           {
             "word": "boy",
             "def": "男孩",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "a young male person"
           }
         ]
       },
@@ -404,12 +426,14 @@ const LESSONS = [
           {
             "word": "asks",
             "def": "问",
+            "eng_def": "to say something to get an answer",
             "ipa": ""
           },
           {
             "word": "name",
             "def": "名字",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "the word that people call you"
           }
         ]
       },
@@ -421,7 +445,8 @@ const LESSONS = [
           {
             "word": "name",
             "def": "名字",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "the word that people call you"
           }
         ]
       },
@@ -433,7 +458,8 @@ const LESSONS = [
           {
             "word": "game",
             "def": "游戏",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "a fun activity with rules"
           }
         ]
       },
@@ -445,7 +471,8 @@ const LESSONS = [
           {
             "word": "laugh",
             "def": "笑",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "to make a sound because something is funny"
           }
         ]
       },
@@ -457,7 +484,8 @@ const LESSONS = [
           {
             "word": "gives",
             "def": "给",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "to put something in another person's hand"
           }
         ]
       },
@@ -469,7 +497,8 @@ const LESSONS = [
           {
             "word": "friend",
             "def": "朋友",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "a person you know and like"
           }
         ]
       },
@@ -481,7 +510,8 @@ const LESSONS = [
           {
             "word": "stay",
             "def": "待、停留",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "to not leave; to be in the same place"
           }
         ]
       },
@@ -493,7 +523,8 @@ const LESSONS = [
           {
             "word": "side",
             "def": "旁边、一边",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "the area to the right or left of something"
           }
         ]
       },
@@ -505,12 +536,14 @@ const LESSONS = [
           {
             "word": "new",
             "def": "新的",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "not old; just made or found"
           },
           {
             "word": "friend",
             "def": "朋友",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "a person you know and like"
           }
         ]
       }
@@ -582,7 +615,8 @@ const LESSONS = [
           {
             "word": "home",
             "def": "家",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "the place where you live with your family"
           }
         ]
       },
@@ -606,7 +640,8 @@ const LESSONS = [
           {
             "word": "help",
             "def": "帮忙",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "to do something so the work is easier for another person"
           }
         ]
       },
@@ -618,12 +653,14 @@ const LESSONS = [
           {
             "word": "hand",
             "def": "手",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "the body part at the end of your arm"
           },
           {
             "word": "put",
             "def": "放",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "to move something to a place"
           }
         ]
       },
@@ -641,12 +678,14 @@ const LESSONS = [
           {
             "word": "clean",
             "def": "擦干净",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "to remove dirt; not dirty"
           },
           {
             "word": "table",
             "def": "桌子",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "a piece of furniture with a flat top"
           }
         ]
       },
@@ -658,7 +697,8 @@ const LESSONS = [
           {
             "word": "food",
             "def": "食物",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "the things that people and animals eat"
           }
         ]
       },
@@ -676,7 +716,8 @@ const LESSONS = [
           {
             "word": "good",
             "def": "好的",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "of a high quality; not bad"
           }
         ]
       },
@@ -694,7 +735,8 @@ const LESSONS = [
           {
             "word": "love",
             "def": "爱，喜欢",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "to like someone or something very much"
           }
         ]
       }
@@ -766,7 +808,8 @@ const LESSONS = [
           {
             "word": "window",
             "def": "窗户",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "an opening in a wall with glass"
           }
         ]
       },
@@ -778,7 +821,8 @@ const LESSONS = [
           {
             "word": "rain",
             "def": "雨",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "water that falls from the sky"
           }
         ]
       },
@@ -802,7 +846,8 @@ const LESSONS = [
           {
             "word": "rain",
             "def": "雨",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "water that falls from the sky"
           }
         ]
       },
@@ -820,7 +865,8 @@ const LESSONS = [
           {
             "word": "book",
             "def": "书",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "pages with words that you read"
           }
         ]
       },
@@ -832,12 +878,14 @@ const LESSONS = [
           {
             "word": "read",
             "def": "读",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "to look at words and understand them"
           },
           {
             "word": "story",
             "def": "故事",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "words that tell about events"
           }
         ]
       },
@@ -849,7 +897,8 @@ const LESSONS = [
           {
             "word": "bed",
             "def": "床",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "a piece of furniture that you sleep on"
           }
         ]
       },
@@ -861,7 +910,8 @@ const LESSONS = [
           {
             "word": "rest",
             "def": "休息",
-            "ipa": ""
+            "ipa": "",
+            "eng_def": "to stop work so your body can feel better"
           }
         ]
       },
