@@ -1,0 +1,875 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<title>DeepEng 英语学习 - 原型</title>
+<script src="data.js"></script>
+<style>
+:root {
+  --primary: #4F46E5;
+  --primary-light: #818CF8;
+  --primary-bg: #EEF2FF;
+  --success: #10B981;
+  --danger: #EF4444;
+  --warning: #F59E0B;
+  --text: #1F2937;
+  --text-muted: #6B7280;
+  --bg: #F9FAFB;
+  --card-bg: #FFFFFF;
+  --border: #E5E7EB;
+  --radius: 12px;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif; background: var(--bg); color: var(--text); font-size: 16px; line-height: 1.6; }
+.container { max-width: 640px; margin: 0 auto; padding: 0 16px; }
+.hidden { display: none !important; }
+
+/* Header */
+.header { background: var(--card-bg); border-bottom: 1px solid var(--border); position: sticky; top: 0; z-index: 100; padding: 12px 0; }
+.header-inner { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.logo { font-size: 20px; font-weight: 700; color: var(--primary); }
+.lesson-selector { display: flex; gap: 6px; overflow-x: auto; padding: 4px 0; }
+.lesson-btn { flex-shrink: 0; width: 40px; height: 40px; border-radius: 50%; border: 2px solid var(--border); background: var(--card-bg); color: var(--text-muted); font-weight: 600; font-size: 14px; cursor: pointer; transition: all .2s; }
+.lesson-btn.active { background: var(--primary); color: white; border-color: var(--primary); }
+.lesson-btn.completed { border-color: var(--success); color: var(--success); }
+
+/* Tabs */
+.tabs { display: flex; gap: 4px; margin: 16px 0; background: var(--card-bg); border-radius: var(--radius); padding: 4px; box-shadow: 0 1px 3px rgba(0,0,0,.06); }
+.tab { flex: 1; padding: 10px 4px; border: none; background: transparent; border-radius: 8px; font-size: 13px; font-weight: 500; color: var(--text-muted); cursor: pointer; transition: all .2s; white-space: nowrap; }
+.tab.active { background: var(--primary); color: white; }
+.tab .tab-icon { display: block; font-size: 20px; margin-bottom: 2px; }
+
+/* Card */
+.card { background: var(--card-bg); border-radius: var(--radius); padding: 20px; margin-bottom: 16px; box-shadow: 0 1px 3px rgba(0,0,0,.06); }
+
+/* Audio Bar */
+.audio-bar { display: flex; align-items: center; gap: 12px; padding: 12px; background: var(--primary-bg); border-radius: var(--radius); margin-bottom: 16px; }
+.play-btn { width: 48px; height: 48px; border-radius: 50%; border: none; background: var(--primary); color: white; font-size: 22px; cursor: pointer; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+.play-btn:active { transform: scale(.95); }
+.progress-bar { flex: 1; height: 6px; background: #D1D5DB; border-radius: 3px; overflow: hidden; cursor: pointer; }
+.progress-fill { height: 100%; background: var(--primary); border-radius: 3px; width: 0%; transition: width .1s; }
+.time-display { font-size: 12px; color: var(--text-muted); white-space: nowrap; }
+
+/* 课文 (Reading) */
+.sentence-list { list-style: none; }
+.sentence-item { padding: 14px 16px; border-bottom: 1px solid var(--border); cursor: pointer; transition: background .2s; position: relative; }
+.sentence-item:last-child { border-bottom: none; }
+.sentence-item.active { background: var(--primary-bg); border-left: 3px solid var(--primary); }
+.sentence-item .en { font-size: 18px; font-weight: 500; margin-bottom: 2px; }
+.sentence-item .zh { font-size: 14px; color: var(--text-muted); display: none; }
+.sentence-item.show-zh .zh { display: block; }
+.sentence-item .sid { position: absolute; top: 8px; right: 12px; font-size: 11px; color: var(--text-muted); font-weight: 600; }
+.progress-text { text-align: center; font-size: 13px; color: var(--text-muted); margin-bottom: 12px; }
+
+/* 盲听 (Blind Listening) */
+.blind-mode { text-align: center; }
+.blind-state { font-size: 14px; color: var(--text-muted); margin-bottom: 16px; }
+.blind-transcript { font-size: 22px; font-weight: 600; margin-bottom: 20px; min-height: 60px; display: flex; align-items: center; justify-content: center; opacity: 0; transition: opacity .5s; }
+.blind-transcript.show { opacity: 1; }
+.blind-controls { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; }
+.blind-btn { padding: 12px 28px; border-radius: 24px; border: none; font-size: 15px; font-weight: 600; cursor: pointer; transition: all .2s; }
+.blind-btn:active { transform: scale(.95); }
+.blind-btn.got { background: var(--success); color: white; }
+.blind-btn.not-got { background: var(--danger); color: white; }
+.blind-btn.replay { background: var(--primary); color: white; }
+.blind-btn.slow { background: var(--warning); color: white; }
+.blind-btn:disabled { opacity: .5; }
+.blind-result { margin-top: 16px; }
+.blind-result-item { display: inline-block; width: 32px; height: 32px; border-radius: 50%; margin: 4px; line-height: 32px; text-align: center; font-size: 14px; font-weight: 600; }
+.blind-result-item.got { background: #D1FAE5; color: #065F46; }
+.blind-result-item.not-got { background: #FEE2E2; color: #991B1B; }
+.blind-result-item.pending { background: #F3F4F6; color: var(--text-muted); }
+
+/* 精听 (Intensive Listening) */
+.intensive-sentence { padding: 16px; border-bottom: 1px solid var(--border); cursor: pointer; }
+.intensive-sentence:last-child { border-bottom: none; }
+.intensive-sentence .en { font-size: 18px; line-height: 1.8; }
+.intensive-sentence .en .word { cursor: pointer; display: inline-block; padding: 2px 4px; border-radius: 4px; transition: all .2s; }
+.intensive-sentence .en .word:hover { background: #FEF3C7; }
+.intensive-sentence .en .word.known { background: #D1FAE5; color: #065F46; }
+.intensive-sentence .en .word.selected { background: #FEF3C7; position: relative; }
+.intensive-sentence .en .word .play-icon { font-size: 10px; vertical-align: super; }
+.word-popup { position: fixed; top: 50%; left: 50%; transform: translate(-50%,-50%); background: var(--card-bg); border-radius: var(--radius); padding: 24px; box-shadow: 0 20px 60px rgba(0,0,0,.2); z-index: 200; width: 280px; }
+.word-popup h3 { font-size: 24px; margin-bottom: 4px; }
+.word-popup .ipa { font-size: 16px; color: var(--text-muted); margin-bottom: 8px; }
+.word-popup .def { font-size: 18px; margin-bottom: 16px; }
+.word-popup .popup-btn { display: block; width: 100%; padding: 12px; border: none; border-radius: 8px; font-size: 15px; font-weight: 600; cursor: pointer; margin-bottom: 8px; }
+.word-popup .popup-btn.known { background: var(--success); color: white; }
+.word-popup .popup-btn.close { background: var(--bg); color: var(--text); }
+.overlay { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,.3); z-index: 199; }
+
+/* 跟读 (Repeat) */
+.repeat-mode { text-align: center; }
+.repeat-sentence { font-size: 22px; font-weight: 600; margin-bottom: 8px; }
+.repeat-zh { font-size: 14px; color: var(--text-muted); margin-bottom: 24px; }
+.repeat-controls { display: flex; justify-content: center; gap: 16px; margin-bottom: 24px; }
+.repeat-btn { padding: 16px 32px; border-radius: 50%; border: none; font-size: 28px; cursor: pointer; transition: all .2s; width: 72px; height: 72px; display: flex; align-items: center; justify-content: center; }
+.repeat-btn.listen { background: var(--primary); color: white; }
+.repeat-btn.record { background: var(--danger); color: white; }
+.repeat-btn:active { transform: scale(.9); }
+.repeat-btn.recording { animation: pulse 1s infinite; }
+@keyframes pulse { 0%,100% { transform: scale(1); } 50% { transform: scale(1.1); } }
+.repeat-score { margin-top: 16px; }
+.repeat-score .score-circle { width: 120px; height: 120px; border-radius: 50%; border: 6px solid; display: flex; align-items: center; justify-content: center; margin: 0 auto 12px; font-size: 36px; font-weight: 700; }
+.repeat-score .score-detail { font-size: 14px; color: var(--text-muted); }
+.repeat-progress { display: flex; justify-content: center; gap: 8px; margin-bottom: 20px; }
+.repeat-dot { width: 32px; height: 32px; border-radius: 50%; border: 2px solid var(--border); display: flex; align-items: center; justify-content: center; font-size: 12px; font-weight: 600; color: var(--text-muted); }
+.repeat-dot.done { background: var(--success); border-color: var(--success); color: white; }
+.repeat-dot.active { border-color: var(--primary); color: var(--primary); }
+
+/* 测试 (Quiz) */
+.quiz-question { font-size: 20px; font-weight: 600; margin-bottom: 20px; }
+.quiz-option { display: block; width: 100%; padding: 16px; margin-bottom: 10px; border: 2px solid var(--border); border-radius: var(--radius); background: var(--card-bg); font-size: 16px; cursor: pointer; transition: all .2s; text-align: left; }
+.quiz-option:active { transform: scale(.98); }
+.quiz-option.correct { border-color: var(--success); background: #D1FAE5; }
+.quiz-option.wrong { border-color: var(--danger); background: #FEE2E2; }
+.quiz-option:disabled { cursor: default; }
+.quiz-result { margin-top: 16px; padding: 16px; border-radius: var(--radius); }
+.quiz-result.correct { background: #D1FAE5; }
+.quiz-result.wrong { background: #FEE2E2; }
+.quiz-score { text-align: center; margin-bottom: 16px; }
+.quiz-score .big { font-size: 48px; font-weight: 700; color: var(--primary); }
+.quiz-score .total { font-size: 18px; color: var(--text-muted); }
+.quiz-next { display: block; width: 100%; padding: 14px; border: none; border-radius: var(--radius); background: var(--primary); color: white; font-size: 16px; font-weight: 600; cursor: pointer; }
+.quiz-again { display: block; width: 100%; padding: 14px; border: 2px solid var(--primary); border-radius: var(--radius); background: transparent; color: var(--primary); font-size: 16px; font-weight: 600; cursor: pointer; margin-top: 8px; }
+
+/* Status Bar */
+.status-bar { display: flex; justify-content: space-between; padding: 8px 0; font-size: 12px; color: var(--text-muted); }
+
+/* Notifications */
+.toast { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%); background: var(--text); color: white; padding: 12px 24px; border-radius: 24px; font-size: 14px; z-index: 300; opacity: 0; transition: opacity .3s; }
+.toast.show { opacity: 1; }
+
+/* Responsive */
+@media (max-width: 480px) {
+  .container { padding: 0 12px; }
+  .tab { font-size: 12px; }
+  .tab .tab-icon { font-size: 18px; }
+  .sentence-item .en { font-size: 16px; }
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="container header-inner">
+    <div class="logo">DeepEng</div>
+    <div class="lesson-selector" id="lessonSelector"></div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="tabs" id="tabBar">
+    <button class="tab active" data-tab="reading"><span class="tab-icon">📖</span>课文</button>
+    <button class="tab" data-tab="blind"><span class="tab-icon">🎧</span>盲听</button>
+    <button class="tab" data-tab="intensive"><span class="tab-icon">🔍</span>精听</button>
+    <button class="tab" data-tab="repeat"><span class="tab-icon">🎤</span>跟读</button>
+    <button class="tab" data-tab="quiz"><span class="tab-icon">✍️</span>测试</button>
+  </div>
+
+  <!-- 课文 (Reading) -->
+  <div id="readingPanel" class="panel">
+    <div class="card">
+      <div class="audio-bar">
+        <button class="play-btn" id="readingPlayBtn">▶</button>
+        <div class="progress-bar" id="readingProgress">
+          <div class="progress-fill" id="readingProgressFill"></div>
+        </div>
+        <span class="time-display" id="readingTime">0:00 / 0:00</span>
+      </div>
+      <div class="progress-text" id="readingProgressText">第 0/0 句</div>
+      <ul class="sentence-list" id="readingSentences"></ul>
+    </div>
+  </div>
+
+  <!-- 盲听 (Blind Listening) -->
+  <div id="blindPanel" class="panel hidden">
+    <div class="card blind-mode">
+      <div class="blind-state" id="blindState">准备开始盲听训练</div>
+      <div class="blind-transcript" id="blindTranscript"></div>
+      <div class="blind-controls">
+        <button class="blind-btn slow" id="blindSlowBtn">🐢 慢速</button>
+        <button class="blind-btn replay" id="blindReplayBtn">🔄 再放一遍</button>
+        <button class="blind-btn not-got" id="blindNotGotBtn">❌ 没懂</button>
+        <button class="blind-btn got" id="blindGotBtn">✅ 听懂</button>
+      </div>
+      <div class="blind-result" id="blindResult"></div>
+    </div>
+  </div>
+
+  <!-- 精听 (Intensive Listening) -->
+  <div id="intensivePanel" class="panel hidden">
+    <div class="card">
+      <div class="intensive-list" id="intensiveSentences"></div>
+    </div>
+  </div>
+
+  <!-- 跟读 (Repeat) -->
+  <div id="repeatPanel" class="panel hidden">
+    <div class="card repeat-mode">
+      <div class="repeat-progress" id="repeatProgress"></div>
+      <div class="repeat-sentence" id="repeatSentence">—</div>
+      <div class="repeat-zh" id="repeatZh">—</div>
+      <div class="repeat-controls">
+        <button class="repeat-btn listen" id="repeatListenBtn">🔊</button>
+        <button class="repeat-btn record" id="repeatRecordBtn">🎙️</button>
+      </div>
+      <div class="repeat-score hidden" id="repeatScore">
+        <div class="score-circle" id="repeatScoreCircle">0</div>
+        <div class="score-detail" id="repeatScoreDetail"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 测试 (Quiz) -->
+  <div id="quizPanel" class="panel hidden">
+    <div class="card">
+      <div id="quizContent"></div>
+    </div>
+  </div>
+</div>
+
+<div class="overlay hidden" id="overlay"></div>
+<div class="word-popup hidden" id="wordPopup">
+  <h3 id="popupWord"></h3>
+  <div class="ipa" id="popupIpa"></div>
+  <div class="def" id="popupDef"></div>
+  <button class="popup-btn known" id="popupKnownBtn">✅ 认识这个词</button>
+  <button class="popup-btn close" id="popupCloseBtn">关闭</button>
+</div>
+<div class="toast" id="toast"></div>
+
+<script>
+// ============== State ==============
+let currentLesson = 0;
+let currentTab = 'reading';
+let audioContext = null;
+let articleAudio = null;
+let isPlaying = false;
+
+// Blind listening state
+let blindState = { current: 0, history: [], isSlow: false };
+
+// Intensive listening state
+let intensiveKnownWords = new Set();
+
+// Repeat state
+let repeatState = { current: 0, scores: [] };
+
+// Quiz state
+let quizState = { current: 0, answers: [], done: false };
+
+// ============== Init ==============
+function init() {
+  renderLessonSelector();
+  selectLesson(0);
+  bindTabs();
+  bindOverlay();
+}
+
+function renderLessonSelector() {
+  const el = document.getElementById('lessonSelector');
+  el.innerHTML = LESSONS.map((l, i) => 
+    `<button class="lesson-btn ${i === 0 ? 'active' : ''}" data-idx="${i}">${l.id}</button>`
+  ).join('');
+  el.addEventListener('click', (e) => {
+    const btn = e.target.closest('.lesson-btn');
+    if (!btn) return;
+    selectLesson(parseInt(btn.dataset.idx));
+  });
+}
+
+function selectLesson(idx) {
+  currentLesson = idx;
+  document.querySelectorAll('.lesson-btn').forEach(b => b.classList.toggle('active', parseInt(b.dataset.idx) === idx));
+  const lesson = LESSONS[idx];
+  document.querySelector('.logo').textContent = `DeepEng · L${lesson.id} ${lesson.title}`;
+  resetAllModes();
+  renderReading();
+  renderIntensive();
+  renderQuiz();
+  switchTab(currentTab);
+}
+
+function resetAllModes() {
+  if (articleAudio) { articleAudio.pause(); articleAudio = null; }
+  isPlaying = false;
+  document.getElementById('readingPlayBtn').textContent = '▶';
+  
+  blindState = { current: 0, history: [], isSlow: false };
+  repeatState = { current: 0, scores: [] };
+  quizState = { current: 0, answers: [], done: false };
+  intensiveKnownWords = new Set();
+}
+
+// ============== Tabs ==============
+function bindTabs() {
+  document.querySelectorAll('.tab').forEach(tab => {
+    tab.addEventListener('click', () => {
+      document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+      tab.classList.add('active');
+      switchTab(tab.dataset.tab);
+    });
+  });
+}
+
+function switchTab(tab) {
+  currentTab = tab;
+  document.querySelectorAll('.panel').forEach(p => p.classList.add('hidden'));
+  document.getElementById(`${tab}Panel`).classList.remove('hidden');
+  
+  if (tab === 'blind') renderBlind();
+  if (tab === 'repeat') renderRepeat();
+  if (tab === 'quiz') renderQuiz();
+}
+
+// ============== Audio Helpers ==============
+function getAudioUrl(path) {
+  // Paths are relative to workspace root
+  return path;
+}
+
+function playArticleAudio(onTimeUpdate) {
+  const lesson = LESSONS[currentLesson];
+  if (!lesson.audio_full) return;
+  
+  if (articleAudio) { articleAudio.pause(); articleAudio = null; }
+  
+  articleAudio = new Audio(getAudioUrl(lesson.audio_full));
+  articleAudio.addEventListener('timeupdate', () => {
+    if (onTimeUpdate) onTimeUpdate(articleAudio.currentTime, articleAudio.duration);
+    // Highlight current sentence based on progress
+    highlightSentenceByProgress(articleAudio.currentTime, articleAudio.duration);
+  });
+  articleAudio.addEventListener('ended', () => {
+    isPlaying = false;
+    document.getElementById('readingPlayBtn').textContent = '▶';
+  });
+  articleAudio.play().then(() => {
+    isPlaying = true;
+    document.getElementById('readingPlayBtn').textContent = '⏸';
+  }).catch(() => {});
+}
+
+function toggleArticlePlay() {
+  if (isPlaying && articleAudio) {
+    articleAudio.pause();
+    isPlaying = false;
+    document.getElementById('readingPlayBtn').textContent = '▶';
+  } else {
+    const lesson = LESSONS[currentLesson];
+    if (!lesson.audio_full) {
+      showToast('暂无完整课文音频');
+      return;
+    }
+    playArticleAudio((ct, dur) => {
+      const pct = dur ? (ct/dur*100) : 0;
+      document.getElementById('readingProgressFill').style.width = pct + '%';
+      const fmt = (s) => { const m = Math.floor(s/60); return `${m}:${String(Math.floor(s%60)).padStart(2,'0')}`; };
+      document.getElementById('readingTime').textContent = `${fmt(ct)} / ${fmt(dur)}`;
+    });
+  }
+}
+
+function highlightSentenceByProgress(currentTime, duration) {
+  if (!duration) return;
+  const lesson = LESSONS[currentLesson];
+  const sentences = lesson.sentences;
+  const pct = currentTime / duration;
+  const idx = Math.min(Math.floor(pct * sentences.length), sentences.length - 1);
+  
+  document.querySelectorAll('.sentence-item').forEach((el, i) => {
+    el.classList.toggle('active', i === idx);
+  });
+  document.getElementById('readingProgressText').textContent = `第 ${idx+1}/${sentences.length} 句`;
+  // Show Chinese for current sentence
+  document.querySelectorAll('.sentence-item').forEach((el, i) => {
+    el.classList.toggle('show-zh', i === idx);
+  });
+}
+
+// Play a single sentence audio
+function playSentenceAudio(sentenceIndex) {
+  const lesson = LESSONS[currentLesson];
+  const s = lesson.sentences[sentenceIndex];
+  if (!s) return;
+  
+  // Use full article audio and seek to approximate position
+  if (!lesson.audio_full) {
+    showToast('暂无音频');
+    return;
+  }
+  
+  if (articleAudio && !articleAudio.paused) {
+    articleAudio.pause();
+  }
+  
+  const totalChars = lesson.article_text.length;
+  let charPos = 0;
+  for (let i = 0; i < sentenceIndex; i++) {
+    charPos += lesson.sentences[i].en.length + 1;
+  }
+  const startRatio = charPos / totalChars;
+  const sentLen = s.en.length;
+  const endRatio = (charPos + sentLen) / totalChars;
+  
+  if (!articleAudio || articleAudio.src !== getAudioUrl(lesson.audio_full)) {
+    articleAudio = new Audio(getAudioUrl(lesson.audio_full));
+  }
+  
+  articleAudio.currentTime = 0;
+  articleAudio.play().then(() => {
+    // Rough seek - estimate based on character position
+    // This won't be perfect but works for demo
+    const estDuration = articleAudio.duration || 30;
+    articleAudio.currentTime = startRatio * estDuration;
+  }).catch(() => {});
+  
+  // Auto-stop after estimated time
+  setTimeout(() => {
+    if (articleAudio && !articleAudio.paused) {
+      articleAudio.pause();
+    }
+  }, Math.max(2000, s.en.length * 200));
+}
+
+// ============== 课文 Reading ==============
+function renderReading() {
+  const lesson = LESSONS[currentLesson];
+  const container = document.getElementById('readingSentences');
+  container.innerHTML = lesson.sentences.map((s, i) => `
+    <li class="sentence-item" data-idx="${i}" onclick="toggleSentenceZh(${i})">
+      <span class="sid">${s.id}</span>
+      <div class="en">${s.en}</div>
+      <div class="zh">${s.zh}</div>
+    </li>
+  `).join('');
+  
+  document.getElementById('readingProgressText').textContent = `第 0/${lesson.sentences.length} 句`;
+  document.getElementById('readingProgressFill').style.width = '0%';
+  document.getElementById('readingTime').textContent = '0:00 / 0:00';
+  document.getElementById('readingPlayBtn').onclick = toggleArticlePlay;
+}
+
+function toggleSentenceZh(idx) {
+  const el = document.querySelector(`.sentence-item[data-idx="${idx}"]`);
+  if (el) el.classList.toggle('show-zh');
+}
+
+// ============== 盲听 Blind Listening ==============
+function renderBlind() {
+  const lesson = LESSONS[currentLesson];
+  const total = lesson.sentences.length;
+  
+  if (blindState.current === 0 && blindState.history.length === 0) {
+    blindState.history = lesson.sentences.map(() => 'pending');
+  }
+  
+  updateBlindUI();
+  
+  if (blindState.current === 0 && blindState.history.every(h => h === 'pending')) {
+    // Auto-start
+    setTimeout(playBlindSentence, 500);
+  }
+}
+
+function updateBlindUI() {
+  const lesson = LESSONS[currentLesson];
+  const total = lesson.sentences.length;
+  const current = blindState.current;
+  
+  document.getElementById('blindState').textContent = current >= total 
+    ? '🎉 盲听完成！看看你的成绩'
+    : `正在听第 ${current+1}/${total} 句`;
+  
+  // Result dots
+  document.getElementById('blindResult').innerHTML = blindState.history.map((h, i) => 
+    `<span class="blind-result-item ${h}">${h === 'got' ? '✓' : h === 'not-got' ? '✗' : (i === current ? '◉' : '○')}</span>`
+  ).join('');
+  
+  // Controls
+  document.getElementById('blindReplayBtn').disabled = current >= total;
+  document.getElementById('blindGotBtn').disabled = current >= total;
+  document.getElementById('blindNotGotBtn').disabled = current >= total;
+  document.getElementById('blindSlowBtn').disabled = current >= total;
+}
+
+function playBlindSentence() {
+  const lesson = LESSONS[currentLesson];
+  if (blindState.current >= lesson.sentences.length) return;
+  
+  const s = lesson.sentences[blindState.current];
+  const transcript = document.getElementById('blindTranscript');
+  transcript.textContent = '';
+  transcript.classList.remove('show');
+  
+  document.getElementById('blindState').textContent = `🔄 播放中...第 ${blindState.current+1}/${lesson.sentences.length} 句`;
+  
+  // Play audio
+  playSentence(blindState.current, blindState.isSlow);
+  
+  // Show transcript after a delay
+  setTimeout(() => {
+    transcript.textContent = s.en;
+    transcript.classList.add('show');
+    document.getElementById('blindState').textContent = `第 ${blindState.current+1}/${lesson.sentences.length} 句 — 听懂了吗？`;
+    updateBlindUI();
+  }, Math.max(2000, s.en.length * 180) + 500);
+}
+
+function playSentence(idx, slow) {
+  const lesson = LESSONS[currentLesson];
+  const s = lesson.sentences[idx];
+  if (!s) return;
+  
+  // Use full article with seek
+  if (!lesson.audio_full) return;
+  
+  if (articleAudio && !articleAudio.paused) {
+    articleAudio.pause();
+  }
+  
+  if (!articleAudio || articleAudio.src !== getAudioUrl(lesson.audio_full)) {
+    articleAudio = new Audio(getAudioUrl(lesson.audio_full));
+  }
+  
+  articleAudio.playbackRate = slow ? 0.7 : 1.0;
+  articleAudio.currentTime = 0;
+  articleAudio.play().catch(() => {});
+  
+  // Rough position estimate
+  setTimeout(() => {
+    let charPos = 0;
+    for (let i = 0; i < idx; i++) {
+      charPos += lesson.sentences[i].en.length + 1;
+    }
+    const ratio = charPos / (lesson.article_text.length || 1);
+    const estPos = ratio * (articleAudio.duration || 30);
+    articleAudio.currentTime = Math.min(estPos, (articleAudio.duration || 30) - 2);
+  }, 100);
+}
+
+function handleBlindResponse(got) {
+  blindState.history[blindState.current] = got ? 'got' : 'not-got';
+  blindState.current++;
+  updateBlindUI();
+  
+  if (blindState.current < LESSONS[currentLesson].sentences.length) {
+    setTimeout(playBlindSentence, 500);
+  } else {
+    // Done
+    document.getElementById('blindTranscript').textContent = '🎉 盲听完成！';
+    document.getElementById('blindState').textContent = '点击下方按钮可以重听';
+    updateBlindUI();
+  }
+}
+
+function toggleBlindSpeed() {
+  blindState.isSlow = !blindState.isSlow;
+  const btn = document.getElementById('blindSlowBtn');
+  btn.textContent = blindState.isSlow ? '🐢 慢速 ✓' : '🐢 慢速';
+  btn.style.background = blindState.isSlow ? 'var(--success)' : 'var(--warning)';
+}
+
+// Bind blind controls
+document.getElementById('blindGotBtn').addEventListener('click', () => handleBlindResponse(true));
+document.getElementById('blindNotGotBtn').addEventListener('click', () => handleBlindResponse(false));
+document.getElementById('blindReplayBtn').addEventListener('click', playBlindSentence);
+document.getElementById('blindSlowBtn').addEventListener('click', toggleBlindSpeed);
+
+// ============== 精听 Intensive Listening ==============
+function renderIntensive() {
+  const lesson = LESSONS[currentLesson];
+  const container = document.getElementById('intensiveSentences');
+  
+  container.innerHTML = lesson.sentences.map((s, i) => {
+    const words = s.en.split(/(\s+)/).map((token, ti) => {
+      if (token.trim() === '') return token;
+      const cleanWord = token.replace(/[^a-zA-Z'-]/g, '');
+      const found = s.words.find(w => w.word.toLowerCase() === cleanWord.toLowerCase());
+      if (found) {
+        const key = `${i}-${cleanWord}`;
+        const isKnown = intensiveKnownWords.has(key);
+        return `<span class="word ${isKnown ? 'known' : ''}" onclick="showWordPopup(event, '${found.word}', '${found.def}', '${found.ipa}', '${i}-${cleanWord}', ${i})" data-sentence="${i}">${token}</span>`;
+      }
+      return token;
+    });
+    
+    return `
+      <div class="intensive-sentence" onclick="playIntensiveSentence(${i})">
+        <div class="en">${words.join('')}</div>
+        <div class="zh">${s.zh}</div>
+      </div>
+    `;
+  }).join('');
+}
+
+function playIntensiveSentence(idx) {
+  const lesson = LESSONS[currentLesson];
+  const s = lesson.sentences[idx];
+  
+  playSentence(idx, false);
+  
+  // Highlight
+  document.querySelectorAll('.intensive-sentence').forEach((el, i) => {
+    el.style.background = i === idx ? 'var(--primary-bg)' : 'transparent';
+  });
+}
+
+function showWordPopup(event, word, def, ipa, key, sentenceIdx) {
+  event.stopPropagation();
+  document.getElementById('popupWord').textContent = word;
+  document.getElementById('popupIpa').textContent = ipa || '';
+  document.getElementById('popupDef').textContent = def;
+  document.getElementById('overlay').classList.remove('hidden');
+  document.getElementById('wordPopup').classList.remove('hidden');
+  
+  const isKnown = intensiveKnownWords.has(key);
+  document.getElementById('popupKnownBtn').textContent = isKnown ? '✅ 已标记认识' : '✅ 认识这个词';
+  document.getElementById('popupKnownBtn').style.background = isKnown ? 'var(--success)' : 'var(--primary)';
+  
+  document.getElementById('popupKnownBtn').onclick = () => {
+    intensiveKnownWords.add(key);
+    showToast('已标记 ✨');
+    closeWordPopup();
+    renderIntensive();
+  };
+}
+
+function closeWordPopup() {
+  document.getElementById('overlay').classList.add('hidden');
+  document.getElementById('wordPopup').classList.add('hidden');
+}
+
+document.getElementById('popupCloseBtn').addEventListener('click', closeWordPopup);
+
+// ============== 跟读 Repeat ==============
+let mediaRecorder = null;
+let recordedChunks = [];
+let isRecording = false;
+
+function renderRepeat() {
+  const lesson = LESSONS[currentLesson];
+  const total = lesson.sentences.length;
+  const current = repeatState.current;
+  
+  // Progress dots
+  document.getElementById('repeatProgress').innerHTML = lesson.sentences.map((s, i) => {
+    const cls = i < current ? 'done' : (i === current ? 'active' : '');
+    return `<div class="repeat-dot ${cls}">${i + 1}</div>`;
+  }).join('');
+  
+  if (current >= total) {
+    const avg = repeatState.scores.length > 0 
+      ? Math.round(repeatState.scores.reduce((a,b)=>a+b, 0) / repeatState.scores.length) 
+      : 0;
+    document.getElementById('repeatSentence').textContent = '🎉 跟读完成！';
+    document.getElementById('repeatZh').textContent = `平均分 ${avg} 分`;
+    document.getElementById('repeatListenBtn').disabled = true;
+    document.getElementById('repeatRecordBtn').disabled = true;
+    document.getElementById('repeatScore').classList.add('hidden');
+    return;
+  }
+  
+  const s = lesson.sentences[current];
+  document.getElementById('repeatSentence').textContent = s.en;
+  document.getElementById('repeatZh').textContent = s.zh;
+  document.getElementById('repeatListenBtn').disabled = false;
+  document.getElementById('repeatRecordBtn').disabled = false;
+  document.getElementById('repeatScore').classList.add('hidden');
+}
+
+document.getElementById('repeatListenBtn').addEventListener('click', () => {
+  const idx = repeatState.current;
+  const lesson = LESSONS[currentLesson];
+  if (idx >= lesson.sentences.length) return;
+  
+  playSentence(idx, false);
+  showToast('🔊 听示范...');
+});
+
+document.getElementById('repeatRecordBtn').addEventListener('click', async () => {
+  const idx = repeatState.current;
+  const lesson = LESSONS[currentLesson];
+  if (idx >= lesson.sentences.length) return;
+  
+  if (!isRecording) {
+    // Start recording
+    try {
+      const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+      recordedChunks = [];
+      mediaRecorder = new MediaRecorder(stream);
+      mediaRecorder.ondataavailable = (e) => {
+        if (e.data.size > 0) recordedChunks.push(e.data);
+      };
+      mediaRecorder.onstop = () => {
+        stream.getTracks().forEach(t => t.stop());
+        // Simulate score
+        const score = 60 + Math.floor(Math.random() * 35);
+        repeatState.scores.push(score);
+        showRepeatScore(score);
+      };
+      mediaRecorder.start();
+      isRecording = true;
+      document.getElementById('repeatRecordBtn').classList.add('recording');
+      document.getElementById('repeatRecordBtn').textContent = '⏹';
+      showToast('🎤 录音中...点击停止');
+    } catch (e) {
+      showToast('⚠️ 录音权限未授予');
+    }
+  } else {
+    // Stop recording
+    mediaRecorder.stop();
+    isRecording = false;
+    document.getElementById('repeatRecordBtn').classList.remove('recording');
+    document.getElementById('repeatRecordBtn').textContent = '🎙️';
+  }
+});
+
+function showRepeatScore(score) {
+  const lesson = LESSONS[currentLesson];
+  const current = repeatState.current;
+  const s = lesson.sentences[current];
+  
+  const el = document.getElementById('repeatScore');
+  el.classList.remove('hidden');
+  
+  const circle = document.getElementById('repeatScoreCircle');
+  circle.textContent = score;
+  let color;
+  if (score >= 85) color = 'var(--success)';
+  else if (score >= 60) color = 'var(--warning)';
+  else color = 'var(--danger)';
+  circle.style.borderColor = color;
+  circle.style.color = color;
+  
+  let comment = score >= 85 ? '🌟 非常棒！发音清晰' : score >= 60 ? '👍 不错，继续加油' : '💪 再练练吧';
+  document.getElementById('repeatScoreDetail').textContent = comment;
+  
+  // Auto-advance
+  setTimeout(() => {
+    repeatState.current++;
+    renderRepeat();
+  }, 2000);
+}
+
+// ============== 测试 Quiz ==============
+function renderQuiz() {
+  const lesson = LESSONS[currentLesson];
+  const questions = lesson.questions;
+  
+  if (!questions || questions.length === 0) {
+    document.getElementById('quizContent').innerHTML = '<p style="text-align:center;color:var(--text-muted);padding:40px;">暂无测试题</p>';
+    return;
+  }
+  
+  if (quizState.done) {
+    showQuizResults();
+    return;
+  }
+  
+  const q = questions[quizState.current];
+  if (!q) {
+    quizState.done = true;
+    showQuizResults();
+    return;
+  }
+  
+  document.getElementById('quizContent').innerHTML = `
+    <div class="quiz-score">
+      <span class="big">${quizState.answers.length}</span><span class="total"> / ${questions.length}</span>
+    </div>
+    <div class="quiz-question">${q.question}</div>
+    <div id="quizOptions">
+      ${q.options.map((opt, i) => `
+        <button class="quiz-option" data-opt="${i}" onclick="answerQuiz(${i})">${String.fromCharCode(65+i)}. ${opt}</button>
+      `).join('')}
+    </div>
+    <div id="quizFeedback" class="hidden"></div>
+  `;
+}
+
+function answerQuiz(idx) {
+  const lesson = LESSONS[currentLesson];
+  const q = lesson.questions[quizState.current];
+  const isCorrect = q.options[idx] === q.answer || idx === q.answer;
+  
+  // Disable all options
+  document.querySelectorAll('.quiz-option').forEach(btn => {
+    btn.disabled = true;
+    const optIdx = parseInt(btn.dataset.opt);
+    if (q.options[optIdx] === q.answer || optIdx === q.answer) btn.classList.add('correct');
+    if (optIdx === idx && !isCorrect) btn.classList.add('wrong');
+  });
+  
+  // Show feedback
+  const feedback = document.getElementById('quizFeedback');
+  feedback.classList.remove('hidden');
+  
+  // Find the original sentence that contains the answer
+  const answerText = q.options.length === 4 
+    ? (typeof q.answer === 'number' ? q.options[q.answer] : q.answer)
+    : q.options[idx];
+  
+  // Simple scoring
+  quizState.answers.push(isCorrect);
+  
+  feedback.innerHTML = `
+    <div class="quiz-result ${isCorrect ? 'correct' : 'wrong'}">
+      ${isCorrect ? '✅ 答对了！' : '❌ 答错了'}
+      <br><br>
+      <button class="quiz-next" onclick="nextQuestion()">${quizState.current < lesson.questions.length - 1 ? '下一题 →' : '查看成绩'}</button>
+    </div>
+  `;
+}
+
+function nextQuestion() {
+  quizState.current++;
+  renderQuiz();
+}
+
+function showQuizResults() {
+  const lesson = LESSONS[currentLesson];
+  const correct = quizState.answers.filter(a => a).length;
+  const total = lesson.questions.length;
+  const pct = Math.round(correct / total * 100);
+  
+  document.getElementById('quizContent').innerHTML = `
+    <div style="text-align:center;padding:20px;">
+      <div style="font-size:64px;margin-bottom:12px;">${pct >= 80 ? '🏆' : pct >= 50 ? '👍' : '💪'}</div>
+      <div class="quiz-score">
+        <span class="big">${correct}</span><span class="total"> / ${total}</span>
+      </div>
+      <div style="font-size:24px;font-weight:700;margin-bottom:8px;">${pct}%</div>
+      <div style="color:var(--text-muted);margin-bottom:24px;">
+        ${pct >= 80 ? '太棒了！你对课文理解很好！' : pct >= 50 ? '不错，再复习一下跟读吧！' : '建议重新学习这篇课文'}
+      </div>
+      <button class="quiz-next" onclick="resetQuiz()">🔄 重新测试</button>
+    </div>
+  `;
+}
+
+function resetQuiz() {
+  quizState = { current: 0, answers: [], done: false };
+  renderQuiz();
+}
+
+// ============== Overlay ==============
+function bindOverlay() {
+  document.getElementById('overlay').addEventListener('click', closeWordPopup);
+}
+
+// ============== Toast ==============
+function showToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 2000);
+}
+
+// ============== Start ==============
+document.addEventListener('DOMContentLoaded', init);
+</script>
+</body>
+</html>
