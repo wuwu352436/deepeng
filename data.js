@@ -128,54 +128,54 @@ const LESSONS = [
     ],
     "questions": [
       {
-        "question": "汤姆早上做的第一件事是什么？",
+        "question": "What does Tom do first in the morning?",
         "options": [
-          "A. 起床",
-          "B. 睁开眼睛",
-          "C. 吃面包",
-          "D. 去学校"
+          "Get up",
+          "Open his eyes",
+          "Eat bread",
+          "Go to school"
         ],
-        "answer": "B. 睁开眼睛"
+        "answer": "Open his eyes"
       },
       {
-        "question": "汤姆早餐吃了什么？",
+        "question": "What does Tom eat and drink for breakfast?",
         "options": [
-          "A. 米饭",
-          "B. 面包和牛奶",
-          "C. 鸡蛋",
-          "D. 水果"
+          "Rice",
+          "Bread and milk",
+          "Eggs",
+          "Fruit"
         ],
-        "answer": "B. 面包和牛奶"
+        "answer": "Bread and milk"
       },
       {
-        "question": "汤姆是怎么去学校的？",
+        "question": "How does Tom go to school?",
         "options": [
-          "A. 坐车",
-          "B. 骑自行车",
-          "C. 走路",
-          "D. 坐公交车"
+          "Take a car",
+          "Ride a bike",
+          "Walk",
+          "Take a bus"
         ],
-        "answer": "C. 走路"
+        "answer": "Walk"
       },
       {
-        "question": "汤姆在学校看到了谁？",
+        "question": "Who does Tom see at school?",
         "options": [
-          "A. 老师",
-          "B. 他的朋友安",
-          "C. 他的妈妈",
-          "D. 同学"
+          "Teacher",
+          "His friend Ann",
+          "His mom",
+          "Classmates"
         ],
-        "answer": "B. 他的朋友安"
+        "answer": "His friend Ann"
       },
       {
-        "question": "汤姆对学校的感觉怎么样？",
+        "question": "How does Tom feel about school?",
         "options": [
-          "A. 不喜欢",
-          "B. 很开心",
-          "C. 很累",
-          "D. 很无聊"
+          "Doesn't like it",
+          "Very happy",
+          "Very tired",
+          "Very bored"
         ],
-        "answer": "B. 很开心"
+        "answer": "Very happy"
       }
     ],
     "audio_full": "audio/lesson_01/full.mp3"
@@ -329,7 +329,7 @@ const LESSONS = [
     ],
     "questions": [
       {
-        "question": "汤姆去哪里了？",
+        "question": "Where does Tom go?",
         "options": [
           "Park",
           "School",
@@ -339,7 +339,7 @@ const LESSONS = [
         "answer": "Park"
       },
       {
-        "question": "汤姆在公园里看到了什么？",
+        "question": "What does Tom see at the park?",
         "options": [
           "A cat",
           "A dog",
@@ -349,7 +349,7 @@ const LESSONS = [
         "answer": "A dog"
       },
       {
-        "question": "那只狗做了什么？",
+        "question": "What does the dog do?",
         "options": [
           "It played with Tom",
           "It ran fast",
@@ -359,7 +359,7 @@ const LESSONS = [
         "answer": "It ran fast"
       },
       {
-        "question": "汤姆最后为什么开心？",
+        "question": "Why is Tom happy at the end?",
         "options": [
           "He played with the dog",
           "He saw a bird drink water",
@@ -369,7 +369,7 @@ const LESSONS = [
         "answer": "He saw a bird drink water"
       },
       {
-        "question": "汤姆觉得这是个什么样的时间？",
+        "question": "What kind of time does Tom think this is?",
         "options": [
           "Bad time",
           "Good time",
@@ -550,7 +550,7 @@ const LESSONS = [
     ],
     "questions": [
       {
-        "question": "汤姆在哪里？",
+        "question": "Where is Tom?",
         "options": [
           "At school",
           "At the park",
@@ -560,7 +560,7 @@ const LESSONS = [
         "answer": "At the park"
       },
       {
-        "question": "汤姆看到了谁？",
+        "question": "Who does Tom see?",
         "options": [
           "A new girl",
           "A new boy",
@@ -570,7 +570,7 @@ const LESSONS = [
         "answer": "A new boy"
       },
       {
-        "question": "那个新男孩叫什么名字？",
+        "question": "What is the new boy's name?",
         "options": [
           "Tom",
           "Max",
@@ -580,7 +580,7 @@ const LESSONS = [
         "answer": "Ben"
       },
       {
-        "question": "他们一起做了什么？",
+        "question": "What do they do together?",
         "options": [
           "Played a game",
           "Read a book",
@@ -590,7 +590,7 @@ const LESSONS = [
         "answer": "Played a game"
       },
       {
-        "question": "汤姆最后感觉怎么样？",
+        "question": "How does Tom feel at the end?",
         "options": [
           "Sad",
           "Angry",
@@ -743,54 +743,54 @@ const LESSONS = [
     ],
     "questions": [
       {
-        "question": "汤姆放学后去了哪里？",
+        "question": "Where does Tom go after school?",
         "options": [
-          "学校",
-          "朋友家",
-          "家",
-          "商店"
+          "School",
+          "Friend's house",
+          "Home",
+          "Store"
         ],
-        "answer": "家"
+        "answer": "Home"
       },
       {
-        "question": "妈妈看起来怎么样？",
+        "question": "How does mom look?",
         "options": [
-          "开心",
-          "累",
-          "生气",
-          "难过"
+          "Happy",
+          "Tired",
+          "Angry",
+          "Sad"
         ],
-        "answer": "累"
+        "answer": "Tired"
       },
       {
-        "question": "汤姆帮妈妈做了什么事？",
+        "question": "What does Tom do to help his mom?",
         "options": [
-          "做饭",
-          "擦桌子收食物",
-          "洗衣服",
-          "扫地"
+          "Cook food",
+          "Clean the table and put food away",
+          "Wash clothes",
+          "Sweep the floor"
         ],
-        "answer": "擦桌子收食物"
+        "answer": "Clean the table and put food away"
       },
       {
-        "question": "妈妈对汤姆说了什么？",
+        "question": "What does mom say to Tom?",
         "options": [
-          "你是个好孩子",
-          "去玩吧",
-          "别烦我",
-          "快去做作业"
+          "You are a good boy",
+          "Go play",
+          "Don't bother me",
+          "Go do homework"
         ],
-        "answer": "你是个好孩子"
+        "answer": "You are a good boy"
       },
       {
-        "question": "汤姆觉得怎么样？",
+        "question": "How does Tom feel?",
         "options": [
-          "累",
-          "饿",
-          "开心",
-          "困"
+          "Tired",
+          "Hungry",
+          "Happy",
+          "Sleepy"
         ],
-        "answer": "开心"
+        "answer": "Happy"
       }
     ],
     "audio_full": "audio/lesson_04/full.mp3"
@@ -924,7 +924,7 @@ const LESSONS = [
     ],
     "questions": [
       {
-        "question": "汤姆为什么不能出去？",
+        "question": "Why can't Tom go outside?",
         "options": [
           "He is tired.",
           "The rain is too strong.",
@@ -934,7 +934,7 @@ const LESSONS = [
         "answer": "The rain is too strong."
       },
       {
-        "question": "汤姆在家里做了什么？",
+        "question": "What does Tom do at home?",
         "options": [
           "He watched TV.",
           "He read a book.",
@@ -944,7 +944,7 @@ const LESSONS = [
         "answer": "He read a book."
       },
       {
-        "question": "故事最后，汤姆去了哪里？",
+        "question": "Where does Tom go at the end of the story?",
         "options": [
           "He went to school.",
           "He went outside.",
@@ -954,7 +954,7 @@ const LESSONS = [
         "answer": "He went to bed."
       },
       {
-        "question": "汤姆觉得这一天怎么样？",
+        "question": "How does Tom feel about this day?",
         "options": [
           "It is bad.",
           "It is nice inside.",
