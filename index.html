@@ -1125,30 +1125,413 @@ document.getElementById('blindReplayBtn').addEventListener('click', replayBlindS
 document.getElementById('blindReplayAllBtn').addEventListener('click', replayBlindAll);
 
 // ============== 精听 Intensive Listening ==============
-/** Normalize a word to its base form for dictionary matching */
-function normalizeWord(word) {
-  const w = word.toLowerCase();
-  // Common English suffixes
-  const suffixes = [
-    { s: "'s", r: "" },     // Tom's → Tom
-    { s: "ies", r: "y" },   // carries → carry
-    { s: "ves", r: "f" },   // leaves → leaf
-    { s: "es", r: "" },     // watches → watch, goes → go
-    { s: "ing", r: "" },    // going → go
-    { s: "ed", r: "" },     // walked → walk
-    { s: "ly", r: "" },     // slowly → slow
-    { s: "er", r: "" },     // bigger → big
-    { s: "est", r: "" },    // biggest → big
-    { s: "s", r: "" },      // cats → cat
-    { s: "d", r: "" },      // liked → like
-    { s: "n't", r: " not" },// don't → do not
-  ];
-  for (const { s, r } of suffixes) {
-    if (w.endsWith(s) && w.length > s.length + 1) {
-      return w.slice(0, -s.length) + r;
-    }
+
+/**
+ * Built-in dictionary for common English words that may not be in the lesson data.
+ * Each entry: { def: "中文释义", eng_def: "English definition" }
+ */
+const COMMON_WORDS = {
+  "the":    { def: "这个；那个", eng_def: "used to refer to a specific thing or person" },
+  "a":      { def: "一个", eng_def: "one; any; used before a noun" },
+  "an":     { def: "一个", eng_def: "one; used before a vowel sound" },
+  "is":     { def: "是", eng_def: "third person singular of 'be'" },
+  "are":    { def: "是", eng_def: "plural present of 'be'" },
+  "was":    { def: "是（过去式）", eng_def: "past tense of 'is'" },
+  "were":   { def: "是（过去式）", eng_def: "past tense of 'are'" },
+  "be":     { def: "是；成为", eng_def: "to exist; to have a quality" },
+  "been":   { def: "曾经是", eng_def: "past participle of 'be'" },
+  "being":  { def: "存在", eng_def: "the state of existing" },
+  "have":   { def: "有", eng_def: "to own or possess" },
+  "has":    { def: "有", eng_def: "third person singular of 'have'" },
+  "had":    { def: "有（过去式）", eng_def: "past tense of 'have'" },
+  "do":     { def: "做", eng_def: "to perform an action" },
+  "does":   { def: "做", eng_def: "third person singular of 'do'" },
+  "did":    { def: "做（过去式）", eng_def: "past tense of 'do'" },
+  "can":    { def: "能；可以", eng_def: "to be able to" },
+  "could":  { def: "可以（过去式）", eng_def: "past tense of 'can'; might be possible" },
+  "will":   { def: "将；会", eng_def: "used to express future tense" },
+  "would":  { def: "会（过去式）", eng_def: "past tense of 'will'; used for polite requests" },
+  "shall":  { def: "将", eng_def: "used to express future tense" },
+  "should": { def: "应该", eng_def: "used to give advice or express obligation" },
+  "may":    { def: "可以；也许", eng_def: "used to ask permission or express possibility" },
+  "might":  { def: "可能", eng_def: "expresses possibility less certain than 'may'" },
+  "must":   { def: "必须", eng_def: "be required to" },
+  "can't":  { def: "不能", eng_def: "cannot; not able to" },
+  "don't":  { def: "不要", eng_def: "do not" },
+  "doesn't":{ def: "不", eng_def: "does not" },
+  "won't":  { def: "不会", eng_def: "will not" },
+  "i":      { def: "我", eng_def: "the person speaking" },
+  "you":    { def: "你；你们", eng_def: "the person being spoken to" },
+  "he":     { def: "他", eng_def: "the male person previously mentioned" },
+  "she":    { def: "她", eng_def: "the female person previously mentioned" },
+  "it":     { def: "它", eng_def: "a thing or animal" },
+  "we":     { def: "我们", eng_def: "the people including the speaker" },
+  "they":   { def: "他们；她们；它们", eng_def: "more than one person or thing previously mentioned" },
+  "my":     { def: "我的", eng_def: "belonging to me" },
+  "your":   { def: "你的；你们的", eng_def: "belonging to you" },
+  "his":    { def: "他的", eng_def: "belonging to him" },
+  "her":    { def: "她的", eng_def: "belonging to her" },
+  "its":    { def: "它的", eng_def: "belonging to it" },
+  "our":    { def: "我们的", eng_def: "belonging to us" },
+  "their":  { def: "他们的", eng_def: "belonging to them" },
+  "me":     { def: "我（宾格）", eng_def: "the person speaking (as object)" },
+  "him":    { def: "他（宾格）", eng_def: "the male person (as object)" },
+  "her":    { def: "她（宾格）", eng_def: "the female person (as object)" },
+  "us":     { def: "我们（宾格）", eng_def: "us; the speaker and others (as object)" },
+  "them":   { def: "他们（宾格）", eng_def: "more than one person (as object)" },
+  "this":   { def: "这个", eng_def: "the thing here" },
+  "that":   { def: "那个", eng_def: "the thing there" },
+  "these":  { def: "这些", eng_def: "more than one thing here" },
+  "those":  { def: "那些", eng_def: "more than one thing there" },
+  "some":   { def: "一些", eng_def: "an unspecified amount" },
+  "any":    { def: "任何", eng_def: "one or some of a thing" },
+  "all":    { def: "全部", eng_def: "every one; the whole of" },
+  "each":   { def: "每个", eng_def: "every one separately" },
+  "every":  { def: "每一个", eng_def: "all; each one" },
+  "no":     { def: "不；没有", eng_def: "not any; not a" },
+  "none":   { def: "没有一个", eng_def: "not one; not any" },
+  "in":     { def: "在...里面", eng_def: "inside; within" },
+  "on":     { def: "在...上面", eng_def: "on top of; touching the surface" },
+  "at":     { def: "在（某处）", eng_def: "used to show a place or time" },
+  "to":     { def: "去；向", eng_def: "in the direction of; toward" },
+  "for":    { def: "为了；给", eng_def: "intended to belong to; for the purpose of" },
+  "with":   { def: "和；用", eng_def: "together; using" },
+  "from":   { def: "从；来自", eng_def: "starting at; coming from" },
+  "by":     { def: "由；通过；在...旁边", eng_def: "near; through the action of" },
+  "as":     { def: "作为；如同", eng_def: "in the role of; like" },
+  "of":     { def: "的", eng_def: "belonging to; relating to" },
+  "and":    { def: "和；并且", eng_def: "in addition to; also" },
+  "or":     { def: "或者", eng_def: "connecting two choices" },
+  "but":    { def: "但是", eng_def: "however; except" },
+  "so":     { def: "所以；这么", eng_def: "therefore; to such a degree" },
+  "if":     { def: "如果", eng_def: "on condition that" },
+  "because":{ def: "因为", eng_def: "for the reason that" },
+  "when":   { def: "当...的时候", eng_def: "at the time that" },
+  "where":  { def: "哪里", eng_def: "in or at what place" },
+  "what":   { def: "什么", eng_def: "asking for information" },
+  "which":  { def: "哪个", eng_def: "asking about choices" },
+  "who":    { def: "谁", eng_def: "what person" },
+  "why":    { def: "为什么", eng_def: "for what reason" },
+  "how":    { def: "怎么；多么", eng_def: "in what way; to what degree" },
+  "not":    { def: "不", eng_def: "used to form the negative" },
+  "very":   { def: "非常", eng_def: "extremely; to a high degree" },
+  "too":    { def: "太；也", eng_def: "excessively; also" },
+  "also":   { def: "也", eng_def: "in addition" },
+  "just":   { def: "刚刚；只是", eng_def: "a short time ago; only" },
+  "only":   { def: "仅仅", eng_def: "and nothing more; solely" },
+  "up":     { def: "向上", eng_def: "toward a higher position" },
+  "down":   { def: "向下", eng_def: "toward a lower position" },
+  "out":    { def: "出去；在外面", eng_def: "away from inside; not in" },
+  "over":   { def: "在...上方", eng_def: "above; covering" },
+  "under":  { def: "在...下面", eng_def: "below; beneath" },
+  "off":    { def: "离开；关闭", eng_def: "away from; not on" },
+  "away":   { def: "离开", eng_def: "to a different place; at a distance" },
+  "back":   { def: "回来；后面", eng_def: "returning; the rear part" },
+  "here":   { def: "这里", eng_def: "in this place" },
+  "there":  { def: "那里", eng_def: "in that place" },
+  "now":    { def: "现在", eng_def: "at this time" },
+  "then":   { def: "然后；那时", eng_def: "at that time; next" },
+  "before": { def: "在...之前", eng_def: "earlier than" },
+  "after":  { def: "在...之后", eng_def: "later than" },
+  "still":  { def: "仍然", eng_def: "continuing until now" },
+  "already":{ def: "已经", eng_def: "before now" },
+  "even":   { def: "甚至", eng_def: "used to emphasize something surprising" },
+  "more":   { def: "更多", eng_def: "a greater amount" },
+  "much":   { def: "很多", eng_def: "a large amount" },
+  "many":   { def: "许多", eng_def: "a large number of" },
+  "little": { def: "很少；小的", eng_def: "a small amount; small in size" },
+  "lot":    { def: "很多", eng_def: "a large amount or number" },
+  "few":    { def: "很少", eng_def: "a small number" },
+  "else":   { def: "其他；别的", eng_def: "different; other" },
+  "other":  { def: "其他", eng_def: "different; additional" },
+  "another":{ def: "另一个", eng_def: "one more; a different one" },
+  "thing":  { def: "东西；事情", eng_def: "an object; a fact or idea" },
+  "way":    { def: "方式；路", eng_def: "a method; a path" },
+  "day":    { def: "天；日", eng_def: "a 24-hour period" },
+  "night":  { def: "晚上", eng_def: "the time when it is dark" },
+  "morning":{ def: "早上", eng_def: "the early part of the day" },
+  "afternoon": { def: "下午", eng_def: "the time between noon and evening" },
+  "evening":   { def: "傍晚", eng_def: "the time at the end of the day" },
+  "year":   { def: "年", eng_def: "365 days" },
+  "time":   { def: "时间；次", eng_def: "a period; an occasion" },
+  "man":    { def: "男人", eng_def: "an adult male human" },
+  "woman":  { def: "女人", eng_def: "an adult female human" },
+  "child":  { def: "孩子", eng_def: "a young person" },
+  "people": { def: "人们；人民", eng_def: "human beings in general" },
+  "person": { def: "人", eng_def: "a human being" },
+  "house":  { def: "房子", eng_def: "a building for people to live in" },
+  "room":   { def: "房间", eng_def: "a part of a building with walls" },
+  "door":   { def: "门", eng_def: "a flat object you open to enter" },
+  "window": { def: "窗户", eng_def: "an opening in a wall with glass" },
+  "table":  { def: "桌子", eng_def: "a piece of furniture with a flat top" },
+  "chair":  { def: "椅子", eng_def: "a seat with a back" },
+  "bed":    { def: "床", eng_def: "a piece of furniture to sleep on" },
+  "food":   { def: "食物", eng_def: "things people eat" },
+  "water":  { def: "水", eng_def: "the clear liquid that falls as rain" },
+  "bread":  { def: "面包", eng_def: "a food made from flour" },
+  "milk":   { def: "牛奶", eng_def: "a white drink from cows" },
+  "egg":    { def: "鸡蛋", eng_def: "a food from chickens" },
+  "meat":   { def: "肉", eng_def: "the flesh of animals used as food" },
+  "fruit":  { def: "水果", eng_def: "a sweet food that grows on plants" },
+  "head":   { def: "头", eng_def: "the top part of the body" },
+  "body":   { def: "身体", eng_def: "the whole physical structure of a person" },
+  "hand":   { def: "手", eng_def: "the end part of your arm" },
+  "leg":    { def: "腿", eng_def: "the part of the body used for walking" },
+  "arm":    { def: "手臂", eng_def: "the part of the body between shoulder and hand" },
+  "eye":    { def: "眼睛", eng_def: "the part of the body you use to see" },
+  "ear":    { def: "耳朵", eng_def: "the part of the body you use to hear" },
+  "nose":   { def: "鼻子", eng_def: "the part of the face you use to smell" },
+  "mouth":  { def: "嘴巴", eng_def: "the part of the face you use to eat and speak" },
+  "face":   { def: "脸", eng_def: "the front part of the head" },
+  "name":   { def: "名字", eng_def: "the word used to call someone" },
+  "world":  { def: "世界", eng_def: "the earth and all its people" },
+  "place":  { def: "地方", eng_def: "a location or area" },
+  "home":   { def: "家", eng_def: "the place where someone lives" },
+  "school": { def: "学校", eng_def: "a place where children learn" },
+  "work":   { def: "工作", eng_def: "a job; to put effort into something" },
+  "city":   { def: "城市", eng_def: "a large town" },
+  "country":{ def: "国家；乡村", eng_def: "a nation; land outside cities" },
+  "street": { def: "街道", eng_def: "a road in a city or town" },
+  "road":   { def: "路", eng_def: "a way between places" },
+  "car":    { def: "汽车", eng_def: "a vehicle with four wheels" },
+  "bus":    { def: "公共汽车", eng_def: "a large vehicle that carries passengers" },
+  "book":   { def: "书", eng_def: "a set of pages for reading" },
+  "word":   { def: "单词", eng_def: "a unit of language" },
+  "letter": { def: "信；字母", eng_def: "a written message; a character in the alphabet" },
+  "number": { def: "数字", eng_def: "a symbol for counting" },
+  "part":   { def: "部分", eng_def: "a piece of something" },
+  "side":   { def: "边；面", eng_def: "a surface; the area next to something" },
+  "top":    { def: "顶部", eng_def: "the highest part" },
+  "bottom": { def: "底部", eng_def: "the lowest part" },
+  "inside": { def: "里面；内部", eng_def: "the inner part; within" },
+  "outside":{ def: "外面", eng_def: "the outer part; not in" },
+  "long":   { def: "长的", eng_def: "having great length" },
+  "big":    { def: "大的", eng_def: "large in size" },
+  "small":  { def: "小的", eng_def: "not large; little in size" },
+  "old":    { def: "老的；旧的", eng_def: "having lived for a long time" },
+  "new":    { def: "新的", eng_def: "not old; recently made" },
+  "young":  { def: "年轻的", eng_def: "having lived for a short time" },
+  "good":   { def: "好的", eng_def: "of a high standard; pleasant" },
+  "bad":    { def: "坏的", eng_def: "not good; unpleasant" },
+  "great":  { def: "伟大的；很棒的", eng_def: "very good; excellent" },
+  "nice":   { def: "好的；令人愉快的", eng_def: "pleasant; good" },
+  "right":  { def: "对的；右边", eng_def: "correct; opposite of left" },
+  "wrong":  { def: "错的", eng_def: "not correct" },
+  "true":   { def: "真的", eng_def: "correct; real" },
+  "real":   { def: "真实的", eng_def: "actually existing" },
+  "sure":   { def: "确定的", eng_def: "certain; without doubt" },
+  "able":   { def: "能够", eng_def: "having the power to do something" },
+  "possible": { def: "可能的", eng_def: "able to be done" },
+  "hard":   { def: "难的；硬的", eng_def: "difficult; not soft" },
+  "easy":   { def: "容易的", eng_def: "not difficult" },
+  "fast":   { def: "快的", eng_def: "moving at high speed" },
+  "slow":   { def: "慢的", eng_def: "not fast" },
+  "late":   { def: "晚的", eng_def: "after the expected time" },
+  "early":  { def: "早的", eng_def: "before the expected time" },
+  "first":  { def: "第一；首先", eng_def: "before all others" },
+  "last":   { def: "最后", eng_def: "after all others" },
+  "next":   { def: "下一个", eng_def: "coming after this" },
+  "same":   { def: "相同的", eng_def: "not different; identical" },
+  "different": { def: "不同的", eng_def: "not the same" },
+  "own":    { def: "自己的", eng_def: "belonging to oneself" },
+  "very":   { def: "非常", eng_def: "extremely" },
+  "well":   { def: "好地", eng_def: "in a good way" },
+  "maybe":  { def: "也许", eng_def: "possibly" },
+  "always": { def: "总是", eng_def: "at all times" },
+  "never":  { def: "从不", eng_def: "not at any time" },
+  "often":  { def: "经常", eng_def: "many times" },
+  "usually":{ def: "通常", eng_def: "most of the time" },
+  "sometimes": { def: "有时候", eng_def: "at some times but not always" },
+  "again":  { def: "再次", eng_def: "once more" },
+  "really": { def: "真的；非常", eng_def: "truly; very" },
+  "about":  { def: "关于；大约", eng_def: "concerning; roughly" },
+  "around": { def: "在...周围；大约", eng_def: "surrounding; approximately" },
+  "into":   { def: "进入", eng_def: "to the inside of" },
+  "through":{ def: "穿过", eng_def: "from one side to the other" },
+  "without":{ def: "没有", eng_def: "not having; not with" },
+  "between":{ def: "在...之间", eng_def: "in the middle of two" },
+  "during": { def: "在...期间", eng_def: "throughout a period of time" },
+  "since":  { def: "自从；因为", eng_def: "from a past time until now" },
+  "until":  { def: "直到", eng_def: "up to a certain time" },
+  "enough": { def: "足够的", eng_def: "as much as needed" },
+  "such":   { def: "如此的", eng_def: "of that kind" },
+  "than":   { def: "比", eng_def: "used in comparisons" },
+  "though": { def: "虽然", eng_def: "despite; although" },
+  "while":  { def: "当...的时候", eng_def: "during the time that" },
+  "both":   { def: "两者都", eng_def: "the two together" },
+  "also":   { def: "也", eng_def: "in addition" },
+  "either": { def: "两者之一", eng_def: "one or the other" },
+  "neither":{ def: "两者都不", eng_def: "not one and not the other" },
+  "yes":    { def: "是的", eng_def: "used to give a positive answer" },
+  "no":     { def: "不；没有", eng_def: "used to give a negative answer" },
+  "please": { def: "请", eng_def: "a polite word used when asking" },
+  "thank":  { def: "感谢", eng_def: "to express gratitude" },
+  "sorry":  { def: "对不起", eng_def: "feeling regret or sadness" },
+  "hello":  { def: "你好", eng_def: "a greeting" },
+  "goodbye":{ def: "再见", eng_def: "a word said when leaving" },
+  "like":   { def: "喜欢；像", eng_def: "to enjoy; similar to" },
+  "love":   { def: "爱；喜欢", eng_def: "to feel great affection" },
+  "want":   { def: "想要", eng_def: "to desire; to wish for" },
+  "need":   { def: "需要", eng_def: "to require something" },
+  "take":   { def: "拿；花费", eng_def: "to get; to use" },
+  "give":   { def: "给", eng_def: "to hand something to someone" },
+  "get":    { def: "得到；到达", eng_def: "to obtain; to arrive at" },
+  "make":   { def: "做；制造", eng_def: "to create; to build" },
+  "put":    { def: "放", eng_def: "to place something somewhere" },
+  "set":    { def: "设置；放", eng_def: "to put; to place" },
+  "let":    { def: "让", eng_def: "to allow" },
+  "keep":   { def: "保持", eng_def: "to continue to have" },
+  "find":   { def: "找到", eng_def: "to discover; to see" },
+  "call":   { def: "打电话；叫", eng_def: "to phone; to name" },
+  "come":   { def: "来", eng_def: "to move toward the speaker" },
+  "go":     { def: "去", eng_def: "to move away; to travel" },
+  "say":    { def: "说", eng_def: "to speak words" },
+  "tell":   { def: "告诉", eng_def: "to give information to someone" },
+  "ask":    { def: "问", eng_def: "to request; to question" },
+  "see":    { def: "看见", eng_def: "to use your eyes" },
+  "look":   { def: "看", eng_def: "to turn your eyes toward something" },
+  "hear":   { def: "听见", eng_def: "to receive sound with your ears" },
+  "listen": { def: "听", eng_def: "to pay attention to sound" },
+  "know":   { def: "知道", eng_def: "to have information in your mind" },
+  "think":  { def: "想；认为", eng_def: "to use your mind" },
+  "believe":{ def: "相信", eng_def: "to accept as true" },
+  "feel":   { def: "感觉", eng_def: "to experience an emotion" },
+  "try":    { def: "尝试", eng_def: "to attempt" },
+  "hope":   { def: "希望", eng_def: "to want something to happen" },
+  "wish":   { def: "希望；祝福", eng_def: "to want; to express a hope" },
+  "help":   { def: "帮助", eng_def: "to assist someone" },
+  "use":    { def: "使用", eng_def: "to employ; to utilize" },
+  "start":  { def: "开始", eng_def: "to begin" },
+  "stop":   { def: "停止", eng_def: "to cease; to end" },
+  "open":   { def: "打开", eng_def: "to move something so it is not closed" },
+  "close":  { def: "关闭", eng_def: "to shut" },
+  "run":    { def: "跑", eng_def: "to move quickly on foot" },
+  "walk":   { def: "走路", eng_def: "to move on foot at a moderate pace" },
+  "sit":    { def: "坐", eng_def: "to rest on a chair" },
+  "stand":  { def: "站", eng_def: "to be on your feet" },
+  "eat":    { def: "吃", eng_def: "to take food into your mouth" },
+  "drink":  { def: "喝", eng_def: "to take liquid into your mouth" },
+  "sleep":  { def: "睡觉", eng_def: "to rest with your eyes closed" },
+  "read":   { def: "阅读", eng_def: "to look at written words and understand" },
+  "write":  { def: "写", eng_def: "to make letters or words on paper" },
+  "speak":  { def: "说话", eng_def: "to talk; to say words" },
+  "talk":   { def: "谈话", eng_def: "to speak with someone" },
+  "tell":   { def: "告诉", eng_def: "to say something to someone" },
+  "show":   { def: "展示", eng_def: "to let someone see" },
+  "play":   { def: "玩；播放", eng_def: "to have fun; to engage in a sport or game" },
+  "stay":   { def: "停留", eng_def: "to remain in one place" },
+  "live":   { def: "生活；居住", eng_def: "to be alive; to have a home" },
+  "die":    { def: "死", eng_def: "to stop living" },
+  "laugh":  { def: "笑", eng_def: "to make sounds showing happiness" },
+  "cry":    { def: "哭", eng_def: "to produce tears from sadness or pain" },
+  "smile":  { def: "微笑", eng_def: "to show happiness by turning up the mouth" },
+  "wait":   { def: "等待", eng_def: "to stay in place until something happens" },
+  "turn":   { def: "转；变成", eng_def: "to change direction; to become" },
+  "bring":  { def: "带来", eng_def: "to carry from another place to here" },
+  "buy":    { def: "买", eng_def: "to get something by paying money" },
+  "sell":   { def: "卖", eng_def: "to give something for money" },
+  "pay":    { def: "支付", eng_def: "to give money for something" },
+  "cost":   { def: "花费", eng_def: "the price of something" },
+  "hold":   { def: "握住", eng_def: "to have in your hand" },
+  "carry":  { def: "携带", eng_def: "to hold and move" },
+  "leave":  { def: "离开；留下", eng_def: "to go away; to let stay" },
+  "enter":  { def: "进入", eng_def: "to go into" },
+  "move":   { def: "移动", eng_def: "to change position" },
+  "raise":  { def: "举起；提高", eng_def: "to lift up; to increase" },
+  "fall":   { def: "落下；跌倒", eng_def: "to drop; to go down" },
+  "sit":    { def: "坐", eng_def: "to be seated" },
+  "build":  { def: "建造", eng_def: "to make something by putting parts together" },
+  "grow":   { def: "生长；种植", eng_def: "to get bigger; to make plants" },
+  "learn":  { def: "学习", eng_def: "to gain knowledge or skill" },
+  "teach":  { def: "教", eng_def: "to give knowledge to someone" },
+  "study":  { def: "学习；研究", eng_def: "to learn by reading" },
+  "remember":{ def: "记住", eng_def: "to keep in memory" },
+  "forget": { def: "忘记", eng_def: "to not remember" },
+  "leave":  { def: "离开；留下", eng_def: "to go away from; to let remain" },
+  "meet":   { def: "遇见", eng_def: "to come together with someone" },
+  "spend":  { def: "花费（时间/钱）", eng_def: "to use time or money" },
+  "send":   { def: "发送", eng_def: "to cause to go somewhere" },
+  "receive":{ def: "收到", eng_def: "to get something given" },
+  "catch":  { def: "抓住", eng_def: "to take hold of something moving" },
+  "pick":   { def: "挑选", eng_def: "to choose; to take" },
+  "change": { def: "改变", eng_def: "to become different" },
+  "break":  { def: "打破；休息", eng_def: "to separate into pieces; a rest period" },
+  "begin":  { def: "开始", eng_def: "to start" },
+  "finish": { def: "完成", eng_def: "to end; to complete" },
+  "continue":{ def: "继续", eng_def: "to keep going without stopping" },
+  "follow": { def: "跟随", eng_def: "to go after; to understand" },
+  "allow":  { def: "允许", eng_def: "to let someone do something" },
+  "add":    { def: "添加", eng_def: "to put something with another" },
+  "happen": { def: "发生", eng_def: "to take place; to occur" },
+  "appear": { def: "出现", eng_def: "to become visible" },
+  "seem":   { def: "似乎", eng_def: "to appear to be" },
+  "mean":   { def: "意思是", eng_def: "to have as a meaning" },
+  "need":   { def: "需要", eng_def: "to require" },
+  "keep":   { def: "保持", eng_def: "to continue to have or do" },
+  "begin":  { def: "开始", eng_def: "to start" },
+  "try":    { def: "尝试", eng_def: "to make an attempt" },
+  "leave":  { def: "离开", eng_def: "to go away from" },
+  "might":  { def: "可能", eng_def: "expressing possibility" },
+  "must":   { def: "必须", eng_def: "be required" },
+  "shall":  { def: "将", eng_def: "expressing future tense" },
+  "should": { def: "应该", eng_def: "used to give advice" },
+  "could":  { def: "可以", eng_def: "past tense of can" },
+  "would":  { def: "会", eng_def: "past tense of will" },
+};
+
+/**
+ * Generate all likely base forms of a word for dictionary matching.
+ * Returns an array of candidates, ordered most-common-first.
+ * The matching code in renderIntensive tries each in order.
+ */
+function wordCandidates(word) {
+  const w = word.toLowerCase().replace(/[^a-z'-]/g, '');
+  if (!w) return [word.toLowerCase()];
+  const cand = [];
+  
+  // 1. Original word (exact match)
+  cand.push(w);
+  
+  // 2. Remove possessive 's
+  if (w.endsWith("'s")) cand.push(w.slice(0, -2));
+  if (w.endsWith("s'")) cand.push(w.slice(0, -1));
+  
+  // 3. Regular plural / 3rd-person-singular: just remove trailing 's'
+  if (w.endsWith('s') && w.length > 2) cand.push(w.slice(0, -1));
+  
+  // 4. -es suffix (watches→watch, goes→go)
+  if (w.endsWith('es') && w.length > 3) cand.push(w.slice(0, -2));
+  
+  // 5. -ies → -y (carries→carry)
+  if (w.endsWith('ies') && w.length > 4) cand.push(w.slice(0, -3) + 'y');
+  
+  // 6. -ves → -f (leaves→leaf)
+  if (w.endsWith('ves') && w.length > 4) cand.push(w.slice(0, -3) + 'f');
+  
+  // 7. -ing (going→go)
+  if (w.endsWith('ing') && w.length > 4) {
+    cand.push(w.slice(0, -3));           // go
+    cand.push(w.slice(0, -3) + 'e');     // make→making
   }
-  return w;
+  
+  // 8. -ed (walked→walk, liked→like)
+  if (w.endsWith('ed') && w.length > 3) {
+    cand.push(w.slice(0, -2));           // walked→walk
+    cand.push(w.slice(0, -1));           // liked→like (remove just 'd')
+  }
+  
+  // 9. -er, -est comparative/superlative
+  if (w.endsWith('est') && w.length > 4) cand.push(w.slice(0, -3));
+  if (w.endsWith('er') && w.length > 3) cand.push(w.slice(0, -2));
+  
+  // 10. -ly (slowly→slow)
+  if (w.endsWith('ly') && w.length > 3) cand.push(w.slice(0, -2));
+  
+  // 11. -n't (don't→do not → also try just base)
+  if (w.endsWith("n't") && w.length > 4) cand.push(w.slice(0, -3));
+  
+  // Deduplicate while preserving order
+  return [...new Set(cand)];
 }
 
 function renderIntensive() {
@@ -1160,11 +1543,21 @@ function renderIntensive() {
       if (token.trim() === '') return token;
       const cleanWord = token.replace(/[^a-zA-Z'-]/g, '');
       if (!cleanWord) return token;
-      // Try exact match first, then normalized match
-      const base = normalizeWord(cleanWord);
-      let found = s.words.find(w => w.word.toLowerCase() === cleanWord.toLowerCase());
+      // Try multiple candidates: exact match, then various base forms
+      const candidates = wordCandidates(cleanWord);
+      let found = null;
+      for (const c of candidates) {
+        found = s.words.find(w => w.word.toLowerCase() === c);
+        if (found) break;
+      }
+      // Fallback: try built-in common words dictionary
       if (!found) {
-        found = s.words.find(w => w.word.toLowerCase() === base);
+        for (const c of candidates) {
+          if (COMMON_WORDS[c]) {
+            found = COMMON_WORDS[c];
+            break;
+          }
+        }
       }
       const engDef = found ? (found.eng_def || '') : '';
       const chnDef = found ? (found.def || '') : '';
