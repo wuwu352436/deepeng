@@ -20,6 +20,18 @@ const LESSONS = [
             "def": "眼睛",
             "ipa": "",
             "eng_def": "the part of the body that you use to see"
+          },
+          {
+            "word": "Tom",
+            "def": "汤姆（人名）",
+            "ipa": "/tɒm/",
+            "eng_def": "a name for a boy"
+          },
+          {
+            "word": "his",
+            "def": "他的",
+            "ipa": "/hɪz/",
+            "eng_def": "belonging to him"
           }
         ]
       },
@@ -33,6 +45,18 @@ const LESSONS = [
             "def": "早上",
             "ipa": "",
             "eng_def": "the early part of the day"
+          },
+          {
+            "word": "it",
+            "def": "它",
+            "ipa": "/ɪt/",
+            "eng_def": "used to refer to a thing or animal"
+          },
+          {
+            "word": "is",
+            "def": "是",
+            "ipa": "/ɪz/",
+            "eng_def": "third person singular of 'be'"
           }
         ]
       },
@@ -46,6 +70,12 @@ const LESSONS = [
             "def": "得到；变得",
             "ipa": "",
             "eng_def": "to receive or have something"
+          },
+          {
+            "word": "he",
+            "def": "他",
+            "ipa": "/hiː/",
+            "eng_def": "the male person previously mentioned"
           }
         ]
       },
@@ -65,6 +95,18 @@ const LESSONS = [
             "def": "喝",
             "ipa": "",
             "eng_def": "to take water or other liquid into your body"
+          },
+          {
+            "word": "he",
+            "def": "他",
+            "ipa": "/hiː/",
+            "eng_def": "the male person previously mentioned"
+          },
+          {
+            "word": "and",
+            "def": "和；并且",
+            "ipa": "/ænd/",
+            "eng_def": "used to connect words or phrases"
           }
         ]
       },
@@ -84,6 +126,24 @@ const LESSONS = [
             "def": "学校",
             "ipa": "",
             "eng_def": "a place where children go to learn"
+          },
+          {
+            "word": "then",
+            "def": "然后",
+            "ipa": "/ðen/",
+            "eng_def": "at that time; next"
+          },
+          {
+            "word": "he",
+            "def": "他",
+            "ipa": "/hiː/",
+            "eng_def": "the male person previously mentioned"
+          },
+          {
+            "word": "to",
+            "def": "到；去；给",
+            "ipa": "/tuː/",
+            "eng_def": "used to show direction or purpose"
           }
         ]
       },
@@ -97,6 +157,24 @@ const LESSONS = [
             "def": "看见",
             "ipa": "",
             "eng_def": "to use your eyes to know something"
+          },
+          {
+            "word": "he",
+            "def": "他",
+            "ipa": "/hiː/",
+            "eng_def": "the male person previously mentioned"
+          },
+          {
+            "word": "friend",
+            "def": "朋友",
+            "ipa": "/frend/",
+            "eng_def": "a person you like and know well"
+          },
+          {
+            "word": "Ann",
+            "def": "安（人名）",
+            "ipa": "/æn/",
+            "eng_def": "a name for a girl"
           }
         ]
       },
@@ -110,6 +188,30 @@ const LESSONS = [
             "def": "课；班级",
             "ipa": "",
             "eng_def": "a group of students who learn together"
+          },
+          {
+            "word": "they",
+            "def": "他们；她们；它们",
+            "ipa": "/ðeɪ/",
+            "eng_def": "used to refer to two or more people"
+          },
+          {
+            "word": "go",
+            "def": "去",
+            "ipa": "/ɡəʊ/",
+            "eng_def": "to move or travel somewhere"
+          },
+          {
+            "word": "to",
+            "def": "到；去；给",
+            "ipa": "/tuː/",
+            "eng_def": "used to show direction or purpose"
+          },
+          {
+            "word": "together",
+            "def": "一起",
+            "ipa": "/təˈɡeðə(r)/",
+            "eng_def": "with each other"
           }
         ]
       },
@@ -117,13 +219,45 @@ const LESSONS = [
         "id": 8,
         "en": "Tom likes school.",
         "zh": "汤姆喜欢学校。",
-        "words": []
+        "words": [
+          {
+            "word": "Tom",
+            "def": "汤姆（人名）",
+            "ipa": "/tɒm/",
+            "eng_def": "a name for a boy"
+          },
+          {
+            "word": "like",
+            "def": "喜欢",
+            "ipa": "/laɪk/",
+            "eng_def": "to find pleasant or enjoyable"
+          }
+        ]
       },
       {
         "id": 9,
         "en": "He feels happy.",
         "zh": "他觉得很开心。",
-        "words": []
+        "words": [
+          {
+            "word": "he",
+            "def": "他",
+            "ipa": "/hiː/",
+            "eng_def": "the male person previously mentioned"
+          },
+          {
+            "word": "feel",
+            "def": "感觉",
+            "ipa": "/fiːl/",
+            "eng_def": "to experience an emotion or sensation"
+          },
+          {
+            "word": "happy",
+            "def": "快乐的；开心的",
+            "ipa": "/ˈhæpi/",
+            "eng_def": "feeling pleasure or contentment"
+          }
+        ]
       }
     ],
     "questions": [
