@@ -1125,6 +1125,32 @@ document.getElementById('blindReplayBtn').addEventListener('click', replayBlindS
 document.getElementById('blindReplayAllBtn').addEventListener('click', replayBlindAll);
 
 // ============== 精听 Intensive Listening ==============
+/** Normalize a word to its base form for dictionary matching */
+function normalizeWord(word) {
+  const w = word.toLowerCase();
+  // Common English suffixes
+  const suffixes = [
+    { s: "'s", r: "" },     // Tom's → Tom
+    { s: "ies", r: "y" },   // carries → carry
+    { s: "ves", r: "f" },   // leaves → leaf
+    { s: "es", r: "" },     // watches → watch, goes → go
+    { s: "ing", r: "" },    // going → go
+    { s: "ed", r: "" },     // walked → walk
+    { s: "ly", r: "" },     // slowly → slow
+    { s: "er", r: "" },     // bigger → big
+    { s: "est", r: "" },    // biggest → big
+    { s: "s", r: "" },      // cats → cat
+    { s: "d", r: "" },      // liked → like
+    { s: "n't", r: " not" },// don't → do not
+  ];
+  for (const { s, r } of suffixes) {
+    if (w.endsWith(s) && w.length > s.length + 1) {
+      return w.slice(0, -s.length) + r;
+    }
+  }
+  return w;
+}
+
 function renderIntensive() {
   const lesson = LESSONS[currentLesson];
   const container = document.getElementById('intensiveSentences');
@@ -1134,10 +1160,19 @@ function renderIntensive() {
       if (token.trim() === '') return token;
       const cleanWord = token.replace(/[^a-zA-Z'-]/g, '');
       if (!cleanWord) return token;
-      const found = s.words.find(w => w.word.toLowerCase() === cleanWord.toLowerCase());
+      // Try exact match first, then normalized match
+      const base = normalizeWord(cleanWord);
+      let found = s.words.find(w => w.word.toLowerCase() === cleanWord.toLowerCase());
+      if (!found) {
+        found = s.words.find(w => w.word.toLowerCase() === base);
+      }
       const engDef = found ? (found.eng_def || '') : '';
       const chnDef = found ? (found.def || '') : '';
-      return `<span class="word" onclick="showWordPopup(event,'${cleanWord}','${chnDef.replace(/'/g, "\\'")}','${engDef.replace(/'/g, "\\'")}',${i})">${token}</span>`;
+      // Escape for onclick attr safely
+      const safeWord = cleanWord.replace(/'/g, "\\'");
+      const safeChn = chnDef.replace(/'/g, "\\'");
+      const safeEng = engDef.replace(/'/g, "\\'");
+      return `<span class="word" onclick="showWordPopup(event,'${safeWord}','${safeChn}','${safeEng}',${i})">${token}</span>`;
     });
     
     return `
@@ -1167,9 +1202,11 @@ function showWordPopup(event, word, chineseDef, engDef, sentenceIdx) {
   const popupDef = document.getElementById('popupDef');
   
   popupWord.textContent = word;
+  // Hide IPA section if no data (we'll show a phonetic hint from TTS instead)
   popupIpa.textContent = '';
+  popupIpa.style.display = 'none';
   
-  // Show both Chinese translation and English definition
+  // Show definitions
   let defHtml = '';
   if (chineseDef) {
     defHtml += `<div style="font-size:18px;font-weight:600;color:var(--text);margin-bottom:4px;">${chineseDef}</div>`;
@@ -1178,21 +1215,33 @@ function showWordPopup(event, word, chineseDef, engDef, sentenceIdx) {
     defHtml += `<div style="font-size:14px;color:var(--text-muted);line-height:1.5;">${engDef}</div>`;
   }
   if (!chineseDef && !engDef) {
-    defHtml = 'No definition available yet.';
+    defHtml = '<div style="font-size:14px;color:var(--text-muted);">暂未收录该词释义</div>';
   }
   popupDef.innerHTML = defHtml;
   
   document.getElementById('overlay').classList.remove('hidden');
   document.getElementById('wordPopup').classList.remove('hidden');
   
-  // Play pronunciation on show
-  playIntensiveSentence(sentenceIdx);
+  // Auto-pronounce the word (not the full sentence)
+  pronounceWord(word);
   
-  // Bind play button
-  document.getElementById('popupPlayBtn').onclick = (e) => {
+  // Bind play button to pronounce the word only
+  const playBtn = document.getElementById('popupPlayBtn');
+  playBtn.onclick = (e) => {
     e.stopPropagation();
-    playIntensiveSentence(sentenceIdx);
+    pronounceWord(word);
   };
+  playBtn.textContent = '🔊 朗读单词';
+}
+
+/** Pronounce a single word using browser TTS */
+function pronounceWord(word) {
+  if (!window.speechSynthesis) return;
+  window.speechSynthesis.cancel();
+  const utter = new SpeechSynthesisUtterance(word);
+  utter.lang = 'en-US';
+  utter.rate = 0.85;
+  window.speechSynthesis.speak(utter);
 }
 
 function closeWordPopup() {
