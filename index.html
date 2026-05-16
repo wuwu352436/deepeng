@@ -719,7 +719,8 @@ function playSentence(idx, isSlow, onEnded) {
   const lessonNum = String(currentLesson + 1).padStart(2, '0');
   const sentNum = String(idx + 1).padStart(2, '0');
   const speed = isSlow ? 'slow' : 'normal';
-  const audioPath = `audio/lesson_${lessonNum}/s${sentNum}_${speed}.mp3`;
+  // Use sentence_XX format as primary (covers all sentences; sXX format is older/incomplete)
+  const audioPath = `audio/lesson_${lessonNum}/sentence_${sentNum}_${speed}.mp3`;
 
   // Stop any existing per-sentence audio
   if (window._sentenceAudio) {
@@ -732,8 +733,8 @@ function playSentence(idx, isSlow, onEnded) {
   window._sentenceAudio = audio;
   audio.onended = onEnded || null;
   audio.play().catch(() => {
-    // Fallback: if individual file fails, try sentence_XX format
-    const fallbackPath = `audio/lesson_${lessonNum}/sentence_${sentNum}_${speed}.mp3`;
+    // Fallback: try sXX format
+    const fallbackPath = `audio/lesson_${lessonNum}/s${sentNum}_${speed}.mp3`;
     const fallback = new Audio(getAudioUrl(fallbackPath));
     window._sentenceAudio = fallback;
     fallback.onended = onEnded || null;
