@@ -1617,6 +1617,13 @@ function showWordPopup(event, word, chineseDef, engDef, sentenceIdx) {
   document.getElementById('overlay').classList.remove('hidden');
   document.getElementById('wordPopup').classList.remove('hidden');
   
+  // Stop any playing sentence audio before pronouncing the word
+  if (window._sentenceAudio) {
+    window._sentenceAudio.pause();
+    window._sentenceAudio.onended = null;
+    window._sentenceAudio = null;
+  }
+  
   // Auto-pronounce the word (not the full sentence)
   pronounceWord(word);
   
@@ -1825,15 +1832,20 @@ async function repeatToggleRecord() {
         URL.revokeObjectURL(repeatState.recordingUrl);
         repeatState.recordingUrl = null;
       }
+      
+      // Pick best supported audio format (WebM not supported on iOS Safari)
+      const recordedMimeType = MediaRecorder.isTypeSupported('audio/mp4') ? 'audio/mp4' :
+                               MediaRecorder.isTypeSupported('audio/webm;codecs=opus') ? 'audio/webm;codecs=opus' : '';
+      const mediaOptions = recordedMimeType ? { mimeType: recordedMimeType } : {};
 
-      mediaRecorder = new MediaRecorder(stream);
+      mediaRecorder = new MediaRecorder(stream, mediaOptions);
       mediaRecorder.ondataavailable = (e) => {
         if (e.data.size > 0) recordedChunks.push(e.data);
       };
       mediaRecorder.onstop = () => {
         stream.getTracks().forEach(t => t.stop());
-        // Create blob URL for playback
-        repeatState.recordingBlob = new Blob(recordedChunks, { type: 'audio/webm' });
+        // Create blob URL for playback (use recordedMimeType for iOS compatibility)
+        repeatState.recordingBlob = new Blob(recordedChunks, { type: recordedMimeType || 'audio/webm' });
         repeatState.recordingUrl = URL.createObjectURL(repeatState.recordingBlob);
         
         // Generate sub-scores
