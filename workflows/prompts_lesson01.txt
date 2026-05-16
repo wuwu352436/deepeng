@@ -1,0 +1,31 @@
+# DeepEng 场景图提示词 - Lesson 1 "Tom Gets Up"
+# 风格：儿童绘本插画风格 / 简单卡通 / 柔和色彩
+# 模型：SDXL (sd_xl_base_1.0.safetensors)
+# 分辨率：1024×1024
+
+## 句子1: "Tom opens his eyes."
+Prompt: A young boy Tom lying in bed opening his eyes, morning sunlight streaming through window, cozy bedroom, children's book illustration style, cute cartoon, warm soft colors, simple composition
+
+## 句子2: "It is morning."
+Prompt: A bright morning scene outside a window, sunrise sky with soft orange and pink clouds, simple children's book illustration, peaceful atmosphere, warm colors
+
+## 句子3: "He gets up."
+Prompt: A young boy Tom sitting up in bed, stretching his arms, bedroom background, morning light, children's book illustration style, cute cartoon, warm cozy feel
+
+## 句子4: "He eats bread and drinks milk."
+Prompt: A young boy Tom sitting at a kitchen table, eating bread and drinking a glass of milk, simple breakfast scene, children's book illustration style, cute cartoon, warm cozy kitchen
+
+## 句子5: "Then he walks to school."
+Prompt: A young boy Tom walking on a path with a backpack, trees and houses in background, going to school, sunny day, children's book illustration style, cute cartoon, bright colors
+
+## 句子6: "He sees his friend Ann."
+Prompt: A young boy Tom meeting a girl friend Ann on the street, both smiling and waving, school in background, children's book illustration style, cute cartoon, friendly scene, bright day
+
+## 句子7: "They go to class together."
+Prompt: Two children Tom and Ann walking into a school classroom together, desks and blackboard visible, children's book illustration style, cute cartoon, warm friendly atmosphere
+
+## 句子8: "Tom likes school."
+Prompt: A young boy Tom smiling happily in a classroom, raising his hand, books and colorful decorations, children's book illustration style, cute cartoon, positive happy atmosphere, bright colors
+
+## 句子9: "He feels happy."
+Prompt: A close-up of a young boy Tom with a big happy smile on his face, rosy cheeks, bright eyes, children's book illustration style, cute cartoon, warm joyful feeling, simple composition
