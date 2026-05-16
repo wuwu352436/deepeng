@@ -312,7 +312,7 @@ const LESSONS = [
         "answer": "Very happy"
       }
     ],
-    "audio_full": "audio/lesson_01/full.mp3"
+    "audio_full": "audio/lesson_01/full.wav"
   },
   {
     "id": 2,
@@ -513,7 +513,7 @@ const LESSONS = [
         "answer": "Good time"
       }
     ],
-    "audio_full": "audio/lesson_02/full.mp3"
+    "audio_full": "audio/lesson_02/full.wav"
   },
   {
     "id": 3,
@@ -734,7 +734,7 @@ const LESSONS = [
         "answer": "Happy"
       }
     ],
-    "audio_full": "audio/lesson_03/full.mp3"
+    "audio_full": "audio/lesson_03/full.wav"
   },
   {
     "id": 4,
@@ -927,7 +927,7 @@ const LESSONS = [
         "answer": "Happy"
       }
     ],
-    "audio_full": "audio/lesson_04/full.mp3"
+    "audio_full": "audio/lesson_04/full.wav"
   },
   {
     "id": 5,
@@ -1098,6 +1098,6 @@ const LESSONS = [
         "answer": "It is nice inside."
       }
     ],
-    "audio_full": "audio/lesson_05/full.mp3"
+    "audio_full": "audio/lesson_05/full.wav"
   }
 ];

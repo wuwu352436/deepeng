@@ -707,7 +707,7 @@ function toggleArticlePlay() {
 }
 
 /**
- * Play individual sentence audio from audio/lesson_XX/sYY_normal.mp3
+ * Play individual sentence audio from audio/lesson_XX/sYY_normal.wav
  * @param {number} idx - Sentence index (0-based)
  * @param {boolean} isSlow - Whether to play slow version
  */
@@ -720,7 +720,7 @@ function playSentence(idx, isSlow, onEnded) {
   const sentNum = String(idx + 1).padStart(2, '0');
   const speed = isSlow ? 'slow' : 'normal';
   // Use sentence_XX format as primary (covers all sentences; sXX format is older/incomplete)
-  const audioPath = `audio/lesson_${lessonNum}/sentence_${sentNum}_${speed}.mp3`;
+  const audioPath = `audio/lesson_${lessonNum}/sentence_${sentNum}_${speed}.wav`;
 
   // Stop any existing per-sentence audio
   if (window._sentenceAudio) {
@@ -734,7 +734,7 @@ function playSentence(idx, isSlow, onEnded) {
   audio.onended = onEnded || null;
   audio.play().catch(() => {
     // Fallback: try sXX format
-    const fallbackPath = `audio/lesson_${lessonNum}/s${sentNum}_${speed}.mp3`;
+    const fallbackPath = `audio/lesson_${lessonNum}/s${sentNum}_${speed}.wav`;
     const fallback = new Audio(getAudioUrl(fallbackPath));
     window._sentenceAudio = fallback;
     fallback.onended = onEnded || null;
