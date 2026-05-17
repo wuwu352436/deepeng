@@ -12,30 +12,26 @@ const LESSONS = [
           {
             "word": "open",
             "def": "打开",
-            "ipa": "/ˈəʊpən/",
-            "eng_def": "to move something so that it is not closed",
-            "pos": "verb"
+            "ipa": "",
+            "eng_def": "to move something so that it is not closed"
           },
           {
             "word": "eye",
             "def": "眼睛",
-            "ipa": "/aɪ/",
-            "eng_def": "the part of the body that you use to see",
-            "pos": "noun"
+            "ipa": "",
+            "eng_def": "the part of the body that you use to see"
           },
           {
             "word": "Tom",
             "def": "汤姆（人名）",
             "ipa": "/tɒm/",
-            "eng_def": "a name for a boy",
-            "pos": "noun"
+            "eng_def": "a name for a boy"
           },
           {
             "word": "his",
             "def": "他的",
             "ipa": "/hɪz/",
-            "eng_def": "belonging to him",
-            "pos": "pron"
+            "eng_def": "belonging to him"
           }
         ]
       },
@@ -47,23 +43,20 @@ const LESSONS = [
           {
             "word": "morning",
             "def": "早上",
-            "ipa": "/ˈmɔːnɪŋ/",
-            "eng_def": "the early part of the day",
-            "pos": "noun"
+            "ipa": "",
+            "eng_def": "the early part of the day"
           },
           {
             "word": "it",
             "def": "它",
             "ipa": "/ɪt/",
-            "eng_def": "used to refer to a thing or animal",
-            "pos": "pron"
+            "eng_def": "used to refer to a thing or animal"
           },
           {
             "word": "is",
             "def": "是",
             "ipa": "/ɪz/",
-            "eng_def": "third person singular of 'be'",
-            "pos": "verb"
+            "eng_def": "third person singular of 'be'"
           }
         ]
       },
@@ -75,16 +68,14 @@ const LESSONS = [
           {
             "word": "get",
             "def": "得到；变得",
-            "ipa": "/ɡet/",
-            "eng_def": "to receive or have something",
-            "pos": "verb"
+            "ipa": "",
+            "eng_def": "to receive or have something"
           },
           {
             "word": "he",
             "def": "他",
             "ipa": "/hiː/",
-            "eng_def": "the male person previously mentioned",
-            "pos": "pron"
+            "eng_def": "the male person previously mentioned"
           }
         ]
       },
@@ -96,30 +87,26 @@ const LESSONS = [
           {
             "word": "eat",
             "def": "吃",
-            "ipa": "/iːt/",
-            "eng_def": "to take food into your body",
-            "pos": "verb"
+            "ipa": "",
+            "eng_def": "to take food into your body"
           },
           {
             "word": "drink",
             "def": "喝",
-            "ipa": "/drɪŋk/",
-            "eng_def": "to take water or other liquid into your body",
-            "pos": "verb"
+            "ipa": "",
+            "eng_def": "to take water or other liquid into your body"
           },
           {
             "word": "he",
             "def": "他",
             "ipa": "/hiː/",
-            "eng_def": "the male person previously mentioned",
-            "pos": "pron"
+            "eng_def": "the male person previously mentioned"
           },
           {
             "word": "and",
             "def": "和；并且",
             "ipa": "/ænd/",
-            "eng_def": "used to connect words or phrases",
-            "pos": "conj"
+            "eng_def": "used to connect words or phrases"
           }
         ]
       },
@@ -131,37 +118,32 @@ const LESSONS = [
           {
             "word": "walk",
             "def": "走路",
-            "ipa": "/wɔːk/",
-            "eng_def": "to move on your feet",
-            "pos": "verb"
+            "ipa": "",
+            "eng_def": "to move on your feet"
           },
           {
             "word": "school",
             "def": "学校",
-            "ipa": "/skuːl/",
-            "eng_def": "a place where children go to learn",
-            "pos": "noun"
+            "ipa": "",
+            "eng_def": "a place where children go to learn"
           },
           {
             "word": "then",
             "def": "然后",
             "ipa": "/ðen/",
-            "eng_def": "at that time; next",
-            "pos": "adv"
+            "eng_def": "at that time; next"
           },
           {
             "word": "he",
             "def": "他",
             "ipa": "/hiː/",
-            "eng_def": "the male person previously mentioned",
-            "pos": "pron"
+            "eng_def": "the male person previously mentioned"
           },
           {
             "word": "to",
             "def": "到；去；给",
             "ipa": "/tuː/",
-            "eng_def": "used to show direction or purpose",
-            "pos": "prep"
+            "eng_def": "used to show direction or purpose"
           }
         ]
       },
@@ -173,30 +155,26 @@ const LESSONS = [
           {
             "word": "see",
             "def": "看见",
-            "ipa": "/siː/",
-            "eng_def": "to use your eyes to know something",
-            "pos": "verb"
+            "ipa": "",
+            "eng_def": "to use your eyes to know something"
           },
           {
             "word": "he",
             "def": "他",
             "ipa": "/hiː/",
-            "eng_def": "the male person previously mentioned",
-            "pos": "pron"
+            "eng_def": "the male person previously mentioned"
           },
           {
             "word": "friend",
             "def": "朋友",
             "ipa": "/frend/",
-            "eng_def": "a person you like and know well",
-            "pos": "noun"
+            "eng_def": "a person you like and know well"
           },
           {
             "word": "Ann",
             "def": "安（人名）",
             "ipa": "/æn/",
-            "eng_def": "a name for a girl",
-            "pos": "noun"
+            "eng_def": "a name for a girl"
           }
         ]
       },
@@ -208,37 +186,32 @@ const LESSONS = [
           {
             "word": "class",
             "def": "课；班级",
-            "ipa": "/klɑːs/",
-            "eng_def": "a group of students who learn together",
-            "pos": "noun"
+            "ipa": "",
+            "eng_def": "a group of students who learn together"
           },
           {
             "word": "they",
             "def": "他们；她们；它们",
             "ipa": "/ðeɪ/",
-            "eng_def": "used to refer to two or more people",
-            "pos": "pron"
+            "eng_def": "used to refer to two or more people"
           },
           {
             "word": "go",
             "def": "去",
             "ipa": "/ɡəʊ/",
-            "eng_def": "to move or travel somewhere",
-            "pos": "verb"
+            "eng_def": "to move or travel somewhere"
           },
           {
             "word": "to",
             "def": "到；去；给",
             "ipa": "/tuː/",
-            "eng_def": "used to show direction or purpose",
-            "pos": "prep"
+            "eng_def": "used to show direction or purpose"
           },
           {
             "word": "together",
             "def": "一起",
             "ipa": "/təˈɡeðə(r)/",
-            "eng_def": "with each other",
-            "pos": "adv"
+            "eng_def": "with each other"
           }
         ]
       },
@@ -251,15 +224,13 @@ const LESSONS = [
             "word": "Tom",
             "def": "汤姆（人名）",
             "ipa": "/tɒm/",
-            "eng_def": "a name for a boy",
-            "pos": "noun"
+            "eng_def": "a name for a boy"
           },
           {
             "word": "like",
             "def": "喜欢",
             "ipa": "/laɪk/",
-            "eng_def": "to find pleasant or enjoyable",
-            "pos": "verb"
+            "eng_def": "to find pleasant or enjoyable"
           }
         ]
       },
@@ -272,22 +243,19 @@ const LESSONS = [
             "word": "he",
             "def": "他",
             "ipa": "/hiː/",
-            "eng_def": "the male person previously mentioned",
-            "pos": "pron"
+            "eng_def": "the male person previously mentioned"
           },
           {
             "word": "feel",
             "def": "感觉",
             "ipa": "/fiːl/",
-            "eng_def": "to experience an emotion or sensation",
-            "pos": "verb"
+            "eng_def": "to experience an emotion or sensation"
           },
           {
             "word": "happy",
             "def": "快乐的；开心的",
             "ipa": "/ˈhæpi/",
-            "eng_def": "feeling pleasure or contentment",
-            "pos": "adj"
+            "eng_def": "feeling pleasure or contentment"
           }
         ]
       }
@@ -359,9 +327,8 @@ const LESSONS = [
           {
             "word": "park",
             "def": "公园",
-            "ipa": "/pɑːk/",
-            "eng_def": "a green area where people play and rest",
-            "pos": "noun"
+            "ipa": "",
+            "eng_def": "a green area where people play and rest"
           }
         ]
       },
@@ -373,16 +340,14 @@ const LESSONS = [
           {
             "word": "tree",
             "def": "树",
-            "ipa": "/triː/",
-            "eng_def": "a tall plant with a long body made of wood",
-            "pos": "noun"
+            "ipa": "",
+            "eng_def": "a tall plant with a long body made of wood"
           },
           {
             "word": "bird",
             "def": "鸟",
-            "ipa": "/bɜːd/",
-            "eng_def": "an animal with wings that can fly",
-            "pos": "noun"
+            "ipa": "",
+            "eng_def": "an animal with wings that can fly"
           }
         ]
       },
@@ -394,9 +359,8 @@ const LESSONS = [
           {
             "word": "dog",
             "def": "狗",
-            "ipa": "/dɒɡ/",
-            "eng_def": "an animal that many people keep at home",
-            "pos": "noun"
+            "ipa": "",
+            "eng_def": "an animal that many people keep at home"
           }
         ]
       },
@@ -408,9 +372,8 @@ const LESSONS = [
           {
             "word": "run",
             "def": "跑",
-            "ipa": "/rʌn/",
-            "eng_def": "to move your feet very fast",
-            "pos": "verb"
+            "ipa": "",
+            "eng_def": "to move your feet very fast"
           }
         ]
       },
@@ -422,9 +385,8 @@ const LESSONS = [
           {
             "word": "play",
             "def": "玩",
-            "ipa": "/pleɪ/",
-            "eng_def": "to do things for fun",
-            "pos": "verb"
+            "ipa": "",
+            "eng_def": "to do things for fun"
           }
         ]
       },
@@ -436,9 +398,8 @@ const LESSONS = [
           {
             "word": "home",
             "def": "家",
-            "ipa": "/həʊm/",
-            "eng_def": "the place where you live with your family",
-            "pos": "noun"
+            "ipa": "",
+            "eng_def": "the place where you live with your family"
           }
         ]
       },
@@ -456,9 +417,8 @@ const LESSONS = [
           {
             "word": "water",
             "def": "水",
-            "ipa": "/ˈwɔːtə(r)/",
-            "eng_def": "the clear drink without color or taste",
-            "pos": "noun"
+            "ipa": "",
+            "eng_def": "the clear drink without color or taste"
           }
         ]
       },
@@ -482,9 +442,8 @@ const LESSONS = [
           {
             "word": "happy",
             "def": "开心的",
-            "ipa": "/ˈhæpi/",
-            "eng_def": "feeling good",
-            "pos": "adj"
+            "ipa": "",
+            "eng_def": "feeling good"
           }
         ]
       },
@@ -496,9 +455,8 @@ const LESSONS = [
           {
             "word": "time",
             "def": "时间；时光",
-            "ipa": "/taɪm/",
-            "eng_def": "the thing we measure in hours, days, and years",
-            "pos": "noun"
+            "ipa": "",
+            "eng_def": "the thing we measure in hours, days, and years"
           }
         ]
       }
@@ -576,9 +534,8 @@ const LESSONS = [
           {
             "word": "new",
             "def": "新的",
-            "ipa": "/njuː/",
-            "eng_def": "not old; just made or found",
-            "pos": "adj"
+            "ipa": "",
+            "eng_def": "not old; just made or found"
           }
         ]
       },
@@ -590,9 +547,8 @@ const LESSONS = [
           {
             "word": "boy",
             "def": "男孩",
-            "ipa": "/bɔɪ/",
-            "eng_def": "a young male person",
-            "pos": "noun"
+            "ipa": "",
+            "eng_def": "a young male person"
           }
         ]
       },
@@ -605,15 +561,13 @@ const LESSONS = [
             "word": "asks",
             "def": "问",
             "eng_def": "to say something to get an answer",
-            "ipa": "/ɑːsks/",
-            "pos": "verb"
+            "ipa": ""
           },
           {
             "word": "name",
             "def": "名字",
-            "ipa": "/neɪm/",
-            "eng_def": "the word that people call you",
-            "pos": "noun"
+            "ipa": "",
+            "eng_def": "the word that people call you"
           }
         ]
       },
@@ -625,9 +579,8 @@ const LESSONS = [
           {
             "word": "name",
             "def": "名字",
-            "ipa": "/neɪm/",
-            "eng_def": "the word that people call you",
-            "pos": "noun"
+            "ipa": "",
+            "eng_def": "the word that people call you"
           }
         ]
       },
@@ -639,9 +592,8 @@ const LESSONS = [
           {
             "word": "game",
             "def": "游戏",
-            "ipa": "/ɡeɪm/",
-            "eng_def": "a fun activity with rules",
-            "pos": "noun"
+            "ipa": "",
+            "eng_def": "a fun activity with rules"
           }
         ]
       },
@@ -653,9 +605,8 @@ const LESSONS = [
           {
             "word": "laugh",
             "def": "笑",
-            "ipa": "/lɑːf/",
-            "eng_def": "to make a sound because something is funny",
-            "pos": "verb"
+            "ipa": "",
+            "eng_def": "to make a sound because something is funny"
           }
         ]
       },
@@ -667,9 +618,8 @@ const LESSONS = [
           {
             "word": "gives",
             "def": "给",
-            "ipa": "/ɡɪvz/",
-            "eng_def": "to put something in another person's hand",
-            "pos": "verb"
+            "ipa": "",
+            "eng_def": "to put something in another person's hand"
           }
         ]
       },
@@ -681,9 +631,8 @@ const LESSONS = [
           {
             "word": "friend",
             "def": "朋友",
-            "ipa": "/frend/",
-            "eng_def": "a person you know and like",
-            "pos": "noun"
+            "ipa": "",
+            "eng_def": "a person you know and like"
           }
         ]
       },
@@ -695,9 +644,8 @@ const LESSONS = [
           {
             "word": "stay",
             "def": "待、停留",
-            "ipa": "/steɪ/",
-            "eng_def": "to not leave; to be in the same place",
-            "pos": "verb"
+            "ipa": "",
+            "eng_def": "to not leave; to be in the same place"
           }
         ]
       },
@@ -709,9 +657,8 @@ const LESSONS = [
           {
             "word": "side",
             "def": "旁边、一边",
-            "ipa": "/saɪd/",
-            "eng_def": "the area to the right or left of something",
-            "pos": "noun"
+            "ipa": "",
+            "eng_def": "the area to the right or left of something"
           }
         ]
       },
@@ -723,16 +670,14 @@ const LESSONS = [
           {
             "word": "new",
             "def": "新的",
-            "ipa": "/njuː/",
-            "eng_def": "not old; just made or found",
-            "pos": "adj"
+            "ipa": "",
+            "eng_def": "not old; just made or found"
           },
           {
             "word": "friend",
             "def": "朋友",
-            "ipa": "/frend/",
-            "eng_def": "a person you know and like",
-            "pos": "noun"
+            "ipa": "",
+            "eng_def": "a person you know and like"
           }
         ]
       }
@@ -804,9 +749,8 @@ const LESSONS = [
           {
             "word": "home",
             "def": "家",
-            "ipa": "/həʊm/",
-            "eng_def": "the place where you live with your family",
-            "pos": "noun"
+            "ipa": "",
+            "eng_def": "the place where you live with your family"
           }
         ]
       },
@@ -830,9 +774,8 @@ const LESSONS = [
           {
             "word": "help",
             "def": "帮忙",
-            "ipa": "/help/",
-            "eng_def": "to do something so the work is easier for another person",
-            "pos": "verb"
+            "ipa": "",
+            "eng_def": "to do something so the work is easier for another person"
           }
         ]
       },
@@ -844,16 +787,14 @@ const LESSONS = [
           {
             "word": "hand",
             "def": "手",
-            "ipa": "/hænd/",
-            "eng_def": "the body part at the end of your arm",
-            "pos": "noun"
+            "ipa": "",
+            "eng_def": "the body part at the end of your arm"
           },
           {
             "word": "put",
             "def": "放",
-            "ipa": "/pʊt/",
-            "eng_def": "to move something to a place",
-            "pos": "verb"
+            "ipa": "",
+            "eng_def": "to move something to a place"
           }
         ]
       },
@@ -871,16 +812,14 @@ const LESSONS = [
           {
             "word": "clean",
             "def": "擦干净",
-            "ipa": "/kliːn/",
-            "eng_def": "to remove dirt; not dirty",
-            "pos": "verb"
+            "ipa": "",
+            "eng_def": "to remove dirt; not dirty"
           },
           {
             "word": "table",
             "def": "桌子",
-            "ipa": "/ˈteɪbl/",
-            "eng_def": "a piece of furniture with a flat top",
-            "pos": "noun"
+            "ipa": "",
+            "eng_def": "a piece of furniture with a flat top"
           }
         ]
       },
@@ -892,9 +831,8 @@ const LESSONS = [
           {
             "word": "food",
             "def": "食物",
-            "ipa": "/fuːd/",
-            "eng_def": "the things that people and animals eat",
-            "pos": "noun"
+            "ipa": "",
+            "eng_def": "the things that people and animals eat"
           }
         ]
       },
@@ -912,9 +850,8 @@ const LESSONS = [
           {
             "word": "good",
             "def": "好的",
-            "ipa": "/ɡʊd/",
-            "eng_def": "of a high quality; not bad",
-            "pos": "adj"
+            "ipa": "",
+            "eng_def": "of a high quality; not bad"
           }
         ]
       },
@@ -932,9 +869,8 @@ const LESSONS = [
           {
             "word": "love",
             "def": "爱，喜欢",
-            "ipa": "/lʌv/",
-            "eng_def": "to like someone or something very much",
-            "pos": "verb"
+            "ipa": "",
+            "eng_def": "to like someone or something very much"
           }
         ]
       }
@@ -1006,9 +942,8 @@ const LESSONS = [
           {
             "word": "window",
             "def": "窗户",
-            "ipa": "/ˈwɪndəʊ/",
-            "eng_def": "an opening in a wall with glass",
-            "pos": "noun"
+            "ipa": "",
+            "eng_def": "an opening in a wall with glass"
           }
         ]
       },
@@ -1020,9 +955,8 @@ const LESSONS = [
           {
             "word": "rain",
             "def": "雨",
-            "ipa": "/reɪn/",
-            "eng_def": "water that falls from the sky",
-            "pos": "noun"
+            "ipa": "",
+            "eng_def": "water that falls from the sky"
           }
         ]
       },
@@ -1046,9 +980,8 @@ const LESSONS = [
           {
             "word": "rain",
             "def": "雨",
-            "ipa": "/reɪn/",
-            "eng_def": "water that falls from the sky",
-            "pos": "noun"
+            "ipa": "",
+            "eng_def": "water that falls from the sky"
           }
         ]
       },
@@ -1066,9 +999,8 @@ const LESSONS = [
           {
             "word": "book",
             "def": "书",
-            "ipa": "/bʊk/",
-            "eng_def": "pages with words that you read",
-            "pos": "noun"
+            "ipa": "",
+            "eng_def": "pages with words that you read"
           }
         ]
       },
@@ -1080,16 +1012,14 @@ const LESSONS = [
           {
             "word": "read",
             "def": "读",
-            "ipa": "/riːd/",
-            "eng_def": "to look at words and understand them",
-            "pos": "verb"
+            "ipa": "",
+            "eng_def": "to look at words and understand them"
           },
           {
             "word": "story",
             "def": "故事",
-            "ipa": "/ˈstɔːri/",
-            "eng_def": "words that tell about events",
-            "pos": "noun"
+            "ipa": "",
+            "eng_def": "words that tell about events"
           }
         ]
       },
@@ -1101,9 +1031,8 @@ const LESSONS = [
           {
             "word": "bed",
             "def": "床",
-            "ipa": "/bed/",
-            "eng_def": "a piece of furniture that you sleep on",
-            "pos": "noun"
+            "ipa": "",
+            "eng_def": "a piece of furniture that you sleep on"
           }
         ]
       },
@@ -1115,9 +1044,8 @@ const LESSONS = [
           {
             "word": "rest",
             "def": "休息",
-            "ipa": "/rest/",
-            "eng_def": "to stop work so your body can feel better",
-            "pos": "verb"
+            "ipa": "",
+            "eng_def": "to stop work so your body can feel better"
           }
         ]
       },

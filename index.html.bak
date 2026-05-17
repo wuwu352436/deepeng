@@ -91,12 +91,13 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC'
 .blind-progress-fill { height: 100%; background: var(--primary); border-radius: 3px; transition: width .3s; }
 .blind-time { font-size: 12px; color: var(--text-muted); min-width: 80px; text-align: right; }
 
-/* 精听 (Intensive Listening) */
+/* 精听调速按钮 */
 .intensive-speed-control { display: flex; align-items: center; gap: 6px; padding: 10px 16px; border-bottom: 1px solid var(--border); background: var(--bg); border-radius: var(--radius) var(--radius) 0 0; }
 .intensive-speed-control .speed-label { font-size: 13px; font-weight: 600; color: var(--text-muted); margin-right: 4px; }
 .speed-btn { padding: 4px 12px; border: 1px solid var(--border); border-radius: 4px; background: transparent; font-size: 13px; font-weight: 500; cursor: pointer; transition: all .15s; color: var(--text); }
 .speed-btn.active { background: var(--primary); color: white; border-color: var(--primary); }
 .speed-btn:hover:not(.active) { background: var(--primary-bg); }
+/* 精听模块原有样式 */
 .intensive-sentence { padding: 16px; border-bottom: 1px solid var(--border); cursor: pointer; }
 .intensive-sentence:last-child { border-bottom: none; }
 .intensive-sentence .en { font-size: 18px; line-height: 1.8; }
@@ -371,73 +372,6 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC'
 .toast { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%); background: var(--text); color: white; padding: 12px 24px; border-radius: 24px; font-size: 14px; z-index: 300; opacity: 0; transition: opacity .3s; }
 .toast.show { opacity: 1; }
 
-/* API Settings */
-.ai-settings-btn {
-  width: 36px; height: 36px;
-  border-radius: 50%;
-  border: 1px solid var(--border);
-  background: var(--card-bg);
-  color: var(--text-muted);
-  font-size: 16px;
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-shrink: 0;
-  transition: all .2s;
-}
-.ai-settings-btn:active { transform: scale(.9); }
-.ai-settings-btn.configured { color: var(--success); border-color: var(--success); }
-
-.ai-settings-overlay {
-  position: fixed; top: 0; left: 0; right: 0; bottom: 0;
-  background: rgba(0,0,0,.4);
-  z-index: 400;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.ai-settings-panel {
-  background: var(--card-bg);
-  border-radius: 16px;
-  padding: 24px;
-  width: 360px;
-  max-width: 90vw;
-  box-shadow: 0 20px 60px rgba(0,0,0,.2);
-}
-.ai-settings-panel h3 { font-size: 18px; margin-bottom: 16px; color: var(--text); }
-.ai-settings-panel label { display: block; font-size: 13px; font-weight: 600; color: var(--text-muted); margin-bottom: 4px; margin-top: 12px; }
-.ai-settings-panel select,
-.ai-settings-panel input[type="text"],
-.ai-settings-panel input[type="password"] {
-  width: 100%;
-  padding: 10px 12px;
-  border: 2px solid var(--border);
-  border-radius: 8px;
-  font-size: 14px;
-  outline: none;
-  transition: border-color .2s;
-  background: var(--card-bg);
-  color: var(--text);
-}
-.ai-settings-panel select:focus,
-.ai-settings-panel input:focus { border-color: var(--primary); }
-.ai-settings-panel .settings-note { font-size: 12px; color: var(--text-muted); margin-top: 4px; }
-.ai-settings-panel .settings-actions { display: flex; gap: 8px; margin-top: 20px; }
-.ai-settings-panel .settings-save-btn {
-  flex: 1; padding: 12px; border: none; border-radius: 8px;
-  background: var(--primary); color: white; font-size: 15px; font-weight: 600;
-  cursor: pointer; transition: all .2s;
-}
-.ai-settings-panel .settings-save-btn:active { transform: scale(.97); }
-.ai-settings-panel .settings-cancel-btn {
-  flex: 1; padding: 12px; border: 2px solid var(--border); border-radius: 8px;
-  background: transparent; color: var(--text); font-size: 15px; font-weight: 500;
-  cursor: pointer; transition: all .2s;
-}
-.ai-settings-panel .settings-cancel-btn:active { transform: scale(.97); }
-.ai-settings-panel .model-info { font-size: 12px; color: var(--text-muted); margin-top: 8px; padding: 8px; background: var(--bg); border-radius: 6px; }
-
 /* Responsive */
 @media (max-width: 480px) {
   .container { padding: 0 12px; }
@@ -519,9 +453,9 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC'
   <div id="intensivePanel" class="panel hidden">
     <div class="card">
       <div class="intensive-speed-control">
-        <span class="speed-label">🔊 速度:</span>
-        <button class="speed-btn" data-speed="0.7" onclick="setIntensiveSpeed(0.7)">0.7x</button>
+        <span class="speed-label">🔊 Speed:</span>
         <button class="speed-btn active" data-speed="1.0" onclick="setIntensiveSpeed(1.0)">1.0x</button>
+        <button class="speed-btn" data-speed="0.7" onclick="setIntensiveSpeed(0.7)">0.7x</button>
         <button class="speed-btn" data-speed="1.3" onclick="setIntensiveSpeed(1.3)">1.3x</button>
       </div>
       <div class="intensive-list" id="intensiveSentences"></div>
@@ -600,7 +534,6 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC'
         <div style="display:flex;gap:8px;align-items:center;margin-top:8px;">
           <button class="ai-start-btn" id="aiChatStartBtn" onclick="startAIConversation()" style="margin-bottom:0;flex:1;">🎯 Start AI Conversation</button>
           <button class="ai-tts-toggle active" id="aiTtsToggle" onclick="toggleTTS()">🔊 TTS</button>
-          <button class="ai-settings-btn" id="aiSettingsBtn" onclick="showAISettings()" title="API Settings">⚙️</button>
         </div>
       </div>
     </div>
@@ -641,34 +574,6 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC'
       <button class="nav-btn backward" onclick="pageTurn(-1)">◀</button>
       <div class="page-indicator" id="fullscreenPageNum">第 0/0 句</div>
       <button class="nav-btn" onclick="pageTurn(1)">▶</button>
-    </div>
-  </div>
-</div>
-
-<!-- AI Settings Panel -->
-<div class="ai-settings-overlay hidden" id="aiSettingsOverlay" onclick="closeAISettings(event)">
-  <div class="ai-settings-panel" onclick="event.stopPropagation()">
-    <h3>🤖 AI 对话设置</h3>
-    <label for="aiApiProvider">API 提供商</label>
-    <select id="aiApiProvider" onchange="onProviderChange()">
-      <option value="deepseek">DeepSeek</option>
-      <option value="openai">OpenAI</option>
-      <option value="custom">自定义 OpenAI 兼容</option>
-    </select>
-    <label for="aiApiKey">API Key</label>
-    <input type="password" id="aiApiKey" placeholder="sk-...">
-    <div class="settings-note" id="aiApiKeyNote">API key 仅保存在本地浏览器 localStorage 中</div>
-    <label for="aiApiModel">模型名称</label>
-    <input type="text" id="aiApiModel" placeholder="deepseek-chat / gpt-4o-mini / ...">
-    <div class="settings-note" id="aiApiModelNote">DeepSeek 默认: deepseek-chat | OpenAI 默认: gpt-4o-mini</div>
-    <div id="aiCustomUrlRow" class="hidden">
-      <label for="aiApiBaseUrl">API Base URL</label>
-      <input type="text" id="aiApiBaseUrl" placeholder="https://api.openai.com/v1">
-    </div>
-    <div class="model-info" id="aiModelInfo">💡 使用 DeepSeek/OpenAI 兼容 API 进行真实 AI 对话。System prompt 强制只输出英文。</div>
-    <div class="settings-actions">
-      <button class="settings-cancel-btn" onclick="closeAISettings(event)">取消</button>
-      <button class="settings-save-btn" onclick="saveAISettings()">保存</button>
     </div>
   </div>
 </div>
@@ -819,14 +724,7 @@ function toggleArticlePlay() {
 // Playback guard: prevent overlapping audio
 let _pendingPlay = null;
 
-/**
- * Play individual sentence audio using playbackRate for speed control.
- * Always uses the normal audio file — no separate slow files needed.
- * @param {number} idx - Sentence index (0-based)
- * @param {boolean} isSlow - Deprecated, kept for backward compat; speedMultiplier preferred
- * @param {function} onEnded - Optional callback when audio finishes
- * @param {number} speedMultiplier - playbackRate (0.7 / 1.0 / 1.3). Falls back to isSlow if unset
- */
+/** Play individual sentence audio. If speed is provided, uses playbackRate on the normal audio file. */
 function playSentence(idx, isSlow, onEnded, speedMultiplier) {
   const lesson = LESSONS[currentLesson];
   const s = lesson.sentences[idx];
@@ -848,9 +746,9 @@ function playSentence(idx, isSlow, onEnded, speedMultiplier) {
 
   const lessonNum = String(currentLesson + 1).padStart(2, '0');
   const sentNum = String(idx + 1).padStart(2, '0');
-
-  // If speedMultiplier is provided, use playbackRate on the normal audio
-  // Otherwise, fall back to isSlow for backward compatibility
+  
+  // If speedMultiplier is provided, use the normal audio with playbackRate
+  // Otherwise, fall back to slow/normal file selection
   const speed = speedMultiplier !== undefined ? speedMultiplier : (isSlow ? 0.7 : 1.0);
   const audioPath = `audio/lesson_${lessonNum}/sentence_${sentNum}_normal.wav`;
 
@@ -1736,8 +1634,7 @@ function renderIntensive() {
     `;
   }).join('');
 }
-
-// ============== Intensive Listening Speed Control ==============
+// ============== Intensive Listening ==============
 let intensiveSpeed = 1.0; // 0.7 / 1.0 / 1.3
 
 function setIntensiveSpeed(speed) {
@@ -1751,7 +1648,7 @@ function playIntensiveSentence(idx) {
   const lesson = LESSONS[currentLesson];
   const s = lesson.sentences[idx];
   
-  // Use current speed setting for intensive listening (playbackRate)
+  // Use current speed setting for intensive listening
   playSentence(idx, false, null, intensiveSpeed);
   
   // Highlight
@@ -2463,174 +2360,71 @@ if ('speechSynthesis' in window) {
 // Bind voice input to mic button
 document.getElementById('aiMicBtn').addEventListener('click', toggleVoiceInput);
 
-// ============== AI Dialogue - Real API Call ==============
-
-// AI API state
-const AI_API_STORAGE_KEY = 'deepeng_ai_api_config';
-let aiConversationHistory = [];
-let aiConversationActive = false;
-
-function getAIConfig() {
-  try {
-    const raw = localStorage.getItem(AI_API_STORAGE_KEY);
-    return raw ? JSON.parse(raw) : null;
-  } catch { return null; }
-}
-
-function saveAIConfig(config) {
-  localStorage.setItem(AI_API_STORAGE_KEY, JSON.stringify(config));
-}
-
-function getApiDefaults(provider) {
-  switch(provider) {
-    case 'deepseek': return { baseUrl: 'https://api.deepseek.com/v1', model: 'deepseek-chat' };
-    case 'openai': return { baseUrl: 'https://api.openai.com/v1', model: 'gpt-4o-mini' };
-    default: return { baseUrl: 'https://api.openai.com/v1', model: 'gpt-4o-mini' };
-  }
-}
-
-function showAISettings() {
-  const overlay = document.getElementById('aiSettingsOverlay');
-  overlay.classList.remove('hidden');
-  const config = getAIConfig();
-  if (config) {
-    document.getElementById('aiApiProvider').value = config.provider || 'deepseek';
-    document.getElementById('aiApiKey').value = config.apiKey || '';
-    document.getElementById('aiApiModel').value = config.model || '';
-    document.getElementById('aiApiBaseUrl').value = config.baseUrl || '';
-  } else {
-    document.getElementById('aiApiProvider').value = 'deepseek';
-    document.getElementById('aiApiKey').value = '';
-    document.getElementById('aiApiModel').value = '';
-    document.getElementById('aiApiBaseUrl').value = '';
-  }
-  onProviderChange();
-  updateSettingsBtn();
-}
-
-function closeAISettings(e) {
-  if (e) e.stopPropagation();
-  document.getElementById('aiSettingsOverlay').classList.add('hidden');
-}
-
-function onProviderChange() {
-  const provider = document.getElementById('aiApiProvider').value;
-  const customUrlRow = document.getElementById('aiCustomUrlRow');
-  const modelInput = document.getElementById('aiApiModel');
-  const modelNote = document.getElementById('aiApiModelNote');
-
-  if (provider === 'custom') {
-    customUrlRow.classList.remove('hidden');
-    modelNote.textContent = '输入你使用的模型名称';
-  } else {
-    customUrlRow.classList.add('hidden');
-    const defaults = getApiDefaults(provider);
-    if (!modelInput.value || modelInput.dataset.auto !== 'false') {
-      modelInput.value = defaults.model;
-      modelInput.dataset.auto = 'true';
+// ============== AI Dialogue (Pure English) ==============
+const AI_QUESTION_TEMPLATES = [
+  { type: 'what', pattern: (s) => `Let's start simple — what does this sentence mean: "${s.en}"?` },
+  { type: 'detail', pattern: (s) => `Can you tell me what is happening in this sentence?` },
+  { type: 'summary', pattern: (s) => `In your own words, what does this sentence tell us?` },
+  { type: 'opinion', pattern: (s) => `What do you think about this part of the story?` },
+  { type: 'vocab', pattern: (s) => {
+    const words = s.words.filter(w => w.word.length > 3);
+    if (words.length > 0) {
+      const w = words[Math.floor(Math.random() * words.length)];
+      return `Look at the word "${w.word}" in this sentence. What does it mean? Can you make a new sentence with it?`;
     }
-    modelNote.textContent = provider === 'deepseek' ? 'DeepSeek 默认: deepseek-chat' : 'OpenAI 默认: gpt-4o-mini';
-  }
-}
+    return `Are there any new words in this sentence that you learned?`;
+  }},
+  { type: 'explain', pattern: (s) => `Why do you think the writer chose to say "${s.en}" this way?` },
+  { type: 'connect', pattern: (s) => `How does this sentence connect to the ones before it?` },
+  { type: 'imagine', pattern: (s) => `Imagine you are in this situation. What would you do or say?` },
+  { type: 'rewrite', pattern: (s) => `Can you rewrite this sentence in a different way?` },
+  { type: 'question', pattern: (s) => `If you could ask a question about "${s.en}", what would it be?` },
+  { type: 'contrast', pattern: (s) => `Compare this sentence with the previous one. How are they different?` },
+  { type: 'fill', pattern: (s) => {
+    const words = s.en.split(' ');
+    if (words.length > 4) {
+      const idx = Math.floor(Math.random() * Math.max(1, Math.floor(words.length / 2))) + 1;
+      const hidden = [...words];
+      const removed = hidden.splice(idx, 1)[0];
+      return `Complete this: "${hidden.join(' ')} ___" — what word is missing?`;
+    }
+    return `What does the main character/idea do in this sentence?`;
+  }},
+  { type: 'prediction', pattern: (s) => `After reading "${s.en}", what do you think happens next?` },
+  { type: 'feeling', pattern: (s) => `How does "${s.en}" make you feel? Happy? Surprised? Curious?` },
+  { type: 'example', pattern: (s) => `The sentence says "${s.en}". Can you give me a real-life example of this?` },
+  { type: 'keyword', pattern: (s) => {
+    const kw = s.words.filter(w => w.word.length > 3);
+    if (kw.length > 1) {
+      const a = kw[0].word, b = kw[1].word;
+      return `I see two important words here: "${a}" and "${b}". Do you know what both mean?`;
+    }
+    return `What is the most important word in this sentence? Why?`;
+  }},
+];
 
-function saveAISettings() {
-  const provider = document.getElementById('aiApiProvider').value;
-  const apiKey = document.getElementById('aiApiKey').value.trim();
-  let model = document.getElementById('aiApiModel').value.trim();
-  let baseUrl = document.getElementById('aiApiBaseUrl').value.trim();
-
-  if (!apiKey) {
-    showToast('⚠️ 请输入 API Key');
-    return;
-  }
-
-  const defaults = getApiDefaults(provider);
-  if (!model) model = defaults.model;
-  if (!baseUrl) baseUrl = defaults.baseUrl;
-
-  saveAIConfig({ provider, apiKey, model, baseUrl });
-  closeAISettings();
-  updateSettingsBtn();
-  showToast('✅ AI 设置已保存');
-}
-
-function updateSettingsBtn() {
-  const btn = document.getElementById('aiSettingsBtn');
-  const config = getAIConfig();
-  btn.classList.toggle('configured', !!config);
-}
-
-async function callAIAPI(messages, systemPrompt) {
-  const config = getAIConfig();
-  if (!config || !config.apiKey) {
-    throw new Error('API not configured. Click ⚙️ to set up your API key.');
-  }
-
-  const fullMessages = [];
-  if (systemPrompt) {
-    fullMessages.push({ role: 'system', content: systemPrompt });
-  }
-  fullMessages.push(...messages);
-
-  const response = await fetch(`${config.baseUrl}/chat/completions`, {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'Authorization': `Bearer ${config.apiKey}`
-    },
-    body: JSON.stringify({
-      model: config.model,
-      messages: fullMessages,
-      max_tokens: 512,
-      temperature: 0.7,
-      stream: false
-    })
-  });
-
-  if (!response.ok) {
-    const errBody = await response.text().catch(() => '');
-    throw new Error(`API error ${response.status}: ${errBody || response.statusText}`);
-  }
-
-  const data = await response.json();
-  return data.choices[0].message.content.trim();
-}
-
-function buildSystemPrompt() {
-  const lesson = LESSONS[currentLesson];
-  if (!lesson) return 'You are an AI English tutor. You MUST ALWAYS respond in English ONLY. Never use Chinese.';
-
-  const sentences = lesson.sentences || [];
-  const vocabList = sentences.map(s =>
-    s.words.map(w => `${w.word} (${w.eng_def || w.def})`).join(', ')
-  ).join('; ');
-
-  const sentenceTexts = sentences.map(s => `${s.id}. ${s.en}`).join('\n');
-  const lessonText = lesson.article_text || sentenceTexts;
-
-  return `You are an AI English tutor for Chinese beginner learners. You MUST ALWAYS respond in English ONLY. Never use Chinese or any other language.
-
-Lesson Content:
-Title: ${lesson.title}
-Text: ${lessonText}
-
-Key Vocabulary: ${vocabList || 'N/A'}
-
-Teaching rules:
-1. Ask questions about the lesson content to help the student practice.
-2. Use simple, beginner-friendly English.
-3. After the student answers, give brief feedback: praise what they did well, gently correct errors, and suggest improvements.
-4. Keep responses concise (2-4 sentences).
-5. Encourage the student to keep practicing in English.
-6. NEVER write in Chinese. ONLY English.`;
-}
+let aiDialogueState = {
+  active: false,
+  usedSentences: new Set(),
+  usedQuestions: [],
+  topicKeys: [],
+  lastQuestionType: '',
+  lastAnswerTopic: '',
+};
 
 function resetAIDialogue() {
+  // Stop any ongoing voice recording
   if (isRecording) stopVoiceInput();
-
-  aiConversationActive = false;
-  aiConversationHistory = [];
-
+  
+  aiDialogueState = {
+    active: false,
+    usedSentences: new Set(),
+    usedQuestions: [],
+    topicKeys: [],
+    lastQuestionType: '',
+    lastAnswerTopic: '',
+  };
+  // Reset UI
   const container = document.getElementById('aiChatMessages');
   if (container) {
     container.innerHTML = `<div class="ai-msg ai">
@@ -2664,12 +2458,12 @@ function addAIMessage(role, text, feedback) {
   const container = document.getElementById('aiChatMessages');
   const msgDiv = document.createElement('div');
   msgDiv.className = `ai-msg ${role}`;
-
+  
   let html = '';
   if (role === 'ai') {
-    html += '<div class="msg-label">AI Tutor</div>';
+    html += `<div class="msg-label">AI Tutor</div>`;
   } else if (role === 'user') {
-    html += '<div class="msg-label">You</div>';
+    html += `<div class="msg-label">You</div>`;
   }
   if (text) {
     html += `<div class="msg-text">${text}</div>`;
@@ -2677,15 +2471,17 @@ function addAIMessage(role, text, feedback) {
   if (feedback) {
     html += `<div class="msg-feedback">${feedback}</div>`;
   }
+  // Add speaker button for AI messages with text (for replay)
   if (role === 'ai' && text) {
     const escapedText = text.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#039;');
     html += `<button class="speaker-btn" data-text="${escapedText}" onclick="replaySpeaker(this)" title="Read aloud">🔊</button>`;
   }
-
+  
   msgDiv.innerHTML = html;
   container.appendChild(msgDiv);
   container.scrollTop = container.scrollHeight;
-
+  
+  // Auto-speak AI text messages
   if (role === 'ai' && text && ttsEnabled) {
     speakText(text);
   }
@@ -2701,7 +2497,7 @@ function showAITyping(show) {
     container.appendChild(el);
     return el;
   })();
-
+  
   if (show) {
     typingEl.classList.remove('hidden');
     container.scrollTop = container.scrollHeight;
@@ -2722,89 +2518,257 @@ function setAIChatEnabled(enabled) {
   if (enabled) input.focus();
 }
 
-async function startAIConversation() {
+function startAIConversation() {
   const lesson = LESSONS[currentLesson];
   if (!lesson || !lesson.sentences || lesson.sentences.length === 0) {
     addAIMessage('system', 'No lesson content available. Please select a lesson first.');
     return;
   }
-
-  const config = getAIConfig();
-  if (!config || !config.apiKey) {
-    addAIMessage('system', '⚠️ Please configure your API key first. Click the ⚙️ button to set up.');
-    showAISettings();
-    return;
-  }
-
-  aiConversationActive = true;
-  aiConversationHistory = [];
-
+  
+  // Reset state
+  aiDialogueState = {
+    active: true,
+    usedSentences: new Set(),
+    usedQuestions: [],
+    topicKeys: lesson.sentences.slice(0, 3).map(s => s.en.split(/\s+/).filter(w => w.length > 3).map(w => w.toLowerCase())).flat(),
+  };
+  
+  // Clear messages except the intro
   const container = document.getElementById('aiChatMessages');
   container.innerHTML = '';
-
-  addAIMessage('ai', '🤔 Thinking...');
-  showAITyping(true);
-
-  try {
-    const systemPrompt = buildSystemPrompt();
-    const userMessage = `I am ready to practice. Please start the conversation by asking me a question about "${lesson.title}".`;
-
-    aiConversationHistory.push({ role: 'user', content: userMessage });
-
-    const reply = await callAIAPI(aiConversationHistory, systemPrompt);
-    aiConversationHistory.push({ role: 'assistant', content: reply });
-
-    showAITyping(false);
-    container.removeChild(container.lastChild);
-
-    addAIMessage('ai', reply);
-    setAIChatEnabled(true);
-    document.getElementById('aiChatStartBtn').textContent = '🔄 Restart Conversation';
-  } catch (err) {
-    showAITyping(false);
-    container.removeChild(container.lastChild);
-    addAIMessage('system', `Error: ${err.message}. Please check your API settings and try again.`);
-    aiConversationActive = false;
-    setAIChatEnabled(false);
-  }
+  
+  addAIMessage('ai', "Hello! I'm your AI English tutor. Let's practice using the lesson. I'll ask you questions about the text, and you answer in English. Ready? Let's begin!");
+  
+  setAIChatEnabled(true);
+  document.getElementById('aiChatStartBtn').textContent = '🔄 Restart Conversation';
+  
+  // Ask first question after a brief delay
+  setTimeout(() => askAIQuestion(), 1000);
 }
 
-async function sendAIMessage() {
-  if (!aiConversationActive) return;
+function askAIQuestion() {
+  const lesson = LESSONS[currentLesson];
+  const sentences = lesson.sentences;
+  
+  // Pick an unused sentence (or random if all used)
+  let available = sentences.filter((_, i) => !aiDialogueState.usedSentences.has(i));
+  if (available.length === 0) {
+    // All sentences used — ask a wrap-up or review question
+    const allWords = sentences.map(s => s.words.map(w => w.word)).flat().filter(w => w.length > 3);
+    if (allWords.length > 0) {
+      const word = allWords[Math.floor(Math.random() * allWords.length)];
+      const q = `Great progress! Let's review one more word. Can you make a new sentence using "${word}"?`;
+      addAIMessage('ai', q);
+      aiDialogueState.usedQuestions.push(q);
+      return;
+    }
+    addAIMessage('ai', "You've answered questions about the whole lesson! 🎉 Do you want to restart and practice more, or try the quiz?");
+    setAIChatEnabled(true);
+    return;
+  }
+  
+  // Try to pick a sentence related to the user's last answer for a conversational feel
+  let sentence, realIdx;
+  if (aiDialogueState.lastAnswerTopic && Math.random() < 0.3) {
+    // 30% chance: find a related sentence
+    const related = sentences.filter((s, i) => 
+      !aiDialogueState.usedSentences.has(i) &&
+      s.en.toLowerCase().includes(aiDialogueState.lastAnswerTopic)
+    );
+    if (related.length > 0) {
+      sentence = related[0];
+      realIdx = sentences.indexOf(sentence);
+    }
+  }
+  
+  if (!sentence) {
+    // Pick a random available sentence
+    const idx = Math.floor(Math.random() * available.length);
+    sentence = available[idx];
+    realIdx = sentences.indexOf(sentence);
+  }
+  aiDialogueState.usedSentences.add(realIdx);
+  
+  // Choose a question template (avoid repeating the same type twice in a row)
+  let template;
+  do {
+    template = AI_QUESTION_TEMPLATES[Math.floor(Math.random() * AI_QUESTION_TEMPLATES.length)];
+  } while (template.type === aiDialogueState.lastQuestionType && AI_QUESTION_TEMPLATES.length > 3);
+  aiDialogueState.lastQuestionType = template.type;
+  
+  const question = template.pattern(sentence);
+  
+  addAIMessage('ai', question);
+  aiDialogueState.usedQuestions.push(question);
+  setAIChatEnabled(true);
+}
 
+function sendAIMessage() {
   const input = document.getElementById('aiChatInput');
   const text = input.value.trim();
   if (!text) return;
-
+  
   input.value = '';
   addAIMessage('user', text);
   setAIChatEnabled(false);
-  aiConversationHistory.push({ role: 'user', content: text });
-
+  
+  // Check if answer is in Chinese
+  const hasChinese = /[\u4e00-\u9fff]/.test(text);
+  
   showAITyping(true);
-
-  try {
-    const systemPrompt = buildSystemPrompt();
-    const reply = await callAIAPI(aiConversationHistory, systemPrompt);
-    aiConversationHistory.push({ role: 'assistant', content: reply });
-
+  
+  setTimeout(() => {
     showAITyping(false);
-    addAIMessage('ai', reply);
-    setAIChatEnabled(true);
-  } catch (err) {
-    showAITyping(false);
-    addAIMessage('system', `Error: ${err.message}. Please try again.`);
-    setAIChatEnabled(true);
-  }
+    
+    if (hasChinese) {
+      // User answered in Chinese — encourage English
+      const cnHint = generateChineseHint(text);
+      addAIMessage('ai', '', cnHint);
+    } else {
+      // Evaluate the English answer
+      const feedback = evaluateAIAnswer(text);
+      addAIMessage('ai', '', feedback);
+    }
+    
+    // Small pause, then ask next question
+    setTimeout(() => askAIQuestion(), 1500);
+  }, 1500);
 }
 
+function generateChineseHint(chineseText) {
+  // Extract key Chinese words to find related lesson content
+  const lesson = LESSONS[currentLesson];
+  const sentences = lesson.sentences || [];
+  const allLessonEn = sentences.map(s => s.en).join(' ');
+  const allLessonDefs = sentences.map(s => s.words.map(w => w.def)).flat();
+  
+  // Pick a sentence to use as hint
+  const hintSentence = sentences[Math.floor(Math.random() * sentences.length)];
+  const vocabWords = hintSentence.words.filter(w => w.word.length > 3);
+  const vocabHint = vocabWords.length > 0 
+    ? vocabWords[Math.floor(Math.random() * vocabWords.length)].word
+    : hintSentence.en.split(' ').filter(w => w.length > 3)[0] || 'word';
+  
+  return `
+    <div class="encourage">💬 Try answering in English! It's okay to make mistakes — that's how we learn.</div>
+    <div class="vocab-hint">📖 Here's a word from the lesson that might help: "<strong>${vocabHint}</strong>". Try using it in your answer!</div>
+    <div style="margin-top:8px;font-size:14px;color:var(--text-muted);border-left:3px solid var(--primary);padding-left:12px;">
+    Example: <em>"${hintSentence.en}"</em>
+    </div>
+  `;
+}
+
+function evaluateAIAnswer(userAnswer) {
+  const lesson = LESSONS[currentLesson];
+  const sentences = lesson.sentences || [];
+  const allLessonText = lesson.article_text ? lesson.article_text.toLowerCase() : '';
+  const userWords = userAnswer.toLowerCase().split(/[\s,.\!?;:]+/).filter(w => w.length > 2);
+  const userWordsAll = userAnswer.toLowerCase().split(/[\s,.\!?;:]+/).filter(w => w.length > 0);
+  
+  // Collect all key vocabulary from the lesson
+  const allVocab = sentences.map(s => s.words.map(w => w.word.toLowerCase())).flat().filter(w => w.length > 2);
+  const uniqueVocab = [...new Set(allVocab)];
+  const allContentWords = sentences.map(s => s.en.toLowerCase().split(/[\s,.\!?;:]+/).filter(w => w.length > 3)).flat();
+  
+  // Count how many lesson-relevant words the user used
+  const matchedVocab = uniqueVocab.filter(v => userWords.some(uw => uw === v || uw.includes(v) || v.includes(uw)));
+  const matchedContent = allContentWords.filter(cw => userWords.some(uw => uw === cw || uw.includes(cw) || cw.includes(uw)));
+  
+  const isLongEnough = userWords.length >= 3;
+  const vocabScore = matchedVocab.length + matchedContent.length;
+  const wordCount = userWordsAll.length;
+  
+  // Store a keyword from the answer for follow-up context
+  if (matchedVocab.length > 0) {
+    aiDialogueState.lastAnswerTopic = matchedVocab[0];
+  } else if (userWords.length > 0) {
+    aiDialogueState.lastAnswerTopic = userWords[0];
+  }
+  
+  // Generate feedback
+  let encouragement = '';
+  let grammarHint = '';
+  let vocabHint = '';
+  
+  // Check for common grammar issues
+  const commonErrors = [
+    { pattern: /\bi\s+[a-z]/g, hint: "💡 Capitalize 'I' when talking about yourself." },
+    { pattern: /\b(he|she|it)\s+(don't|doesn't)\s+(\w+)\b/gi, hint: "💡 With he/she/it, use 'doesn't' + base verb (e.g., 'doesn't go')." },
+    { pattern: /\b(he|she|it)\s+(\w+[^s])\b/g, hint: "💡 With he/she/it, add 's' to the verb (e.g., 'she runs')." },
+    { pattern: /\byesterday\s+.+ed\b/gi, hint: "💡 Simple past tense — good job!" },
+    { pattern: /\b(go|come|run|eat|sleep|take|give|make|have|do|say|get|see|know|think)\s+ed\b/gi, hint: "💡 Some verbs are irregular! 'Goed' → 'went', 'doed' → 'did', 'seed' → 'saw'." },
+    { pattern: /\b(a|an)\s+[aeiou]/gi, hint: "💡 Use 'an' before vowel sounds (an apple, an hour)." },
+    { pattern: /\bpeoples?\b/gi, hint: "💡 'People' is already plural — no need to add 's'!" },
+  ];
+  
+  for (const err of commonErrors) {
+    if (err.pattern.test(userAnswer)) {
+      grammarHint = err.hint;
+      break;
+    }
+  }
+  
+  // Vocab hint: suggest a lesson word they could have used
+  const unusedVocab = uniqueVocab.filter(v => !userWords.includes(v));
+  if (unusedVocab.length > 0 && vocabScore < 2) {
+    const suggest = unusedVocab[Math.floor(Math.random() * unusedVocab.length)];
+    vocabHint = `📖 Try using the word "<strong>${suggest}</strong>" from this lesson.`;
+  }
+  
+  // Encourage specific good usage
+  let specificGood = '';
+  if (matchedVocab.length > 0) {
+    const goodWord = matchedVocab[Math.floor(Math.random() * matchedVocab.length)];
+    specificGood = `✨ Great to see you using "<strong>${goodWord}</strong>"!`;
+  }
+  
+  // Score-based encouragement
+  if (vocabScore >= 3 && wordCount >= 8) {
+    encouragement = '🌟 Excellent answer! You used lesson vocabulary naturally and your answer is detailed.';
+  } else if (vocabScore >= 3 && wordCount >= 4) {
+    encouragement = '🌟 Great answer! You included several lesson words.';
+  } else if (vocabScore >= 1 && wordCount >= 5) {
+    encouragement = '👍 Good effort! You\'re using lesson vocabulary. Try to expand a bit more.';
+  } else if (vocabScore >= 1 && wordCount >= 3) {
+    encouragement = '👍 Nice! You used a lesson word. Can you add more detail?';
+  } else if (wordCount >= 8) {
+    encouragement = '💪 Good length! Now try to include words from the lesson.';
+  } else if (wordCount >= 4) {
+    encouragement = '💪 Keep going! Try using some vocabulary from the lesson in your answer.';
+  } else {
+    encouragement = '🤔 Try writing a bit more. What else can you say about this? Use words from the lesson!';
+  }
+  
+  // Add helpful follow-up for very short answers
+  let followUp = '';
+  if (wordCount < 4) {
+    followUp = '<div style="margin-top:6px;font-size:13px;color:var(--primary);">💡 Tip: Try starting with "I think..." or "The story says..."</div>';
+  }
+  
+  let feedbackHtml = `<div class="encourage">${encouragement}</div>`;
+  if (specificGood) {
+    feedbackHtml += `<div style="margin-top:4px">${specificGood}</div>`;
+  }
+  if (vocabHint) {
+    feedbackHtml += `<div class="vocab-hint" style="margin-top:4px">${vocabHint}</div>`;
+  }
+  if (grammarHint) {
+    feedbackHtml += `<div class="grammar-hint" style="margin-top:4px">${grammarHint}</div>`;
+  }
+  if (followUp) {
+    feedbackHtml += followUp;
+  }
+  
+  return feedbackHtml;
+}
+
+// Bind AI chat input
 document.getElementById('aiChatInput').addEventListener('keydown', (e) => {
   if (e.key === 'Enter') sendAIMessage();
 });
 document.getElementById('aiChatSendBtn').addEventListener('click', sendAIMessage);
 
-updateSettingsBtn();
-
+// ============== Start ==============
 document.addEventListener('DOMContentLoaded', init);
 </script>
 </body>
