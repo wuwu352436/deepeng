@@ -788,6 +788,7 @@ function playArticleAudio(onTimeUpdate) {
   
   articleAudio = new Audio(getAudioUrl(lesson.audio_full));
   articleAudio.preload = 'auto';
+  articleAudio.playbackRate = 1.12; // Slightly faster for natural speech cadence
   
   articleAudio.addEventListener('timeupdate', () => {
     if (onTimeUpdate) onTimeUpdate(articleAudio.currentTime, articleAudio.duration);
