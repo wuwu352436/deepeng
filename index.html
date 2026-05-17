@@ -665,6 +665,10 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC'
       <label for="aiApiBaseUrl">API Base URL</label>
       <input type="text" id="aiApiBaseUrl" placeholder="https://api.openai.com/v1">
     </div>
+    <hr style="margin:16px 0;border:none;border-top:1px solid var(--border);">
+    <label for="aiTtsServerUrl">🎙️ TTS 服务器 (可选)</label>
+    <input type="text" id="aiTtsServerUrl" placeholder="留空=浏览器语音 | http://192.168.1.100:5888">
+    <div class="settings-note">填写本地 ChatTTS 服务器地址后，AI 对话将使用高质量合成语音（需 WiFi 同网段）</div>
     <div class="model-info" id="aiModelInfo">💡 使用 DeepSeek/OpenAI 兼容 API 进行真实 AI 对话。System prompt 强制只输出英文。</div>
     <div class="settings-actions">
       <button class="settings-cancel-btn" onclick="closeAISettings(event)">取消</button>
@@ -934,6 +938,12 @@ function cancelSentenceAudio() {
     window._sentenceAudio.src = '';
     window._sentenceAudio.load();
     window._sentenceAudio = null;
+  }
+  // Cancel ChatTTS server audio if playing
+  if (serverAudioEl) {
+    serverAudioEl.pause();
+    serverAudioEl.src = '';
+    serverAudioEl = null;
   }
 }
 
@@ -1834,13 +1844,18 @@ function showWordPopup(event, word, chineseDef, engDef, sentenceIdx) {
   playBtn.textContent = '🔊 朗读单词';
 }
 
-/** Pronounce a single word using browser TTS */
+/** Pronounce a single word using browser TTS (always female voice) */
 function pronounceWord(word) {
   if (!window.speechSynthesis) return;
   window.speechSynthesis.cancel();
   const utter = new SpeechSynthesisUtterance(word);
   utter.lang = 'en-US';
   utter.rate = 0.85;
+  // Prefer female English voice — works on iOS (Samantha), macOS, Windows, Android
+  const voices = window.speechSynthesis.getVoices();
+  const enFemale = voices.find(v => v.lang.startsWith('en') && /female|samantha|zira|karen/i.test(v.name))
+    || voices.find(v => v.lang.startsWith('en'));
+  if (enFemale) utter.voice = enFemale;
   window.speechSynthesis.speak(utter);
 }
 
@@ -2328,29 +2343,99 @@ function toggleTTS() {
   }
 }
 
-/**
- * Speak text using Web Speech API (TTS)
- * @param {string} text - Text to speak
- * @returns {SpeechSynthesisUtterance|null}
- */
+/** Speak text — use ChatTTS server if configured, else Web Speech API (female voice) */
 function speakText(text) {
   if (!ttsEnabled || !text) return null;
+
+  // Cancel any ongoing playback
   window.speechSynthesis.cancel();
 
+  const config = getAIConfig();
+  const ttsUrl = config && config.ttsServerUrl;
+
+  if (ttsUrl) {
+    // ── Mode 1: Local ChatTTS server (high quality, same network) ──
+    speakViaServer(text, ttsUrl);
+    return null;  // Server mode is async, no utterance to return
+  }
+
+  // ── Mode 2: Web Speech API (always available) ──
   const utterance = new SpeechSynthesisUtterance(text);
   utterance.lang = 'en-US';
-  utterance.rate = 0.9;  // Slightly slower for language learners
+  utterance.rate = 0.85;  // Match word pronunciation speed
   utterance.pitch = 1.0;
   utterance.volume = 1.0;
 
-  // Try to find a natural English voice
+  // Prefer female English voice — matches pronounceWord()
   const voices = window.speechSynthesis.getVoices();
-  const enVoice = voices.find(v => v.lang.startsWith('en') && /female|zira/i.test(v.name))
+  const enVoice = voices.find(v => v.lang.startsWith('en') && /female|samantha|zira|karen/i.test(v.name))
     || voices.find(v => v.lang.startsWith('en'));
   if (enVoice) utterance.voice = enVoice;
 
   window.speechSynthesis.speak(utterance);
   return utterance;
+}
+
+/** Play audio via local ChatTTS server (async, no return value) */
+let serverAudioEl = null;
+
+function speakViaServer(text, serverUrl) {
+  // Clean up previous server audio
+  if (serverAudioEl) {
+    serverAudioEl.pause();
+    serverAudioEl.src = '';
+    serverAudioEl = null;
+  }
+
+  const url = serverUrl.replace(/\/+$/, '') + '/tts';
+  const audio = new Audio();
+  serverAudioEl = audio;
+
+  audio.addEventListener('canplaythrough', () => {
+    audio.play().catch(e => console.warn('TTS play error:', e));
+  }, { once: true });
+
+  audio.addEventListener('error', () => {
+    console.warn('TTS server unavailable, falling back to browser speech');
+    serverAudioEl = null;
+    // Fallback: use Web Speech API with female voice
+    const fb = new SpeechSynthesisUtterance(text);
+    fb.lang = 'en-US';
+    fb.rate = 0.85;
+    const voices = window.speechSynthesis.getVoices();
+    const enVoice = voices.find(v => v.lang.startsWith('en') && /female|samantha|zira|karen/i.test(v.name))
+      || voices.find(v => v.lang.startsWith('en'));
+    if (enVoice) fb.voice = enVoice;
+    window.speechSynthesis.speak(fb);
+  }, { once: true });
+
+  // Fetch audio blob and set as source
+  fetch(url, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ text: text })
+  })
+    .then(res => {
+      if (!res.ok) throw new Error('Server error ' + res.status);
+      return res.blob();
+    })
+    .then(blob => {
+      audio.src = URL.createObjectURL(blob);
+      audio.load();
+    })
+    .catch(err => {
+      console.warn('TTS server fetch failed:', err.message);
+      serverAudioEl = null;
+      // Fallback: Web Speech API
+      const fb = new SpeechSynthesisUtterance(text);
+      fb.lang = 'en-US';
+      fb.rate = 0.85;
+      const voices = window.speechSynthesis.getVoices();
+      const enVoice = voices.find(v => v.lang.startsWith('en') && /female|samantha|zira|karen/i.test(v.name))
+        || voices.find(v => v.lang.startsWith('en'));
+      if (enVoice) fb.voice = enVoice;
+      window.speechSynthesis.speak(fb);
+    });
 }
 
 /**
@@ -2378,10 +2463,25 @@ function replaySpeaker(btn) {
 let voiceRecognition = null;
 let voiceIsRecording = false;
 
+/** Check if running inside WeChat built-in browser */
+function isWeChatBrowser() {
+  return /MicroMessenger/i.test(navigator.userAgent);
+}
+
 function toggleVoiceInput() {
   const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+
+  // WeChat browser blocks SpeechRecognition — show helpful message, don't hard error
+  if (isWeChatBrowser()) {
+    document.getElementById('aiChatInput').focus();
+    document.getElementById('aiChatInput').placeholder = '📝 WeChat does not support voice input. Please type your answer.';
+    showToast('📝 WeChat voice input unavailable — type instead');
+    return;
+  }
+
   if (!SpeechRecognition) {
-    showToast('Voice input is not supported in this browser. Try Chrome or Edge.');
+    document.getElementById('aiChatInput').focus();
+    showToast('📝 Voice input not supported — please type your answer');
     return;
   }
 
@@ -2530,11 +2630,13 @@ function showAISettings() {
     document.getElementById('aiApiKey').value = config.apiKey || '';
     document.getElementById('aiApiModel').value = config.model || '';
     document.getElementById('aiApiBaseUrl').value = config.baseUrl || '';
+    document.getElementById('aiTtsServerUrl').value = config.ttsServerUrl || '';
   } else {
     document.getElementById('aiApiProvider').value = 'deepseek';
     document.getElementById('aiApiKey').value = '';
     document.getElementById('aiApiModel').value = '';
     document.getElementById('aiApiBaseUrl').value = '';
+    document.getElementById('aiTtsServerUrl').value = '';
   }
   onProviderChange();
   updateSettingsBtn();
@@ -2570,6 +2672,7 @@ function saveAISettings() {
   const apiKey = document.getElementById('aiApiKey').value.trim();
   let model = document.getElementById('aiApiModel').value.trim().toLowerCase();
   let baseUrl = document.getElementById('aiApiBaseUrl').value.trim();
+  let ttsServerUrl = document.getElementById('aiTtsServerUrl').value.trim();
 
   if (!apiKey) {
     showToast('⚠️ 请输入 API Key');
@@ -2580,10 +2683,14 @@ function saveAISettings() {
   if (!model) model = defaults.model;
   if (!baseUrl) baseUrl = defaults.baseUrl;
 
-  saveAIConfig({ provider, apiKey, model, baseUrl });
+  saveAIConfig({ provider, apiKey, model, baseUrl, ttsServerUrl });
   closeAISettings();
   updateSettingsBtn();
-  showToast('✅ AI 设置已保存');
+  if (ttsServerUrl) {
+    showToast('✅ 设置已保存（TTS 服务器已配置）');
+  } else {
+    showToast('✅ AI 设置已保存');
+  }
 }
 
 function updateSettingsBtn() {
