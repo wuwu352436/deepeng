@@ -660,7 +660,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC'
     <div class="settings-note" id="aiApiKeyNote">API key 仅保存在本地浏览器 localStorage 中</div>
     <label for="aiApiModel">模型名称</label>
     <input type="text" id="aiApiModel" placeholder="deepseek-chat / gpt-4o-mini / ...">
-    <div class="settings-note" id="aiApiModelNote">DeepSeek 默认: deepseek-chat | OpenAI 默认: gpt-4o-mini</div>
+    <div class="settings-note" id="aiApiModelNote">DeepSeek 默认: deepseek-v4-flash | OpenAI 默认: gpt-4o-mini</div>
     <div id="aiCustomUrlRow" class="hidden">
       <label for="aiApiBaseUrl">API Base URL</label>
       <input type="text" id="aiApiBaseUrl" placeholder="https://api.openai.com/v1">
@@ -782,18 +782,49 @@ function playArticleAudio(onTimeUpdate) {
   
   if (articleAudio) { articleAudio.pause(); articleAudio = null; }
   
+  const playBtn = document.getElementById('readingPlayBtn');
+  playBtn.textContent = '⏳';
+  playBtn.disabled = true;
+  
   articleAudio = new Audio(getAudioUrl(lesson.audio_full));
+  articleAudio.preload = 'auto';
+  
   articleAudio.addEventListener('timeupdate', () => {
     if (onTimeUpdate) onTimeUpdate(articleAudio.currentTime, articleAudio.duration);
   });
   articleAudio.addEventListener('ended', () => {
     isPlaying = false;
-    document.getElementById('readingPlayBtn').textContent = '▶';
+    playBtn.textContent = '▶';
+    playBtn.disabled = false;
   });
-  articleAudio.play().then(() => {
-    isPlaying = true;
-    document.getElementById('readingPlayBtn').textContent = '⏸';
-  }).catch(() => {});
+  
+  // Wait for audio to buffer before playing
+  const playTimeout = setTimeout(() => {
+    playBtn.textContent = '▶';
+    playBtn.disabled = false;
+    showToast('⏳ 音频较大，请稍后再试');
+  }, 15000);
+  
+  articleAudio.addEventListener('canplaythrough', () => {
+    clearTimeout(playTimeout);
+    if (articleAudio) {
+      articleAudio.play().then(() => {
+        isPlaying = true;
+        playBtn.textContent = '⏸';
+        playBtn.disabled = false;
+      }).catch(() => {
+        playBtn.textContent = '▶';
+        playBtn.disabled = false;
+      });
+    }
+  }, { once: true });
+  
+  articleAudio.load();
+  
+  // If already loaded (cached), trigger canplaythrough immediately
+  if (articleAudio.readyState >= 4) {
+    articleAudio.dispatchEvent(new Event('canplaythrough'));
+  }
 }
 
 function toggleArticlePlay() {
@@ -2482,8 +2513,8 @@ function saveAIConfig(config) {
 }
 
 function getApiDefaults(provider) {
-  switch(provider) {
-    case 'deepseek': return { baseUrl: 'https://api.deepseek.com/v1', model: 'deepseek-chat' };
+  switch (provider) {
+    case 'deepseek': return { baseUrl: 'https://api.deepseek.com/v1', model: 'deepseek-v4-flash' };
     case 'openai': return { baseUrl: 'https://api.openai.com/v1', model: 'gpt-4o-mini' };
     default: return { baseUrl: 'https://api.openai.com/v1', model: 'gpt-4o-mini' };
   }
@@ -2529,14 +2560,14 @@ function onProviderChange() {
       modelInput.value = defaults.model;
       modelInput.dataset.auto = 'true';
     }
-    modelNote.textContent = provider === 'deepseek' ? 'DeepSeek 默认: deepseek-chat' : 'OpenAI 默认: gpt-4o-mini';
+    modelNote.textContent = provider === 'deepseek' ? 'DeepSeek 默认: deepseek-v4-flash' : 'OpenAI 默认: gpt-4o-mini';
   }
 }
 
 function saveAISettings() {
   const provider = document.getElementById('aiApiProvider').value;
   const apiKey = document.getElementById('aiApiKey').value.trim();
-  let model = document.getElementById('aiApiModel').value.trim();
+  let model = document.getElementById('aiApiModel').value.trim().toLowerCase();
   let baseUrl = document.getElementById('aiApiBaseUrl').value.trim();
 
   if (!apiKey) {
