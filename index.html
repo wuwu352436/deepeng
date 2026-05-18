@@ -1853,15 +1853,35 @@ function showWordPopup(event, word, chineseDef, engDef, sentenceIdx) {
 function pronounceWord(word) {
   if (!window.speechSynthesis) return;
   window.speechSynthesis.cancel();
+
   const utter = new SpeechSynthesisUtterance(word);
   utter.lang = 'en-US';
   utter.rate = 0.85;
-  // Prefer female English voice — works on iOS (Samantha), macOS, Windows, Android
+  utter.pitch = 1.0;
+  utter.volume = 1.0;
+
+  // Find female English voice — cross-platform (iOS, Android, Windows, macOS)
   const voices = window.speechSynthesis.getVoices();
-  const enFemale = voices.find(v => v.lang.startsWith('en') && /female|samantha|zira|karen/i.test(v.name))
-    || voices.find(v => v.lang.startsWith('en'));
-  if (enFemale) utter.voice = enFemale;
-  window.speechSynthesis.speak(utter);
+  const enFemale = voices.find(v =>
+    v.lang.startsWith('en') &&
+    /female|samantha|zira|karen|siri|google.?us.?english.?female|female.?english|english.?united.?states.?female/i.test(v.name)
+  ) || voices.find(v => v.lang.startsWith('en'));
+
+  if (enFemale) {
+    utter.voice = enFemale;
+    window.speechSynthesis.speak(utter);
+  } else if (voices.length === 0) {
+    // Voices not loaded yet — retry on voiceschanged
+    const onReady = () => {
+      window.speechSynthesis.onvoiceschanged = null;
+      pronounceWord(word);
+    };
+    window.speechSynthesis.onvoiceschanged = onReady;
+    // Fallback: speak immediately with default voice
+    window.speechSynthesis.speak(utter);
+  } else {
+    window.speechSynthesis.speak(utter);
+  }
 }
 
 function closeWordPopup() {
@@ -2079,7 +2099,12 @@ async function repeatToggleRecord() {
       document.getElementById('repeatRecordBtn').textContent = '⏹';
       showToast('🎤 录音中...点击停止');
     } catch (e) {
-      showToast('⚠️ 录音权限未授予');
+      console.error('Recording error:', e);
+      if (e.name === 'NotAllowedError' || e.name === 'NotReadableError') {
+        showToast('⚠️ 录音被浏览器阻止（微信浏览器不支持录音）');
+      } else {
+        showToast('⚠️ 录音权限未授予');
+      }
     }
   } else {
     // Stop recording
@@ -2348,6 +2373,15 @@ function toggleTTS() {
   }
 }
 
+/** Cross-platform female English voice lookup */
+function getFemaleVoice() {
+  const voices = window.speechSynthesis.getVoices();
+  return voices.find(v =>
+    v.lang.startsWith('en') &&
+    /female|samantha|zira|karen|siri|google.?us.?english.?female|female.?english|english.?united.?states.?female/i.test(v.name)
+  ) || voices.find(v => v.lang.startsWith('en')) || null;
+}
+
 /** Speak text — use ChatTTS server if configured, else Web Speech API (female voice) */
 function speakText(text) {
   if (!ttsEnabled || !text) return null;
@@ -2372,10 +2406,12 @@ function speakText(text) {
   utterance.volume = 1.0;
 
   // Prefer female English voice — matches pronounceWord()
-  const voices = window.speechSynthesis.getVoices();
-  const enVoice = voices.find(v => v.lang.startsWith('en') && /female|samantha|zira|karen/i.test(v.name))
-    || voices.find(v => v.lang.startsWith('en'));
-  if (enVoice) utterance.voice = enVoice;
+  const enVoice = getFemaleVoice();
+  if (enVoice) {
+    utterance.voice = enVoice;
+  } else if (window.speechSynthesis.getVoices().length === 0) {
+    // Voices not loaded yet — speak anyway (default voice)
+  }
 
   window.speechSynthesis.speak(utterance);
   return utterance;
@@ -2407,9 +2443,7 @@ function speakViaServer(text, serverUrl) {
     const fb = new SpeechSynthesisUtterance(text);
     fb.lang = 'en-US';
     fb.rate = 0.85;
-    const voices = window.speechSynthesis.getVoices();
-    const enVoice = voices.find(v => v.lang.startsWith('en') && /female|samantha|zira|karen/i.test(v.name))
-      || voices.find(v => v.lang.startsWith('en'));
+    const enVoice = getFemaleVoice();
     if (enVoice) fb.voice = enVoice;
     window.speechSynthesis.speak(fb);
   }, { once: true });
@@ -2435,9 +2469,7 @@ function speakViaServer(text, serverUrl) {
       const fb = new SpeechSynthesisUtterance(text);
       fb.lang = 'en-US';
       fb.rate = 0.85;
-      const voices = window.speechSynthesis.getVoices();
-      const enVoice = voices.find(v => v.lang.startsWith('en') && /female|samantha|zira|karen/i.test(v.name))
-        || voices.find(v => v.lang.startsWith('en'));
+      const enVoice = getFemaleVoice();
       if (enVoice) fb.voice = enVoice;
       window.speechSynthesis.speak(fb);
     });
@@ -2511,7 +2543,14 @@ function toggleVoiceInput() {
   statusEl.textContent = '🎤 Listening... Speak in English';
   statusEl.className = 'ai-voice-status recording';
 
-  voiceRecognition = new SpeechRecognition();
+  try {
+    voiceRecognition = new SpeechRecognition();
+  } catch (e) {
+    stopVoiceInput();
+    showToast('⚠️ 语音识别不可用，请用键盘输入');
+    document.getElementById('aiChatInput').focus();
+    return;
+  }
   voiceRecognition.lang = 'en-US';
   voiceRecognition.continuous = false;
   voiceRecognition.interimResults = true;
@@ -2550,8 +2589,15 @@ function toggleVoiceInput() {
       statusEl.textContent = '🎤 No speech detected. Try again.';
     } else if (event.error === 'aborted') {
       statusEl.textContent = '';
+    } else if (event.error === 'not-allowed' || event.error === 'service-not-allowed') {
+      statusEl.textContent = '⚠️ 语音识别被浏览器阻止（请用键盘麦克风输入）';
+      showToast('💡 本浏览器不支持语音识别，请点击输入框用键盘麦克风');
+      stopVoiceInput();
+      // Focus input field with hint
+      document.getElementById('aiChatInput').focus();
+      document.getElementById('aiChatInput').placeholder = '🎤 Tap keyboard microphone to speak';
     } else {
-      statusEl.textContent = `⚠️ ${event.error}`;
+      statusEl.textContent = `⚠️ 语音输入不可用 (${event.error})`;
     }
     statusEl.className = 'ai-voice-status';
     // Don't fully stop on no-speech so user can try again
