@@ -888,7 +888,7 @@ function playSentence(idx, isSlow, onEnded, speedMultiplier) {
   // If speedMultiplier is provided, use playbackRate on the normal audio
   // Otherwise, fall back to isSlow for backward compatibility
   const speed = speedMultiplier !== undefined ? speedMultiplier : (isSlow ? 0.7 : 1.0);
-  const audioPath = `audio/lesson_${lessonNum}/sentence_${sentNum}_normal.mp3`;
+  const audioPath = `audio/lesson_${lessonNum}/sentence_${sentNum}_normal.wav`;
 
   const audio = new Audio(getAudioUrl(audioPath));
   window._sentenceAudio = audio;
