@@ -792,7 +792,7 @@ function playArticleAudio(onTimeUpdate) {
   
   articleAudio = new Audio(getAudioUrl(lesson.audio_full));
   articleAudio.preload = 'auto';
-  articleAudio.playbackRate = 1.2; // Natural speech cadence (~150-170 wpm, close to TV dialogue)
+  articleAudio.playbackRate = 1.0; // Natural speed — ChatTTS already outputs natural pace
   
   articleAudio.addEventListener('timeupdate', () => {
     if (onTimeUpdate) onTimeUpdate(articleAudio.currentTime, articleAudio.duration);
