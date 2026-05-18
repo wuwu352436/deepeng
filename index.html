@@ -345,6 +345,11 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC'
 .ai-voice-status.done {
   color: var(--success);
 }
+.ai-voice-status.hint {
+  color: var(--primary);
+  font-size: 13px;
+  font-weight: 500;
+}
 
 /* TTS toggle */
 .ai-tts-toggle {
@@ -2468,14 +2473,22 @@ function isWeChatBrowser() {
   return /MicroMessenger/i.test(navigator.userAgent);
 }
 
+function isMobileBrowser() {
+  return /Android|iPhone|iPad|iPod|Mobile|webOS/i.test(navigator.userAgent);
+}
+
 function toggleVoiceInput() {
   const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
 
-  // WeChat browser blocks SpeechRecognition — show helpful message, don't hard error
-  if (isWeChatBrowser()) {
-    document.getElementById('aiChatInput').focus();
-    document.getElementById('aiChatInput').placeholder = '📝 WeChat does not support voice input. Please type your answer.';
-    showToast('📝 WeChat voice input unavailable — type instead');
+  // WeChat browser + mobile: show practical alternative using phone keyboard mic
+  if (isWeChatBrowser() || isMobileBrowser()) {
+    const input = document.getElementById('aiChatInput');
+    input.focus();
+    input.placeholder = '🎤 Tap keyboard microphone to speak → type appears here';
+    const statusEl = document.getElementById('aiVoiceStatus');
+    statusEl.textContent = '💡 Open your phone keyboard → tap the 🎤 key → speak';
+    statusEl.className = 'ai-voice-status hint';
+    showToast('📱 Use your keyboard mic to speak (no app mic needed)');
     return;
   }
 
