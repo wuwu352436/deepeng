@@ -1857,31 +1857,27 @@ function pronounceWord(word) {
   const utter = new SpeechSynthesisUtterance(word);
   utter.lang = 'en-US';
   utter.rate = 0.85;
-  utter.pitch = 1.0;
   utter.volume = 1.0;
 
-  // Find female English voice — cross-platform (iOS, Android, Windows, macOS)
-  const voices = window.speechSynthesis.getVoices();
-  const enFemale = voices.find(v =>
-    v.lang.startsWith('en') &&
-    /female|samantha|zira|karen|siri|google.?us.?english.?female|female.?english|english.?united.?states.?female/i.test(v.name)
-  ) || voices.find(v => v.lang.startsWith('en'));
-
+  const enFemale = getFemaleVoice();
   if (enFemale) {
     utter.voice = enFemale;
-    window.speechSynthesis.speak(utter);
-  } else if (voices.length === 0) {
+    utter.pitch = 1.0;
+  } else if (window.speechSynthesis.getVoices().length === 0) {
     // Voices not loaded yet — retry on voiceschanged
     const onReady = () => {
       window.speechSynthesis.onvoiceschanged = null;
       pronounceWord(word);
     };
     window.speechSynthesis.onvoiceschanged = onReady;
-    // Fallback: speak immediately with default voice
-    window.speechSynthesis.speak(utter);
+    // Fallback: slight pitch boost for more natural sound
+    utter.pitch = 1.1;
   } else {
-    window.speechSynthesis.speak(utter);
+    // No female voice available — use slight pitch boost
+    utter.pitch = 1.1;
   }
+
+  window.speechSynthesis.speak(utter);
 }
 
 function closeWordPopup() {
@@ -2376,10 +2372,22 @@ function toggleTTS() {
 /** Cross-platform female English voice lookup */
 function getFemaleVoice() {
   const voices = window.speechSynthesis.getVoices();
-  return voices.find(v =>
+  // Try by name (cross-platform patterns)
+  const byName = voices.find(v =>
     v.lang.startsWith('en') &&
-    /female|samantha|zira|karen|siri|google.?us.?english.?female|female.?english|english.?united.?states.?female/i.test(v.name)
-  ) || voices.find(v => v.lang.startsWith('en')) || null;
+    /female|samantha|zira|karen|siri|google.?us.?english.?female|female.?english|english.?united.?states.?female|us.?english.?female/i.test(v.name)
+  );
+  if (byName) return byName;
+
+  // Try by voiceURI (iOS/Android system voice identifiers)
+  const byURI = voices.find(v =>
+    v.lang.startsWith('en') &&
+    /samantha|female|com\.apple\.ttsbundle/i.test(v.voiceURI)
+  );
+  if (byURI) return byURI;
+
+  // Fallback: any English voice
+  return voices.find(v => v.lang.startsWith('en')) || null;
 }
 
 /** Speak text — use ChatTTS server if configured, else Web Speech API (female voice) */
