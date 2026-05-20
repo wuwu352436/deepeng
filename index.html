@@ -25,6 +25,9 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC'
 .container { max-width: 640px; margin: 0 auto; padding: 0 16px; }
 .hidden { display: none !important; }
 
+/* 全屏阅读时锁定背景body滚动，用class而非内联style，方便调试和bfcache恢复 */
+body.fs-open { overflow: hidden; overscroll-behavior: none; }
+
 /* Header */
 .header { background: var(--card-bg); border-bottom: 1px solid var(--border); position: sticky; top: 0; z-index: 100; padding: 12px 0; }
 .header-inner { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
@@ -203,7 +206,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC'
 .fullscreen-toggle-btn:active { transform: scale(.98); background: var(--primary-bg); }
 
 /* 全屏翻页阅读 (Fullscreen Page Turn) */
-.reading-fullscreen { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: #fff; z-index: 500; display: flex; flex-direction: column; overflow: hidden; }
+.reading-fullscreen { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: #fff; z-index: 500; display: flex; flex-direction: column; }
 .reading-fullscreen.hidden { display: none; }
 .reading-fullscreen .fullscreen-header { display: flex; align-items: center; justify-content: space-between; padding: 12px 16px; border-bottom: 1px solid var(--border); background: var(--card-bg); z-index: 2; }
 .reading-fullscreen .fullscreen-header .back-btn { width: 40px; height: 40px; border: none; background: transparent; font-size: 22px; cursor: pointer; border-radius: 50%; display: flex; align-items: center; justify-content: center; }
@@ -211,7 +214,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC'
 .reading-fullscreen .fullscreen-header .title-text { font-size: 16px; font-weight: 600; color: var(--text); }
 .reading-fullscreen .fullscreen-header .toggle-zh-btn { padding: 6px 14px; border: 1px solid var(--primary); border-radius: 16px; background: transparent; color: var(--primary); font-size: 13px; font-weight: 500; cursor: pointer; }
 .reading-fullscreen .fullscreen-header .toggle-zh-btn.active { background: var(--primary); color: white; }
-.reading-fullscreen .fullscreen-body { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 16px 20px; position: relative; overflow: hidden; min-height: 0; }
+.reading-fullscreen .fullscreen-body { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 16px 20px; position: relative; overflow-y: auto; -webkit-overflow-scrolling: touch; min-height: 0; }
 .reading-fullscreen .fullscreen-img-wrap { width: 100%; max-width: 500px; aspect-ratio: 16/10; border-radius: 16px; overflow: hidden; background: #F3F4F6; display: flex; align-items: center; justify-content: center; margin-bottom: 24px; position: relative; }
 .reading-fullscreen .fullscreen-img { width: 100%; height: 100%; object-fit: contain; }
 .reading-fullscreen .fullscreen-sentence { font-size: clamp(22px, 5vw, 32px); font-weight: 600; line-height: 1.6; text-align: center; padding: 0 8px; transition: all .3s; max-width: 500px; }
@@ -1009,8 +1012,8 @@ function enterFullscreen(idx) {
   document.getElementById('fullscreenTitle').textContent = `L${lesson.id} ${lesson.title}`;
   document.getElementById('fullscreenZhBtn').classList.remove('active');
 
-  // Hide scrollbar on body
-  document.body.style.overflow = 'hidden';
+  // Hide scrollbar on body (use CSS class for reliability)
+  document.body.classList.add('fs-open');
 
   renderFullscreenPage();
   playFullscreenAudio();
@@ -1018,7 +1021,7 @@ function enterFullscreen(idx) {
 
 function exitFullscreen() {
   document.getElementById('fullscreenPanel').classList.add('hidden');
-  document.body.style.overflow = '';
+  document.body.classList.remove('fs-open');
 
   // Stop audio
   if (window._sentenceAudio) {
@@ -3012,6 +3015,15 @@ document.getElementById('aiChatSendBtn').addEventListener('click', sendAIMessage
 updateSettingsBtn();
 
 document.addEventListener('DOMContentLoaded', init);
+
+// bfcache安全网：微信浏览器前进后退时可能恢复旧状态
+// 确保body滚动总是可用的
+window.addEventListener('pageshow', () => {
+  document.body.classList.remove('fs-open');
+});
+document.addEventListener('visibilitychange', () => {
+  if (!document.hidden) document.body.classList.remove('fs-open');
+});
 </script>
 </body>
 </html>
