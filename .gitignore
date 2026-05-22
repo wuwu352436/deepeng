@@ -1,1 +1,7 @@
+*.bak
+node_modules/
+test-results/
+package.json
+package-lock.json
+test_comprehensive.*
 .check_syntax.js
