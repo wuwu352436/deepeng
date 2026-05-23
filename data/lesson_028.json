@@ -1,0 +1,442 @@
+{
+  "id": 28,
+  "title": "A Community Project",
+  "article_text": "The town board has a new holiday plan. They want to put a new machine on the church floor. Anyone can use this machine to mark items. The machine can prove the method works. We need some analysis of the stuff. The election for the club is this season. A wide hotel is near the wall. Let's achieve a great success. The military can direct the project. This series of steps costs only one cent.",
+  "sentences": [
+    {
+      "en": "The town board has a new holiday plan.",
+      "zh": "镇委员会有一个新的假日计划。",
+      "words": [
+        {
+          "word": "board",
+          "def": "委员会",
+          "ipa": "/bɔːrd/",
+          "eng_def": "a group of people who control an organization"
+        },
+        {
+          "word": "holiday",
+          "def": "假日",
+          "ipa": "/ˈhɒlɪdeɪ/",
+          "eng_def": "a day when people do not work"
+        }
+      ]
+    },
+    {
+      "en": "They want to put a new machine on the church floor.",
+      "zh": "他们想放一台新机器在教堂地板上。",
+      "words": [
+        {
+          "word": "machine",
+          "def": "机器",
+          "ipa": "/məˈʃiːn/",
+          "eng_def": "a piece of equipment with moving parts"
+        },
+        {
+          "word": "church",
+          "def": "教堂",
+          "ipa": "/tʃɜːrtʃ/",
+          "eng_def": "a building for religious meetings"
+        },
+        {
+          "word": "floor",
+          "def": "地板",
+          "ipa": "/flɔːr/",
+          "eng_def": "the flat surface you walk on inside a building"
+        }
+      ]
+    },
+    {
+      "en": "Anyone can use this machine to mark items.",
+      "zh": "任何人都可以用这台机器标记物品。",
+      "words": [
+        {
+          "word": "anyone",
+          "def": "任何人",
+          "ipa": "/ˈeniwʌn/",
+          "eng_def": "any person"
+        },
+        {
+          "word": "mark",
+          "def": "标记",
+          "ipa": "/mɑːrk/",
+          "eng_def": "to put a sign on something"
+        },
+        {
+          "word": "item",
+          "def": "物品",
+          "ipa": "/ˈaɪtəm/",
+          "eng_def": "a single thing"
+        },
+        {
+          "word": "items",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The machine can prove the method works.",
+      "zh": "这台机器可以证明这个方法有效。",
+      "words": [
+        {
+          "word": "prove",
+          "def": "证明",
+          "ipa": "/pruːv/",
+          "eng_def": "to show that something is true"
+        },
+        {
+          "word": "method",
+          "def": "方法",
+          "ipa": "/ˈmeθəd/",
+          "eng_def": "a way of doing something"
+        }
+      ]
+    },
+    {
+      "en": "We need some analysis of the stuff.",
+      "zh": "我们需要对材料做一些分析。",
+      "words": [
+        {
+          "word": "analysis",
+          "def": "分析",
+          "ipa": "/əˈnæləsɪs/",
+          "eng_def": "a careful study of something"
+        },
+        {
+          "word": "stuff",
+          "def": "材料",
+          "ipa": "/stʌf/",
+          "eng_def": "things or materials"
+        }
+      ]
+    },
+    {
+      "en": "The election for the club is this season.",
+      "zh": "俱乐部的选举是在这个季节。",
+      "words": [
+        {
+          "word": "election",
+          "def": "选举",
+          "ipa": "/ɪˈlekʃən/",
+          "eng_def": "a time when people choose someone by voting"
+        },
+        {
+          "word": "club",
+          "def": "俱乐部",
+          "ipa": "/klʌb/",
+          "eng_def": "a group of people who meet for an activity"
+        },
+        {
+          "word": "season",
+          "def": "季节",
+          "ipa": "/ˈsiːzən/",
+          "eng_def": "one of the four parts of the year"
+        }
+      ]
+    },
+    {
+      "en": "A wide hotel is near the wall.",
+      "zh": "一个宽敞的酒店在墙附近。",
+      "words": [
+        {
+          "word": "wide",
+          "def": "宽敞的",
+          "ipa": "/waɪd/",
+          "eng_def": "having a large distance from side to side"
+        },
+        {
+          "word": "hotel",
+          "def": "酒店",
+          "ipa": "/hoʊˈtel/",
+          "eng_def": "a place where people pay to sleep"
+        },
+        {
+          "word": "wall",
+          "def": "墙",
+          "ipa": "/wɔːl/",
+          "eng_def": "a side of a room or building"
+        }
+      ]
+    },
+    {
+      "en": "Let's achieve a great success.",
+      "zh": "让我们取得巨大的成功。",
+      "words": [
+        {
+          "word": "achieve",
+          "def": "取得",
+          "ipa": "/əˈtʃiːv/",
+          "eng_def": "to reach a goal"
+        },
+        {
+          "word": "success",
+          "def": "成功",
+          "ipa": "/səkˈses/",
+          "eng_def": "the achievement of a goal"
+        },
+        {
+          "word": "let's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The military can direct the project.",
+      "zh": "军队可以指导这个项目。",
+      "words": [
+        {
+          "word": "military",
+          "def": "军队",
+          "ipa": "/ˈmɪlɪteri/",
+          "eng_def": "the armed forces of a country"
+        },
+        {
+          "word": "direct",
+          "def": "指导",
+          "ipa": "/dɪˈrekt/",
+          "eng_def": "to tell someone what to do"
+        }
+      ]
+    },
+    {
+      "en": "This series of steps costs only one cent.",
+      "zh": "这一系列步骤只花一分钱。",
+      "words": [
+        {
+          "word": "series",
+          "def": "系列",
+          "ipa": "/ˈsɪriːz/",
+          "eng_def": "a number of things happening one after another"
+        },
+        {
+          "word": "cent",
+          "def": "分",
+          "ipa": "/sent/",
+          "eng_def": "a small unit of money"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "board",
+      "def": "委员会",
+      "ipa": "/bɔːrd/",
+      "eng_def": "a group of people who control an organization",
+      "example": "The school board meets every week."
+    },
+    {
+      "word": "holiday",
+      "def": "假日",
+      "ipa": "/ˈhɒlɪdeɪ/",
+      "eng_def": "a day when people do not work",
+      "example": "We have a holiday on Monday."
+    },
+    {
+      "word": "mark",
+      "def": "标记",
+      "ipa": "/mɑːrk/",
+      "eng_def": "to put a sign on something",
+      "example": "Please mark your name on the paper."
+    },
+    {
+      "word": "church",
+      "def": "教堂",
+      "ipa": "/tʃɜːrtʃ/",
+      "eng_def": "a building for religious meetings",
+      "example": "They go to church on Sunday."
+    },
+    {
+      "word": "machine",
+      "def": "机器",
+      "ipa": "/məˈʃiːn/",
+      "eng_def": "a piece of equipment with moving parts",
+      "example": "This machine makes coffee."
+    },
+    {
+      "word": "achieve",
+      "def": "取得",
+      "ipa": "/əˈtʃiːv/",
+      "eng_def": "to reach a goal",
+      "example": "She wants to achieve her dream."
+    },
+    {
+      "word": "item",
+      "def": "物品",
+      "ipa": "/ˈaɪtəm/",
+      "eng_def": "a single thing",
+      "example": "Each item has a price."
+    },
+    {
+      "word": "prove",
+      "def": "证明",
+      "ipa": "/pruːv/",
+      "eng_def": "to show that something is true",
+      "example": "Can you prove your idea?"
+    },
+    {
+      "word": "cent",
+      "def": "分",
+      "ipa": "/sent/",
+      "eng_def": "a small unit of money",
+      "example": "This candy costs ten cents."
+    },
+    {
+      "word": "season",
+      "def": "季节",
+      "ipa": "/ˈsiːzən/",
+      "eng_def": "one of the four parts of the year",
+      "example": "Spring is my favorite season."
+    },
+    {
+      "word": "floor",
+      "def": "地板",
+      "ipa": "/flɔːr/",
+      "eng_def": "the flat surface you walk on inside a building",
+      "example": "The book is on the floor."
+    },
+    {
+      "word": "stuff",
+      "def": "材料",
+      "ipa": "/stʌf/",
+      "eng_def": "things or materials",
+      "example": "Please put your stuff in the box."
+    },
+    {
+      "word": "wide",
+      "def": "宽敞的",
+      "ipa": "/waɪd/",
+      "eng_def": "having a large distance from side to side",
+      "example": "The road is very wide."
+    },
+    {
+      "word": "anyone",
+      "def": "任何人",
+      "ipa": "/ˈeniwʌn/",
+      "eng_def": "any person",
+      "example": "Anyone can join the club."
+    },
+    {
+      "word": "method",
+      "def": "方法",
+      "ipa": "/ˈmeθəd/",
+      "eng_def": "a way of doing something",
+      "example": "This method is easy."
+    },
+    {
+      "word": "analysis",
+      "def": "分析",
+      "ipa": "/əˈnæləsɪs/",
+      "eng_def": "a careful study of something",
+      "example": "We need an analysis of the data."
+    },
+    {
+      "word": "election",
+      "def": "选举",
+      "ipa": "/ɪˈlekʃən/",
+      "eng_def": "a time when people choose someone by voting",
+      "example": "The election is in November."
+    },
+    {
+      "word": "military",
+      "def": "军队",
+      "ipa": "/ˈmɪlɪteri/",
+      "eng_def": "the armed forces of a country",
+      "example": "He works in the military."
+    },
+    {
+      "word": "hotel",
+      "def": "酒店",
+      "ipa": "/hoʊˈtel/",
+      "eng_def": "a place where people pay to sleep",
+      "example": "We stay at a hotel during the holiday."
+    },
+    {
+      "word": "club",
+      "def": "俱乐部",
+      "ipa": "/klʌb/",
+      "eng_def": "a group of people who meet for an activity",
+      "example": "He is a member of the book club."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词意思是“委员会”？",
+      "question_en": "Which word means 'a group of people who control an organization'?",
+      "options": [
+        "A. board",
+        "B. holiday",
+        "C. church",
+        "D. machine"
+      ],
+      "answer": 0,
+      "word": "board"
+    },
+    {
+      "question_cn": "哪个词意思是“证明”？",
+      "question_en": "Which word means 'to show that something is true'?",
+      "options": [
+        "A. mark",
+        "B. prove",
+        "C. achieve",
+        "D. direct"
+      ],
+      "answer": 1,
+      "word": "prove"
+    },
+    {
+      "question_cn": "哪个词意思是“分析”？",
+      "question_en": "Which word means 'a careful study of something'?",
+      "options": [
+        "A. method",
+        "B. election",
+        "C. analysis",
+        "D. series"
+      ],
+      "answer": 2,
+      "word": "analysis"
+    },
+    {
+      "question_cn": "哪个词意思是“任何人”？",
+      "question_en": "Which word means 'any person'?",
+      "options": [
+        "A. anyone",
+        "B. anyone",
+        "C. item",
+        "D. stuff"
+      ],
+      "answer": 0,
+      "word": "anyone"
+    },
+    {
+      "question_cn": "哪个词意思是“季节”？",
+      "question_en": "Which word means 'one of the four parts of the year'?",
+      "options": [
+        "A. season",
+        "B. cent",
+        "C. floor",
+        "D. wall"
+      ],
+      "answer": 0,
+      "word": "season"
+    }
+  ],
+  "image_prompts": [
+    "A town board meeting with people sitting around a table discussing a holiday plan.",
+    "A new machine sitting on the floor of a church, with people looking at it.",
+    "A person using the machine to put marks on items on a table.",
+    "A person showing a document with a method written on it, and the machine next to it.",
+    "A scientist doing an analysis of some stuff in a laboratory.",
+    "A club meeting with people voting in an election during a spring season.",
+    "A wide hotel building next to a long wall on a street.",
+    "A group of people celebrating a success, with a sign reading 'Achieve'.",
+    "Military personnel in uniform directing a construction project.",
+    "A series of steps on a paper, with a single cent coin next to it."
+  ],
+  "_needs_review": false,
+  "_lesson_num": 28,
+  "_new_word_count": 20
+}

@@ -1,0 +1,442 @@
+{
+  "id": 15,
+  "title": "A New Site for the Community",
+  "article_text": "The teacher can draw a white sign for the front door. The date for the practice is on Friday. The model for the new site is on the table. We can raise a sign outside the door. The customer is behind the door. The teacher can explain the economic plan. The approach for the land is from the front. The charge for the site is low. Finally, a strong girl can sign the paper. Maybe the community is behind the site.",
+  "sentences": [
+    {
+      "en": "The teacher can draw a white sign for the front door.",
+      "zh": "老师可以画一个白色的标志给前门。",
+      "words": [
+        {
+          "word": "teacher",
+          "def": "老师",
+          "ipa": "/ˈtiːtʃər/",
+          "eng_def": "a person who helps students learn"
+        },
+        {
+          "word": "draw",
+          "def": "画",
+          "ipa": "/drɔː/",
+          "eng_def": "to make a picture with a pen or pencil"
+        },
+        {
+          "word": "white",
+          "def": "白色的",
+          "ipa": "/waɪt/",
+          "eng_def": "the color of snow or milk"
+        },
+        {
+          "word": "sign",
+          "def": "标志",
+          "ipa": "/saɪn/",
+          "eng_def": "a piece of paper or wood with words on it"
+        },
+        {
+          "word": "front",
+          "def": "前面",
+          "ipa": "/frʌnt/",
+          "eng_def": "the part that faces forward"
+        },
+        {
+          "word": "door",
+          "def": "门",
+          "ipa": "/dɔːr/",
+          "eng_def": "a thing that opens and closes to let people in or out"
+        }
+      ]
+    },
+    {
+      "en": "The date for the practice is on Friday.",
+      "zh": "练习的日期是星期五。",
+      "words": [
+        {
+          "word": "date",
+          "def": "日期",
+          "ipa": "/deɪt/",
+          "eng_def": "a specific day or time"
+        },
+        {
+          "word": "practice",
+          "def": "练习",
+          "ipa": "/ˈpræktɪs/",
+          "eng_def": "doing something many times to get better"
+        },
+        {
+          "word": "friday",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The model for the new site is on the table.",
+      "zh": "新场地的模型在桌子上。",
+      "words": [
+        {
+          "word": "model",
+          "def": "模型",
+          "ipa": "/ˈmɒdəl/",
+          "eng_def": "a small copy of something"
+        },
+        {
+          "word": "site",
+          "def": "场地",
+          "ipa": "/saɪt/",
+          "eng_def": "a place where something is or happens"
+        }
+      ]
+    },
+    {
+      "en": "We can raise a sign outside the door.",
+      "zh": "我们可以在门外举起一个标志。",
+      "words": [
+        {
+          "word": "raise",
+          "def": "举起",
+          "ipa": "/reɪz/",
+          "eng_def": "to lift something up"
+        },
+        {
+          "word": "outside",
+          "def": "在外面",
+          "ipa": "/ˌaʊtˈsaɪd/",
+          "eng_def": "not inside a building or room"
+        }
+      ]
+    },
+    {
+      "en": "The customer is behind the door.",
+      "zh": "顾客在门后面。",
+      "words": [
+        {
+          "word": "customer",
+          "def": "顾客",
+          "ipa": "/ˈkʌstəmər/",
+          "eng_def": "a person who buys things from a shop"
+        },
+        {
+          "word": "behind",
+          "def": "在……后面",
+          "ipa": "/bɪˈhaɪnd/",
+          "eng_def": "at the back of something"
+        }
+      ]
+    },
+    {
+      "en": "The teacher can explain the economic plan.",
+      "zh": "老师可以解释经济计划。",
+      "words": [
+        {
+          "word": "explain",
+          "def": "解释",
+          "ipa": "/ɪkˈspleɪn/",
+          "eng_def": "to make something clear or easy to understand"
+        },
+        {
+          "word": "economic",
+          "def": "经济的",
+          "ipa": "/ˌiːkəˈnɒmɪk/",
+          "eng_def": "related to money and business"
+        }
+      ]
+    },
+    {
+      "en": "The approach for the land is from the front.",
+      "zh": "通往这块地的路是从前面来的。",
+      "words": [
+        {
+          "word": "approach",
+          "def": "方法；接近",
+          "ipa": "/əˈprəʊtʃ/",
+          "eng_def": "a way to get to a place or do something"
+        },
+        {
+          "word": "land",
+          "def": "土地",
+          "ipa": "/lænd/",
+          "eng_def": "the ground or area of earth"
+        }
+      ]
+    },
+    {
+      "en": "The charge for the site is low.",
+      "zh": "场地的费用很低。",
+      "words": [
+        {
+          "word": "charge",
+          "def": "费用",
+          "ipa": "/tʃɑːdʒ/",
+          "eng_def": "the price or money for something"
+        }
+      ]
+    },
+    {
+      "en": "Finally, a strong girl can sign the paper.",
+      "zh": "最后，一个强壮的女孩可以签文件。",
+      "words": [
+        {
+          "word": "finally",
+          "def": "最后",
+          "ipa": "/ˈfaɪnəli/",
+          "eng_def": "after a long time; at the end"
+        },
+        {
+          "word": "strong",
+          "def": "强壮的",
+          "ipa": "/strɒŋ/",
+          "eng_def": "having a lot of power or strength"
+        },
+        {
+          "word": "girl",
+          "def": "女孩",
+          "ipa": "/ɡɜːl/",
+          "eng_def": "a young female person"
+        },
+        {
+          "word": "sign",
+          "def": "签字",
+          "ipa": "/saɪn/",
+          "eng_def": "to write your name on paper"
+        }
+      ]
+    },
+    {
+      "en": "Maybe the community is behind the site.",
+      "zh": "也许社区在场地后面。",
+      "words": [
+        {
+          "word": "maybe",
+          "def": "也许",
+          "ipa": "/ˈmeɪbi/",
+          "eng_def": "possibly; perhaps"
+        },
+        {
+          "word": "community",
+          "def": "社区",
+          "ipa": "/kəˈmjuːnəti/",
+          "eng_def": "a group of people living in the same area"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "draw",
+      "def": "画",
+      "ipa": "/drɔː/",
+      "eng_def": "to make a picture with a pen or pencil",
+      "example": "I can draw a house."
+    },
+    {
+      "word": "white",
+      "def": "白色的",
+      "ipa": "/waɪt/",
+      "eng_def": "the color of snow or milk",
+      "example": "The wall is white."
+    },
+    {
+      "word": "date",
+      "def": "日期",
+      "ipa": "/deɪt/",
+      "eng_def": "a specific day or time",
+      "example": "What is the date today?"
+    },
+    {
+      "word": "practice",
+      "def": "练习",
+      "ipa": "/ˈpræktɪs/",
+      "eng_def": "doing something many times to get better",
+      "example": "She has practice at 3 o'clock."
+    },
+    {
+      "word": "model",
+      "def": "模型",
+      "ipa": "/ˈmɒdəl/",
+      "eng_def": "a small copy of something",
+      "example": "This is a model of a car."
+    },
+    {
+      "word": "raise",
+      "def": "举起",
+      "ipa": "/reɪz/",
+      "eng_def": "to lift something up",
+      "example": "Please raise your hand."
+    },
+    {
+      "word": "customer",
+      "def": "顾客",
+      "ipa": "/ˈkʌstəmər/",
+      "eng_def": "a person who buys things from a shop",
+      "example": "The customer is happy."
+    },
+    {
+      "word": "front",
+      "def": "前面",
+      "ipa": "/frʌnt/",
+      "eng_def": "the part that faces forward",
+      "example": "The car is in front of the house."
+    },
+    {
+      "word": "explain",
+      "def": "解释",
+      "ipa": "/ɪkˈspleɪn/",
+      "eng_def": "to make something clear or easy to understand",
+      "example": "Can you explain this word?"
+    },
+    {
+      "word": "door",
+      "def": "门",
+      "ipa": "/dɔːr/",
+      "eng_def": "a thing that opens and closes to let people in or out",
+      "example": "Open the door, please."
+    },
+    {
+      "word": "outside",
+      "def": "在外面",
+      "ipa": "/ˌaʊtˈsaɪd/",
+      "eng_def": "not inside a building or room",
+      "example": "It is cold outside."
+    },
+    {
+      "word": "behind",
+      "def": "在……后面",
+      "ipa": "/bɪˈhaɪnd/",
+      "eng_def": "at the back of something",
+      "example": "The cat is behind the sofa."
+    },
+    {
+      "word": "economic",
+      "def": "经济的",
+      "ipa": "/ˌiːkəˈnɒmɪk/",
+      "eng_def": "related to money and business",
+      "example": "The economic news is good."
+    },
+    {
+      "word": "site",
+      "def": "场地",
+      "ipa": "/saɪt/",
+      "eng_def": "a place where something is or happens",
+      "example": "This is the site for the new school."
+    },
+    {
+      "word": "approach",
+      "def": "方法；接近",
+      "ipa": "/əˈprəʊtʃ/",
+      "eng_def": "a way to get to a place or do something",
+      "example": "His approach is simple."
+    },
+    {
+      "word": "teacher",
+      "def": "老师",
+      "ipa": "/ˈtiːtʃər/",
+      "eng_def": "a person who helps students learn",
+      "example": "The teacher is in the classroom."
+    },
+    {
+      "word": "land",
+      "def": "土地",
+      "ipa": "/lænd/",
+      "eng_def": "the ground or area of earth",
+      "example": "The land is flat."
+    },
+    {
+      "word": "charge",
+      "def": "费用",
+      "ipa": "/tʃɑːdʒ/",
+      "eng_def": "the price or money for something",
+      "example": "There is no charge for this."
+    },
+    {
+      "word": "finally",
+      "def": "最后",
+      "ipa": "/ˈfaɪnəli/",
+      "eng_def": "after a long time; at the end",
+      "example": "Finally, we are home."
+    },
+    {
+      "word": "sign",
+      "def": "标志；签字",
+      "ipa": "/saɪn/",
+      "eng_def": "a piece of paper or wood with words on it; to write your name on paper",
+      "example": "Please sign here."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词的意思是“画”？",
+      "question_en": "Which word means 'to make a picture with a pen or pencil'?",
+      "options": [
+        "A. draw",
+        "B. white",
+        "C. sign",
+        "D. raise"
+      ],
+      "answer": 0,
+      "word": "draw"
+    },
+    {
+      "question_cn": "哪个词的意思是“顾客”？",
+      "question_en": "Which word means 'a person who buys things from a shop'?",
+      "options": [
+        "A. teacher",
+        "B. customer",
+        "C. model",
+        "D. girl"
+      ],
+      "answer": 1,
+      "word": "customer"
+    },
+    {
+      "question_cn": "哪个词的意思是“解释”？",
+      "question_en": "Which word means 'to make something clear or easy to understand'?",
+      "options": [
+        "A. explain",
+        "B. approach",
+        "C. raise",
+        "D. charge"
+      ],
+      "answer": 0,
+      "word": "explain"
+    },
+    {
+      "question_cn": "哪个词的意思是“费用”？",
+      "question_en": "Which word means 'the price or money for something'?",
+      "options": [
+        "A. sign",
+        "B. land",
+        "C. charge",
+        "D. date"
+      ],
+      "answer": 2,
+      "word": "charge"
+    },
+    {
+      "question_cn": "哪个词的意思是“最后”？",
+      "question_en": "Which word means 'after a long time; at the end'?",
+      "options": [
+        "A. finally",
+        "B. behind",
+        "C. outside",
+        "D. maybe"
+      ],
+      "answer": 0,
+      "word": "finally"
+    }
+  ],
+  "image_prompts": [
+    "A teacher drawing a white sign for a front door.",
+    "A calendar showing Friday as the date for practice.",
+    "A model of a new site on a table.",
+    "A person raising a sign outside a door.",
+    "A customer standing behind a door.",
+    "A teacher explaining an economic plan to students.",
+    "A path or approach to a piece of land from the front.",
+    "A sign showing a low charge for a site.",
+    "A strong girl signing a paper.",
+    "A community area behind a site."
+  ],
+  "_needs_review": false,
+  "_lesson_num": 15,
+  "_new_word_count": 20
+}

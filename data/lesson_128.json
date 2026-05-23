@@ -1,0 +1,544 @@
+{
+  "id": 128,
+  "title": "An Experimental Empire",
+  "article_text": "In a distant land, an experimental empire was built by a gentle ruler. The institutional changes were slow but functional, and attendance at public meetings became voluntary. A stranger wandered into the city and took a slice of bread from a pale stall. The bread had an organic taste, and a dark stain on the cloth caught his eye. Subsequently, the ownership of the land was suspended by the king. The athlete's tongue was sharp, but his qualification for the race was clear. The server brought a cup of tea, and the shade of a tree offered cool rest. The grain in the fields grew tall, and the structural design of the buildings was strong. It is the empire that will fall if the ruler should become weak. Never had such a pale and gentle leader been seen before.",
+  "sentences": [
+    {
+      "en": "In a distant land, an experimental empire was built by a gentle ruler.",
+      "zh": "在一片遥远的土地上，一个实验性的帝国由一位温和的统治者建立。",
+      "words": [
+        {
+          "word": "distant",
+          "def": "遥远的",
+          "ipa": "/ˈdɪstənt/",
+          "eng_def": "far away in space or time"
+        },
+        {
+          "word": "experimental",
+          "def": "实验性的",
+          "ipa": "/ɪkˌsperɪˈmentl/",
+          "eng_def": "relating to a test or trial"
+        },
+        {
+          "word": "empire",
+          "def": "帝国",
+          "ipa": "/ˈempaɪər/",
+          "eng_def": "a group of countries under one ruler"
+        },
+        {
+          "word": "gentle",
+          "def": "温和的",
+          "ipa": "/ˈdʒentl/",
+          "eng_def": "soft and kind"
+        },
+        {
+          "word": "built",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "ruler",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The institutional changes were slow but functional, and attendance at public meetings became voluntary.",
+      "zh": "制度上的改变缓慢但实用，参加公共会议变成了自愿的。",
+      "words": [
+        {
+          "word": "institutional",
+          "def": "制度的",
+          "ipa": "/ˌɪnstɪˈtjuːʃənl/",
+          "eng_def": "relating to an organization or system"
+        },
+        {
+          "word": "functional",
+          "def": "实用的",
+          "ipa": "/ˈfʌŋkʃənl/",
+          "eng_def": "working well for its purpose"
+        },
+        {
+          "word": "attendance",
+          "def": "出席",
+          "ipa": "/əˈtendəns/",
+          "eng_def": "being present at an event"
+        },
+        {
+          "word": "voluntary",
+          "def": "自愿的",
+          "ipa": "/ˈvɒləntri/",
+          "eng_def": "done by choice, not forced"
+        },
+        {
+          "word": "meetings",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "became",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "A stranger wandered into the city and took a slice of bread from a pale stall.",
+      "zh": "一个陌生人漫步进入城市，从一个苍白的摊位上拿走了一片面包。",
+      "words": [
+        {
+          "word": "stranger",
+          "def": "陌生人",
+          "ipa": "/ˈstreɪndʒər/",
+          "eng_def": "a person you do not know"
+        },
+        {
+          "word": "wander",
+          "def": "漫步",
+          "ipa": "/ˈwɒndər/",
+          "eng_def": "to walk around without a plan"
+        },
+        {
+          "word": "slice",
+          "def": "片",
+          "ipa": "/slaɪs/",
+          "eng_def": "a thin piece cut from something"
+        },
+        {
+          "word": "pale",
+          "def": "苍白的",
+          "ipa": "/peɪl/",
+          "eng_def": "light in color; not bright"
+        },
+        {
+          "word": "wandered",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "took",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "stall",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The bread had an organic taste, and a dark stain on the cloth caught his eye.",
+      "zh": "面包有有机的味道，布上的一块深色污渍引起了他的注意。",
+      "words": [
+        {
+          "word": "organic",
+          "def": "有机的",
+          "ipa": "/ɔːˈɡænɪk/",
+          "eng_def": "grown without chemicals"
+        },
+        {
+          "word": "stain",
+          "def": "污渍",
+          "ipa": "/steɪn/",
+          "eng_def": "a dirty mark on a surface"
+        },
+        {
+          "word": "cloth",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "caught",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Subsequently, the ownership of the land was suspended by the king.",
+      "zh": "随后，土地的所有权被国王暂停了。",
+      "words": [
+        {
+          "word": "subsequently",
+          "def": "随后",
+          "ipa": "/ˈsʌbsɪkwəntli/",
+          "eng_def": "after that; later"
+        },
+        {
+          "word": "ownership",
+          "def": "所有权",
+          "ipa": "/ˈəʊnəʃɪp/",
+          "eng_def": "the state of owning something"
+        },
+        {
+          "word": "suspend",
+          "def": "暂停",
+          "ipa": "/səˈspend/",
+          "eng_def": "to stop for a time"
+        },
+        {
+          "word": "suspended",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The athlete's tongue was sharp, but his qualification for the race was clear.",
+      "zh": "这位运动员的舌头很锋利，但他参赛的资格很清楚。",
+      "words": [
+        {
+          "word": "athlete",
+          "def": "运动员",
+          "ipa": "/ˈæθliːt/",
+          "eng_def": "a person who plays sports"
+        },
+        {
+          "word": "tongue",
+          "def": "舌头",
+          "ipa": "/tʌŋ/",
+          "eng_def": "the soft part inside the mouth used for tasting and speaking"
+        },
+        {
+          "word": "qualification",
+          "def": "资格",
+          "ipa": "/ˌkwɒlɪfɪˈkeɪʃn/",
+          "eng_def": "a quality or skill that makes someone suitable"
+        },
+        {
+          "word": "athlete's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The server brought a cup of tea, and the shade of a tree offered cool rest.",
+      "zh": "服务员端来一杯茶，树荫提供了凉爽的休息。",
+      "words": [
+        {
+          "word": "server",
+          "def": "服务员",
+          "ipa": "/ˈsɜːrvər/",
+          "eng_def": "a person who brings food and drink"
+        },
+        {
+          "word": "shade",
+          "def": "树荫",
+          "ipa": "/ʃeɪd/",
+          "eng_def": "a dark area where light does not reach"
+        },
+        {
+          "word": "brought",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The grain in the fields grew tall, and the structural design of the buildings was strong.",
+      "zh": "田里的谷物长得很高，建筑物的结构设计很坚固。",
+      "words": [
+        {
+          "word": "grain",
+          "def": "谷物",
+          "ipa": "/ɡreɪn/",
+          "eng_def": "small hard seeds from plants used for food"
+        },
+        {
+          "word": "structural",
+          "def": "结构的",
+          "ipa": "/ˈstrʌktʃərəl/",
+          "eng_def": "relating to the way parts are put together"
+        },
+        {
+          "word": "grew",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "buildings",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "It is the empire that will fall if the ruler should become weak.",
+      "zh": "正是这个帝国，如果统治者变得软弱，它就会垮掉。",
+      "words": [
+        {
+          "word": "empire",
+          "def": "帝国",
+          "ipa": "/ˈempaɪər/",
+          "eng_def": "a group of countries under one ruler"
+        },
+        {
+          "word": "ruler",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Never had such a pale and gentle leader been seen before.",
+      "zh": "从未见过如此苍白而温和的领导者。",
+      "words": [
+        {
+          "word": "pale",
+          "def": "苍白的",
+          "ipa": "/peɪl/",
+          "eng_def": "light in color; not bright"
+        },
+        {
+          "word": "gentle",
+          "def": "温和的",
+          "ipa": "/ˈdʒentl/",
+          "eng_def": "soft and kind"
+        },
+        {
+          "word": "seen",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "experimental",
+      "def": "实验性的",
+      "ipa": "/ɪkˌsperɪˈmentl/",
+      "eng_def": "relating to a test or trial",
+      "example": "The experimental design was new."
+    },
+    {
+      "word": "institutional",
+      "def": "制度的",
+      "ipa": "/ˌɪnstɪˈtjuːʃənl/",
+      "eng_def": "relating to an organization or system",
+      "example": "The institutional rules were clear."
+    },
+    {
+      "word": "slice",
+      "def": "片",
+      "ipa": "/slaɪs/",
+      "eng_def": "a thin piece cut from something",
+      "example": "He ate a slice of cake."
+    },
+    {
+      "word": "wander",
+      "def": "漫步",
+      "ipa": "/ˈwɒndər/",
+      "eng_def": "to walk around without a plan",
+      "example": "They wander in the park."
+    },
+    {
+      "word": "empire",
+      "def": "帝国",
+      "ipa": "/ˈempaɪər/",
+      "eng_def": "a group of countries under one ruler",
+      "example": "The empire grew large."
+    },
+    {
+      "word": "subsequently",
+      "def": "随后",
+      "ipa": "/ˈsʌbsɪkwəntli/",
+      "eng_def": "after that; later",
+      "example": "Subsequently, he left."
+    },
+    {
+      "word": "gentle",
+      "def": "温和的",
+      "ipa": "/ˈdʒentl/",
+      "eng_def": "soft and kind",
+      "example": "The gentle wind blew."
+    },
+    {
+      "word": "attendance",
+      "def": "出席",
+      "ipa": "/əˈtendəns/",
+      "eng_def": "being present at an event",
+      "example": "Attendance was high."
+    },
+    {
+      "word": "ownership",
+      "def": "所有权",
+      "ipa": "/ˈəʊnəʃɪp/",
+      "eng_def": "the state of owning something",
+      "example": "Ownership of the house changed."
+    },
+    {
+      "word": "qualification",
+      "def": "资格",
+      "ipa": "/ˌkwɒlɪfɪˈkeɪʃn/",
+      "eng_def": "a quality or skill that makes someone suitable",
+      "example": "His qualification is good."
+    },
+    {
+      "word": "suspend",
+      "def": "暂停",
+      "ipa": "/səˈspend/",
+      "eng_def": "to stop for a time",
+      "example": "They suspend the game."
+    },
+    {
+      "word": "functional",
+      "def": "实用的",
+      "ipa": "/ˈfʌŋkʃənl/",
+      "eng_def": "working well for its purpose",
+      "example": "The tool is functional."
+    },
+    {
+      "word": "voluntary",
+      "def": "自愿的",
+      "ipa": "/ˈvɒləntri/",
+      "eng_def": "done by choice, not forced",
+      "example": "The work is voluntary."
+    },
+    {
+      "word": "pale",
+      "def": "苍白的",
+      "ipa": "/peɪl/",
+      "eng_def": "light in color; not bright",
+      "example": "Her face was pale."
+    },
+    {
+      "word": "stain",
+      "def": "污渍",
+      "ipa": "/steɪn/",
+      "eng_def": "a dirty mark on a surface",
+      "example": "The stain did not come out."
+    },
+    {
+      "word": "athlete",
+      "def": "运动员",
+      "ipa": "/ˈæθliːt/",
+      "eng_def": "a person who plays sports",
+      "example": "The athlete ran fast."
+    },
+    {
+      "word": "organic",
+      "def": "有机的",
+      "ipa": "/ɔːˈɡænɪk/",
+      "eng_def": "grown without chemicals",
+      "example": "They eat organic food."
+    },
+    {
+      "word": "tongue",
+      "def": "舌头",
+      "ipa": "/tʌŋ/",
+      "eng_def": "the soft part inside the mouth used for tasting and speaking",
+      "example": "He bit his tongue."
+    },
+    {
+      "word": "server",
+      "def": "服务员",
+      "ipa": "/ˈsɜːrvər/",
+      "eng_def": "a person who brings food and drink",
+      "example": "The server took the order."
+    },
+    {
+      "word": "structural",
+      "def": "结构的",
+      "ipa": "/ˈstrʌktʃərəl/",
+      "eng_def": "relating to the way parts are put together",
+      "example": "The structural change was big."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词的意思是'实验性的'？",
+      "question_en": "Which word means 'relating to a test or trial'?",
+      "options": [
+        "A. experimental",
+        "B. institutional",
+        "C. functional",
+        "D. voluntary"
+      ],
+      "answer": 0,
+      "word": "experimental"
+    },
+    {
+      "question_cn": "哪个词的意思是'温和的'？",
+      "question_en": "Which word means 'soft and kind'?",
+      "options": [
+        "A. pale",
+        "B. gentle",
+        "C. organic",
+        "D. distant"
+      ],
+      "answer": 1,
+      "word": "gentle"
+    },
+    {
+      "question_cn": "哪个词的意思是'随后'？",
+      "question_en": "Which word means 'after that; later'?",
+      "options": [
+        "A. subsequently",
+        "B. voluntary",
+        "C. experimental",
+        "D. structural"
+      ],
+      "answer": 0,
+      "word": "subsequently"
+    },
+    {
+      "question_cn": "哪个词的意思是'暂停'？",
+      "question_en": "Which word means 'to stop for a time'?",
+      "options": [
+        "A. wander",
+        "B. suspend",
+        "C. slice",
+        "D. stain"
+      ],
+      "answer": 1,
+      "word": "suspend"
+    },
+    {
+      "question_cn": "哪个词的意思是'运动员'？",
+      "question_en": "Which word means 'a person who plays sports'?",
+      "options": [
+        "A. server",
+        "B. athlete",
+        "C. stranger",
+        "D. ruler"
+      ],
+      "answer": 1,
+      "word": "athlete"
+    }
+  ],
+  "image_prompts": [
+    "A distant land with a large experimental empire being built by a gentle ruler",
+    "A meeting hall with people sitting, showing institutional changes and voluntary attendance",
+    "A stranger wandering into a city and taking a slice of bread from a pale stall",
+    "A piece of bread with an organic label and a dark stain on a cloth",
+    "A king suspending ownership of land, with documents being taken away",
+    "An athlete with a sharp tongue standing at a race start, holding a qualification certificate",
+    "A server bringing a cup of tea under the shade of a tree",
+    "Tall grain in fields next to strong structural buildings",
+    "An empire with a weak ruler about to fall",
+    "A pale and gentle leader being seen for the first time, with people looking surprised"
+  ],
+  "_needs_review": false,
+  "_lesson_num": 128,
+  "_new_word_count": 20
+}

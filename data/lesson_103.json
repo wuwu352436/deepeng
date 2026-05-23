@@ -1,0 +1,526 @@
+{
+  "id": 103,
+  "title": "A Lesson in Efficiency and Behavior",
+  "article_text": "I had been studying for the exam, but I had not impressed my teacher. My vice was that I regularly behaved in a loud way. Similarly, my friend's jacket had a dirty stain from an infection. The broadcast said that the giant web of data had a new dimension of statistics. If I had logged my study time, I would have improved my efficiency. The membership to the resort required an iron will to stay calm. After the subsequent lesson, I bought bread at the entrance. The radical idea of using a clean jacket helped me avoid another infection. I wish I had known the depth of the problem before the exam. My father said that the dirty jacket had been thrown away.",
+  "sentences": [
+    {
+      "en": "I had been studying for the exam, but I had not impressed my teacher.",
+      "zh": "我一直在为考试学习，但我没有给老师留下深刻印象。",
+      "words": [
+        {
+          "word": "exam",
+          "def": "考试",
+          "ipa": "/ɪɡˈzæm/",
+          "eng_def": "a test of knowledge or skill"
+        },
+        {
+          "word": "impress",
+          "def": "给……留下深刻印象",
+          "ipa": "/ɪmˈpres/",
+          "eng_def": "to cause someone to feel admiration"
+        },
+        {
+          "word": "impressed",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "My vice was that I regularly behaved in a loud way.",
+      "zh": "我的缺点是，我经常以大声的方式表现。",
+      "words": [
+        {
+          "word": "vice",
+          "def": "缺点，恶习",
+          "ipa": "/vaɪs/",
+          "eng_def": "a bad habit or moral weakness"
+        },
+        {
+          "word": "regularly",
+          "def": "经常地，定期地",
+          "ipa": "/ˈreɡjələrli/",
+          "eng_def": "at regular times or often"
+        },
+        {
+          "word": "behave",
+          "def": "表现，行为",
+          "ipa": "/bɪˈheɪv/",
+          "eng_def": "to act in a particular way"
+        },
+        {
+          "word": "loud",
+          "def": "大声的",
+          "ipa": "/laʊd/",
+          "eng_def": "making a lot of noise"
+        },
+        {
+          "word": "behaved",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Similarly, my friend's jacket had a dirty stain from an infection.",
+      "zh": "同样地，我朋友的夹克上有一块来自感染的脏污渍。",
+      "words": [
+        {
+          "word": "similarly",
+          "def": "同样地",
+          "ipa": "/ˈsɪmɪlərli/",
+          "eng_def": "in a similar way"
+        },
+        {
+          "word": "jacket",
+          "def": "夹克",
+          "ipa": "/ˈdʒækɪt/",
+          "eng_def": "a short coat"
+        },
+        {
+          "word": "dirty",
+          "def": "脏的",
+          "ipa": "/ˈdɜːrti/",
+          "eng_def": "not clean"
+        },
+        {
+          "word": "infection",
+          "def": "感染",
+          "ipa": "/ɪnˈfekʃən/",
+          "eng_def": "a disease caused by germs entering the body"
+        },
+        {
+          "word": "friend's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "stain",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The broadcast said that the giant web of data had a new dimension of statistics.",
+      "zh": "广播说，巨大的数据网有了一个新的统计维度。",
+      "words": [
+        {
+          "word": "broadcast",
+          "def": "广播",
+          "ipa": "/ˈbrɔːdkæst/",
+          "eng_def": "a television or radio program"
+        },
+        {
+          "word": "giant",
+          "def": "巨大的",
+          "ipa": "/ˈdʒaɪənt/",
+          "eng_def": "very large"
+        },
+        {
+          "word": "web",
+          "def": "网，网络",
+          "ipa": "/web/",
+          "eng_def": "a network of threads or connections"
+        },
+        {
+          "word": "dimension",
+          "def": "维度，方面",
+          "ipa": "/daɪˈmenʃən/",
+          "eng_def": "a part or feature of something"
+        },
+        {
+          "word": "statistic",
+          "def": "统计数据",
+          "ipa": "/stəˈtɪstɪk/",
+          "eng_def": "a number that shows a fact or piece of information"
+        },
+        {
+          "word": "said",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "statistics",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "If I had logged my study time, I would have improved my efficiency.",
+      "zh": "如果我记录了我的学习时间，我本可以提高我的效率。",
+      "words": [
+        {
+          "word": "logged",
+          "def": "记录，登录",
+          "ipa": "/lɒɡd/",
+          "eng_def": "recorded information in a log"
+        },
+        {
+          "word": "efficiency",
+          "def": "效率",
+          "ipa": "/ɪˈfɪʃənsi/",
+          "eng_def": "the quality of doing things without wasting time or energy"
+        }
+      ]
+    },
+    {
+      "en": "The membership to the resort required an iron will to stay calm.",
+      "zh": "度假村的会员资格需要钢铁般的意志才能保持冷静。",
+      "words": [
+        {
+          "word": "membership",
+          "def": "会员资格",
+          "ipa": "/ˈmembərʃɪp/",
+          "eng_def": "the state of being a member of a group"
+        },
+        {
+          "word": "resort",
+          "def": "度假村",
+          "ipa": "/rɪˈzɔːrt/",
+          "eng_def": "a place where people go for vacation"
+        },
+        {
+          "word": "iron",
+          "def": "铁的；熨斗",
+          "ipa": "/ˈaɪərn/",
+          "eng_def": "a strong metal; also a tool for smoothing clothes"
+        }
+      ]
+    },
+    {
+      "en": "After the subsequent lesson, I bought bread at the entrance.",
+      "zh": "在接下来的课程之后，我在入口处买了面包。",
+      "words": [
+        {
+          "word": "subsequent",
+          "def": "随后的",
+          "ipa": "/ˈsʌbsɪkwənt/",
+          "eng_def": "coming after something else"
+        },
+        {
+          "word": "bread",
+          "def": "面包",
+          "ipa": "/bred/",
+          "eng_def": "a food made from flour, water, and yeast"
+        },
+        {
+          "word": "entrance",
+          "def": "入口",
+          "ipa": "/ˈentrəns/",
+          "eng_def": "a door or way into a place"
+        },
+        {
+          "word": "bought",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The radical idea of using a clean jacket helped me avoid another infection.",
+      "zh": "使用干净夹克的激进想法帮助我避免了另一次感染。",
+      "words": [
+        {
+          "word": "radical",
+          "def": "激进的，根本的",
+          "ipa": "/ˈrædɪkəl/",
+          "eng_def": "extreme or very different from usual"
+        },
+        {
+          "word": "jacket",
+          "def": "夹克",
+          "ipa": "/ˈdʒækɪt/",
+          "eng_def": "a short coat"
+        },
+        {
+          "word": "infection",
+          "def": "感染",
+          "ipa": "/ɪnˈfekʃən/",
+          "eng_def": "a disease caused by germs entering the body"
+        }
+      ]
+    },
+    {
+      "en": "I wish I had known the depth of the problem before the exam.",
+      "zh": "我希望我在考试前就知道了问题的深度。",
+      "words": [
+        {
+          "word": "depth",
+          "def": "深度",
+          "ipa": "/depθ/",
+          "eng_def": "how deep something is"
+        },
+        {
+          "word": "exam",
+          "def": "考试",
+          "ipa": "/ɪɡˈzæm/",
+          "eng_def": "a test of knowledge or skill"
+        },
+        {
+          "word": "known",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "My father said that the dirty jacket had been thrown away.",
+      "zh": "我父亲说，那件脏夹克已经被扔掉了。",
+      "words": [
+        {
+          "word": "dirty",
+          "def": "脏的",
+          "ipa": "/ˈdɜːrti/",
+          "eng_def": "not clean"
+        },
+        {
+          "word": "jacket",
+          "def": "夹克",
+          "ipa": "/ˈdʒækɪt/",
+          "eng_def": "a short coat"
+        },
+        {
+          "word": "said",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "thrown",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "impress",
+      "def": "给……留下深刻印象",
+      "ipa": "/ɪmˈpres/",
+      "eng_def": "to cause someone to feel admiration",
+      "example": "I had been studying for the exam, but I had not impressed my teacher."
+    },
+    {
+      "word": "exam",
+      "def": "考试",
+      "ipa": "/ɪɡˈzæm/",
+      "eng_def": "a test of knowledge or skill",
+      "example": "I wish I had known the depth of the problem before the exam."
+    },
+    {
+      "word": "vice",
+      "def": "缺点，恶习",
+      "ipa": "/vaɪs/",
+      "eng_def": "a bad habit or moral weakness",
+      "example": "My vice was that I regularly behaved in a loud way."
+    },
+    {
+      "word": "radical",
+      "def": "激进的，根本的",
+      "ipa": "/ˈrædɪkəl/",
+      "eng_def": "extreme or very different from usual",
+      "example": "The radical idea of using a clean jacket helped me avoid another infection."
+    },
+    {
+      "word": "similarly",
+      "def": "同样地",
+      "ipa": "/ˈsɪmɪlərli/",
+      "eng_def": "in a similar way",
+      "example": "Similarly, my friend's jacket had a dirty stain from an infection."
+    },
+    {
+      "word": "behave",
+      "def": "表现，行为",
+      "ipa": "/bɪˈheɪv/",
+      "eng_def": "to act in a particular way",
+      "example": "My vice was that I regularly behaved in a loud way."
+    },
+    {
+      "word": "loud",
+      "def": "大声的",
+      "ipa": "/laʊd/",
+      "eng_def": "making a lot of noise",
+      "example": "My vice was that I regularly behaved in a loud way."
+    },
+    {
+      "word": "dimension",
+      "def": "维度，方面",
+      "ipa": "/daɪˈmenʃən/",
+      "eng_def": "a part or feature of something",
+      "example": "The broadcast said that the giant web of data had a new dimension of statistics."
+    },
+    {
+      "word": "subsequent",
+      "def": "随后的",
+      "ipa": "/ˈsʌbsɪkwənt/",
+      "eng_def": "coming after something else",
+      "example": "After the subsequent lesson, I bought bread at the entrance."
+    },
+    {
+      "word": "infection",
+      "def": "感染",
+      "ipa": "/ɪnˈfekʃən/",
+      "eng_def": "a disease caused by germs entering the body",
+      "example": "Similarly, my friend's jacket had a dirty stain from an infection."
+    },
+    {
+      "word": "jacket",
+      "def": "夹克",
+      "ipa": "/ˈdʒækɪt/",
+      "eng_def": "a short coat",
+      "example": "The radical idea of using a clean jacket helped me avoid another infection."
+    },
+    {
+      "word": "efficiency",
+      "def": "效率",
+      "ipa": "/ɪˈfɪʃənsi/",
+      "eng_def": "the quality of doing things without wasting time or energy",
+      "example": "If I had logged my study time, I would have improved my efficiency."
+    },
+    {
+      "word": "dirty",
+      "def": "脏的",
+      "ipa": "/ˈdɜːrti/",
+      "eng_def": "not clean",
+      "example": "My father said that the dirty jacket had been thrown away."
+    },
+    {
+      "word": "statistic",
+      "def": "统计数据",
+      "ipa": "/stəˈtɪstɪk/",
+      "eng_def": "a number that shows a fact or piece of information",
+      "example": "The broadcast said that the giant web of data had a new dimension of statistics."
+    },
+    {
+      "word": "regularly",
+      "def": "经常地，定期地",
+      "ipa": "/ˈreɡjələrli/",
+      "eng_def": "at regular times or often",
+      "example": "My vice was that I regularly behaved in a loud way."
+    },
+    {
+      "word": "resort",
+      "def": "度假村",
+      "ipa": "/rɪˈzɔːrt/",
+      "eng_def": "a place where people go for vacation",
+      "example": "The membership to the resort required an iron will to stay calm."
+    },
+    {
+      "word": "iron",
+      "def": "铁的；熨斗",
+      "ipa": "/ˈaɪərn/",
+      "eng_def": "a strong metal; also a tool for smoothing clothes",
+      "example": "The membership to the resort required an iron will to stay calm."
+    },
+    {
+      "word": "broadcast",
+      "def": "广播",
+      "ipa": "/ˈbrɔːdkæst/",
+      "eng_def": "a television or radio program",
+      "example": "The broadcast said that the giant web of data had a new dimension of statistics."
+    },
+    {
+      "word": "membership",
+      "def": "会员资格",
+      "ipa": "/ˈmembərʃɪp/",
+      "eng_def": "the state of being a member of a group",
+      "example": "The membership to the resort required an iron will to stay calm."
+    },
+    {
+      "word": "bread",
+      "def": "面包",
+      "ipa": "/bred/",
+      "eng_def": "a food made from flour, water, and yeast",
+      "example": "After the subsequent lesson, I bought bread at the entrance."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "“vice”的意思是什么？",
+      "question_en": "What does 'vice' mean?",
+      "options": [
+        "A. 美德",
+        "B. 缺点",
+        "C. 建议",
+        "D. 价格"
+      ],
+      "answer": 1,
+      "word": "vice"
+    },
+    {
+      "question_cn": "“If I had logged my study time, I would have improved my efficiency.”中“efficiency”是什么意思？",
+      "question_en": "In 'If I had logged my study time, I would have improved my efficiency,' what does 'efficiency' mean?",
+      "options": [
+        "A. 效果",
+        "B. 努力",
+        "C. 效率",
+        "D. 娱乐"
+      ],
+      "answer": 2,
+      "word": "efficiency"
+    },
+    {
+      "question_cn": "“broadcast”最接近的意思是什么？",
+      "question_en": "What is the closest meaning of 'broadcast'?",
+      "options": [
+        "A. 广播",
+        "B. 电视",
+        "C. 新闻",
+        "D. 电影"
+      ],
+      "answer": 0,
+      "word": "broadcast"
+    },
+    {
+      "question_cn": "“The radical idea of using a clean jacket helped me avoid another infection.”中“radical”是什么意思？",
+      "question_en": "In 'The radical idea of using a clean jacket helped me avoid another infection,' what does 'radical' mean?",
+      "options": [
+        "A. 普通的",
+        "B. 激进的",
+        "C. 简单的",
+        "D. 安全的"
+      ],
+      "answer": 1,
+      "word": "radical"
+    },
+    {
+      "question_cn": "“subsequent”最接近的意思是什么？",
+      "question_en": "What is the closest meaning of 'subsequent'?",
+      "options": [
+        "A. 之前的",
+        "B. 随后的",
+        "C. 同时的",
+        "D. 频繁的"
+      ],
+      "answer": 1,
+      "word": "subsequent"
+    }
+  ],
+  "image_prompts": [
+    "A student sitting at a desk with books, looking disappointed while a teacher stands nearby.",
+    "A person talking loudly in a classroom, with others covering their ears.",
+    "A jacket with a dark stain on it, lying on a chair.",
+    "A TV screen showing a news broadcast with a giant network of lines and numbers.",
+    "A person writing in a logbook next to a clock, with a graph showing improvement.",
+    "A fancy resort entrance with a sign that says 'Membership Required' and a person looking determined.",
+    "A person buying bread from a stand near the entrance of a building.",
+    "A person holding a clean jacket, with a germ symbol crossed out nearby.",
+    "A student looking worried before an exam, with a deep hole symbolizing the depth of the problem.",
+    "A father pointing to a trash can where a dirty jacket is being thrown away."
+  ],
+  "_needs_review": false,
+  "_lesson_num": 103,
+  "_new_word_count": 20
+}

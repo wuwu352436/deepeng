@@ -1,0 +1,500 @@
+{
+  "id": 97,
+  "title": "A Lesson About Feelings and Work",
+  "article_text": "Last week, my mom told me that it is vital to understand our own feelings. She had always been fascinated by how external events can affect our mood. Whenever I feel sad, she reminds me that depression is not a sign of weakness. I once felt guilty because I had not spared enough time for my family. My mom explained that hidden worries often underlie our anger and stress. She said that the satisfaction of helping others can sweep away negative thoughts. I have incorporated her advice into my daily routine, and I no longer stare at problems anymore. She also taught me that every obligation we take on should be evaluated carefully. Sir, I perceive that this lesson has changed my perception of work and life. Now I understand the distinction between a busy life and a meaningful one, and I often enjoy a quiet drink at a pub to relax.",
+  "sentences": [
+    {
+      "en": "Last week, my mom told me that it is vital to understand our own feelings.",
+      "zh": "上周，我妈妈告诉我，理解自己的感受至关重要。",
+      "words": [
+        {
+          "word": "mom",
+          "def": "妈妈",
+          "ipa": "/mɒm/",
+          "eng_def": "mother"
+        },
+        {
+          "word": "vital",
+          "def": "至关重要的",
+          "ipa": "/ˈvaɪtəl/",
+          "eng_def": "very important or necessary"
+        },
+        {
+          "word": "told",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "feelings",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "She had always been fascinated by how external events can affect our mood.",
+      "zh": "她一直着迷于外部事件如何影响我们的情绪。",
+      "words": [
+        {
+          "word": "fascinated",
+          "def": "着迷的",
+          "ipa": "/ˈfæsɪneɪtɪd/",
+          "eng_def": "very interested in something"
+        },
+        {
+          "word": "external",
+          "def": "外部的",
+          "ipa": "/ɪkˈstɜːrnəl/",
+          "eng_def": "coming from outside"
+        }
+      ]
+    },
+    {
+      "en": "Whenever I feel sad, she reminds me that depression is not a sign of weakness.",
+      "zh": "每当我感到悲伤时，她提醒我抑郁不是软弱的表现。",
+      "words": [
+        {
+          "word": "Whenever",
+          "def": "每当",
+          "ipa": "/wenˈevər/",
+          "eng_def": "every time that something happens"
+        },
+        {
+          "word": "depression",
+          "def": "抑郁",
+          "ipa": "/dɪˈpreʃən/",
+          "eng_def": "a feeling of great sadness"
+        },
+        {
+          "word": "weakness",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I once felt guilty because I had not spared enough time for my family.",
+      "zh": "我曾感到内疚，因为我没有为家人腾出足够的时间。",
+      "words": [
+        {
+          "word": "guilty",
+          "def": "内疚的",
+          "ipa": "/ˈɡɪlti/",
+          "eng_def": "feeling that you have done something wrong"
+        },
+        {
+          "word": "spared",
+          "def": "腾出（时间）",
+          "ipa": "/sperd/",
+          "eng_def": "to give time or money for a purpose"
+        },
+        {
+          "word": "felt",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "My mom explained that hidden worries often underlie our anger and stress.",
+      "zh": "我妈妈解释说，隐藏的担忧常常是愤怒和压力的根源。",
+      "words": [
+        {
+          "word": "mom",
+          "def": "妈妈",
+          "ipa": "/mɒm/",
+          "eng_def": "mother"
+        },
+        {
+          "word": "underlie",
+          "def": "构成...的基础",
+          "ipa": "/ˌʌndərˈlaɪ/",
+          "eng_def": "to be the cause of something"
+        },
+        {
+          "word": "anger",
+          "def": "愤怒",
+          "ipa": "/ˈæŋɡər/",
+          "eng_def": "a strong feeling against someone or something"
+        },
+        {
+          "word": "hidden",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "worries",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "She said that the satisfaction of helping others can sweep away negative thoughts.",
+      "zh": "她说帮助他人的满足感可以扫除消极的想法。",
+      "words": [
+        {
+          "word": "satisfaction",
+          "def": "满足感",
+          "ipa": "/ˌsætɪsˈfækʃən/",
+          "eng_def": "a good feeling when you get what you want"
+        },
+        {
+          "word": "sweep",
+          "def": "扫除",
+          "ipa": "/swiːp/",
+          "eng_def": "to remove something completely"
+        },
+        {
+          "word": "said",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "thoughts",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I have incorporated her advice into my daily routine, and I no longer stare at problems anymore.",
+      "zh": "我已经把她的建议融入我的日常生活，我不再盯着问题看了。",
+      "words": [
+        {
+          "word": "incorporated",
+          "def": "融入",
+          "ipa": "/ɪnˈkɔːrpəreɪtɪd/",
+          "eng_def": "to include something as part of something"
+        },
+        {
+          "word": "routine",
+          "def": "日常",
+          "ipa": "/ruːˈtiːn/",
+          "eng_def": "a usual or fixed way of doing things"
+        },
+        {
+          "word": "stare",
+          "def": "盯着看",
+          "ipa": "/ster/",
+          "eng_def": "to look at something for a long time"
+        },
+        {
+          "word": "anymore",
+          "def": "不再",
+          "ipa": "/ˌeniˈmɔːr/",
+          "eng_def": "any longer; now"
+        },
+        {
+          "word": "longer",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "She also taught me that every obligation we take on should be evaluated carefully.",
+      "zh": "她还教我，我们承担的每一项义务都应该仔细评估。",
+      "words": [
+        {
+          "word": "obligation",
+          "def": "义务",
+          "ipa": "/ˌɒblɪˈɡeɪʃən/",
+          "eng_def": "something you must do"
+        },
+        {
+          "word": "evaluated",
+          "def": "评估",
+          "ipa": "/ɪˈvæljueɪtɪd/",
+          "eng_def": "to judge the value or quality of something"
+        },
+        {
+          "word": "taught",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Sir, I perceive that this lesson has changed my perception of work and life.",
+      "zh": "先生，我察觉到这堂课改变了我对工作和生活的看法。",
+      "words": [
+        {
+          "word": "Sir",
+          "def": "先生",
+          "ipa": "/sɜːr/",
+          "eng_def": "a polite way to address a man"
+        },
+        {
+          "word": "perceive",
+          "def": "察觉到",
+          "ipa": "/pərˈsiːv/",
+          "eng_def": "to see or understand something"
+        },
+        {
+          "word": "perception",
+          "def": "看法",
+          "ipa": "/pərˈsepʃən/",
+          "eng_def": "the way you think about something"
+        }
+      ]
+    },
+    {
+      "en": "Now I understand the distinction between a busy life and a meaningful one, and I often enjoy a quiet drink at a pub to relax.",
+      "zh": "现在我明白了忙碌生活和有意义生活之间的区别，我经常在酒吧安静地喝一杯来放松。",
+      "words": [
+        {
+          "word": "distinction",
+          "def": "区别",
+          "ipa": "/dɪˈstɪŋkʃən/",
+          "eng_def": "a clear difference between two things"
+        },
+        {
+          "word": "pub",
+          "def": "酒吧",
+          "ipa": "/pʌb/",
+          "eng_def": "a place where people go to drink and meet friends"
+        },
+        {
+          "word": "meaningful",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "vital",
+      "def": "至关重要的",
+      "ipa": "/ˈvaɪtəl/",
+      "eng_def": "very important or necessary",
+      "example": "It is vital to drink water every day."
+    },
+    {
+      "word": "fascinate",
+      "def": "使着迷",
+      "ipa": "/ˈfæsɪneɪt/",
+      "eng_def": "to interest someone very much",
+      "example": "Space fascinates many children."
+    },
+    {
+      "word": "external",
+      "def": "外部的",
+      "ipa": "/ɪkˈstɜːrnəl/",
+      "eng_def": "coming from outside",
+      "example": "External noise can make it hard to sleep."
+    },
+    {
+      "word": "spare",
+      "def": "腾出（时间）",
+      "ipa": "/sper/",
+      "eng_def": "to give time or money for a purpose",
+      "example": "Can you spare a few minutes to help me?"
+    },
+    {
+      "word": "whenever",
+      "def": "每当",
+      "ipa": "/wenˈevər/",
+      "eng_def": "every time that something happens",
+      "example": "Whenever I call, she answers."
+    },
+    {
+      "word": "depression",
+      "def": "抑郁",
+      "ipa": "/dɪˈpreʃən/",
+      "eng_def": "a feeling of great sadness",
+      "example": "Depression can affect anyone."
+    },
+    {
+      "word": "guilty",
+      "def": "内疚的",
+      "ipa": "/ˈɡɪlti/",
+      "eng_def": "feeling that you have done something wrong",
+      "example": "He felt guilty about lying."
+    },
+    {
+      "word": "underlie",
+      "def": "构成...的基础",
+      "ipa": "/ˌʌndərˈlaɪ/",
+      "eng_def": "to be the cause of something",
+      "example": "Fear often underlies anger."
+    },
+    {
+      "word": "mom",
+      "def": "妈妈",
+      "ipa": "/mɒm/",
+      "eng_def": "mother",
+      "example": "My mom makes the best cookies."
+    },
+    {
+      "word": "distinction",
+      "def": "区别",
+      "ipa": "/dɪˈstɪŋkʃən/",
+      "eng_def": "a clear difference between two things",
+      "example": "There is a distinction between right and wrong."
+    },
+    {
+      "word": "satisfaction",
+      "def": "满足感",
+      "ipa": "/ˌsætɪsˈfækʃən/",
+      "eng_def": "a good feeling when you get what you want",
+      "example": "Finishing a job gives me satisfaction."
+    },
+    {
+      "word": "incorporate",
+      "def": "融入",
+      "ipa": "/ɪnˈkɔːrpəreɪt/",
+      "eng_def": "to include something as part of something",
+      "example": "We should incorporate new ideas."
+    },
+    {
+      "word": "pour",
+      "def": "倒",
+      "ipa": "/pɔːr/",
+      "eng_def": "to make a liquid flow from a container",
+      "example": "She poured water into the glass."
+    },
+    {
+      "word": "sweep",
+      "def": "扫除",
+      "ipa": "/swiːp/",
+      "eng_def": "to remove something completely",
+      "example": "The wind will sweep the leaves away."
+    },
+    {
+      "word": "obligation",
+      "def": "义务",
+      "ipa": "/ˌɒblɪˈɡeɪʃən/",
+      "eng_def": "something you must do",
+      "example": "Paying taxes is an obligation."
+    },
+    {
+      "word": "sir",
+      "def": "先生",
+      "ipa": "/sɜːr/",
+      "eng_def": "a polite way to address a man",
+      "example": "Thank you, sir."
+    },
+    {
+      "word": "evaluate",
+      "def": "评估",
+      "ipa": "/ɪˈvæljueɪt/",
+      "eng_def": "to judge the value or quality of something",
+      "example": "Teachers evaluate students' work."
+    },
+    {
+      "word": "anger",
+      "def": "愤怒",
+      "ipa": "/ˈæŋɡər/",
+      "eng_def": "a strong feeling against someone or something",
+      "example": "She tried to control her anger."
+    },
+    {
+      "word": "pub",
+      "def": "酒吧",
+      "ipa": "/pʌb/",
+      "eng_def": "a place where people go to drink and meet friends",
+      "example": "We met at the pub after work."
+    },
+    {
+      "word": "perception",
+      "def": "看法",
+      "ipa": "/pərˈsepʃən/",
+      "eng_def": "the way you think about something",
+      "example": "His perception of the problem changed."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词的意思是“非常重要的”？",
+      "question_en": "Which word means 'very important'?",
+      "options": [
+        "A. vital",
+        "B. spare",
+        "C. guilty",
+        "D. external"
+      ],
+      "answer": 0,
+      "word": "vital"
+    },
+    {
+      "question_cn": "哪个词的意思是“悲伤的强烈感觉”？",
+      "question_en": "Which word means 'a strong feeling of sadness'?",
+      "options": [
+        "A. anger",
+        "B. satisfaction",
+        "C. depression",
+        "D. distinction"
+      ],
+      "answer": 2,
+      "word": "depression"
+    },
+    {
+      "question_cn": "哪个词的意思是“构成...的基础”？",
+      "question_en": "Which word means 'to be the cause of something'?",
+      "asks": "underlie",
+      "options": [
+        "A. incorporate",
+        "B. evaluate",
+        "C. underlie",
+        "D. sweep"
+      ],
+      "answer": 2,
+      "word": "underlie"
+    },
+    {
+      "question_cn": "哪个词的意思是“你如何看待某件事”？",
+      "question_en": "Which word means 'the way you think about something'?",
+      "options": [
+        "A. perception",
+        "B. obligation",
+        "C. satisfaction",
+        "D. distinction"
+      ],
+      "answer": 0,
+      "word": "perception"
+    },
+    {
+      "question_cn": "哪个词的意思是“你必须做的事”？",
+      "question_en": "Which word means 'something you must do'?",
+      "options": [
+        "A. pub",
+        "B. anger",
+        "C. obligation",
+        "D. guilt"
+      ],
+      "answer": 2,
+      "word": "obligation"
+    }
+  ],
+  "image_prompts": [
+    "A mother speaking to her child in a cozy living room, with a warm light.",
+    "A person looking out a window at a storm, with a thoughtful expression.",
+    "A sad person sitting alone, with a gentle hand on their shoulder.",
+    "A person checking a clock, looking at a family photo with regret.",
+    "A person with a worried face, and hidden shadows representing hidden worries.",
+    "A smiling person helping an elderly person, with a bright background.",
+    "A person writing in a notebook, with a clock and a calm expression.",
+    "A person holding a list of tasks, with a thoughtful look.",
+    "A man in a suit speaking respectfully to another person.",
+    "A person sitting in a quiet pub, holding a glass, looking relaxed."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['pour']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 97,
+  "_new_word_count": 20
+}

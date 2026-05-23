@@ -1,0 +1,512 @@
+{
+  "id": 132,
+  "title": "Counting Days and Numbers",
+  "article_text": "On Monday, I felt very thirsty after running for two miles. On Tuesday, I drank three glasses of water. On Wednesday, I ate four apples for lunch. On Thursday, I saw five birds in the tree. I counted six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, and twenty birds in the park. It was a surprise that so many birds were there. If only I had brought more food, they would have stayed longer. Not only did I see birds, but I also felt happy. It is the fresh air that makes me feel good. I will go again next week.",
+  "sentences": [
+    {
+      "en": "On Monday, I felt very thirsty after running for two miles.",
+      "zh": "星期一，我跑了两英里后感到非常口渴。",
+      "words": [
+        {
+          "word": "monday",
+          "def": "星期一",
+          "ipa": "/ˈmʌndeɪ/",
+          "eng_def": "the first day of the week"
+        },
+        {
+          "word": "thirsty",
+          "def": "口渴的",
+          "ipa": "/ˈθɜːrsti/",
+          "eng_def": "feeling a need to drink water"
+        },
+        {
+          "word": "two",
+          "def": "二",
+          "ipa": "/tuː/",
+          "eng_def": "the number 2"
+        },
+        {
+          "word": "felt",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "running",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "On Tuesday, I drank three glasses of water.",
+      "zh": "星期二，我喝了三杯水。",
+      "words": [
+        {
+          "word": "tuesday",
+          "def": "星期二",
+          "ipa": "/ˈtjuːzdeɪ/",
+          "eng_def": "the second day of the week"
+        },
+        {
+          "word": "three",
+          "def": "三",
+          "ipa": "/θriː/",
+          "eng_def": "the number 3"
+        },
+        {
+          "word": "drank",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "glasses",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "On Wednesday, I ate four apples for lunch.",
+      "zh": "星期三，我午餐吃了四个苹果。",
+      "words": [
+        {
+          "word": "wednesday",
+          "def": "星期三",
+          "ipa": "/ˈwɛnzdeɪ/",
+          "eng_def": "the third day of the week"
+        },
+        {
+          "word": "four",
+          "def": "四",
+          "ipa": "/fɔːr/",
+          "eng_def": "the number 4"
+        },
+        {
+          "word": "ate",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "apples",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "On Thursday, I saw five birds in the tree.",
+      "zh": "星期四，我看到树上有五只鸟。",
+      "words": [
+        {
+          "word": "thursday",
+          "def": "星期四",
+          "ipa": "/ˈθɜːrzdeɪ/",
+          "eng_def": "the fourth day of the week"
+        },
+        {
+          "word": "five",
+          "def": "五",
+          "ipa": "/faɪv/",
+          "eng_def": "the number 5"
+        },
+        {
+          "word": "saw",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I counted six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, and twenty birds in the park.",
+      "zh": "我数了公园里有六、七、八、九、十、十一、十二、十三、十四、十五、十六、十七、十八、十九和二十只鸟。",
+      "words": [
+        {
+          "word": "six",
+          "def": "六",
+          "ipa": "/sɪks/",
+          "eng_def": "the number 6"
+        },
+        {
+          "word": "seven",
+          "def": "七",
+          "ipa": "/ˈsɛvən/",
+          "eng_def": "the number 7"
+        },
+        {
+          "word": "eight",
+          "def": "八",
+          "ipa": "/eɪt/",
+          "eng_def": "the number 8"
+        },
+        {
+          "word": "nine",
+          "def": "九",
+          "ipa": "/naɪn/",
+          "eng_def": "the number 9"
+        },
+        {
+          "word": "ten",
+          "def": "十",
+          "ipa": "/tɛn/",
+          "eng_def": "the number 10"
+        },
+        {
+          "word": "eleven",
+          "def": "十一",
+          "ipa": "/ɪˈlɛvən/",
+          "eng_def": "the number 11"
+        },
+        {
+          "word": "twelve",
+          "def": "十二",
+          "ipa": "/twɛlv/",
+          "eng_def": "the number 12"
+        },
+        {
+          "word": "thirteen",
+          "def": "十三",
+          "ipa": "/ˌθɜːrˈtiːn/",
+          "eng_def": "the number 13"
+        },
+        {
+          "word": "fourteen",
+          "def": "十四",
+          "ipa": "/ˌfɔːrˈtiːn/",
+          "eng_def": "the number 14"
+        },
+        {
+          "word": "fifteen",
+          "def": "十五",
+          "ipa": "/ˌfɪfˈtiːn/",
+          "eng_def": "the number 15"
+        },
+        {
+          "word": "sixteen",
+          "def": "十六",
+          "ipa": "/ˌsɪksˈtiːn/",
+          "eng_def": "the number 16"
+        },
+        {
+          "word": "seventeen",
+          "def": "十七",
+          "ipa": "/ˌsɛvənˈtiːn/",
+          "eng_def": "the number 17"
+        },
+        {
+          "word": "eighteen",
+          "def": "十八",
+          "ipa": "/ˌeɪˈtiːn/",
+          "eng_def": "the number 18"
+        },
+        {
+          "word": "nineteen",
+          "def": "十九",
+          "ipa": "/ˌnaɪnˈtiːn/",
+          "eng_def": "the number 19"
+        },
+        {
+          "word": "twenty",
+          "def": "二十",
+          "ipa": "/ˈtwɛnti/",
+          "eng_def": "the number 20"
+        }
+      ]
+    },
+    {
+      "en": "It was a surprise that so many birds were there.",
+      "zh": "那里有这么多鸟，真是一个惊喜。",
+      "words": [
+        {
+          "word": "surprise",
+          "def": "惊喜",
+          "ipa": "/sərˈpraɪz/",
+          "eng_def": "something not expected"
+        }
+      ]
+    },
+    {
+      "en": "If only I had brought more food, they would have stayed longer.",
+      "zh": "要是我带了更多食物，它们就会待得更久。",
+      "words": [
+        {
+          "word": "food",
+          "def": "食物",
+          "ipa": "/fuːd/",
+          "eng_def": "something you eat"
+        },
+        {
+          "word": "brought",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "longer",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Not only did I see birds, but I also felt happy.",
+      "zh": "我不仅看到了鸟，而且感到快乐。",
+      "words": [
+        {
+          "word": "happy",
+          "def": "快乐的",
+          "ipa": "/ˈhæpi/",
+          "eng_def": "feeling good or pleased"
+        },
+        {
+          "word": "felt",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "It is the fresh air that makes me feel good.",
+      "zh": "是新鲜的空气让我感觉良好。",
+      "words": [
+        {
+          "word": "fresh",
+          "def": "新鲜的",
+          "ipa": "/frɛʃ/",
+          "eng_def": "new and clean"
+        },
+        {
+          "word": "air",
+          "def": "空气",
+          "ipa": "/ɛr/",
+          "eng_def": "the gas around us"
+        }
+      ]
+    },
+    {
+      "en": "I will go again next week.",
+      "zh": "我下周会再去。",
+      "words": []
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "two",
+      "def": "二",
+      "ipa": "/tuː/",
+      "eng_def": "the number 2",
+      "example": "I have two hands."
+    },
+    {
+      "word": "three",
+      "def": "三",
+      "ipa": "/θriː/",
+      "eng_def": "the number 3",
+      "example": "She has three cats."
+    },
+    {
+      "word": "four",
+      "def": "四",
+      "ipa": "/fɔːr/",
+      "eng_def": "the number 4",
+      "example": "There are four seasons."
+    },
+    {
+      "word": "five",
+      "def": "五",
+      "ipa": "/faɪv/",
+      "eng_def": "the number 5",
+      "example": "I ate five cookies."
+    },
+    {
+      "word": "six",
+      "def": "六",
+      "ipa": "/sɪks/",
+      "eng_def": "the number 6",
+      "example": "He is six years old."
+    },
+    {
+      "word": "seven",
+      "def": "七",
+      "ipa": "/ˈsɛvən/",
+      "eng_def": "the number 7",
+      "example": "There are seven days in a week."
+    },
+    {
+      "word": "eight",
+      "def": "八",
+      "ipa": "/eɪt/",
+      "eng_def": "the number 8",
+      "example": "An octopus has eight arms."
+    },
+    {
+      "word": "nine",
+      "def": "九",
+      "ipa": "/naɪn/",
+      "eng_def": "the number 9",
+      "example": "Nine students are in the class."
+    },
+    {
+      "word": "ten",
+      "def": "十",
+      "ipa": "/tɛn/",
+      "eng_def": "the number 10",
+      "example": "I have ten fingers."
+    },
+    {
+      "word": "eleven",
+      "def": "十一",
+      "ipa": "/ɪˈlɛvən/",
+      "eng_def": "the number 11",
+      "example": "Eleven birds are on the roof."
+    },
+    {
+      "word": "twelve",
+      "def": "十二",
+      "ipa": "/twɛlv/",
+      "eng_def": "the number 12",
+      "example": "There are twelve months in a year."
+    },
+    {
+      "word": "thirteen",
+      "def": "十三",
+      "ipa": "/ˌθɜːrˈtiːn/",
+      "eng_def": "the number 13",
+      "example": "Thirteen is my lucky number."
+    },
+    {
+      "word": "fourteen",
+      "def": "十四",
+      "ipa": "/ˌfɔːrˈtiːn/",
+      "eng_def": "the number 14",
+      "example": "She is fourteen years old."
+    },
+    {
+      "word": "fifteen",
+      "def": "十五",
+      "ipa": "/ˌfɪfˈtiːn/",
+      "eng_def": "the number 15",
+      "example": "Fifteen students are here."
+    },
+    {
+      "word": "sixteen",
+      "def": "十六",
+      "ipa": "/ˌsɪksˈtiːn/",
+      "eng_def": "the number 16",
+      "example": "I have sixteen books."
+    },
+    {
+      "word": "seventeen",
+      "def": "十七",
+      "ipa": "/ˌsɛvənˈtiːn/",
+      "eng_def": "the number 17",
+      "example": "Seventeen is a prime number."
+    },
+    {
+      "word": "eighteen",
+      "def": "十八",
+      "ipa": "/ˌeɪˈtiːn/",
+      "eng_def": "the number 18",
+      "example": "He turned eighteen last week."
+    },
+    {
+      "word": "nineteen",
+      "def": "十九",
+      "ipa": "/ˌnaɪnˈtiːn/",
+      "eng_def": "the number 19",
+      "example": "Nineteen apples are on the table."
+    },
+    {
+      "word": "twenty",
+      "def": "二十",
+      "ipa": "/ˈtwɛnti/",
+      "eng_def": "the number 20",
+      "example": "Twenty people came to the party."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个数字表示11？",
+      "question_en": "Which number means 11?",
+      "options": [
+        "A. twelve",
+        "B. eleven",
+        "C. ten",
+        "D. thirteen"
+      ],
+      "answer": 1,
+      "word": "eleven"
+    },
+    {
+      "question_cn": "哪个数字表示15？",
+      "question_en": "Which number means 15?",
+      "options": [
+        "A. fourteen",
+        "B. sixteen",
+        "C. fifteen",
+        "D. seventeen"
+      ],
+      "answer": 2,
+      "word": "fifteen"
+    },
+    {
+      "question_cn": "哪个数字表示18？",
+      "question_en": "Which number means 18?",
+      "options": [
+        "A. nineteen",
+        "B. seventeen",
+        "C. sixteen",
+        "D. eighteen"
+      ],
+      "answer": 3,
+      "word": "eighteen"
+    },
+    {
+      "question_cn": "哪个数字表示20？",
+      "question_en": "Which number means 20?",
+      "options": [
+        "A. nineteen",
+        "B. twenty",
+        "C. twelve",
+        "D. thirteen"
+      ],
+      "answer": 1,
+      "word": "twenty"
+    },
+    {
+      "question_cn": "哪个数字表示13？",
+      "question_en": "Which number means 13?",
+      "options": [
+        "A. fourteen",
+        "B. twelve",
+        "C. thirteen",
+        "D. eleven"
+      ],
+      "answer": 2,
+      "word": "thirteen"
+    }
+  ],
+  "image_prompts": [
+    "A person running on a path on Monday, looking thirsty, with a sign showing 2 miles.",
+    "A person drinking three glasses of water on Tuesday.",
+    "A person eating four apples for lunch on Wednesday.",
+    "A person looking at five birds in a tree on Thursday.",
+    "A park with many birds, numbers from six to twenty written in the sky.",
+    "A surprised person looking at many birds in a park.",
+    "A person holding food, imagining birds staying longer, with a thought bubble.",
+    "A happy person standing among birds, with a 'not only... but also' sign.",
+    "A person breathing fresh air in a green park, with a sun and clouds.",
+    "A person walking away from a park, with a calendar showing 'next week'."
+  ],
+  "_needs_review": false,
+  "_lesson_num": 132,
+  "_new_word_count": 19
+}

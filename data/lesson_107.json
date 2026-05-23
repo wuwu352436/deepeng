@@ -1,0 +1,572 @@
+{
+  "id": 107,
+  "title": "A Day at the Science Museum",
+  "article_text": "The tube train was crowded, so we grabbed a seat near the tower. The museum's main tower was very tall, and we could see the whole city from it. An infant was crying, but his mother calmed him down. The operator of the exhibit explained how to spin the wheel. He said that he had anticipated the large crowd and had prepared extra tickets. The virus exhibit showed how a virus can infect a cell. We had to dig through our bags to find the tickets. We had to drag a heavy box to the next room. We mounted a model rocket on a stand. The guide told us that the exact height of the tower was 300 meters. The scientist characterized the new virus precisely. He specified that the virus was dependent on a host cell. The anxiety in the room was high because of the exposure to the virus. I wish I had specialized in biology earlier. If I had studied more, I would have understood the exhibit better. The chicken display showed how chickens grow. The angle of the camera was perfect for the photo. The operator lent us a special tool to wrap the wire. The involvement of the visitors was very high. The museum was entitled to charge an extra fee for the special show.",
+  "sentences": [
+    {
+      "en": "The tube train was crowded, so we grabbed a seat near the tower.",
+      "zh": "地铁列车很拥挤，所以我们抢到了靠近塔楼的座位。",
+      "words": [
+        {
+          "word": "tube",
+          "def": "地铁，管道",
+          "ipa": "/tjuːb/",
+          "eng_def": "an underground train system"
+        },
+        {
+          "word": "tower",
+          "def": "塔，塔楼",
+          "ipa": "/ˈtaʊər/",
+          "eng_def": "a tall, narrow building or structure"
+        },
+        {
+          "word": "grabbed",
+          "def": "抓住，抢夺",
+          "ipa": "/ɡræbd/",
+          "eng_def": "took something quickly"
+        }
+      ]
+    },
+    {
+      "en": "The museum's main tower was very tall, and we could see the whole city from it.",
+      "zh": "博物馆的主塔非常高，从上面我们可以看到整个城市。",
+      "words": [
+        {
+          "word": "tower",
+          "def": "塔，塔楼",
+          "ipa": "/ˈtaʊər/",
+          "eng_def": "a tall, narrow building or structure"
+        },
+        {
+          "word": "museum's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "An infant was crying, but his mother calmed him down.",
+      "zh": "一个婴儿在哭，但他妈妈让他平静了下来。",
+      "words": [
+        {
+          "word": "infant",
+          "def": "婴儿",
+          "ipa": "/ˈɪnfənt/",
+          "eng_def": "a very young child"
+        }
+      ]
+    },
+    {
+      "en": "The operator of the exhibit explained how to spin the wheel.",
+      "zh": "展品的操作员解释了如何转动轮子。",
+      "words": [
+        {
+          "word": "operator",
+          "def": "操作员，运营者",
+          "ipa": "/ˈɒpəreɪtər/",
+          "eng_def": "a person who controls a machine or system"
+        },
+        {
+          "word": "spin",
+          "def": "旋转，转动",
+          "ipa": "/spɪn/",
+          "eng_def": "to turn around quickly"
+        }
+      ]
+    },
+    {
+      "en": "He said that he had anticipated the large crowd and had prepared extra tickets.",
+      "zh": "他说他预料到了大量人群，并准备了额外的门票。",
+      "words": [
+        {
+          "word": "anticipated",
+          "def": "预料，预期",
+          "ipa": "/ænˈtɪsɪpeɪtɪd/",
+          "eng_def": "expected something to happen"
+        },
+        {
+          "word": "said",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The virus exhibit showed how a virus can infect a cell.",
+      "zh": "病毒展品展示了病毒如何感染细胞。",
+      "words": [
+        {
+          "word": "virus",
+          "def": "病毒",
+          "ipa": "/ˈvaɪrəs/",
+          "eng_def": "a very small living thing that causes disease"
+        },
+        {
+          "word": "infect",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "We had to dig through our bags to find the tickets.",
+      "zh": "我们不得不翻遍包去找门票。",
+      "words": [
+        {
+          "word": "dig",
+          "def": "挖掘，翻找",
+          "ipa": "/dɪɡ/",
+          "eng_def": "to move earth or search inside something"
+        }
+      ]
+    },
+    {
+      "en": "We had to drag a heavy box to the next room.",
+      "zh": "我们不得不把一个重箱子拖到隔壁房间。",
+      "words": [
+        {
+          "word": "drag",
+          "def": "拖，拉",
+          "ipa": "/dræɡ/",
+          "eng_def": "to pull something heavy along the ground"
+        }
+      ]
+    },
+    {
+      "en": "We mounted a model rocket on a stand.",
+      "zh": "我们把一个模型火箭安装在一个架子上。",
+      "words": [
+        {
+          "word": "mounted",
+          "def": "安装，登上",
+          "ipa": "/ˈmaʊntɪd/",
+          "eng_def": "put something in a fixed position"
+        },
+        {
+          "word": "rocket",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The guide told us that the exact height of the tower was 300 meters.",
+      "zh": "导游告诉我们塔的精确高度是300米。",
+      "words": [
+        {
+          "word": "exact",
+          "def": "精确的，准确的",
+          "ipa": "/ɪɡˈzækt/",
+          "eng_def": "completely correct and accurate"
+        },
+        {
+          "word": "told",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The scientist characterized the new virus precisely.",
+      "zh": "科学家精确地描述了这种新病毒的特征。",
+      "words": [
+        {
+          "word": "characterized",
+          "def": "描述特征，刻画",
+          "ipa": "/ˈkærɪktəraɪzd/",
+          "eng_def": "described the qualities of something"
+        },
+        {
+          "word": "precisely",
+          "def": "精确地，准确地",
+          "ipa": "/prɪˈsaɪsli/",
+          "eng_def": "in an exact and accurate way"
+        }
+      ]
+    },
+    {
+      "en": "He specified that the virus was dependent on a host cell.",
+      "zh": "他明确指出这种病毒依赖于宿主细胞。",
+      "words": [
+        {
+          "word": "specified",
+          "def": "明确指出，具体说明",
+          "ipa": "/ˈspesɪfaɪd/",
+          "eng_def": "stated something clearly and exactly"
+        },
+        {
+          "word": "dependent",
+          "def": "依赖的，依靠的",
+          "ipa": "/dɪˈpendənt/",
+          "eng_def": "needing something to survive"
+        }
+      ]
+    },
+    {
+      "en": "The anxiety in the room was high because of the exposure to the virus.",
+      "zh": "由于接触病毒，房间里的人非常焦虑。",
+      "words": [
+        {
+          "word": "anxiety",
+          "def": "焦虑，忧虑",
+          "ipa": "/æŋˈzaɪəti/",
+          "eng_def": "a feeling of worry or fear"
+        },
+        {
+          "word": "exposure",
+          "def": "暴露，接触",
+          "ipa": "/ɪkˈspəʊʒər/",
+          "eng_def": "the state of being affected by something"
+        }
+      ]
+    },
+    {
+      "en": "I wish I had specialized in biology earlier.",
+      "zh": "我希望我早点专攻生物学。",
+      "words": [
+        {
+          "word": "specialized",
+          "def": "专攻，专门研究",
+          "ipa": "/ˈspeʃəlaɪzd/",
+          "eng_def": "focused on one particular subject"
+        },
+        {
+          "word": "biology",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "earlier",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "If I had studied more, I would have understood the exhibit better.",
+      "zh": "如果我学得更多，我就能更好地理解这个展品了。",
+      "words": [
+        {
+          "word": "studied",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "understood",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "better",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The chicken display showed how chickens grow.",
+      "zh": "鸡的展示区展示了鸡是如何生长的。",
+      "words": [
+        {
+          "word": "chicken",
+          "def": "鸡，鸡肉",
+          "ipa": "/ˈtʃɪkɪn/",
+          "eng_def": "a common farm bird"
+        },
+        {
+          "word": "chickens",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The angle of the camera was perfect for the photo.",
+      "zh": "相机的角度非常适合拍照。",
+      "words": [
+        {
+          "word": "angle",
+          "def": "角度，视角",
+          "ipa": "/ˈæŋɡl/",
+          "eng_def": "the direction from which you look at something"
+        }
+      ]
+    },
+    {
+      "en": "The operator lent us a special tool to wrap the wire.",
+      "zh": "操作员借给我们一个特殊工具来缠绕电线。",
+      "words": [
+        {
+          "word": "lent",
+          "def": "借出（lend的过去式）",
+          "ipa": "/lent/",
+          "eng_def": "gave something to someone for a short time"
+        },
+        {
+          "word": "wrap",
+          "def": "包裹，缠绕",
+          "ipa": "/ræp/",
+          "eng_def": "to cover something with material"
+        }
+      ]
+    },
+    {
+      "en": "The involvement of the visitors was very high.",
+      "zh": "参观者的参与度非常高。",
+      "words": [
+        {
+          "word": "involvement",
+          "def": "参与，卷入",
+          "ipa": "/ɪnˈvɒlvmənt/",
+          "eng_def": "the act of taking part in something"
+        }
+      ]
+    },
+    {
+      "en": "The museum was entitled to charge an extra fee for the special show.",
+      "zh": "博物馆有权为特别展览收取额外费用。",
+      "words": [
+        {
+          "word": "entitled",
+          "def": "有资格的，有权力的",
+          "ipa": "/ɪnˈtaɪtld/",
+          "eng_def": "having the right to do something"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "tube",
+      "def": "地铁，管道",
+      "ipa": "/tjuːb/",
+      "eng_def": "an underground train system",
+      "example": "The tube train was crowded."
+    },
+    {
+      "word": "tower",
+      "def": "塔，塔楼",
+      "ipa": "/ˈtaʊər/",
+      "eng_def": "a tall, narrow building or structure",
+      "example": "The museum's main tower was very tall."
+    },
+    {
+      "word": "characterize",
+      "def": "描述特征，刻画",
+      "ipa": "/ˈkærɪktəraɪz/",
+      "eng_def": "to describe the qualities of something",
+      "example": "The scientist characterized the new virus."
+    },
+    {
+      "word": "specify",
+      "def": "明确指出，具体说明",
+      "ipa": "/ˈspesɪfaɪ/",
+      "eng_def": "to state something clearly and exactly",
+      "example": "He specified that the virus was dependent on a host cell."
+    },
+    {
+      "word": "exact",
+      "def": "精确的，准确的",
+      "ipa": "/ɪɡˈzækt/",
+      "eng_def": "completely correct and accurate",
+      "example": "The exact height of the tower was 300 meters."
+    },
+    {
+      "word": "spin",
+      "def": "旋转，转动",
+      "ipa": "/spɪn/",
+      "eng_def": "to turn around quickly",
+      "example": "The operator explained how to spin the wheel."
+    },
+    {
+      "word": "operator",
+      "def": "操作员，运营者",
+      "ipa": "/ˈɒpəreɪtər/",
+      "eng_def": "a person who controls a machine or system",
+      "example": "The operator of the exhibit explained."
+    },
+    {
+      "word": "infant",
+      "def": "婴儿",
+      "ipa": "/ˈɪnfənt/",
+      "eng_def": "a very young child",
+      "example": "An infant was crying."
+    },
+    {
+      "word": "dig",
+      "def": "挖掘，翻找",
+      "ipa": "/dɪɡ/",
+      "eng_def": "to move earth or search inside something",
+      "example": "We had to dig through our bags."
+    },
+    {
+      "word": "drag",
+      "def": "拖，拉",
+      "ipa": "/dræɡ/",
+      "eng_def": "to pull something heavy along the ground",
+      "example": "We had to drag a heavy box."
+    },
+    {
+      "word": "mount",
+      "def": "安装，登上",
+      "ipa": "/maʊnt/",
+      "eng_def": "to put something in a fixed position",
+      "example": "We mounted a model rocket on a stand."
+    },
+    {
+      "word": "wrap",
+      "def": "包裹，缠绕",
+      "ipa": "/ræp/",
+      "eng_def": "to cover something with material",
+      "example": "The operator lent us a tool to wrap the wire."
+    },
+    {
+      "word": "anticipate",
+      "def": "预料，预期",
+      "ipa": "/ænˈtɪsɪpeɪt/",
+      "eng_def": "to expect something to happen",
+      "example": "He had anticipated the large crowd."
+    },
+    {
+      "word": "dependent",
+      "def": "依赖的，依靠的",
+      "ipa": "/dɪˈpendənt/",
+      "eng_def": "needing something to survive",
+      "example": "The virus was dependent on a host cell."
+    },
+    {
+      "word": "specialize",
+      "def": "专攻，专门研究",
+      "ipa": "/ˈspeʃəlaɪz/",
+      "eng_def": "to focus on one particular subject",
+      "example": "I wish I had specialized in biology."
+    },
+    {
+      "word": "angle",
+      "def": "角度，视角",
+      "ipa": "/ˈæŋɡl/",
+      "eng_def": "the direction from which you look at something",
+      "example": "The angle of the camera was perfect."
+    },
+    {
+      "word": "chicken",
+      "def": "鸡，鸡肉",
+      "ipa": "/ˈtʃɪkɪn/",
+      "eng_def": "a common farm bird",
+      "example": "The chicken display showed how chickens grow."
+    },
+    {
+      "word": "anxiety",
+      "def": "焦虑，忧虑",
+      "ipa": "/æŋˈzaɪəti/",
+      "eng_def": "a feeling of worry or fear",
+      "example": "The anxiety in the room was high."
+    },
+    {
+      "word": "virus",
+      "def": "病毒",
+      "ipa": "/ˈvaɪrəs/",
+      "eng_def": "a very small living thing that causes disease",
+      "example": "The virus exhibit showed how a virus can infect a cell."
+    },
+    {
+      "word": "precisely",
+      "def": "精确地，准确地",
+      "ipa": "/prɪˈsaɪsli/",
+      "eng_def": "in an exact and accurate way",
+      "example": "The scientist characterized the new virus precisely."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词的意思是“精确地、准确地”？",
+      "question_en": "Which word means 'in an exact and accurate way'?",
+      "options": [
+        "A. precisely",
+        "B. exactly",
+        "C. specify",
+        "D. characterize"
+      ],
+      "answer": 0,
+      "word": "precisely"
+    },
+    {
+      "question_cn": "哪个词的意思是“婴儿”？",
+      "question_en": "Which word means 'a very young child'?",
+      "options": [
+        "A. infant",
+        "B. child",
+        "C. baby",
+        "D. toddler"
+      ],
+      "answer": 0,
+      "word": "infant"
+    },
+    {
+      "question_cn": "哪个词的意思是“操作员、运营者”？",
+      "question_en": "Which word means 'a person who controls a machine or system'?",
+      "options": [
+        "A. operator",
+        "B. worker",
+        "C. driver",
+        "D. manager"
+      ],
+      "answer": 0,
+      "word": "operator"
+    },
+    {
+      "question_cn": "哪个词的意思是“旋转、转动”？",
+      "question_en": "Which word means 'to turn around quickly'?",
+      "options": [
+        "A. spin",
+        "B. turn",
+        "C. rotate",
+        "D. circle"
+      ],
+      "answer": 0,
+      "word": "spin"
+    },
+    {
+      "question_cn": "哪个词的意思是“依赖的、依靠的”？",
+      "question_en": "Which word means 'needing something to survive'?",
+      "options": [
+        "A. dependent",
+        "B. independent",
+        "C. helpful",
+        "D. strong"
+      ],
+      "answer": 0,
+      "word": "dependent"
+    }
+  ],
+  "image_prompts": [
+    "A crowded tube train with people standing and sitting, a tall tower visible through the window.",
+    "A very tall museum tower with a viewing platform, people looking at the city below.",
+    "A mother holding a crying infant in a museum, calming the baby down.",
+    "A museum exhibit with an operator showing how to spin a large wheel.",
+    "A museum guide speaking to a crowd, holding extra tickets, anticipating many visitors.",
+    "A museum exhibit showing a virus infecting a cell, with colorful graphics.",
+    "People digging through their bags to find tickets at a museum entrance.",
+    "Two people dragging a heavy box across a museum floor to the next room.",
+    "A person mounting a model rocket on a stand in a museum workshop.",
+    "A guide pointing to a sign that says 'Height: 300 meters' near a tall tower."
+  ],
+  "_validation_errors": [
+    "Expected 10 sentences, got 20",
+    "Missing new words in article: ['specify']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 107,
+  "_new_word_count": 20
+}

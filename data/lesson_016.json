@@ -1,0 +1,496 @@
+{
+  "id": 16,
+  "title": "A Happy Couple and Their Travel Project",
+  "article_text": "This nice couple has a happy relationship and they enjoy travel together. They always claim that every trip improves the quality of their life. The boy in this picture is their son, and he loves to draw with them. They regard their family time as a great opportunity to act together. The organization helps them plan a range of fun activities. They practice a new project every month, and the amount of work is just right. They never worry about death because they enjoy every moment. A round of applause for their nice work! Let's take a look at this beautiful picture of them. They always feel happy when they travel to a new place.",
+  "sentences": [
+    {
+      "en": "This nice couple has a happy relationship and they enjoy travel together.",
+      "zh": "这对好夫妻拥有幸福的关系，他们一起享受旅行。",
+      "words": [
+        {
+          "word": "nice",
+          "def": "好的；令人愉快的",
+          "ipa": "/naɪs/",
+          "eng_def": "good; pleasant"
+        },
+        {
+          "word": "couple",
+          "def": "夫妻；一对",
+          "ipa": "/ˈkʌp.əl/",
+          "eng_def": "two people who are together"
+        },
+        {
+          "word": "happy",
+          "def": "快乐的；幸福的",
+          "ipa": "/ˈhæp.i/",
+          "eng_def": "feeling good and pleased"
+        },
+        {
+          "word": "relationship",
+          "def": "关系；感情联系",
+          "ipa": "/rɪˈleɪ.ʃən.ʃɪp/",
+          "eng_def": "the way two people feel about each other"
+        },
+        {
+          "word": "enjoy",
+          "def": "享受；喜爱",
+          "ipa": "/ɪnˈdʒɔɪ/",
+          "eng_def": "to get pleasure from something"
+        },
+        {
+          "word": "travel",
+          "def": "旅行",
+          "ipa": "/ˈtræv.əl/",
+          "eng_def": "to go from one place to another"
+        }
+      ]
+    },
+    {
+      "en": "They always claim that every trip improves the quality of their life.",
+      "zh": "他们总是声称每一次旅行都改善了他们的生活质量。",
+      "words": [
+        {
+          "word": "always",
+          "def": "总是",
+          "ipa": "/ˈɔːl.weɪz/",
+          "eng_def": "every time; without exception"
+        },
+        {
+          "word": "claim",
+          "def": "声称；宣称",
+          "ipa": "/kleɪm/",
+          "eng_def": "to say something is true"
+        },
+        {
+          "word": "improves",
+          "def": "改善；提高",
+          "ipa": "/ɪmˈpruːvz/",
+          "eng_def": "makes something better"
+        },
+        {
+          "word": "quality",
+          "def": "质量；品质",
+          "ipa": "/ˈkwɒl.ə.ti/",
+          "eng_def": "how good or bad something is"
+        },
+        {
+          "word": "trip",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The boy in this picture is their son, and he loves to draw with them.",
+      "zh": "这张照片里的男孩是他们的儿子，他喜欢和他们一起画画。",
+      "words": [
+        {
+          "word": "boy",
+          "def": "男孩",
+          "ipa": "/bɔɪ/",
+          "eng_def": "a young male person"
+        },
+        {
+          "word": "picture",
+          "def": "照片；图画",
+          "ipa": "/ˈpɪk.tʃər/",
+          "eng_def": "a drawing or photograph"
+        },
+        {
+          "word": "draw",
+          "def": "画画",
+          "ipa": "/drɔː/",
+          "eng_def": "to make a picture with a pen or pencil"
+        },
+        {
+          "word": "son",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "They regard their family time as a great opportunity to act together.",
+      "zh": "他们把家庭时间视为一起行动的好机会。",
+      "words": [
+        {
+          "word": "regard",
+          "def": "看待；认为",
+          "ipa": "/rɪˈɡɑːrd/",
+          "eng_def": "to think of someone or something in a certain way"
+        },
+        {
+          "word": "opportunity",
+          "def": "机会",
+          "ipa": "/ˌɒp.əˈtjuː.nə.ti/",
+          "eng_def": "a chance to do something"
+        },
+        {
+          "word": "act",
+          "def": "行动；做",
+          "ipa": "/ækt/",
+          "eng_def": "to do something"
+        }
+      ]
+    },
+    {
+      "en": "The organization helps them plan a range of fun activities.",
+      "zh": "这个组织帮助他们规划一系列有趣的活动。",
+      "words": [
+        {
+          "word": "organization",
+          "def": "组织；机构",
+          "ipa": "/ˌɔːr.ɡən.aɪˈzeɪ.ʃən/",
+          "eng_def": "a group of people who work together"
+        },
+        {
+          "word": "range",
+          "def": "范围；一系列",
+          "ipa": "/reɪndʒ/",
+          "eng_def": "a number of different things of the same type"
+        },
+        {
+          "word": "fun",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "activities",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "They practice a new project every month, and the amount of work is just right.",
+      "zh": "他们每个月练习一个新项目，工作量刚刚好。",
+      "words": [
+        {
+          "word": "practice",
+          "def": "练习；实践",
+          "ipa": "/ˈpræk.tɪs/",
+          "eng_def": "to do something again and again to become better"
+        },
+        {
+          "word": "project",
+          "def": "项目；计划",
+          "ipa": "/ˈprɒdʒ.ekt/",
+          "eng_def": "a piece of work with a specific goal"
+        },
+        {
+          "word": "amount",
+          "def": "数量；数额",
+          "ipa": "/əˈmaʊnt/",
+          "eng_def": "how much of something there is"
+        }
+      ]
+    },
+    {
+      "en": "They never worry about death because they enjoy every moment.",
+      "zh": "他们从不担心死亡，因为他们享受每一刻。",
+      "words": [
+        {
+          "word": "never",
+          "def": "从不；绝不",
+          "ipa": "/ˈnev.ər/",
+          "eng_def": "not at any time"
+        },
+        {
+          "word": "death",
+          "def": "死亡",
+          "ipa": "/deθ/",
+          "eng_def": "the end of life"
+        },
+        {
+          "word": "worry",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "A round of applause for their nice work!",
+      "zh": "为他们的出色工作鼓掌！",
+      "words": [
+        {
+          "word": "round",
+          "def": "一轮；一阵",
+          "ipa": "/raʊnd/",
+          "eng_def": "one part of a game or event"
+        },
+        {
+          "word": "applause",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Let's take a look at this beautiful picture of them.",
+      "zh": "让我们看看这张他们美丽的照片。",
+      "words": [
+        {
+          "word": "let's",
+          "def": "让我们",
+          "ipa": "/lets/",
+          "eng_def": "used for suggesting something"
+        },
+        {
+          "word": "picture",
+          "def": "照片；图画",
+          "ipa": "/ˈpɪk.tʃər/",
+          "eng_def": "a drawing or photograph"
+        },
+        {
+          "word": "beautiful",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "They always feel happy when they travel to a new place.",
+      "zh": "他们旅行到一个新地方时总是感到快乐。",
+      "words": [
+        {
+          "word": "happy",
+          "def": "快乐的；幸福的",
+          "ipa": "/ˈhæp.i/",
+          "eng_def": "feeling good and pleased"
+        },
+        {
+          "word": "travel",
+          "def": "旅行",
+          "ipa": "/ˈtræv.əl/",
+          "eng_def": "to go from one place to another"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "claim",
+      "def": "声称；宣称",
+      "ipa": "/kleɪm/",
+      "eng_def": "to say something is true",
+      "example": "They claim that this place is nice."
+    },
+    {
+      "word": "relationship",
+      "def": "关系；感情联系",
+      "ipa": "/rɪˈleɪ.ʃən.ʃɪp/",
+      "eng_def": "the way two people feel about each other",
+      "example": "They have a happy relationship."
+    },
+    {
+      "word": "travel",
+      "def": "旅行",
+      "ipa": "/ˈtræv.əl/",
+      "eng_def": "to go from one place to another",
+      "example": "I travel to a new city every year."
+    },
+    {
+      "word": "enjoy",
+      "def": "享受；喜爱",
+      "ipa": "/ɪnˈdʒɔɪ/",
+      "eng_def": "to get pleasure from something",
+      "example": "We enjoy playing games."
+    },
+    {
+      "word": "death",
+      "def": "死亡",
+      "ipa": "/deθ/",
+      "eng_def": "the end of life",
+      "example": "They never fear death."
+    },
+    {
+      "word": "nice",
+      "def": "好的；令人愉快的",
+      "ipa": "/naɪs/",
+      "eng_def": "good; pleasant",
+      "example": "This is a nice day."
+    },
+    {
+      "word": "amount",
+      "def": "数量；数额",
+      "ipa": "/əˈmaʊnt/",
+      "eng_def": "how much of something there is",
+      "example": "The amount of water is enough."
+    },
+    {
+      "word": "improve",
+      "def": "改善；提高",
+      "ipa": "/ɪmˈpruːv/",
+      "eng_def": "to make something better",
+      "example": "Practice helps improve your skills."
+    },
+    {
+      "word": "picture",
+      "def": "照片；图画",
+      "ipa": "/ˈpɪk.tʃər/",
+      "eng_def": "a drawing or photograph",
+      "example": "I see a picture on the wall."
+    },
+    {
+      "word": "boy",
+      "def": "男孩",
+      "ipa": "/bɔɪ/",
+      "eng_def": "a young male person",
+      "example": "The boy is happy."
+    },
+    {
+      "word": "regard",
+      "def": "看待；认为",
+      "ipa": "/rɪˈɡɑːrd/",
+      "eng_def": "to think of someone or something in a certain way",
+      "example": "I regard this as a good idea."
+    },
+    {
+      "word": "organization",
+      "def": "组织；机构",
+      "ipa": "/ˌɔːr.ɡən.aɪˈzeɪ.ʃən/",
+      "eng_def": "a group of people who work together",
+      "example": "The organization helps people."
+    },
+    {
+      "word": "happy",
+      "def": "快乐的；幸福的",
+      "ipa": "/ˈhæp.i/",
+      "eng_def": "feeling good and pleased",
+      "example": "She feels happy today."
+    },
+    {
+      "word": "couple",
+      "def": "夫妻；一对",
+      "ipa": "/ˈkʌp.əl/",
+      "eng_def": "two people who are together",
+      "example": "The couple likes to walk."
+    },
+    {
+      "word": "act",
+      "def": "行动；做",
+      "ipa": "/ækt/",
+      "eng_def": "to do something",
+      "example": "Let's act now."
+    },
+    {
+      "word": "range",
+      "def": "范围；一系列",
+      "ipa": "/reɪndʒ/",
+      "eng_def": "a number of different things of the same type",
+      "example": "They have a range of toys."
+    },
+    {
+      "word": "quality",
+      "def": "质量；品质",
+      "ipa": "/ˈkwɒl.ə.ti/",
+      "eng_def": "how good or bad something is",
+      "example": "This food is of good quality."
+    },
+    {
+      "word": "project",
+      "def": "项目；计划",
+      "ipa": "/ˈprɒdʒ.ekt/",
+      "eng_def": "a piece of work with a specific goal",
+      "example": "I have a new project at school."
+    },
+    {
+      "word": "round",
+      "def": "一轮；一阵",
+      "ipa": "/raʊnd/",
+      "eng_def": "one part of a game or event",
+      "example": "Let's have a round of applause."
+    },
+    {
+      "word": "opportunity",
+      "def": "机会",
+      "ipa": "/ˌɒp.əˈtjuː.nə.ti/",
+      "eng_def": "a chance to do something",
+      "example": "This is a good opportunity to learn."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词的意思是“声称”？",
+      "question_en": "Which word means 'to say something is true'?",
+      "options": [
+        "A. claim",
+        "B. enjoy",
+        "C. travel",
+        "D. improve"
+      ],
+      "answer": 0,
+      "word": "claim"
+    },
+    {
+      "question_cn": "哪个词的意思是“关系”？",
+      "question_en": "Which word means 'the way two people feel about each other'?",
+      "options": [
+        "A. relationship",
+        "B. death",
+        "C. organization",
+        "D. range"
+      ],
+      "answer": 0,
+      "word": "relationship"
+    },
+    {
+      "question_cn": "哪个词的意思是“机会”？",
+      "question_en": "Which word means 'a chance to do something'?",
+      "options": [
+        "A. opportunity",
+        "B. quality",
+        "C. amount",
+        "D. project"
+      ],
+      "answer": 0,
+      "word": "opportunity"
+    },
+    {
+      "question_cn": "哪个词的意思是“照片”？",
+      "question_en": "Which word means 'a drawing or photograph'?",
+      "options": [
+        "A. picture",
+        "B. boy",
+        "C. couple",
+        "D. round"
+      ],
+      "answer": 0,
+      "word": "picture"
+    },
+    {
+      "question_cn": "哪个词的意思是“改善”？",
+      "question_en": "Which word means 'to make something better'?",
+      "options": [
+        "A. improve",
+        "B. act",
+        "C. regard",
+        "D. enjoy"
+      ],
+      "answer": 0,
+      "word": "improve"
+    }
+  ],
+  "image_prompts": [
+    "A happy couple smiling and holding hands, with a suitcase nearby, ready to travel.",
+    "The same couple sitting on a sofa, pointing at a map, looking excited.",
+    "A young boy drawing at a table, with his parents watching and smiling.",
+    "A family sitting together in a living room, holding hands, with a clock showing family time.",
+    "A group of people in an office with a sign 'Travel Organization', planning activities on a board.",
+    "A calendar on a wall with the word 'Project' written on one month, and a family doing crafts.",
+    "A peaceful garden with flowers, and a couple sitting on a bench, looking calm.",
+    "People clapping hands in a circle, with a happy couple in the center.",
+    "A beautiful framed photograph of a smiling family on a wall.",
+    "A couple and a boy standing on a hill, looking at a new city below, with happy faces."
+  ],
+  "_needs_review": false,
+  "_lesson_num": 16,
+  "_new_word_count": 20
+}

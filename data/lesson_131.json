@@ -1,0 +1,484 @@
+{
+  "id": 131,
+  "title": "A Year of Thirst",
+  "article_text": "It is a listener who feels a deep thirst on Monday. On Tuesday, the tender heat of March made the density of the air feel heavy. Wednesday in July brought a thirst that could not be ignored. It was on Thursday that the ugly module of the old pump finally broke. Friday in September had a thirst so strong that even the animals were quiet. Saturday in January is when we should have fixed the pump. Sunday in February was cold, but the thirst did not go away. Not only did April and May pass, but also June and August without enough rain. Only then, in October, did the first rain fall, and the thirst was ended. Had November and December been dry, the land would have been lost.",
+  "sentences": [
+    {
+      "en": "It is a listener who feels a deep thirst on Monday.",
+      "zh": "是一位倾听者在星期一感到深深的渴望。",
+      "words": [
+        {
+          "word": "listener",
+          "def": "倾听者",
+          "ipa": "/ˈlɪs.ən.ər/",
+          "eng_def": "a person who listens"
+        },
+        {
+          "word": "thirst",
+          "def": "口渴；渴望",
+          "ipa": "/θɜːrst/",
+          "eng_def": "a need or desire to drink"
+        },
+        {
+          "word": "monday",
+          "def": "星期一",
+          "ipa": "/ˈmʌn.deɪ/",
+          "eng_def": "the day after Sunday"
+        }
+      ]
+    },
+    {
+      "en": "On Tuesday, the tender heat of March made the density of the air feel heavy.",
+      "zh": "在星期二，三月的柔和的炎热使空气的密度感觉沉重。",
+      "words": [
+        {
+          "word": "tuesday",
+          "def": "星期二",
+          "ipa": "/ˈtjuːz.deɪ/",
+          "eng_def": "the day after Monday"
+        },
+        {
+          "word": "tender",
+          "def": "柔和的；温柔的",
+          "ipa": "/ˈten.dər/",
+          "eng_def": "soft and gentle"
+        },
+        {
+          "word": "march",
+          "def": "三月",
+          "ipa": "/mɑːrtʃ/",
+          "eng_def": "the third month of the year"
+        },
+        {
+          "word": "density",
+          "def": "密度",
+          "ipa": "/ˈden.sə.ti/",
+          "eng_def": "how thick or heavy something is"
+        },
+        {
+          "word": "made",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Wednesday in July brought a thirst that could not be ignored.",
+      "zh": "七月的星期三带来了无法忽视的渴望。",
+      "words": [
+        {
+          "word": "wednesday",
+          "def": "星期三",
+          "ipa": "/ˈwenz.deɪ/",
+          "eng_def": "the day after Tuesday"
+        },
+        {
+          "word": "july",
+          "def": "七月",
+          "ipa": "/dʒuˈlaɪ/",
+          "eng_def": "the seventh month of the year"
+        },
+        {
+          "word": "thirst",
+          "def": "口渴；渴望",
+          "ipa": "/θɜːrst/",
+          "eng_def": "a need or desire to drink"
+        },
+        {
+          "word": "brought",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "It was on Thursday that the ugly module of the old pump finally broke.",
+      "zh": "正是在星期四，旧水泵的丑陋模块最终破裂了。",
+      "words": [
+        {
+          "word": "thursday",
+          "def": "星期四",
+          "ipa": "/ˈθɜːrz.deɪ/",
+          "eng_def": "the day after Wednesday"
+        },
+        {
+          "word": "ugly",
+          "def": "丑陋的",
+          "ipa": "/ˈʌɡ.li/",
+          "eng_def": "not nice to look at"
+        },
+        {
+          "word": "module",
+          "def": "模块；组件",
+          "ipa": "/ˈmɒdʒ.uːl/",
+          "eng_def": "a part of a larger system"
+        },
+        {
+          "word": "broke",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Friday in September had a thirst so strong that even the animals were quiet.",
+      "zh": "九月的星期五的渴望如此强烈，连动物都安静了。",
+      "words": [
+        {
+          "word": "friday",
+          "def": "星期五",
+          "ipa": "/ˈfraɪ.deɪ/",
+          "eng_def": "the day after Thursday"
+        },
+        {
+          "word": "september",
+          "def": "九月",
+          "ipa": "/sepˈtem.bər/",
+          "eng_def": "the ninth month of the year"
+        },
+        {
+          "word": "thirst",
+          "def": "口渴；渴望",
+          "ipa": "/θɜːrst/",
+          "eng_def": "a need or desire to drink"
+        }
+      ]
+    },
+    {
+      "en": "Saturday in January is when we should have fixed the pump.",
+      "zh": "一月的星期六是我们本应修理水泵的时候。",
+      "words": [
+        {
+          "word": "saturday",
+          "def": "星期六",
+          "ipa": "/ˈsæt.ər.deɪ/",
+          "eng_def": "the day after Friday"
+        },
+        {
+          "word": "january",
+          "def": "一月",
+          "ipa": "/ˈdʒæn.ju.er.i/",
+          "eng_def": "the first month of the year"
+        }
+      ]
+    },
+    {
+      "en": "Sunday in February was cold, but the thirst did not go away.",
+      "zh": "二月的星期天很冷，但渴望没有消失。",
+      "words": [
+        {
+          "word": "sunday",
+          "def": "星期天",
+          "ipa": "/ˈsʌn.deɪ/",
+          "eng_def": "the day after Saturday"
+        },
+        {
+          "word": "february",
+          "def": "二月",
+          "ipa": "/ˈfeb.ru.er.i/",
+          "eng_def": "the second month of the year"
+        },
+        {
+          "word": "thirst",
+          "def": "口渴；渴望",
+          "ipa": "/θɜːrst/",
+          "eng_def": "a need or desire to drink"
+        }
+      ]
+    },
+    {
+      "en": "Not only did April and May pass, but also June and August without enough rain.",
+      "zh": "不仅四月和五月过去了，六月和八月也没有足够的雨。",
+      "words": [
+        {
+          "word": "april",
+          "def": "四月",
+          "ipa": "/ˈeɪ.prəl/",
+          "eng_def": "the fourth month of the year"
+        },
+        {
+          "word": "may",
+          "def": "五月",
+          "ipa": "/meɪ/",
+          "eng_def": "the fifth month of the year"
+        },
+        {
+          "word": "june",
+          "def": "六月",
+          "ipa": "/dʒuːn/",
+          "eng_def": "the sixth month of the year"
+        },
+        {
+          "word": "august",
+          "def": "八月",
+          "ipa": "/ˈɔː.ɡəst/",
+          "eng_def": "the eighth month of the year"
+        }
+      ]
+    },
+    {
+      "en": "Only then, in October, did the first rain fall, and the thirst was ended.",
+      "zh": "只有在十月，第一场雨才落下，渴望结束了。",
+      "words": [
+        {
+          "word": "october",
+          "def": "十月",
+          "ipa": "/ɒkˈtoʊ.bər/",
+          "eng_def": "the tenth month of the year"
+        },
+        {
+          "word": "thirst",
+          "def": "口渴；渴望",
+          "ipa": "/θɜːrst/",
+          "eng_def": "a need or desire to drink"
+        }
+      ]
+    },
+    {
+      "en": "Had November and December been dry, the land would have been lost.",
+      "zh": "如果十一月和十二月干燥，这片土地就会失去。",
+      "words": [
+        {
+          "word": "november",
+          "def": "十一月",
+          "ipa": "/noʊˈvem.bər/",
+          "eng_def": "the eleventh month of the year"
+        },
+        {
+          "word": "december",
+          "def": "十二月",
+          "ipa": "/dɪˈsem.bər/",
+          "eng_def": "the twelfth month of the year"
+        },
+        {
+          "word": "lost",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "thirst",
+      "def": "口渴；渴望",
+      "ipa": "/θɜːrst/",
+      "eng_def": "a need or desire to drink",
+      "example": "After running, he had a great thirst."
+    },
+    {
+      "word": "monday",
+      "def": "星期一",
+      "ipa": "/ˈmʌn.deɪ/",
+      "eng_def": "the day after Sunday",
+      "example": "Monday is the first day of work."
+    },
+    {
+      "word": "tuesday",
+      "def": "星期二",
+      "ipa": "/ˈtjuːz.deɪ/",
+      "eng_def": "the day after Monday",
+      "example": "We have a meeting on Tuesday."
+    },
+    {
+      "word": "wednesday",
+      "def": "星期三",
+      "ipa": "/ˈwenz.deɪ/",
+      "eng_def": "the day after Tuesday",
+      "example": "Wednesday is in the middle of the week."
+    },
+    {
+      "word": "thursday",
+      "def": "星期四",
+      "ipa": "/ˈθɜːrz.deɪ/",
+      "eng_def": "the day after Wednesday",
+      "example": "Thursday comes before Friday."
+    },
+    {
+      "word": "friday",
+      "def": "星期五",
+      "ipa": "/ˈfraɪ.deɪ/",
+      "eng_def": "the day after Thursday",
+      "example": "Friday is the last work day."
+    },
+    {
+      "word": "saturday",
+      "def": "星期六",
+      "ipa": "/ˈsæt.ər.deɪ/",
+      "eng_def": "the day after Friday",
+      "example": "We play football on Saturday."
+    },
+    {
+      "word": "sunday",
+      "def": "星期天",
+      "ipa": "/ˈsʌn.deɪ/",
+      "eng_def": "the day after Saturday",
+      "example": "Sunday is a day of rest."
+    },
+    {
+      "word": "january",
+      "def": "一月",
+      "ipa": "/ˈdʒæn.ju.er.i/",
+      "eng_def": "the first month of the year",
+      "example": "January is often cold."
+    },
+    {
+      "word": "february",
+      "def": "二月",
+      "ipa": "/ˈfeb.ru.er.i/",
+      "eng_def": "the second month of the year",
+      "example": "February has 28 or 29 days."
+    },
+    {
+      "word": "march",
+      "def": "三月",
+      "ipa": "/mɑːrtʃ/",
+      "eng_def": "the third month of the year",
+      "example": "March brings spring."
+    },
+    {
+      "word": "april",
+      "def": "四月",
+      "ipa": "/ˈeɪ.prəl/",
+      "eng_def": "the fourth month of the year",
+      "example": "April showers bring May flowers."
+    },
+    {
+      "word": "may",
+      "def": "五月",
+      "ipa": "/meɪ/",
+      "eng_def": "the fifth month of the year",
+      "example": "May is a warm month."
+    },
+    {
+      "word": "june",
+      "def": "六月",
+      "ipa": "/dʒuːn/",
+      "eng_def": "the sixth month of the year",
+      "example": "June starts summer."
+    },
+    {
+      "word": "july",
+      "def": "七月",
+      "ipa": "/dʒuˈlaɪ/",
+      "eng_def": "the seventh month of the year",
+      "example": "July is very hot."
+    },
+    {
+      "word": "august",
+      "def": "八月",
+      "ipa": "/ˈɔː.ɡəst/",
+      "eng_def": "the eighth month of the year",
+      "example": "August is the last summer month."
+    },
+    {
+      "word": "september",
+      "def": "九月",
+      "ipa": "/sepˈtem.bər/",
+      "eng_def": "the ninth month of the year",
+      "example": "School starts in September."
+    },
+    {
+      "word": "october",
+      "def": "十月",
+      "ipa": "/ɒkˈtoʊ.bər/",
+      "eng_def": "the tenth month of the year",
+      "example": "October has Halloween."
+    },
+    {
+      "word": "november",
+      "def": "十一月",
+      "ipa": "/noʊˈvem.bər/",
+      "eng_def": "the eleventh month of the year",
+      "example": "November is often rainy."
+    },
+    {
+      "word": "december",
+      "def": "十二月",
+      "ipa": "/dɪˈsem.bər/",
+      "eng_def": "the twelfth month of the year",
+      "example": "December has Christmas."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词表示“口渴”？",
+      "question_en": "Which word means a need to drink?",
+      "options": [
+        "A. hunger",
+        "B. thirst",
+        "C. sleep",
+        "D. cold"
+      ],
+      "answer": 1,
+      "word": "thirst"
+    },
+    {
+      "question_cn": "哪个月份是一年中的第一个月？",
+      "question_en": "Which month is the first of the year?",
+      "options": [
+        "A. February",
+        "B. March",
+        "C. January",
+        "D. April"
+      ],
+      "answer": 2,
+      "word": "january"
+    },
+    {
+      "question_cn": "星期四是星期几之后？",
+      "question_en": "Thursday comes after which day?",
+      "options": [
+        "A. Monday",
+        "B. Tuesday",
+        "C. Wednesday",
+        "D. Friday"
+      ],
+      "answer": 2,
+      "word": "thursday"
+    },
+    {
+      "question_cn": "哪个词表示“九月”？",
+      "question_en": "Which word means the ninth month?",
+      "options": [
+        "A. October",
+        "B. November",
+        "C. August",
+        "D. September"
+      ],
+      "answer": 3,
+      "word": "september"
+    },
+    {
+      "question_cn": "哪个词表示“星期六”？",
+      "question_en": "Which word means the day after Friday?",
+      "options": [
+        "A. Sunday",
+        "B. Saturday",
+        "C. Monday",
+        "D. Thursday"
+      ],
+      "answer": 1,
+      "word": "saturday"
+    }
+  ],
+  "image_prompts": [
+    "A person listening intently on a Monday morning, looking thirsty.",
+    "Tender heat of March with heavy air density, a thermometer showing high temperature.",
+    "A hot Wednesday in July with a person showing thirst, wiping sweat.",
+    "An ugly broken pump module on a Thursday, with a farmer looking sad.",
+    "A dry Friday in September, animals quiet around an empty water trough.",
+    "A cold Saturday in January, a broken pump with ice around it.",
+    "A cold Sunday in February, a person drinking from a bottle but still thirsty.",
+    "A calendar showing April, May, June, and August passing with no rain clouds.",
+    "First rain falling in October, a person catching raindrops happily.",
+    "A dry cracked land in November and December, with a lost sign."
+  ],
+  "_needs_review": false,
+  "_lesson_num": 131,
+  "_new_word_count": 20
+}

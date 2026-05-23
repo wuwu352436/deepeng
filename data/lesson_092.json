@@ -1,0 +1,457 @@
+{
+  "id": 92,
+  "title": "A Smart Business Meeting",
+  "article_text": "The team had a smart idea for the new edition of their magazine. They wanted to add a silver layer to the cover for a special look. The preparation for the meeting was complete, but one member was upset about the agenda. He said a dispute had arisen over the representation of their target audience. The emphasis of the discussion was on being honest with their retail partners. If they had been more honest earlier, they would have avoided the slight disagreement. The supplier had told us that the wire for the binding was unlikely to arrive on time. We had already undertaken the task of finding a new supplier for the wire. The publication of the magazine was a prize for the whole team. I wish my peer had not dominated the conversation about the entertainment section.",
+  "sentences": [
+    {
+      "en": "The team had a smart idea for the new edition of their magazine.",
+      "zh": "团队为他们的杂志新版本想出了一个聪明的主意。",
+      "words": [
+        {
+          "word": "smart",
+          "def": "聪明的",
+          "ipa": "/smɑːrt/",
+          "eng_def": "having or showing quick intelligence"
+        },
+        {
+          "word": "edition",
+          "def": "版本",
+          "ipa": "/ɪˈdɪʃən/",
+          "eng_def": "a particular form or version of a published text"
+        }
+      ]
+    },
+    {
+      "en": "They wanted to add a silver layer to the cover for a special look.",
+      "zh": "他们想在封面上添加一层银色，以获得特殊外观。",
+      "words": [
+        {
+          "word": "silver",
+          "def": "银色的；银",
+          "ipa": "/ˈsɪlvər/",
+          "eng_def": "a precious shiny gray-white metal"
+        },
+        {
+          "word": "layer",
+          "def": "层",
+          "ipa": "/ˈleɪər/",
+          "eng_def": "a sheet or thickness of material"
+        }
+      ]
+    },
+    {
+      "en": "The preparation for the meeting was complete, but one member was upset about the agenda.",
+      "zh": "会议的准备已经完成，但一位成员对议程感到不安。",
+      "words": [
+        {
+          "word": "preparation",
+          "def": "准备",
+          "ipa": "/ˌprepəˈreɪʃən/",
+          "eng_def": "the act of making something ready"
+        },
+        {
+          "word": "upset",
+          "def": "不安的；使心烦",
+          "ipa": "/ʌpˈset/",
+          "eng_def": "unhappy or worried because something bad happened"
+        },
+        {
+          "word": "agenda",
+          "def": "议程",
+          "ipa": "/əˈdʒendə/",
+          "eng_def": "a list of things to be discussed at a meeting"
+        }
+      ]
+    },
+    {
+      "en": "He said a dispute had arisen over the representation of their target audience.",
+      "zh": "他说，关于他们目标受众的代表性问题出现了争议。",
+      "words": [
+        {
+          "word": "dispute",
+          "def": "争议；争论",
+          "ipa": "/dɪˈspjuːt/",
+          "eng_def": "a disagreement or argument"
+        },
+        {
+          "word": "representation",
+          "def": "代表；表现",
+          "ipa": "/ˌreprɪzenˈteɪʃən/",
+          "eng_def": "the act of speaking or acting for someone"
+        },
+        {
+          "word": "said",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "arisen",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The emphasis of the discussion was on being honest with their retail partners.",
+      "zh": "讨论的重点是对他们的零售合作伙伴保持诚实。",
+      "words": [
+        {
+          "word": "emphasis",
+          "def": "重点；强调",
+          "ipa": "/ˈemfəsɪs/",
+          "eng_def": "special importance given to something"
+        },
+        {
+          "word": "honest",
+          "def": "诚实的",
+          "ipa": "/ˈɒnɪst/",
+          "eng_def": "telling the truth; not lying"
+        },
+        {
+          "word": "retail",
+          "def": "零售",
+          "ipa": "/ˈriːteɪl/",
+          "eng_def": "the sale of goods to customers in stores"
+        }
+      ]
+    },
+    {
+      "en": "If they had been more honest earlier, they would have avoided the slight disagreement.",
+      "zh": "如果他们早点更诚实的话，他们本可以避免那个小小的分歧。",
+      "words": [
+        {
+          "word": "slight",
+          "def": "轻微的；微小的",
+          "ipa": "/slaɪt/",
+          "eng_def": "small in degree; not serious"
+        },
+        {
+          "word": "earlier",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "disagreement",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The supplier had told us that the wire for the binding was unlikely to arrive on time.",
+      "zh": "供应商曾告诉我们，用于装订的金属丝不太可能按时到达。",
+      "words": [
+        {
+          "word": "supplier",
+          "def": "供应商",
+          "ipa": "/səˈplaɪər/",
+          "eng_def": "a person or company that provides goods"
+        },
+        {
+          "word": "wire",
+          "def": "金属丝；电线",
+          "ipa": "/ˈwaɪər/",
+          "eng_def": "a thin piece of metal used for carrying electricity or tying things"
+        },
+        {
+          "word": "unlikely",
+          "def": "不太可能的",
+          "ipa": "/ʌnˈlaɪkli/",
+          "eng_def": "not probable; not likely to happen"
+        },
+        {
+          "word": "told",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "We had already undertaken the task of finding a new supplier for the wire.",
+      "zh": "我们已经承担了为金属丝寻找新供应商的任务。",
+      "words": [
+        {
+          "word": "undertake",
+          "def": "承担；着手做",
+          "ipa": "/ˌʌndərˈteɪk/",
+          "eng_def": "to start doing something and accept responsibility for it"
+        },
+        {
+          "word": "undertaken",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The publication of the magazine was a prize for the whole team.",
+      "zh": "这本杂志的出版是整个团队的奖赏。",
+      "words": [
+        {
+          "word": "publication",
+          "def": "出版；出版物",
+          "ipa": "/ˌpʌblɪˈkeɪʃən/",
+          "eng_def": "the act of making a book or magazine available to the public"
+        },
+        {
+          "word": "prize",
+          "def": "奖赏；奖品",
+          "ipa": "/praɪz/",
+          "eng_def": "something given to someone for winning a competition or doing good work"
+        }
+      ]
+    },
+    {
+      "en": "I wish my peer had not dominated the conversation about the entertainment section.",
+      "zh": "我希望我的同事没有主导关于娱乐版块的对话。",
+      "words": [
+        {
+          "word": "peer",
+          "def": "同事；同龄人",
+          "ipa": "/pɪər/",
+          "eng_def": "a person who belongs to the same age group or social group as another"
+        },
+        {
+          "word": "dominate",
+          "def": "主导；支配",
+          "ipa": "/ˈdɒmɪneɪt/",
+          "eng_def": "to have control or power over something or someone"
+        },
+        {
+          "word": "entertainment",
+          "def": "娱乐",
+          "ipa": "/ˌentərˈteɪnmənt/",
+          "eng_def": "things such as movies, music, or shows that amuse people"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "smart",
+      "def": "聪明的",
+      "ipa": "/smɑːrt/",
+      "eng_def": "having or showing quick intelligence",
+      "example": "The team had a smart idea for the new edition of their magazine."
+    },
+    {
+      "word": "layer",
+      "def": "层",
+      "ipa": "/ˈleɪər/",
+      "eng_def": "a sheet or thickness of material",
+      "example": "They wanted to add a silver layer to the cover."
+    },
+    {
+      "word": "upset",
+      "def": "不安的；使心烦",
+      "ipa": "/ʌpˈset/",
+      "eng_def": "unhappy or worried because something bad happened",
+      "example": "One member was upset about the agenda."
+    },
+    {
+      "word": "tooth",
+      "def": "牙齿",
+      "ipa": "/tuːθ/",
+      "eng_def": "one of the hard white objects in the mouth used for biting",
+      "example": "He had a tooth that needed to be fixed."
+    },
+    {
+      "word": "representation",
+      "def": "代表；表现",
+      "ipa": "/ˌreprɪzenˈteɪʃən/",
+      "eng_def": "the act of speaking or acting for someone",
+      "example": "A dispute had arisen over the representation of their target audience."
+    },
+    {
+      "word": "preparation",
+      "def": "准备",
+      "ipa": "/ˌprepəˈreɪʃən/",
+      "eng_def": "the act of making something ready",
+      "example": "The preparation for the meeting was complete."
+    },
+    {
+      "word": "dispute",
+      "def": "争议；争论",
+      "ipa": "/dɪˈspjuːt/",
+      "eng_def": "a disagreement or argument",
+      "example": "He said a dispute had arisen."
+    },
+    {
+      "word": "agenda",
+      "def": "议程",
+      "ipa": "/əˈdʒendə/",
+      "eng_def": "a list of things to be discussed at a meeting",
+      "example": "One member was upset about the agenda."
+    },
+    {
+      "word": "emphasis",
+      "def": "重点；强调",
+      "ipa": "/ˈemfəsɪs/",
+      "eng_def": "special importance given to something",
+      "example": "The emphasis of the discussion was on being honest."
+    },
+    {
+      "word": "edition",
+      "def": "版本",
+      "ipa": "/ɪˈdɪʃən/",
+      "eng_def": "a particular form or version of a published text",
+      "example": "They had a smart idea for the new edition of their magazine."
+    },
+    {
+      "word": "silver",
+      "def": "银色的；银",
+      "ipa": "/ˈsɪlvər/",
+      "eng_def": "a precious shiny gray-white metal",
+      "example": "They wanted to add a silver layer to the cover."
+    },
+    {
+      "word": "entertainment",
+      "def": "娱乐",
+      "ipa": "/ˌentərˈteɪnmənt/",
+      "eng_def": "things such as movies, music, or shows that amuse people",
+      "example": "I wish my peer had not dominated the conversation about the entertainment section."
+    },
+    {
+      "word": "honest",
+      "def": "诚实的",
+      "ipa": "/ˈɒnɪst/",
+      "eng_def": "telling the truth; not lying",
+      "example": "The emphasis was on being honest with their retail partners."
+    },
+    {
+      "word": "undertake",
+      "def": "承担；着手做",
+      "ipa": "/ˌʌndərˈteɪk/",
+      "eng_def": "to start doing something and accept responsibility for it",
+      "example": "We had already undertaken the task of finding a new supplier."
+    },
+    {
+      "word": "retail",
+      "def": "零售",
+      "ipa": "/ˈriːteɪl/",
+      "eng_def": "the sale of goods to customers in stores",
+      "example": "They wanted to be honest with their retail partners."
+    },
+    {
+      "word": "wire",
+      "def": "金属丝；电线",
+      "ipa": "/ˈwaɪər/",
+      "eng_def": "a thin piece of metal used for carrying electricity or tying things",
+      "example": "The wire for the binding was unlikely to arrive on time."
+    },
+    {
+      "word": "unlikely",
+      "def": "不太可能的",
+      "ipa": "/ʌnˈlaɪkli/",
+      "eng_def": "not probable; not likely to happen",
+      "example": "The wire was unlikely to arrive on time."
+    },
+    {
+      "word": "gay",
+      "def": "快乐的；同性恋的",
+      "ipa": "/ɡeɪ/",
+      "eng_def": "happy; or a person who is attracted to people of the same sex",
+      "example": "She felt gay and lighthearted after the good news."
+    },
+    {
+      "word": "publication",
+      "def": "出版；出版物",
+      "ipa": "/ˌpʌblɪˈkeɪʃən/",
+      "eng_def": "the act of making a book or magazine available to the public",
+      "example": "The publication of the magazine was a prize."
+    },
+    {
+      "word": "slight",
+      "def": "轻微的；微小的",
+      "ipa": "/slaɪt/",
+      "eng_def": "small in degree; not serious",
+      "example": "They would have avoided the slight disagreement."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "“smart” 在文章中的意思是什么？",
+      "question_en": "What does 'smart' mean in the article?",
+      "options": [
+        "A. 聪明的",
+        "B. 疼痛的",
+        "C. 光滑的",
+        "D. 昂贵的"
+      ],
+      "answer": 0,
+      "word": "smart"
+    },
+    {
+      "question_cn": "“dispute” 最接近的中文意思是什么？",
+      "question_en": "What is the closest Chinese meaning of 'dispute'?",
+      "options": [
+        "A. 同意",
+        "B. 争论",
+        "C. 会议",
+        "D. 准备"
+      ],
+      "answer": 1,
+      "word": "dispute"
+    },
+    {
+      "question_cn": "“emphasis” 在句子中表示什么？",
+      "question_en": "What does 'emphasis' express in the sentence?",
+      "options": [
+        "A. 重点",
+        "B. 忽略",
+        "C. 娱乐",
+        "D. 版本"
+      ],
+      "answer": 0,
+      "word": "emphasis"
+    },
+    {
+      "question_cn": "“unlikely” 的意思是什么？",
+      "question_en": "What does 'unlikely' mean?",
+      "options": [
+        "A. 可能的",
+        "B. 不太可能的",
+        "C. 相似的",
+        "D. 诚实的"
+      ],
+      "answer": 1,
+      "word": "unlikely"
+    },
+    {
+      "question_cn": "“undertake” 在文中的含义是什么？",
+      "question_en": "What does 'undertake' mean in the article?",
+      "options": [
+        "A. 放弃",
+        "B. 承担",
+        "C. 完成",
+        "D. 开始"
+      ],
+      "answer": 1,
+      "word": "undertake"
+    }
+  ],
+  "image_prompts": [
+    "A team of people sitting around a table, one person pointing to a magazine with a smart idea written on a whiteboard.",
+    "A close-up of a magazine cover with a shiny silver layer being applied by a designer's hand.",
+    "A meeting room with a person looking upset while looking at a paper labeled 'Agenda'.",
+    "Two colleagues having a heated discussion, with a chart showing 'Target Audience' on the wall.",
+    "A businessperson speaking firmly while pointing to a slide that says 'Honesty with Retail Partners'.",
+    "Two people shaking hands with relieved expressions, a calendar showing a past date in the background.",
+    "A warehouse with a delivery truck arriving late, and a worker holding a coil of wire looking unhappy.",
+    "A person at a computer searching for suppliers, with a list titled 'New Supplier' on the desk.",
+    "A team celebrating with a magazine that has a 'Prize' ribbon on the cover.",
+    "A person in a meeting looking annoyed while another person talks a lot about movies and music."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['gay', 'tooth']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 92,
+  "_new_word_count": 20
+}

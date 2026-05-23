@@ -1,0 +1,502 @@
+{
+  "id": 8,
+  "title": "A New Office and a New Language",
+  "article_text": "I have a new office with a big window and a light on the desk. There are several letters on the table for me to answer. I remember the deal with my friend to share the work. We sit in the office and decide to learn a new language together. The value of this language is real for our jobs. We force ourselves to stay with the plan every day. I record my voice to check my progress bit by bit. My friend does not mind the hard work because he sees a good figure in the future. We stop for water soon after a long study session. The company allows us to develop our skills in the office.",
+  "sentences": [
+    {
+      "en": "I have a new office with a big window and a light on the desk.",
+      "zh": "我有一个新办公室，里面有一扇大窗户和桌上的一盏灯。",
+      "words": [
+        {
+          "word": "office",
+          "def": "办公室",
+          "ipa": "/ˈɒfɪs/",
+          "eng_def": "a room where people work"
+        },
+        {
+          "word": "light",
+          "def": "灯；光",
+          "ipa": "/laɪt/",
+          "eng_def": "something that gives brightness"
+        },
+        {
+          "word": "window",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "desk",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "There are several letters on the table for me to answer.",
+      "zh": "桌上有几封信要我来回复。",
+      "words": [
+        {
+          "word": "several",
+          "def": "几个；若干",
+          "ipa": "/ˈsevrəl/",
+          "eng_def": "more than two but not many"
+        },
+        {
+          "word": "letter",
+          "def": "信；字母",
+          "ipa": "/ˈletə/",
+          "eng_def": "a written message or a character in writing"
+        },
+        {
+          "word": "answer",
+          "def": "回答；回复",
+          "ipa": "/ˈɑːnsə/",
+          "eng_def": "to say or write something as a reply"
+        },
+        {
+          "word": "letters",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "table",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I remember the deal with my friend to share the work.",
+      "zh": "我记得和朋友的约定，要分担工作。",
+      "words": [
+        {
+          "word": "remember",
+          "def": "记住；记得",
+          "ipa": "/rɪˈmembə/",
+          "eng_def": "to keep something in your mind"
+        },
+        {
+          "word": "deal",
+          "def": "交易；约定",
+          "ipa": "/diːl/",
+          "eng_def": "an agreement between people"
+        },
+        {
+          "word": "share",
+          "def": "分享；分担",
+          "ipa": "/ʃeə/",
+          "eng_def": "to use or have something with another person"
+        }
+      ]
+    },
+    {
+      "en": "We sit in the office and decide to learn a new language together.",
+      "zh": "我们坐在办公室里，决定一起学习一门新语言。",
+      "words": [
+        {
+          "word": "sit",
+          "def": "坐",
+          "ipa": "/sɪt/",
+          "eng_def": "to be in a position with your bottom on a chair or the ground"
+        },
+        {
+          "word": "decide",
+          "def": "决定",
+          "ipa": "/dɪˈsaɪd/",
+          "eng_def": "to choose to do something after thinking"
+        },
+        {
+          "word": "language",
+          "def": "语言",
+          "ipa": "/ˈlæŋɡwɪdʒ/",
+          "eng_def": "words people use to speak or write"
+        }
+      ]
+    },
+    {
+      "en": "The value of this language is real for our jobs.",
+      "zh": "这门语言的价值对我们的工作来说是真实的。",
+      "words": [
+        {
+          "word": "value",
+          "def": "价值",
+          "ipa": "/ˈvæljuː/",
+          "eng_def": "how much something is worth or how important it is"
+        },
+        {
+          "word": "real",
+          "def": "真实的",
+          "ipa": "/rɪəl/",
+          "eng_def": "true or actual, not false"
+        }
+      ]
+    },
+    {
+      "en": "We force ourselves to stay with the plan every day.",
+      "zh": "我们强迫自己每天坚持这个计划。",
+      "words": [
+        {
+          "word": "force",
+          "def": "强迫；力量",
+          "ipa": "/fɔːs/",
+          "eng_def": "to make someone do something"
+        },
+        {
+          "word": "stay",
+          "def": "停留；保持",
+          "ipa": "/steɪ/",
+          "eng_def": "to continue in a place or state"
+        },
+        {
+          "word": "ourselves",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I record my voice to check my progress bit by bit.",
+      "zh": "我录下自己的声音来一点点检查进步。",
+      "words": [
+        {
+          "word": "record",
+          "def": "记录；录音",
+          "ipa": "/rɪˈkɔːd/",
+          "eng_def": "to store sound or information for later use"
+        },
+        {
+          "word": "bit",
+          "def": "一点；小块",
+          "ipa": "/bɪt/",
+          "eng_def": "a small part or piece"
+        },
+        {
+          "word": "voice",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "check",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "progress",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "My friend does not mind the hard work because he sees a good figure in the future.",
+      "zh": "我的朋友不介意辛苦，因为他看到未来有好的前景。",
+      "words": [
+        {
+          "word": "mind",
+          "def": "介意；头脑",
+          "ipa": "/maɪnd/",
+          "eng_def": "to be bothered by something"
+        },
+        {
+          "word": "figure",
+          "def": "数字；人物；形状",
+          "ipa": "/ˈfɪɡə/",
+          "eng_def": "a number, a person, or a shape"
+        },
+        {
+          "word": "future",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "We stop for water soon after a long study session.",
+      "zh": "在长时间学习后，我们很快停下来喝水。",
+      "words": [
+        {
+          "word": "stop",
+          "def": "停止",
+          "ipa": "/stɒp/",
+          "eng_def": "to not continue moving or doing something"
+        },
+        {
+          "word": "water",
+          "def": "水",
+          "ipa": "/ˈwɔːtə/",
+          "eng_def": "a clear liquid that people drink"
+        },
+        {
+          "word": "soon",
+          "def": "很快",
+          "ipa": "/suːn/",
+          "eng_def": "in a short time"
+        },
+        {
+          "word": "session",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The company allows us to develop our skills in the office.",
+      "zh": "公司允许我们在办公室发展技能。",
+      "words": [
+        {
+          "word": "allow",
+          "def": "允许",
+          "ipa": "/əˈlaʊ/",
+          "eng_def": "to let someone do something"
+        },
+        {
+          "word": "develop",
+          "def": "发展；开发",
+          "ipa": "/dɪˈveləp/",
+          "eng_def": "to grow or make something better"
+        },
+        {
+          "word": "office",
+          "def": "办公室",
+          "ipa": "/ˈɒfɪs/",
+          "eng_def": "a room where people work"
+        },
+        {
+          "word": "skills",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "mind",
+      "def": "介意；头脑",
+      "ipa": "/maɪnd/",
+      "eng_def": "to be bothered by something",
+      "example": "I do not mind the noise."
+    },
+    {
+      "word": "value",
+      "def": "价值",
+      "ipa": "/ˈvæljuː/",
+      "eng_def": "how much something is worth",
+      "example": "The value of this book is high."
+    },
+    {
+      "word": "office",
+      "def": "办公室",
+      "ipa": "/ˈɒfɪs/",
+      "eng_def": "a room where people work",
+      "example": "She works in an office."
+    },
+    {
+      "word": "record",
+      "def": "记录；录音",
+      "ipa": "/rɪˈkɔːd/",
+      "eng_def": "to store sound or information",
+      "example": "I record my voice."
+    },
+    {
+      "word": "stay",
+      "def": "停留；保持",
+      "ipa": "/steɪ/",
+      "eng_def": "to continue in a place or state",
+      "example": "We stay at home."
+    },
+    {
+      "word": "force",
+      "def": "强迫；力量",
+      "ipa": "/fɔːs/",
+      "eng_def": "to make someone do something",
+      "example": "He forces me to go."
+    },
+    {
+      "word": "stop",
+      "def": "停止",
+      "ipa": "/stɒp/",
+      "eng_def": "to not continue moving or doing something",
+      "example": "The car stops here."
+    },
+    {
+      "word": "several",
+      "def": "几个；若干",
+      "ipa": "/ˈsevrəl/",
+      "eng_def": "more than two but not many",
+      "example": "I have several books."
+    },
+    {
+      "word": "light",
+      "def": "灯；光",
+      "ipa": "/laɪt/",
+      "eng_def": "something that gives brightness",
+      "example": "The light is on."
+    },
+    {
+      "word": "develop",
+      "def": "发展；开发",
+      "ipa": "/dɪˈveləp/",
+      "eng_def": "to grow or make something better",
+      "example": "We develop new ideas."
+    },
+    {
+      "word": "remember",
+      "def": "记住；记得",
+      "ipa": "/rɪˈmembə/",
+      "eng_def": "to keep something in your mind",
+      "example": "I remember your name."
+    },
+    {
+      "word": "bit",
+      "def": "一点；小块",
+      "ipa": "/bɪt/",
+      "eng_def": "a small part or piece",
+      "example": "I eat a bit of cake."
+    },
+    {
+      "word": "share",
+      "def": "分享；分担",
+      "ipa": "/ʃeə/",
+      "eng_def": "to use or have something with another person",
+      "example": "We share the food."
+    },
+    {
+      "word": "real",
+      "def": "真实的",
+      "ipa": "/rɪəl/",
+      "eng_def": "true or actual",
+      "example": "This is a real story."
+    },
+    {
+      "word": "answer",
+      "def": "回答；回复",
+      "ipa": "/ˈɑːnsə/",
+      "eng_def": "to say or write something as a reply",
+      "example": "Please answer the question."
+    },
+    {
+      "word": "sit",
+      "def": "坐",
+      "ipa": "/sɪt/",
+      "eng_def": "to be in a position with your bottom on a chair",
+      "example": "I sit on the chair."
+    },
+    {
+      "word": "figure",
+      "def": "数字；人物；形状",
+      "ipa": "/ˈfɪɡə/",
+      "eng_def": "a number, a person, or a shape",
+      "example": "He is an important figure."
+    },
+    {
+      "word": "letter",
+      "def": "信；字母",
+      "ipa": "/ˈletə/",
+      "eng_def": "a written message or a character in writing",
+      "example": "I send a letter."
+    },
+    {
+      "word": "decide",
+      "def": "决定",
+      "ipa": "/dɪˈsaɪd/",
+      "eng_def": "to choose to do something after thinking",
+      "example": "We decide to go."
+    },
+    {
+      "word": "language",
+      "def": "语言",
+      "ipa": "/ˈlæŋɡwɪdʒ/",
+      "eng_def": "words people use to speak or write",
+      "example": "English is a language."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词的意思是‘决定’？",
+      "question_en": "Which word means 'to choose to do something after thinking'?",
+      "options": [
+        "A. decide",
+        "B. remember",
+        "C. force",
+        "D. share"
+      ],
+      "answer": 0,
+      "word": "decide"
+    },
+    {
+      "question_cn": "‘I do not ______ the noise.’ 意思是‘我不介意噪音。’ 空格应填什么？",
+      "question_en": "Which word fits in: 'I do not ______ the noise.'?",
+      "options": [
+        "A. mind",
+        "B. stay",
+        "C. stop",
+        "D. record"
+      ],
+      "answer": 0,
+      "word": "mind"
+    },
+    {
+      "question_cn": "哪个词的意思是‘价值’？",
+      "question_en": "Which word means 'how much something is worth'?",
+      "options": [
+        "A. value",
+        "B. figure",
+        "C. bit",
+        "D. letter"
+      ],
+      "answer": 0,
+      "word": "value"
+    },
+    {
+      "question_cn": "‘We ______ our voice.’ 意思是‘我们录下声音。’ 空格应填什么？",
+      "question_en": "Which word fits in: 'We ______ our voice.'?",
+      "options": [
+        "A. record",
+        "B. develop",
+        "C. answer",
+        "D. sit"
+      ],
+      "answer": 0,
+      "word": "record"
+    },
+    {
+      "question_cn": "哪个词的意思是‘真实的’？",
+      "question_en": "Which word means 'true or actual'?",
+      "options": [
+        "A. real",
+        "B. several",
+        "C. light",
+        "D. several"
+      ],
+      "answer": 0,
+      "word": "real"
+    }
+  ],
+  "image_prompts": [
+    "A bright modern office with a large window and a desk lamp on a wooden desk.",
+    "A table with several envelopes and letters, and a person writing with a pen.",
+    "Two friends shaking hands in an office, with a document on the table.",
+    "Two people sitting at a desk with books and a chalkboard showing language symbols.",
+    "A magnifying glass over a document with the word 'VALUE' highlighted.",
+    "A person pushing a heavy stone with effort, representing forcing oneself.",
+    "A person speaking into a smartphone to record voice, with small progress notes.",
+    "A person looking at a chart with a rising line figure, smiling.",
+    "Two people taking a break with glasses of water after studying.",
+    "A company building with a sign 'ALLOW' and people growing plants in an office."
+  ],
+  "_needs_review": false,
+  "_lesson_num": 8,
+  "_new_word_count": 20
+}

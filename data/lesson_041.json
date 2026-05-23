@@ -1,0 +1,520 @@
+{
+  "id": 41,
+  "title": "A Survey for a New Magazine",
+  "article_text": "Somebody announced a new magazine for rich people. I did a survey to find the best shape for the magazine. The majority of people recommended a square shape. The budget for the magazine is small, so we must count every pound. None of the staff wanted to shoot photos in the wind. I requested an independent expert to review the blood samples. The sea is warm, but we cannot swim unless we have a block of time. The famous writer agreed to exchange his story for a free copy. We must stick to the appropriate plan because it is safe. I can recommend this magazine to anybody who likes rich content.",
+  "sentences": [
+    {
+      "en": "Somebody announced a new magazine for rich people.",
+      "zh": "有人宣布了一本面向富人的新杂志。",
+      "words": [
+        {
+          "word": "somebody",
+          "def": "某人",
+          "ipa": "/ˈsʌmbədi/",
+          "eng_def": "a person who is not known or named"
+        },
+        {
+          "word": "announced",
+          "def": "宣布",
+          "ipa": "/əˈnaʊnst/",
+          "eng_def": "told people about something in a public way"
+        },
+        {
+          "word": "magazine",
+          "def": "杂志",
+          "ipa": "/ˈmæɡəziːn/",
+          "eng_def": "a book with pictures and stories that comes out every week or month"
+        },
+        {
+          "word": "rich",
+          "def": "富有的",
+          "ipa": "/rɪtʃ/",
+          "eng_def": "having a lot of money"
+        }
+      ]
+    },
+    {
+      "en": "I did a survey to find the best shape for the magazine.",
+      "zh": "我做了一项调查，为这本杂志找到最好的形状。",
+      "words": [
+        {
+          "word": "survey",
+          "def": "调查",
+          "ipa": "/ˈsɜːrveɪ/",
+          "eng_def": "a set of questions to learn what people think"
+        },
+        {
+          "word": "shape",
+          "def": "形状",
+          "ipa": "/ʃeɪp/",
+          "eng_def": "the form of something"
+        },
+        {
+          "word": "best",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The majority of people recommended a square shape.",
+      "zh": "大多数人推荐了正方形的形状。",
+      "words": [
+        {
+          "word": "majority",
+          "def": "大多数",
+          "ipa": "/məˈdʒɔːrəti/",
+          "eng_def": "more than half of a group"
+        },
+        {
+          "word": "recommended",
+          "def": "推荐",
+          "ipa": "/ˌrekəˈmendɪd/",
+          "eng_def": "said that something is good or useful"
+        },
+        {
+          "word": "square",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The budget for the magazine is small, so we must count every pound.",
+      "zh": "这本杂志的预算很小，所以我们必须数清每一英镑。",
+      "words": [
+        {
+          "word": "budget",
+          "def": "预算",
+          "ipa": "/ˈbʌdʒɪt/",
+          "eng_def": "the money you have for a plan or thing"
+        },
+        {
+          "word": "count",
+          "def": "数",
+          "ipa": "/kaʊnt/",
+          "eng_def": "to say numbers in order to find how many"
+        },
+        {
+          "word": "pound",
+          "def": "英镑",
+          "ipa": "/paʊnd/",
+          "eng_def": "the money used in the UK"
+        }
+      ]
+    },
+    {
+      "en": "None of the staff wanted to shoot photos in the wind.",
+      "zh": "没有一个员工想在风中拍摄照片。",
+      "words": [
+        {
+          "word": "none",
+          "def": "没有一个",
+          "ipa": "/nʌn/",
+          "eng_def": "not any; no person or thing"
+        },
+        {
+          "word": "shoot",
+          "def": "拍摄",
+          "ipa": "/ʃuːt/",
+          "eng_def": "to take a picture with a camera"
+        },
+        {
+          "word": "wind",
+          "def": "风",
+          "ipa": "/wɪnd/",
+          "eng_def": "moving air outside"
+        },
+        {
+          "word": "photos",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I requested an independent expert to review the blood samples.",
+      "zh": "我请求一位独立的专家审查血样。",
+      "words": [
+        {
+          "word": "requested",
+          "def": "请求",
+          "ipa": "/rɪˈkwestɪd/",
+          "eng_def": "asked for something in a polite way"
+        },
+        {
+          "word": "independent",
+          "def": "独立的",
+          "ipa": "/ˌɪndɪˈpendənt/",
+          "eng_def": "not controlled by others"
+        },
+        {
+          "word": "blood",
+          "def": "血",
+          "ipa": "/blʌd/",
+          "eng_def": "the red liquid inside your body"
+        },
+        {
+          "word": "expert",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "samples",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The sea is warm, but we cannot swim unless we have a block of time.",
+      "zh": "海水是温暖的，但我们不能游泳，除非我们有一整块时间。",
+      "words": [
+        {
+          "word": "sea",
+          "def": "海",
+          "ipa": "/siː/",
+          "eng_def": "a large area of salt water"
+        },
+        {
+          "word": "warm",
+          "def": "温暖的",
+          "ipa": "/wɔːrm/",
+          "eng_def": "a little hot; nice and not cold"
+        },
+        {
+          "word": "unless",
+          "def": "除非",
+          "ipa": "/ʌnˈles/",
+          "eng_def": "if not; except when"
+        },
+        {
+          "word": "block",
+          "def": "一块",
+          "ipa": "/blɒk/",
+          "eng_def": "a piece of something with straight sides"
+        },
+        {
+          "word": "cannot",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "swim",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The famous writer agreed to exchange his story for a free copy.",
+      "zh": "那位著名的作家同意用他的故事交换一本免费的书。",
+      "words": [
+        {
+          "word": "famous",
+          "def": "著名的",
+          "ipa": "/ˈfeɪməs/",
+          "eng_def": "known by many people"
+        },
+        {
+          "word": "exchange",
+          "def": "交换",
+          "ipa": "/ɪksˈtʃeɪndʒ/",
+          "eng_def": "to give one thing and get another thing back"
+        },
+        {
+          "word": "writer",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "copy",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "We must stick to the appropriate plan because it is safe.",
+      "zh": "我们必须坚持适当的计划，因为它是安全的。",
+      "words": [
+        {
+          "word": "stick",
+          "def": "坚持",
+          "ipa": "/stɪk/",
+          "eng_def": "to stay with something and not change"
+        },
+        {
+          "word": "appropriate",
+          "def": "适当的",
+          "ipa": "/əˈprəʊpriət/",
+          "eng_def": "right or correct for a situation"
+        },
+        {
+          "word": "safe",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I can recommend this magazine to anybody who likes rich content.",
+      "zh": "我可以向任何喜欢丰富内容的人推荐这本杂志。",
+      "words": [
+        {
+          "word": "recommend",
+          "def": "推荐",
+          "ipa": "/ˌrekəˈmend/",
+          "eng_def": "to say that something is good or useful"
+        },
+        {
+          "word": "rich",
+          "def": "丰富的",
+          "ipa": "/rɪtʃ/",
+          "eng_def": "having a lot of good things inside"
+        },
+        {
+          "word": "anybody",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "content",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "shoot",
+      "def": "拍摄",
+      "ipa": "/ʃuːt/",
+      "eng_def": "to take a picture with a camera",
+      "example": "I want to shoot photos of the sea."
+    },
+    {
+      "word": "announce",
+      "def": "宣布",
+      "ipa": "/əˈnaʊns/",
+      "eng_def": "to tell people about something in a public way",
+      "example": "They will announce the winner tomorrow."
+    },
+    {
+      "word": "unless",
+      "def": "除非",
+      "ipa": "/ʌnˈles/",
+      "eng_def": "if not; except when",
+      "example": "I cannot go unless you come with me."
+    },
+    {
+      "word": "independent",
+      "def": "独立的",
+      "ipa": "/ˌɪndɪˈpendənt/",
+      "eng_def": "not controlled by others",
+      "example": "She is an independent worker."
+    },
+    {
+      "word": "recommend",
+      "def": "推荐",
+      "ipa": "/ˌrekəˈmend/",
+      "eng_def": "to say that something is good or useful",
+      "example": "I recommend this book to you."
+    },
+    {
+      "word": "survey",
+      "def": "调查",
+      "ipa": "/ˈsɜːrveɪ/",
+      "eng_def": "a set of questions to learn what people think",
+      "example": "We did a survey about food."
+    },
+    {
+      "word": "majority",
+      "def": "大多数",
+      "ipa": "/məˈdʒɔːrəti/",
+      "eng_def": "more than half of a group",
+      "example": "The majority of students like sports."
+    },
+    {
+      "word": "stick",
+      "def": "坚持",
+      "ipa": "/stɪk/",
+      "eng_def": "to stay with something and not change",
+      "example": "Stick to the plan."
+    },
+    {
+      "word": "request",
+      "def": "请求",
+      "ipa": "/rɪˈkwest/",
+      "eng_def": "to ask for something in a polite way",
+      "example": "I request your help."
+    },
+    {
+      "word": "rich",
+      "def": "富有的；丰富的",
+      "ipa": "/rɪtʃ/",
+      "eng_def": "having a lot of money or good things",
+      "example": "He is a rich man."
+    },
+    {
+      "word": "wind",
+      "def": "风",
+      "ipa": "/wɪnd/",
+      "eng_def": "moving air outside",
+      "example": "The wind is strong today."
+    },
+    {
+      "word": "none",
+      "def": "没有一个",
+      "ipa": "/nʌn/",
+      "eng_def": "not any; no person or thing",
+      "example": "None of the apples are red."
+    },
+    {
+      "word": "exchange",
+      "def": "交换",
+      "ipa": "/ɪksˈtʃeɪndʒ/",
+      "eng_def": "to give one thing and get another thing back",
+      "example": "We exchange gifts at Christmas."
+    },
+    {
+      "word": "budget",
+      "def": "预算",
+      "ipa": "/ˈbʌdʒɪt/",
+      "eng_def": "the money you have for a plan or thing",
+      "example": "Our budget is small."
+    },
+    {
+      "word": "famous",
+      "def": "著名的",
+      "ipa": "/ˈfeɪməs/",
+      "eng_def": "known by many people",
+      "example": "She is a famous singer."
+    },
+    {
+      "word": "blood",
+      "def": "血",
+      "ipa": "/blʌd/",
+      "eng_def": "the red liquid inside your body",
+      "example": "Blood is red."
+    },
+    {
+      "word": "appropriate",
+      "def": "适当的",
+      "ipa": "/əˈprəʊpriət/",
+      "eng_def": "right or correct for a situation",
+      "example": "That is not appropriate clothing."
+    },
+    {
+      "word": "block",
+      "def": "一块",
+      "ipa": "/blɒk/",
+      "eng_def": "a piece of something with straight sides",
+      "example": "I have a block of cheese."
+    },
+    {
+      "word": "warm",
+      "def": "温暖的",
+      "ipa": "/wɔːrm/",
+      "eng_def": "a little hot; nice and not cold",
+      "example": "The water is warm."
+    },
+    {
+      "word": "count",
+      "def": "数",
+      "ipa": "/kaʊnt/",
+      "eng_def": "to say numbers in order to find how many",
+      "example": "Count the books on the table."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "“除非”用英语怎么说？",
+      "question_en": "How do you say '除非' in English?",
+      "options": [
+        "A. unless",
+        "B. because",
+        "C. although",
+        "D. until"
+      ],
+      "answer": 0,
+      "word": "unless"
+    },
+    {
+      "question_cn": "“大多数”对应的英语单词是？",
+      "question_en": "What English word means '大多数'?",
+      "options": [
+        "A. minority",
+        "B. majority",
+        "C. maximum",
+        "D. minimum"
+      ],
+      "answer": 1,
+      "word": "majority"
+    },
+    {
+      "question_cn": "哪个词的意思是“交换”？",
+      "question_en": "Which word means '交换'?",
+      "options": [
+        "A. change",
+        "B. exchange",
+        "C. charge",
+        "D. challenge"
+      ],
+      "answer": 1,
+      "word": "exchange"
+    },
+    {
+      "question_cn": "“预算”用英语怎么说？",
+      "question_en": "How do you say '预算' in English?",
+      "options": [
+        "A. budget",
+        "B. bucket",
+        "C. basket",
+        "D. blanket"
+      ],
+      "answer": 0,
+      "word": "budget"
+    },
+    {
+      "question_cn": "“适当的”对应的英语单词是？",
+      "question_en": "What English word means '适当的'?",
+      "options": [
+        "A. approximate",
+        "B. appropriate",
+        "C. appreciate",
+        "D. approach"
+      ],
+      "answer": 1,
+      "word": "appropriate"
+    }
+  ],
+  "image_prompts": [
+    "A person announcing a new magazine to a group of rich people in a fancy office.",
+    "A person holding a clipboard and doing a survey about magazine shapes.",
+    "A pie chart showing the majority of people choosing a square shape.",
+    "A person counting pound coins on a table with a small budget sign.",
+    "A photographer trying to shoot photos in strong wind, with papers flying.",
+    "A person requesting help from an independent expert holding blood samples.",
+    "A warm sea with a clock showing a block of time, people swimming.",
+    "A famous writer exchanging a story for a free magazine copy.",
+    "A team sticking to an appropriate plan on a whiteboard.",
+    "A person recommending a rich-content magazine to a friend."
+  ],
+  "_needs_review": false,
+  "_lesson_num": 41,
+  "_new_word_count": 20
+}

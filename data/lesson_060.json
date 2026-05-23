@@ -1,0 +1,463 @@
+{
+  "id": 60,
+  "title": "A Trip to the City",
+  "article_text": "Last week, I felt a shock when I saw the new theater near my home. The building is very comfortable and has a usual design for a modern theater. I will pack my camera carefully before I go there tomorrow. I recall that my friend bought a bottle of wine for the opening event. The theater will manufacture its own coffee for visitors. I can swim in the pool next to the theater, which is a great freedom. A cycle path is under construction near the museum. My dear friend has a clear objective to visit every museum in the city. The volume of visitors to the theater has increased a lot. I will invest in a good location for my next project, and then proceed with the plan.",
+  "sentences": [
+    {
+      "en": "Last week, I felt a shock when I saw the new theater near my home.",
+      "zh": "上周，当我看到我家附近的新剧院时，我感到震惊。",
+      "words": [
+        {
+          "word": "shock",
+          "def": "震惊",
+          "ipa": "/ʃɒk/",
+          "eng_def": "a sudden feeling of surprise or fear"
+        },
+        {
+          "word": "theater",
+          "def": "剧院",
+          "ipa": "/ˈθɪətər/",
+          "eng_def": "a place where plays or movies are shown"
+        },
+        {
+          "word": "felt",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "saw",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The building is very comfortable and has a usual design for a modern theater.",
+      "zh": "这座建筑非常舒适，并且有现代剧院的常见设计。",
+      "words": [
+        {
+          "word": "comfortable",
+          "def": "舒适的",
+          "ipa": "/ˈkʌmftəbl/",
+          "eng_def": "making you feel relaxed and without pain"
+        },
+        {
+          "word": "usual",
+          "def": "通常的",
+          "ipa": "/ˈjuːʒuəl/",
+          "eng_def": "happening or done most of the time"
+        }
+      ]
+    },
+    {
+      "en": "I will pack my camera carefully before I go there tomorrow.",
+      "zh": "我明天去那里之前会仔细地打包我的相机。",
+      "words": [
+        {
+          "word": "pack",
+          "def": "打包",
+          "ipa": "/pæk/",
+          "eng_def": "to put things into a container for travel or storage"
+        },
+        {
+          "word": "camera",
+          "def": "相机",
+          "ipa": "/ˈkæmərə/",
+          "eng_def": "a device for taking pictures or videos"
+        },
+        {
+          "word": "carefully",
+          "def": "仔细地",
+          "ipa": "/ˈkeərfəli/",
+          "eng_def": "with great attention to avoid mistakes or harm"
+        }
+      ]
+    },
+    {
+      "en": "I recall that my friend bought a bottle of wine for the opening event.",
+      "zh": "我记得我的朋友为开幕活动买了一瓶葡萄酒。",
+      "words": [
+        {
+          "word": "recall",
+          "def": "回忆",
+          "ipa": "/rɪˈkɔːl/",
+          "eng_def": "to remember something"
+        },
+        {
+          "word": "wine",
+          "def": "葡萄酒",
+          "ipa": "/waɪn/",
+          "eng_def": "an alcoholic drink made from grapes"
+        },
+        {
+          "word": "bought",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "bottle",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The theater will manufacture its own coffee for visitors.",
+      "zh": "这家剧院将为参观者制作自己的咖啡。",
+      "words": [
+        {
+          "word": "manufacture",
+          "def": "制造",
+          "ipa": "/ˌmænjuˈfæktʃər/",
+          "eng_def": "to make something in a factory or using machines"
+        },
+        {
+          "word": "coffee",
+          "def": "咖啡",
+          "ipa": "/ˈkɒfi/",
+          "eng_def": "a hot drink made from coffee beans"
+        },
+        {
+          "word": "visitor",
+          "def": "参观者",
+          "ipa": "/ˈvɪzɪtər/",
+          "eng_def": "a person who visits a place"
+        },
+        {
+          "word": "visitors",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I can swim in the pool next to the theater, which is a great freedom.",
+      "zh": "我可以在剧院旁边的游泳池游泳，这是一种很大的自由。",
+      "words": [
+        {
+          "word": "swim",
+          "def": "游泳",
+          "ipa": "/swɪm/",
+          "eng_def": "to move through water using your arms and legs"
+        },
+        {
+          "word": "freedom",
+          "def": "自由",
+          "ipa": "/ˈfriːdəm/",
+          "eng_def": "the right to do what you want without control"
+        }
+      ]
+    },
+    {
+      "en": "A cycle path is under construction near the museum.",
+      "zh": "博物馆附近有一条自行车道正在建设中。",
+      "words": [
+        {
+          "word": "cycle",
+          "def": "骑自行车",
+          "ipa": "/ˈsaɪkl/",
+          "eng_def": "to ride a bicycle"
+        },
+        {
+          "word": "construction",
+          "def": "建设",
+          "ipa": "/kənˈstrʌkʃən/",
+          "eng_def": "the process of building something"
+        },
+        {
+          "word": "museum",
+          "def": "博物馆",
+          "ipa": "/mjuˈziːəm/",
+          "eng_def": "a building where objects of art or science are kept and shown"
+        }
+      ]
+    },
+    {
+      "en": "My dear friend has a clear objective to visit every museum in the city.",
+      "zh": "我亲爱的朋友有一个明确的目标：参观城里的每一家博物馆。",
+      "words": [
+        {
+          "word": "dear",
+          "def": "亲爱的",
+          "ipa": "/dɪər/",
+          "eng_def": "loved or liked very much"
+        },
+        {
+          "word": "objective",
+          "def": "目标",
+          "ipa": "/əbˈdʒektɪv/",
+          "eng_def": "something you want to achieve"
+        }
+      ]
+    },
+    {
+      "en": "The volume of visitors to the theater has increased a lot.",
+      "zh": "到剧院参观的人数大大增加了。",
+      "words": [
+        {
+          "word": "volume",
+          "def": "数量；音量",
+          "ipa": "/ˈvɒljuːm/",
+          "eng_def": "the amount of something, or the level of sound"
+        },
+        {
+          "word": "visitors",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I will invest in a good location for my next project, and then proceed with the plan.",
+      "zh": "我将投资一个好地点用于我的下一个项目，然后继续执行计划。",
+      "words": [
+        {
+          "word": "invest",
+          "def": "投资",
+          "ipa": "/ɪnˈvest/",
+          "eng_def": "to put money into something to make a profit"
+        },
+        {
+          "word": "location",
+          "def": "位置",
+          "ipa": "/ləʊˈkeɪʃən/",
+          "eng_def": "a place or position"
+        },
+        {
+          "word": "proceed",
+          "def": "继续",
+          "ipa": "/prəˈsiːd/",
+          "eng_def": "to continue doing something"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "shock",
+      "def": "震惊",
+      "ipa": "/ʃɒk/",
+      "eng_def": "a sudden feeling of surprise or fear",
+      "example": "I felt a shock when I saw the new theater."
+    },
+    {
+      "word": "comfortable",
+      "def": "舒适的",
+      "ipa": "/ˈkʌmftəbl/",
+      "eng_def": "making you feel relaxed and without pain",
+      "example": "The building is very comfortable."
+    },
+    {
+      "word": "usual",
+      "def": "通常的",
+      "ipa": "/ˈjuːʒuəl/",
+      "eng_def": "happening or done most of the time",
+      "example": "It has a usual design."
+    },
+    {
+      "word": "carefully",
+      "def": "仔细地",
+      "ipa": "/ˈkeərfəli/",
+      "eng_def": "with great attention to avoid mistakes or harm",
+      "example": "I will pack my camera carefully."
+    },
+    {
+      "word": "pack",
+      "def": "打包",
+      "ipa": "/pæk/",
+      "eng_def": "to put things into a container for travel or storage",
+      "example": "I will pack my camera."
+    },
+    {
+      "word": "recall",
+      "def": "回忆",
+      "ipa": "/rɪˈkɔːl/",
+      "eng_def": "to remember something",
+      "example": "I recall that my friend bought wine."
+    },
+    {
+      "word": "wine",
+      "def": "葡萄酒",
+      "ipa": "/waɪn/",
+      "eng_def": "an alcoholic drink made from grapes",
+      "example": "My friend bought a bottle of wine."
+    },
+    {
+      "word": "camera",
+      "def": "相机",
+      "ipa": "/ˈkæmərə/",
+      "eng_def": "a device for taking pictures or videos",
+      "example": "I will pack my camera."
+    },
+    {
+      "word": "swim",
+      "def": "游泳",
+      "ipa": "/swɪm/",
+      "eng_def": "to move through water using your arms and legs",
+      "example": "I can swim in the pool."
+    },
+    {
+      "word": "manufacture",
+      "def": "制造",
+      "ipa": "/ˌmænjuˈfæktʃər/",
+      "eng_def": "to make something in a factory or using machines",
+      "example": "The theater will manufacture coffee."
+    },
+    {
+      "word": "theater",
+      "def": "剧院",
+      "ipa": "/ˈθɪətər/",
+      "eng_def": "a place where plays or movies are shown",
+      "example": "I saw the new theater."
+    },
+    {
+      "word": "coffee",
+      "def": "咖啡",
+      "ipa": "/ˈkɒfi/",
+      "eng_def": "a hot drink made from coffee beans",
+      "example": "The theater will make coffee."
+    },
+    {
+      "word": "totally",
+      "def": "完全地",
+      "ipa": "/ˈtəʊtəli/",
+      "eng_def": "completely",
+      "example": "I am totally happy with the plan."
+    },
+    {
+      "word": "museum",
+      "def": "博物馆",
+      "ipa": "/mjuˈziːəm/",
+      "eng_def": "a building where objects of art or science are kept and shown",
+      "example": "A cycle path is near the museum."
+    },
+    {
+      "word": "visitor",
+      "def": "参观者",
+      "ipa": "/ˈvɪzɪtər/",
+      "eng_def": "a person who visits a place",
+      "example": "The theater makes coffee for visitors."
+    },
+    {
+      "word": "freedom",
+      "def": "自由",
+      "ipa": "/ˈfriːdəm/",
+      "eng_def": "the right to do what you want without control",
+      "example": "Swimming gives me freedom."
+    },
+    {
+      "word": "construction",
+      "def": "建设",
+      "ipa": "/kənˈstrʌkʃən/",
+      "eng_def": "the process of building something",
+      "example": "The cycle path is under construction."
+    },
+    {
+      "word": "dear",
+      "def": "亲爱的",
+      "ipa": "/dɪər/",
+      "eng_def": "loved or liked very much",
+      "example": "My dear friend has an objective."
+    },
+    {
+      "word": "objective",
+      "def": "目标",
+      "ipa": "/əbˈdʒektɪv/",
+      "eng_def": "something you want to achieve",
+      "example": "Her objective is to visit every museum."
+    },
+    {
+      "word": "cycle",
+      "def": "骑自行车",
+      "ipa": "/ˈsaɪkl/",
+      "eng_def": "to ride a bicycle",
+      "example": "I like to cycle on the path."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词的意思是'震惊'？",
+      "question_en": "Which word means 'a sudden feeling of surprise or fear'?",
+      "options": [
+        "A. shock",
+        "B. usual",
+        "C. dear",
+        "D. freedom"
+      ],
+      "answer": 0,
+      "word": "shock"
+    },
+    {
+      "question_cn": "哪个词的意思是'仔细地'？",
+      "question_en": "Which word means 'with great attention to avoid mistakes'?",
+      "options": [
+        "A. carefully",
+        "B. totally",
+        "C. comfortable",
+        "D. usual"
+      ],
+      "answer": 0,
+      "word": "carefully"
+    },
+    {
+      "question_cn": "'recall' 的意思是什么？",
+      "question_en": "What does 'recall' mean?",
+      "options": [
+        "A. 忘记",
+        "B. 回忆",
+        "C. 制造",
+        "D. 游泳"
+      ],
+      "answer": 1,
+      "word": "recall"
+    },
+    {
+      "question_cn": "哪个词的意思是'目标'？",
+      "question_en": "Which word means 'something you want to achieve'?",
+      "options": [
+        "A. objective",
+        "B. construction",
+        "C. volume",
+        "D. location"
+      ],
+      "answer": 0,
+      "word": "objective"
+    },
+    {
+      "question_cn": "'manufacture' 的意思是什么？",
+      "question_en": "What does 'manufacture' mean?",
+      "options": [
+        "A. 制造",
+        "B. 参观",
+        "C. 投资",
+        "D. 继续"
+      ],
+      "answer": 0,
+      "word": "manufacture"
+    }
+  ],
+  "image_prompts": [
+    "A person looking surprised at a new theater building near a house.",
+    "A comfortable modern theater interior with usual chairs and design.",
+    "A person carefully packing a camera into a bag.",
+    "A person recalling a memory while holding a bottle of wine.",
+    "A theater with a coffee machine making coffee for visitors.",
+    "A person swimming in a pool next to a theater, feeling free.",
+    "A bicycle path under construction next to a museum.",
+    "Two friends talking, one pointing at a museum with a determined look.",
+    "A crowd of visitors entering a theater, with a large number sign.",
+    "A person investing money in a location map, then proceeding with a plan."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['totally']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 60,
+  "_new_word_count": 20
+}

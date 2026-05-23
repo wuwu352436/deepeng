@@ -1,0 +1,448 @@
+{
+  "id": 87,
+  "title": "A New Office Creation",
+  "article_text": "A journalist wrote a report about a massive change in our office. The company decided to install a new computer system. A reporter highlighted the need for a consistent update of the software. The upper manager wanted to calculate the cost of this creation. The new system would occupy less space and preserve our old files. A sudden illness caused a split in the team's work schedule. The office had sufficient luck to finish the project on time. The mouse and keyboard were easy to swing into position. The mathematics teacher helped outline the plan for the new system. An advertisement for the new office showed a beautiful shirt with the company logo.",
+  "sentences": [
+    {
+      "en": "A journalist wrote a report about a massive change in our office.",
+      "zh": "一位记者写了一篇关于我们办公室巨大变化的报道。",
+      "words": [
+        {
+          "word": "journalist",
+          "def": "记者",
+          "ipa": "/ˈdʒɜːrnəlɪst/",
+          "eng_def": "a person who writes news stories"
+        },
+        {
+          "word": "massive",
+          "def": "巨大的",
+          "ipa": "/ˈmæsɪv/",
+          "eng_def": "very large in size or amount"
+        },
+        {
+          "word": "wrote",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The company decided to install a new computer system.",
+      "zh": "公司决定安装一个新的计算机系统。",
+      "words": [
+        {
+          "word": "install",
+          "def": "安装",
+          "ipa": "/ɪnˈstɔːl/",
+          "eng_def": "to put equipment in place so it is ready to use"
+        }
+      ]
+    },
+    {
+      "en": "A reporter highlighted the need for a consistent update of the software.",
+      "zh": "一位记者强调了持续更新软件的必要性。",
+      "words": [
+        {
+          "word": "reporter",
+          "def": "记者",
+          "ipa": "/rɪˈpɔːrtər/",
+          "eng_def": "a person who reports news"
+        },
+        {
+          "word": "highlight",
+          "def": "强调",
+          "ipa": "/ˈhaɪlaɪt/",
+          "eng_def": "to make something easy to notice"
+        },
+        {
+          "word": "consistent",
+          "def": "一致的；持续的",
+          "ipa": "/kənˈsɪstənt/",
+          "eng_def": "always acting the same way"
+        },
+        {
+          "word": "update",
+          "def": "更新",
+          "ipa": "/ʌpˈdeɪt/",
+          "eng_def": "a new version of something"
+        }
+      ]
+    },
+    {
+      "en": "The upper manager wanted to calculate the cost of this creation.",
+      "zh": "高级经理想要计算这个创造成本。",
+      "words": [
+        {
+          "word": "upper",
+          "def": "上层的；较高的",
+          "ipa": "/ˈʌpər/",
+          "eng_def": "at a higher level or position"
+        },
+        {
+          "word": "calculate",
+          "def": "计算",
+          "ipa": "/ˈkælkjuleɪt/",
+          "eng_def": "to find an amount using mathematics"
+        },
+        {
+          "word": "creation",
+          "def": "创造；作品",
+          "ipa": "/kriˈeɪʃn/",
+          "eng_def": "something that has been made"
+        }
+      ]
+    },
+    {
+      "en": "The new system would occupy less space and preserve our old files.",
+      "zh": "新系统将占用更少的空间并保存我们的旧文件。",
+      "words": [
+        {
+          "word": "occupy",
+          "def": "占用；占据",
+          "ipa": "/ˈɑːkjupaɪ/",
+          "eng_def": "to fill a space or time"
+        },
+        {
+          "word": "preserve",
+          "def": "保存；保护",
+          "ipa": "/prɪˈzɜːrv/",
+          "eng_def": "to keep something safe from harm or change"
+        }
+      ]
+    },
+    {
+      "en": "A sudden illness caused a split in the team's work schedule.",
+      "zh": "一场突然的疾病导致团队工作日程出现分裂。",
+      "words": [
+        {
+          "word": "sudden",
+          "def": "突然的",
+          "ipa": "/ˈsʌdn/",
+          "eng_def": "happening quickly without warning"
+        },
+        {
+          "word": "illness",
+          "def": "疾病",
+          "ipa": "/ˈɪlnəs/",
+          "eng_def": "a health problem that makes you sick"
+        },
+        {
+          "word": "split",
+          "def": "分裂；分开",
+          "ipa": "/splɪt/",
+          "eng_def": "to divide into two or more parts"
+        },
+        {
+          "word": "team's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The office had sufficient luck to finish the project on time.",
+      "zh": "办公室有足够的运气按时完成项目。",
+      "words": [
+        {
+          "word": "sufficient",
+          "def": "足够的",
+          "ipa": "/səˈfɪʃnt/",
+          "eng_def": "as much as is needed"
+        },
+        {
+          "word": "luck",
+          "def": "运气",
+          "ipa": "/lʌk/",
+          "eng_def": "good things that happen by chance"
+        }
+      ]
+    },
+    {
+      "en": "The mouse and keyboard were easy to swing into position.",
+      "zh": "鼠标和键盘很容易摆动到位。",
+      "words": [
+        {
+          "word": "mouse",
+          "def": "鼠标",
+          "ipa": "/maʊs/",
+          "eng_def": "a small device used to control a computer"
+        },
+        {
+          "word": "swing",
+          "def": "摆动；旋转",
+          "ipa": "/swɪŋ/",
+          "eng_def": "to move back and forth or from side to side"
+        },
+        {
+          "word": "keyboard",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The mathematics teacher helped outline the plan for the new system.",
+      "zh": "数学老师帮助勾勒了新系统的计划。",
+      "words": [
+        {
+          "word": "mathematics",
+          "def": "数学",
+          "ipa": "/ˌmæθəˈmætɪks/",
+          "eng_def": "the study of numbers and shapes"
+        },
+        {
+          "word": "outline",
+          "def": "勾勒；概述",
+          "ipa": "/ˈaʊtlaɪn/",
+          "eng_def": "to describe the main ideas of something"
+        }
+      ]
+    },
+    {
+      "en": "An advertisement for the new office showed a beautiful shirt with the company logo.",
+      "zh": "一则新办公室的广告展示了一件带有公司标志的漂亮衬衫。",
+      "words": [
+        {
+          "word": "advertisement",
+          "def": "广告",
+          "ipa": "/ˌædvərˈtaɪzmənt/",
+          "eng_def": "a notice that tells people about a product or event"
+        },
+        {
+          "word": "shirt",
+          "def": "衬衫",
+          "ipa": "/ʃɜːrt/",
+          "eng_def": "a piece of clothing for the upper body"
+        },
+        {
+          "word": "logo",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "massive",
+      "def": "巨大的",
+      "ipa": "/ˈmæsɪv/",
+      "eng_def": "very large in size or amount",
+      "example": "The building was massive."
+    },
+    {
+      "word": "install",
+      "def": "安装",
+      "ipa": "/ɪnˈstɔːl/",
+      "eng_def": "to put equipment in place so it is ready to use",
+      "example": "We need to install the new computer."
+    },
+    {
+      "word": "calculate",
+      "def": "计算",
+      "ipa": "/ˈkælkjuleɪt/",
+      "eng_def": "to find an amount using mathematics",
+      "example": "Please calculate the total cost."
+    },
+    {
+      "word": "mouse",
+      "def": "鼠标",
+      "ipa": "/maʊs/",
+      "eng_def": "a small device used to control a computer",
+      "example": "I need a new mouse for my computer."
+    },
+    {
+      "word": "mathematics",
+      "def": "数学",
+      "ipa": "/ˌmæθəˈmætɪks/",
+      "eng_def": "the study of numbers and shapes",
+      "example": "She teaches mathematics."
+    },
+    {
+      "word": "upper",
+      "def": "上层的；较高的",
+      "ipa": "/ˈʌpər/",
+      "eng_def": "at a higher level or position",
+      "example": "The upper floor is the office."
+    },
+    {
+      "word": "creation",
+      "def": "创造；作品",
+      "ipa": "/kriˈeɪʃn/",
+      "eng_def": "something that has been made",
+      "example": "This is a new creation."
+    },
+    {
+      "word": "occupy",
+      "def": "占用；占据",
+      "ipa": "/ˈɑːkjupaɪ/",
+      "eng_def": "to fill a space or time",
+      "example": "The desk occupies too much space."
+    },
+    {
+      "word": "outline",
+      "def": "勾勒；概述",
+      "ipa": "/ˈaʊtlaɪn/",
+      "eng_def": "to describe the main ideas of something",
+      "example": "Let me outline the plan."
+    },
+    {
+      "word": "sufficient",
+      "def": "足够的",
+      "ipa": "/səˈfɪʃnt/",
+      "eng_def": "as much as is needed",
+      "example": "We have sufficient food."
+    },
+    {
+      "word": "update",
+      "def": "更新",
+      "ipa": "/ʌpˈdeɪt/",
+      "eng_def": "a new version of something",
+      "example": "I need an update for my phone."
+    },
+    {
+      "word": "luck",
+      "def": "运气",
+      "ipa": "/lʌk/",
+      "eng_def": "good things that happen by chance",
+      "example": "Good luck with your test."
+    },
+    {
+      "word": "preserve",
+      "def": "保存；保护",
+      "ipa": "/prɪˈzɜːrv/",
+      "eng_def": "to keep something safe from harm or change",
+      "example": "We must preserve the old documents."
+    },
+    {
+      "word": "split",
+      "def": "分裂；分开",
+      "ipa": "/splɪt/",
+      "eng_def": "to divide into two or more parts",
+      "example": "Let's split the work."
+    },
+    {
+      "word": "swing",
+      "def": "摆动；旋转",
+      "ipa": "/swɪŋ/",
+      "eng_def": "to move back and forth or from side to side",
+      "example": "The door can swing open."
+    },
+    {
+      "word": "illness",
+      "def": "疾病",
+      "ipa": "/ˈɪlnəs/",
+      "eng_def": "a health problem that makes you sick",
+      "example": "He missed work because of illness."
+    },
+    {
+      "word": "journalist",
+      "def": "记者",
+      "ipa": "/ˈdʒɜːrnəlɪst/",
+      "eng_def": "a person who writes news stories",
+      "example": "The journalist wrote an article."
+    },
+    {
+      "word": "sudden",
+      "def": "突然的",
+      "ipa": "/ˈsʌdn/",
+      "eng_def": "happening quickly without warning",
+      "example": "There was a sudden noise."
+    },
+    {
+      "word": "advertisement",
+      "def": "广告",
+      "ipa": "/ˌædvərˈtaɪzmənt/",
+      "eng_def": "a notice that tells people about a product or event",
+      "example": "I saw an advertisement for a car."
+    },
+    {
+      "word": "consistent",
+      "def": "一致的；持续的",
+      "ipa": "/kənˈsɪstənt/",
+      "eng_def": "always acting the same way",
+      "example": "He is consistent in his work."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词的意思是“巨大的”？",
+      "question_en": "Which word means 'very large'?",
+      "options": [
+        "A. massive",
+        "B. sudden",
+        "C. upper",
+        "D. sufficient"
+      ],
+      "answer": 0,
+      "word": "massive"
+    },
+    {
+      "question_cn": "“安装”用英语怎么说？",
+      "question_en": "How do you say 'to put equipment in place' in English?",
+      "options": [
+        "A. calculate",
+        "B. install",
+        "C. preserve",
+        "D. occupy"
+      ],
+      "answer": 1,
+      "word": "install"
+    },
+    {
+      "question_cn": "哪个词的意思是“记者”？",
+      "question_en": "Which word means 'a person who writes news'?",
+      "options": [
+        "A. reporter",
+        "B. journalist",
+        "C. teacher",
+        "D. manager"
+      ],
+      "answer": 1,
+      "word": "journalist"
+    },
+    {
+      "question_cn": "“足够的”用英语怎么说？",
+      "question_en": "How do you say 'as much as needed' in English?",
+      "options": [
+        "A. consistent",
+        "B. sudden",
+        "C. sufficient",
+        "D. massive"
+      ],
+      "answer": 2,
+      "word": "sufficient"
+    },
+    {
+      "question_cn": "哪个词的意思是“保存”？",
+      "question_en": "Which word means 'to keep safe'?",
+      "options": [
+        "A. split",
+        "B. swing",
+        "C. outline",
+        "D. preserve"
+      ],
+      "answer": 3,
+      "word": "preserve"
+    }
+  ],
+  "image_prompts": [
+    "A journalist writing a report at a desk, with a large sign saying 'MASSIVE CHANGE' on the wall.",
+    "A technician installing a new computer system in an office, with boxes labeled 'NEW SYSTEM'.",
+    "A reporter pointing at a calendar with 'CONSISTENT UPDATE' written on it, software boxes nearby.",
+    "An upper manager using a calculator to count money, with a blueprint labeled 'CREATION'.",
+    "A new computer system on a small desk, with old files preserved in a cabinet next to it.",
+    "A team member lying sick on a couch, with a broken clock showing a split in the schedule.",
+    "An office worker holding a lucky charm, with a project chart showing 'FINISHED ON TIME'.",
+    "A person swinging a computer mouse and keyboard into place on a desk.",
+    "A mathematics teacher drawing a plan on a whiteboard with an outline of a system.",
+    "An advertisement poster showing a beautiful shirt with a company logo, in a modern office."
+  ],
+  "_needs_review": false,
+  "_lesson_num": 87,
+  "_new_word_count": 20
+}

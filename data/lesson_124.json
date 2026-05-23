@@ -1,0 +1,484 @@
+{
+  "id": 124,
+  "title": "The Great Escape Adventure",
+  "article_text": "Firstly, I felt anxious about our adventure to the old castle. We found an ancient printer in a dusty room, which was a surprising attraction. The veteran guide told us not to hurry and to quietly explore every cluster of rooms. My nerve failed when I saw a fence blocking the path to the ocean. We had to exhaust all our determination to climb over it. The reflection of the moon on the water gave us a moment of peace. Altogether, the trip was a mix of confusion and wonder. It is the fiction that we read that made this place seem magical. A carpet of green moss covered the ground near the castle walls. The implementation of our plan required careful thought, but the complexity was worth it.",
+  "sentences": [
+    {
+      "en": "Firstly, I felt anxious about our adventure to the old castle.",
+      "zh": "首先，我对去旧城堡的冒险感到焦虑。",
+      "words": [
+        {
+          "word": "firstly",
+          "def": "首先",
+          "ipa": "/ˈfɜːrstli/",
+          "eng_def": "before anything else"
+        },
+        {
+          "word": "anxious",
+          "def": "焦虑的",
+          "ipa": "/ˈæŋkʃəs/",
+          "eng_def": "worried or nervous"
+        },
+        {
+          "word": "adventure",
+          "def": "冒险",
+          "ipa": "/ədˈventʃər/",
+          "eng_def": "an exciting experience"
+        },
+        {
+          "word": "castle",
+          "def": "城堡",
+          "ipa": "/ˈkæsəl/",
+          "eng_def": "a large strong building from the past"
+        },
+        {
+          "word": "felt",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "We found an ancient printer in a dusty room, which was a surprising attraction.",
+      "zh": "我们在一个布满灰尘的房间里发现了一台古老的打印机，这是一个令人惊讶的景点。",
+      "words": [
+        {
+          "word": "printer",
+          "def": "打印机",
+          "ipa": "/ˈprɪntər/",
+          "eng_def": "a machine that prints words or pictures on paper"
+        },
+        {
+          "word": "surprising",
+          "def": "令人惊讶的",
+          "ipa": "/sərˈpraɪzɪŋ/",
+          "eng_def": "causing surprise"
+        },
+        {
+          "word": "attraction",
+          "def": "吸引人的事物",
+          "ipa": "/əˈtrækʃən/",
+          "eng_def": "something interesting or pleasing that people want to see"
+        },
+        {
+          "word": "found",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "dusty",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The veteran guide told us not to hurry and to quietly explore every cluster of rooms.",
+      "zh": "老练的导游告诉我们不要着急，要安静地探索每一组房间。",
+      "words": [
+        {
+          "word": "veteran",
+          "def": "经验丰富的",
+          "ipa": "/ˈvetərən/",
+          "eng_def": "having a lot of experience"
+        },
+        {
+          "word": "hurry",
+          "def": "匆忙",
+          "ipa": "/ˈhɜːri/",
+          "eng_def": "to move or act quickly"
+        },
+        {
+          "word": "quietly",
+          "def": "安静地",
+          "ipa": "/ˈkwaɪətli/",
+          "eng_def": "in a way that makes little noise"
+        },
+        {
+          "word": "cluster",
+          "def": "群；组",
+          "ipa": "/ˈklʌstər/",
+          "eng_def": "a group of similar things close together"
+        },
+        {
+          "word": "told",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "My nerve failed when I saw a fence blocking the path to the ocean.",
+      "zh": "当我看到一道栅栏挡住了通往海洋的路时，我失去了勇气。",
+      "words": [
+        {
+          "word": "nerve",
+          "def": "勇气",
+          "ipa": "/nɜːrv/",
+          "eng_def": "the ability to stay calm and brave"
+        },
+        {
+          "word": "fence",
+          "def": "栅栏",
+          "ipa": "/fens/",
+          "eng_def": "a structure that divides or protects an area"
+        },
+        {
+          "word": "ocean",
+          "def": "海洋",
+          "ipa": "/ˈoʊʃən/",
+          "eng_def": "the large area of salt water that covers most of the earth"
+        },
+        {
+          "word": "saw",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "We had to exhaust all our determination to climb over it.",
+      "zh": "我们不得不耗尽所有的决心才能爬过去。",
+      "words": [
+        {
+          "word": "exhaust",
+          "def": "耗尽",
+          "ipa": "/ɪɡˈzɔːst/",
+          "eng_def": "to use all of something"
+        },
+        {
+          "word": "determination",
+          "def": "决心",
+          "ipa": "/dɪˌtɜːrmɪˈneɪʃən/",
+          "eng_def": "the quality of trying very hard to do something"
+        }
+      ]
+    },
+    {
+      "en": "The reflection of the moon on the water gave us a moment of peace.",
+      "zh": "月亮在水面上的倒影给了我们片刻的宁静。",
+      "words": [
+        {
+          "word": "reflection",
+          "def": "倒影",
+          "ipa": "/rɪˈflekʃən/",
+          "eng_def": "an image seen in a mirror or on a surface"
+        },
+        {
+          "word": "gave",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Altogether, the trip was a mix of confusion and wonder.",
+      "zh": "总的来说，这次旅行混合了困惑和惊奇。",
+      "words": [
+        {
+          "word": "altogether",
+          "def": "总共；总的来说",
+          "ipa": "/ˌɔːltəˈɡeðər/",
+          "eng_def": "considering everything"
+        },
+        {
+          "word": "confusion",
+          "def": "困惑",
+          "ipa": "/kənˈfjuːʒən/",
+          "eng_def": "a state of not understanding something"
+        }
+      ]
+    },
+    {
+      "en": "It is the fiction that we read that made this place seem magical.",
+      "zh": "正是我们读过的那些虚构故事让这个地方显得神奇。",
+      "words": [
+        {
+          "word": "fiction",
+          "def": "虚构作品",
+          "ipa": "/ˈfɪkʃən/",
+          "eng_def": "stories that are not true or real"
+        },
+        {
+          "word": "made",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "magical",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "A carpet of green moss covered the ground near the castle walls.",
+      "zh": "一层绿色的苔藓像地毯一样覆盖了城堡墙壁附近的地面。",
+      "words": [
+        {
+          "word": "carpet",
+          "def": "地毯",
+          "ipa": "/ˈkɑːrpɪt/",
+          "eng_def": "a thick floor covering"
+        },
+        {
+          "word": "moss",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The implementation of our plan required careful thought, but the complexity was worth it.",
+      "zh": "我们计划的实施需要仔细思考，但这种复杂性是值得的。",
+      "words": [
+        {
+          "word": "implementation",
+          "def": "实施",
+          "ipa": "/ˌɪmplɪmenˈteɪʃən/",
+          "eng_def": "the act of putting a plan into action"
+        },
+        {
+          "word": "complexity",
+          "def": "复杂性",
+          "ipa": "/kəmˈpleksəti/",
+          "eng_def": "the state of being complicated"
+        },
+        {
+          "word": "thought",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "printer",
+      "def": "打印机",
+      "ipa": "/ˈprɪntər/",
+      "eng_def": "a machine that prints words or pictures on paper",
+      "example": "I used the printer to print my homework."
+    },
+    {
+      "word": "firstly",
+      "def": "首先",
+      "ipa": "/ˈfɜːrstli/",
+      "eng_def": "before anything else",
+      "example": "Firstly, we need to buy food."
+    },
+    {
+      "word": "anxious",
+      "def": "焦虑的",
+      "ipa": "/ˈæŋkʃəs/",
+      "eng_def": "worried or nervous",
+      "example": "She felt anxious before the test."
+    },
+    {
+      "word": "adventure",
+      "def": "冒险",
+      "ipa": "/ədˈventʃər/",
+      "eng_def": "an exciting experience",
+      "example": "We had a great adventure in the forest."
+    },
+    {
+      "word": "fence",
+      "def": "栅栏",
+      "ipa": "/fens/",
+      "eng_def": "a structure that divides or protects an area",
+      "example": "The horse jumped over the fence."
+    },
+    {
+      "word": "exhaust",
+      "def": "耗尽",
+      "ipa": "/ɪɡˈzɔːst/",
+      "eng_def": "to use all of something",
+      "example": "Don't exhaust all the water."
+    },
+    {
+      "word": "attraction",
+      "def": "吸引人的事物",
+      "ipa": "/əˈtrækʃən/",
+      "eng_def": "something interesting or pleasing that people want to see",
+      "example": "The park is a big attraction for children."
+    },
+    {
+      "word": "ocean",
+      "def": "海洋",
+      "ipa": "/ˈoʊʃən/",
+      "eng_def": "the large area of salt water that covers most of the earth",
+      "example": "The ocean is very deep."
+    },
+    {
+      "word": "quietly",
+      "def": "安静地",
+      "ipa": "/ˈkwaɪətli/",
+      "eng_def": "in a way that makes little noise",
+      "example": "Please walk quietly in the library."
+    },
+    {
+      "word": "castle",
+      "def": "城堡",
+      "ipa": "/ˈkæsəl/",
+      "eng_def": "a large strong building from the past",
+      "example": "The king lived in a big castle."
+    },
+    {
+      "word": "veteran",
+      "def": "经验丰富的",
+      "ipa": "/ˈvetərən/",
+      "eng_def": "having a lot of experience",
+      "example": "The veteran teacher helped the new students."
+    },
+    {
+      "word": "reflection",
+      "def": "倒影",
+      "ipa": "/rɪˈflekʃən/",
+      "eng_def": "an image seen in a mirror or on a surface",
+      "example": "I saw my reflection in the water."
+    },
+    {
+      "word": "nerve",
+      "def": "勇气",
+      "ipa": "/nɜːrv/",
+      "eng_def": "the ability to stay calm and brave",
+      "example": "He had the nerve to speak in front of everyone."
+    },
+    {
+      "word": "determination",
+      "def": "决心",
+      "ipa": "/dɪˌtɜːrmɪˈneɪʃən/",
+      "eng_def": "the quality of trying very hard to do something",
+      "example": "Her determination helped her win the race."
+    },
+    {
+      "word": "altogether",
+      "def": "总共；总的来说",
+      "ipa": "/ˌɔːltəˈɡeðər/",
+      "eng_def": "considering everything",
+      "example": "Altogether, we had a good time."
+    },
+    {
+      "word": "fiction",
+      "def": "虚构作品",
+      "ipa": "/ˈfɪkʃən/",
+      "eng_def": "stories that are not true or real",
+      "example": "I like reading science fiction."
+    },
+    {
+      "word": "carpet",
+      "def": "地毯",
+      "ipa": "/ˈkɑːrpɪt/",
+      "eng_def": "a thick floor covering",
+      "example": "The carpet is soft and warm."
+    },
+    {
+      "word": "cluster",
+      "def": "群；组",
+      "ipa": "/ˈklʌstər/",
+      "eng_def": "a group of similar things close together",
+      "example": "A cluster of stars shone in the sky."
+    },
+    {
+      "word": "confusion",
+      "def": "困惑",
+      "ipa": "/kənˈfjuːʒən/",
+      "eng_def": "a state of not understanding something",
+      "example": "There was confusion about the time of the meeting."
+    },
+    {
+      "word": "hurry",
+      "def": "匆忙",
+      "ipa": "/ˈhɜːri/",
+      "eng_def": "to move or act quickly",
+      "example": "We must hurry or we will be late."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "以下哪个词的意思是'焦虑的'？",
+      "question_en": "Which word means 'worried or nervous'?",
+      "options": [
+        "A. anxious",
+        "B. adventure",
+        "C. attraction",
+        "D. altogether"
+      ],
+      "answer": 0,
+      "word": "anxious"
+    },
+    {
+      "question_cn": "'fence'的中文翻译是什么？",
+      "question_en": "What is the Chinese translation of 'fence'?",
+      "options": [
+        "A. 地毯",
+        "B. 栅栏",
+        "C. 城堡",
+        "D. 海洋"
+      ],
+      "answer": 1,
+      "word": "fence"
+    },
+    {
+      "question_cn": "哪个词描述'用尽所有东西'？",
+      "question_en": "Which word describes 'to use all of something'?",
+      "options": [
+        "A. exhaust",
+        "B. extract",
+        "C. implementation",
+        "D. liability"
+      ],
+      "answer": 0,
+      "word": "exhaust"
+    },
+    {
+      "question_cn": "'quietly'的反义词是以下哪个？",
+      "question_en": "Which is the opposite of 'quietly'?",
+      "options": [
+        "A. loudly",
+        "B. quickly",
+        "C. slowly",
+        "D. happily"
+      ],
+      "answer": 0,
+      "word": "quietly"
+    },
+    {
+      "question_cn": "哪个词的意思是'一群相似的东西'？",
+      "question_en": "Which word means 'a group of similar things'?",
+      "options": [
+        "A. cluster",
+        "B. carpet",
+        "C. confusion",
+        "D. castle"
+      ],
+      "answer": 0,
+      "word": "cluster"
+    }
+  ],
+  "image_prompts": [
+    "An old castle on a hill, with a person standing in front looking nervous.",
+    "A dusty room inside the castle with an ancient printer on a wooden table.",
+    "An experienced guide pointing to a cluster of rooms, with two people listening quietly.",
+    "A wooden fence blocking a path that leads to the ocean, with a person looking scared.",
+    "Two people climbing over a fence with determined expressions.",
+    "A calm ocean at night with the moon's reflection on the water.",
+    "A confused person standing in a strange place with many paths.",
+    "A person holding a book of fiction, with a magical castle in the background.",
+    "Green moss covering the ground like a carpet near castle walls.",
+    "Two people studying a map with thoughtful expressions, planning their next step."
+  ],
+  "_needs_review": false,
+  "_lesson_num": 124,
+  "_new_word_count": 20
+}

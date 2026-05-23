@@ -1,0 +1,466 @@
+{
+  "id": 24,
+  "title": "A Manager's Evening at the Plant",
+  "article_text": "I am a manager at an international company. Our plant can contain many workers. I notice the nature of each section. I wonder about the structure of the region. I paint the wall myself. The official press can influence the growth of the plant. Whatever is necessary for the evening, we can do. We can miss a recent financial report. The manager can relate to every worker. Let's press the button exactly at the same time.",
+  "sentences": [
+    {
+      "en": "I am a manager at an international company.",
+      "zh": "我是一家国际公司的经理。",
+      "words": [
+        {
+          "word": "manager",
+          "def": "经理",
+          "ipa": "/ˈmænɪdʒər/",
+          "eng_def": "a person who controls a business or group of people"
+        },
+        {
+          "word": "international",
+          "def": "国际的",
+          "ipa": "/ˌɪntərˈnæʃənəl/",
+          "eng_def": "between or involving different countries"
+        }
+      ]
+    },
+    {
+      "en": "Our plant can contain many workers.",
+      "zh": "我们的工厂可以容纳很多工人。",
+      "words": [
+        {
+          "word": "plant",
+          "def": "工厂",
+          "ipa": "/plænt/",
+          "eng_def": "a factory or building where goods are made"
+        },
+        {
+          "word": "contain",
+          "def": "容纳",
+          "ipa": "/kənˈteɪn/",
+          "eng_def": "to have something inside or include something"
+        },
+        {
+          "word": "worker",
+          "def": "工人",
+          "ipa": "/ˈwɜːrkər/",
+          "eng_def": "a person who works"
+        },
+        {
+          "word": "workers",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I notice the nature of each section.",
+      "zh": "我注意到每个部分的特点。",
+      "words": [
+        {
+          "word": "notice",
+          "def": "注意到",
+          "ipa": "/ˈnoʊtɪs/",
+          "eng_def": "to see or become aware of something"
+        },
+        {
+          "word": "nature",
+          "def": "特点；自然",
+          "ipa": "/ˈneɪtʃər/",
+          "eng_def": "the character or quality of something; the physical world"
+        },
+        {
+          "word": "section",
+          "def": "部分",
+          "ipa": "/ˈsekʃən/",
+          "eng_def": "a part of something"
+        }
+      ]
+    },
+    {
+      "en": "I wonder about the structure of the region.",
+      "zh": "我好奇这个地区的结构。",
+      "words": [
+        {
+          "word": "wonder",
+          "def": "好奇",
+          "ipa": "/ˈwʌndər/",
+          "eng_def": "to want to know something or think about it"
+        },
+        {
+          "word": "structure",
+          "def": "结构",
+          "ipa": "/ˈstrʌktʃər/",
+          "eng_def": "the way parts are put together"
+        },
+        {
+          "word": "region",
+          "def": "地区",
+          "ipa": "/ˈriːdʒən/",
+          "eng_def": "a large area of a country or the world"
+        }
+      ]
+    },
+    {
+      "en": "I paint the wall myself.",
+      "zh": "我自己粉刷墙壁。",
+      "words": [
+        {
+          "word": "paint",
+          "def": "粉刷；油漆",
+          "ipa": "/peɪnt/",
+          "eng_def": "to cover a surface with color"
+        },
+        {
+          "word": "myself",
+          "def": "我自己",
+          "ipa": "/maɪˈself/",
+          "eng_def": "the same person as the speaker"
+        },
+        {
+          "word": "wall",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The official press can influence the growth of the plant.",
+      "zh": "官方媒体可以影响工厂的发展。",
+      "words": [
+        {
+          "word": "official",
+          "def": "官方的",
+          "ipa": "/əˈfɪʃəl/",
+          "eng_def": "relating to a position of authority or an organization"
+        },
+        {
+          "word": "press",
+          "def": "媒体；按压",
+          "ipa": "/pres/",
+          "eng_def": "newspapers and news organizations; to push something"
+        },
+        {
+          "word": "influence",
+          "def": "影响",
+          "ipa": "/ˈɪnfluəns/",
+          "eng_def": "the power to change or affect something"
+        },
+        {
+          "word": "growth",
+          "def": "发展；增长",
+          "ipa": "/ɡroʊθ/",
+          "eng_def": "the process of increasing in size or importance"
+        }
+      ]
+    },
+    {
+      "en": "Whatever is necessary for the evening, we can do.",
+      "zh": "晚上需要什么，我们都可以做。",
+      "words": [
+        {
+          "word": "whatever",
+          "def": "无论什么",
+          "ipa": "/wɒtˈevər/",
+          "eng_def": "any or all things that"
+        },
+        {
+          "word": "necessary",
+          "def": "必要的",
+          "ipa": "/ˈnesəseri/",
+          "eng_def": "needed; required"
+        },
+        {
+          "word": "evening",
+          "def": "晚上",
+          "ipa": "/ˈiːvnɪŋ/",
+          "eng_def": "the time of day between afternoon and night"
+        }
+      ]
+    },
+    {
+      "en": "We can miss a recent financial report.",
+      "zh": "我们可能会错过一份最近的财务报告。",
+      "words": [
+        {
+          "word": "miss",
+          "def": "错过",
+          "ipa": "/mɪs/",
+          "eng_def": "to fail to be present for something"
+        },
+        {
+          "word": "recent",
+          "def": "最近的",
+          "ipa": "/ˈriːsənt/",
+          "eng_def": "happening a short time ago"
+        },
+        {
+          "word": "financial",
+          "def": "财务的",
+          "ipa": "/faɪˈnænʃəl/",
+          "eng_def": "relating to money"
+        }
+      ]
+    },
+    {
+      "en": "The manager can relate to every worker.",
+      "zh": "经理能理解每一位工人。",
+      "words": [
+        {
+          "word": "relate",
+          "def": "理解；关联",
+          "ipa": "/rɪˈleɪt/",
+          "eng_def": "to understand or have a connection with someone or something"
+        }
+      ]
+    },
+    {
+      "en": "Let's press the button exactly at the same time.",
+      "zh": "让我们在同一时间准确地按下按钮。",
+      "words": [
+        {
+          "word": "press",
+          "def": "按压",
+          "ipa": "/pres/",
+          "eng_def": "to push something"
+        },
+        {
+          "word": "exactly",
+          "def": "准确地",
+          "ipa": "/ɪɡˈzæktli/",
+          "eng_def": "in a precise or correct way"
+        },
+        {
+          "word": "let's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "button",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "manager",
+      "def": "经理",
+      "ipa": "/ˈmænɪdʒər/",
+      "eng_def": "a person who controls a business or group of people",
+      "example": "I am a manager at an international company."
+    },
+    {
+      "word": "international",
+      "def": "国际的",
+      "ipa": "/ˌɪntərˈnæʃənəl/",
+      "eng_def": "between or involving different countries",
+      "example": "I am a manager at an international company."
+    },
+    {
+      "word": "contain",
+      "def": "容纳",
+      "ipa": "/kənˈteɪn/",
+      "eng_def": "to have something inside or include something",
+      "example": "Our plant can contain many workers."
+    },
+    {
+      "word": "notice",
+      "def": "注意到",
+      "ipa": "/ˈnoʊtɪs/",
+      "eng_def": "to see or become aware of something",
+      "example": "I notice the nature of each section."
+    },
+    {
+      "word": "wonder",
+      "def": "好奇",
+      "ipa": "/ˈwʌndər/",
+      "eng_def": "to want to know something or think about it",
+      "example": "I wonder about the structure of the region."
+    },
+    {
+      "word": "nature",
+      "def": "特点；自然",
+      "ipa": "/ˈneɪtʃər/",
+      "eng_def": "the character or quality of something; the physical world",
+      "example": "I notice the nature of each section."
+    },
+    {
+      "word": "structure",
+      "def": "结构",
+      "ipa": "/ˈstrʌktʃər/",
+      "eng_def": "the way parts are put together",
+      "example": "I wonder about the structure of the region."
+    },
+    {
+      "word": "section",
+      "def": "部分",
+      "ipa": "/ˈsekʃən/",
+      "eng_def": "a part of something",
+      "example": "I notice the nature of each section."
+    },
+    {
+      "word": "myself",
+      "def": "我自己",
+      "ipa": "/maɪˈself/",
+      "eng_def": "the same person as the speaker",
+      "example": "I paint the wall myself."
+    },
+    {
+      "word": "exactly",
+      "def": "准确地",
+      "ipa": "/ɪɡˈzæktli/",
+      "eng_def": "in a precise or correct way",
+      "example": "Let's press the button exactly at the same time."
+    },
+    {
+      "word": "plant",
+      "def": "工厂",
+      "ipa": "/plænt/",
+      "eng_def": "a factory or building where goods are made",
+      "example": "Our plant can contain many workers."
+    },
+    {
+      "word": "paint",
+      "def": "粉刷；油漆",
+      "ipa": "/peɪnt/",
+      "eng_def": "to cover a surface with color",
+      "example": "I paint the wall myself."
+    },
+    {
+      "word": "worker",
+      "def": "工人",
+      "ipa": "/ˈwɜːrkər/",
+      "eng_def": "a person who works",
+      "example": "Our plant can contain many workers."
+    },
+    {
+      "word": "press",
+      "def": "媒体；按压",
+      "ipa": "/pres/",
+      "eng_def": "newspapers and news organizations; to push something",
+      "example": "The official press can influence the growth of the plant."
+    },
+    {
+      "word": "whatever",
+      "def": "无论什么",
+      "ipa": "/wɒtˈevər/",
+      "eng_def": "any or all things that",
+      "example": "Whatever is necessary for the evening, we can do."
+    },
+    {
+      "word": "necessary",
+      "def": "必要的",
+      "ipa": "/ˈnesəseri/",
+      "eng_def": "needed; required",
+      "example": "Whatever is necessary for the evening, we can do."
+    },
+    {
+      "word": "region",
+      "def": "地区",
+      "ipa": "/ˈriːdʒən/",
+      "eng_def": "a large area of a country or the world",
+      "example": "I wonder about the structure of the region."
+    },
+    {
+      "word": "growth",
+      "def": "发展；增长",
+      "ipa": "/ɡroʊθ/",
+      "eng_def": "the process of increasing in size or importance",
+      "example": "The official press can influence the growth of the plant."
+    },
+    {
+      "word": "evening",
+      "def": "晚上",
+      "ipa": "/ˈiːvnɪŋ/",
+      "eng_def": "the time of day between afternoon and night",
+      "example": "Whatever is necessary for the evening, we can do."
+    },
+    {
+      "word": "influence",
+      "def": "影响",
+      "ipa": "/ˈɪnfluəns/",
+      "eng_def": "the power to change or affect something",
+      "example": "The official press can influence the growth of the plant."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "“经理”用英语怎么说？",
+      "question_en": "How do you say '经理' in English?",
+      "options": [
+        "A. manager",
+        "B. worker",
+        "C. official",
+        "D. press"
+      ],
+      "answer": 0,
+      "word": "manager"
+    },
+    {
+      "question_cn": "哪个词意思是“容纳”？",
+      "question_en": "Which word means 'to have something inside'?",
+      "options": [
+        "A. notice",
+        "B. contain",
+        "C. wonder",
+        "D. paint"
+      ],
+      "answer": 1,
+      "word": "contain"
+    },
+    {
+      "question_cn": "“结构”对应的英语单词是？",
+      "question_en": "What is the English word for '结构'?",
+      "options": [
+        "A. section",
+        "B. nature",
+        "C. structure",
+        "D. region"
+      ],
+      "answer": 2,
+      "word": "structure"
+    },
+    {
+      "question_cn": "哪个词意思是“影响”？",
+      "question_en": "Which word means 'the power to change something'?",
+      "options": [
+        "A. growth",
+        "B. influence",
+        "C. press",
+        "D. whatever"
+      ],
+      "answer": 1,
+      "word": "influence"
+    },
+    {
+      "question_cn": "“准确的”用英语怎么说？",
+      "question_en": "How do you say '准确的' in English?",
+      "options": [
+        "A. exactly",
+        "B. necessary",
+        "C. myself",
+        "D. recent"
+      ],
+      "answer": 0,
+      "word": "exactly"
+    }
+  ],
+  "image_prompts": [
+    "A manager standing in front of a large international company building, looking professional.",
+    "A busy plant with many workers inside, machines and products around.",
+    "A person looking at different sections of a factory, noticing their features.",
+    "A person thinking about the structure of a region, with a map on the wall.",
+    "A person painting a wall with a brush, alone in a room.",
+    "A newspaper and a TV showing news about a plant's growth, with a manager watching.",
+    "A group of people preparing for an evening event, with a checklist of necessary items.",
+    "A person missing a financial report on a desk, looking worried.",
+    "A manager talking to a worker, both smiling and understanding each other.",
+    "Two hands pressing a button together at the same time, with a clock showing exact time."
+  ],
+  "_needs_review": false,
+  "_lesson_num": 24,
+  "_new_word_count": 20
+}

@@ -1,0 +1,472 @@
+{
+  "id": 2,
+  "title": "A Young Team’s Plan",
+  "article_text": "We have a new young team. Their first job is to build a small service area. They hold a meeting to make a plan. For example, they want to increase the service for local people. The result of their work is a big success. However, one fact is against their idea at first. They believe in their plan though. Yes, they love their work. The close team offers a second program. This happens away from the city area.",
+  "sentences": [
+    {
+      "en": "We have a new young team.",
+      "zh": "我们有一个新的年轻团队。",
+      "words": [
+        {
+          "word": "young",
+          "def": "年轻的",
+          "ipa": "/jʌŋ/",
+          "eng_def": "not old; in an early stage of life"
+        },
+        {
+          "word": "team",
+          "def": "团队",
+          "ipa": "/tiːm/",
+          "eng_def": "a group of people who work together"
+        }
+      ]
+    },
+    {
+      "en": "Their first job is to build a small service area.",
+      "zh": "他们的第一份工作是建造一个小型服务区。",
+      "words": [
+        {
+          "word": "job",
+          "def": "工作",
+          "ipa": "/dʒɒb/",
+          "eng_def": "work that a person does to earn money"
+        },
+        {
+          "word": "build",
+          "def": "建造",
+          "ipa": "/bɪld/",
+          "eng_def": "to make something by putting parts together"
+        },
+        {
+          "word": "service",
+          "def": "服务",
+          "ipa": "/ˈsɜːrvɪs/",
+          "eng_def": "work done for others; help provided"
+        }
+      ]
+    },
+    {
+      "en": "They hold a meeting to make a plan.",
+      "zh": "他们举行会议来制定一个计划。",
+      "words": [
+        {
+          "word": "hold",
+          "def": "举行；握住",
+          "ipa": "/hoʊld/",
+          "eng_def": "to have or organize something like a meeting"
+        },
+        {
+          "word": "plan",
+          "def": "计划",
+          "ipa": "/plæn/",
+          "eng_def": "an idea or method for doing something in the future"
+        }
+      ]
+    },
+    {
+      "en": "For example, they want to increase the service for local people.",
+      "zh": "例如，他们想为当地居民增加服务。",
+      "words": [
+        {
+          "word": "example",
+          "def": "例子",
+          "ipa": "/ɪɡˈzæmpəl/",
+          "eng_def": "a thing that shows what something is like"
+        },
+        {
+          "word": "increase",
+          "def": "增加",
+          "ipa": "/ɪnˈkriːs/",
+          "eng_def": "to make something larger in amount or size"
+        },
+        {
+          "word": "local",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The result of their work is a big success.",
+      "zh": "他们工作的结果是一个巨大的成功。",
+      "words": [
+        {
+          "word": "result",
+          "def": "结果",
+          "ipa": "/rɪˈzʌlt/",
+          "eng_def": "what happens because of something else"
+        },
+        {
+          "word": "success",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "However, one fact is against their idea at first.",
+      "zh": "然而，有一个事实起初反对他们的想法。",
+      "words": [
+        {
+          "word": "however",
+          "def": "然而",
+          "ipa": "/haʊˈevər/",
+          "eng_def": "used to introduce a different or opposite idea"
+        },
+        {
+          "word": "fact",
+          "def": "事实",
+          "ipa": "/fækt/",
+          "eng_def": "something that is true or real"
+        },
+        {
+          "word": "against",
+          "def": "反对；违背",
+          "ipa": "/əˈɡenst/",
+          "eng_def": "in opposition to something"
+        },
+        {
+          "word": "idea",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "They believe in their plan though.",
+      "zh": "尽管如此，他们相信自己的计划。",
+      "words": [
+        {
+          "word": "believe",
+          "def": "相信",
+          "ipa": "/bɪˈliːv/",
+          "eng_def": "to think that something is true or right"
+        },
+        {
+          "word": "though",
+          "def": "尽管；不过",
+          "ipa": "/ðoʊ/",
+          "eng_def": "used to add a fact that is surprising or different"
+        }
+      ]
+    },
+    {
+      "en": "Yes, they love their work.",
+      "zh": "是的，他们热爱他们的工作。",
+      "words": [
+        {
+          "word": "yes",
+          "def": "是的",
+          "ipa": "/jes/",
+          "eng_def": "a word used to show agreement or a positive answer"
+        },
+        {
+          "word": "love",
+          "def": "热爱；爱",
+          "ipa": "/lʌv/",
+          "eng_def": "to like something very much; to have strong feelings for"
+        }
+      ]
+    },
+    {
+      "en": "The close team offers a second program.",
+      "zh": "这个亲密的团队提供了第二个项目。",
+      "words": [
+        {
+          "word": "close",
+          "def": "亲密的；近的",
+          "ipa": "/kloʊs/",
+          "eng_def": "near in distance or relationship"
+        },
+        {
+          "word": "offer",
+          "def": "提供",
+          "ipa": "/ˈɒfər/",
+          "eng_def": "to say that you will give or do something"
+        },
+        {
+          "word": "second",
+          "def": "第二",
+          "ipa": "/ˈsekənd/",
+          "eng_def": "coming after the first in order or time"
+        },
+        {
+          "word": "program",
+          "def": "项目；程序",
+          "ipa": "/ˈproʊɡræm/",
+          "eng_def": "a plan or set of activities"
+        },
+        {
+          "word": "team",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "offers",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "This happens away from the city area.",
+      "zh": "这发生在远离城市区域的地方。",
+      "words": [
+        {
+          "word": "happen",
+          "def": "发生",
+          "ipa": "/ˈhæpən/",
+          "eng_def": "to take place or occur"
+        },
+        {
+          "word": "away",
+          "def": "远离",
+          "ipa": "/əˈweɪ/",
+          "eng_def": "at or to a distance from something"
+        },
+        {
+          "word": "area",
+          "def": "区域",
+          "ipa": "/ˈeriə/",
+          "eng_def": "a part of a place or space"
+        },
+        {
+          "word": "happens",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "city",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "build",
+      "def": "建造",
+      "ipa": "/bɪld/",
+      "eng_def": "to make something by putting parts together",
+      "example": "They build a house."
+    },
+    {
+      "word": "hold",
+      "def": "举行；握住",
+      "ipa": "/hoʊld/",
+      "eng_def": "to have or organize something like a meeting",
+      "example": "We hold a party."
+    },
+    {
+      "word": "service",
+      "def": "服务",
+      "ipa": "/ˈsɜːrvɪs/",
+      "eng_def": "work done for others; help provided",
+      "example": "This shop gives good service."
+    },
+    {
+      "word": "against",
+      "def": "反对；违背",
+      "ipa": "/əˈɡenst/",
+      "eng_def": "in opposition to something",
+      "example": "He is against the plan."
+    },
+    {
+      "word": "believe",
+      "def": "相信",
+      "ipa": "/bɪˈliːv/",
+      "eng_def": "to think that something is true or right",
+      "example": "I believe you."
+    },
+    {
+      "word": "second",
+      "def": "第二",
+      "ipa": "/ˈsekənd/",
+      "eng_def": "coming after the first in order or time",
+      "example": "She is the second child."
+    },
+    {
+      "word": "though",
+      "def": "尽管；不过",
+      "ipa": "/ðoʊ/",
+      "eng_def": "used to add a fact that is surprising or different",
+      "example": "It is hard, though we try."
+    },
+    {
+      "word": "yes",
+      "def": "是的",
+      "ipa": "/jes/",
+      "eng_def": "a word used to show agreement or a positive answer",
+      "example": "Yes, I like it."
+    },
+    {
+      "word": "love",
+      "def": "热爱；爱",
+      "ipa": "/lʌv/",
+      "eng_def": "to like something very much; to have strong feelings for",
+      "example": "They love their dog."
+    },
+    {
+      "word": "increase",
+      "def": "增加",
+      "ipa": "/ɪnˈkriːs/",
+      "eng_def": "to make something larger in amount or size",
+      "example": "We increase the price."
+    },
+    {
+      "word": "job",
+      "def": "工作",
+      "ipa": "/dʒɒb/",
+      "eng_def": "work that a person does to earn money",
+      "example": "He has a good job."
+    },
+    {
+      "word": "plan",
+      "def": "计划",
+      "ipa": "/plæn/",
+      "eng_def": "an idea or method for doing something in the future",
+      "example": "We have a plan for today."
+    },
+    {
+      "word": "result",
+      "def": "结果",
+      "ipa": "/rɪˈzʌlt/",
+      "eng_def": "what happens because of something else",
+      "example": "The result is good."
+    },
+    {
+      "word": "away",
+      "def": "远离",
+      "ipa": "/əˈweɪ/",
+      "eng_def": "at or to a distance from something",
+      "example": "Go away from here."
+    },
+    {
+      "word": "example",
+      "def": "例子",
+      "ipa": "/ɪɡˈzæmpəl/",
+      "eng_def": "a thing that shows what something is like",
+      "example": "This is an example."
+    },
+    {
+      "word": "happen",
+      "def": "发生",
+      "ipa": "/ˈhæpən/",
+      "eng_def": "to take place or occur",
+      "example": "It happens every day."
+    },
+    {
+      "word": "offer",
+      "def": "提供",
+      "ipa": "/ˈɒfər/",
+      "eng_def": "to say that you will give or do something",
+      "example": "They offer a job."
+    },
+    {
+      "word": "young",
+      "def": "年轻的",
+      "ipa": "/jʌŋ/",
+      "eng_def": "not old; in an early stage of life",
+      "example": "She is a young woman."
+    },
+    {
+      "word": "close",
+      "def": "亲密的；近的",
+      "ipa": "/kloʊs/",
+      "eng_def": "near in distance or relationship",
+      "example": "He is a close friend."
+    },
+    {
+      "word": "program",
+      "def": "项目；程序",
+      "ipa": "/ˈproʊɡræm/",
+      "eng_def": "a plan or set of activities",
+      "example": "We start a new program."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词的意思是'建造'？",
+      "question_en": "Which word means 'to make something by putting parts together'?",
+      "options": [
+        "A. hold",
+        "B. build",
+        "C. increase",
+        "D. offer"
+      ],
+      "answer": 1,
+      "word": "build"
+    },
+    {
+      "question_cn": "'plan'的中文意思是什么？",
+      "question_en": "What is the Chinese meaning of 'plan'?",
+      "options": [
+        "A. 工作",
+        "B. 结果",
+        "C. 计划",
+        "D. 服务"
+      ],
+      "answer": 2,
+      "word": "plan"
+    },
+    {
+      "question_cn": "哪个词表示'尽管'？",
+      "question_en": "Which word means 'used to add a fact that is surprising or different'?",
+      "options": [
+        "A. though",
+        "B. yes",
+        "C. away",
+        "D. close"
+      ],
+      "answer": 0,
+      "word": "though"
+    },
+    {
+      "question_cn": "'happen'的英文定义是什么？",
+      "question_en": "What is the English definition of 'happen'?",
+      "options": [
+        "A. to make something larger",
+        "B. to take place or occur",
+        "C. to think something is true",
+        "D. to give something"
+      ],
+      "answer": 1,
+      "word": "happen"
+    },
+    {
+      "question_cn": "哪个词的意思是'反对'？",
+      "question_en": "Which word means 'in opposition to something'?",
+      "options": [
+        "A. example",
+        "B. second",
+        "C. against",
+        "D. program"
+      ],
+      "answer": 2,
+      "word": "against"
+    }
+  ],
+  "image_prompts": [
+    "A group of young people smiling and standing together in a bright room.",
+    "A small building under construction with a sign 'Service Area'.",
+    "People sitting around a table with papers and a whiteboard showing a plan.",
+    "A chart showing an increase in service with happy local people.",
+    "A big red ribbon and a sign 'Success' with a smiling team.",
+    "A person frowning at a paper with a red cross, showing disagreement.",
+    "A team member pointing at a plan with a confident expression.",
+    "A person nodding and smiling with a heart symbol near them.",
+    "A close group of people holding hands, with a second program poster on the wall.",
+    "A quiet countryside area with a small building and trees in the distance."
+  ],
+  "_needs_review": false,
+  "_lesson_num": 2,
+  "_new_word_count": 20
+}

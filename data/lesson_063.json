@@ -1,0 +1,496 @@
+{
+  "id": 63,
+  "title": "A Town Festival and Its Challenges",
+  "article_text": "The citizens of a small town will celebrate a special occasion in the main square next week. I am familiar with the arrangement because my friend is the editor of the local newspaper. Normally, we see a beautiful gold statue there, but someone will remove it for the event. The temperature is high, so the organizers must load cold water for the troop of volunteers. A technical problem could destroy the sound system if we ignore it. The civil affair has a domestic focus, and it will generate a good sight for everyone. I have seen the skin of the old buildings, and it reminds me of the city's history. The belief that everyone should help is strong among the citizens. We must locate the prison near the square and remind visitors to stay away. The gift from the town will remind us of this happy occasion forever.",
+  "sentences": [
+    {
+      "en": "The citizens of a small town will celebrate a special occasion in the main square next week.",
+      "zh": "下星期，一个小镇的市民将在主广场庆祝一个特殊的场合。",
+      "words": [
+        {
+          "word": "citizens",
+          "def": "市民",
+          "ipa": "/ˈsɪtɪzənz/",
+          "eng_def": "people who live in a city or town"
+        },
+        {
+          "word": "occasion",
+          "def": "场合；时机",
+          "ipa": "/əˈkeɪʒən/",
+          "eng_def": "a special event or time"
+        },
+        {
+          "word": "square",
+          "def": "广场；正方形",
+          "ipa": "/skweər/",
+          "eng_def": "an open area in a town with buildings around it"
+        },
+        {
+          "word": "celebrate",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I am familiar with the arrangement because my friend is the editor of the local newspaper.",
+      "zh": "我熟悉这个安排，因为我的朋友是当地报纸的编辑。",
+      "words": [
+        {
+          "word": "familiar",
+          "def": "熟悉的",
+          "ipa": "/fəˈmɪliər/",
+          "eng_def": "known or recognized because you have seen or heard it before"
+        },
+        {
+          "word": "arrangement",
+          "def": "安排；布置",
+          "ipa": "/əˈreɪndʒmənt/",
+          "eng_def": "a plan or preparation for something"
+        },
+        {
+          "word": "editor",
+          "def": "编辑",
+          "ipa": "/ˈedɪtər/",
+          "eng_def": "a person who prepares written material for printing"
+        }
+      ]
+    },
+    {
+      "en": "Normally, we see a beautiful gold statue there, but someone will remove it for the event.",
+      "zh": "通常，我们在那里看到一座漂亮的金色雕像，但有人会为了这次活动把它移走。",
+      "words": [
+        {
+          "word": "normally",
+          "def": "通常地",
+          "ipa": "/ˈnɔːrməli/",
+          "eng_def": "in the usual or expected way"
+        },
+        {
+          "word": "gold",
+          "def": "金色的；黄金",
+          "ipa": "/ɡoʊld/",
+          "eng_def": "a valuable yellow metal or its color"
+        },
+        {
+          "word": "statue",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The temperature is high, so the organizers must load cold water for the troop of volunteers.",
+      "zh": "温度很高，所以组织者必须为志愿者队伍装载冷水。",
+      "words": [
+        {
+          "word": "temperature",
+          "def": "温度",
+          "ipa": "/ˈtemprətʃər/",
+          "eng_def": "how hot or cold something is"
+        },
+        {
+          "word": "load",
+          "def": "装载",
+          "ipa": "/loʊd/",
+          "eng_def": "to put things into a vehicle or container"
+        },
+        {
+          "word": "troop",
+          "def": "队伍；一群",
+          "ipa": "/truːp/",
+          "eng_def": "a group of people or soldiers"
+        },
+        {
+          "word": "organizers",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "volunteers",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "A technical problem could destroy the sound system if we ignore it.",
+      "zh": "如果我们忽视它，一个技术问题可能会毁掉音响系统。",
+      "words": [
+        {
+          "word": "technical",
+          "def": "技术的",
+          "ipa": "/ˈteknɪkəl/",
+          "eng_def": "relating to machines or special knowledge"
+        },
+        {
+          "word": "destroy",
+          "def": "毁坏；破坏",
+          "ipa": "/dɪˈstrɔɪ/",
+          "eng_def": "to damage something so badly that it cannot be used"
+        },
+        {
+          "word": "ignore",
+          "def": "忽视；不理",
+          "ipa": "/ɪɡˈnɔːr/",
+          "eng_def": "to not pay attention to something or someone"
+        }
+      ]
+    },
+    {
+      "en": "The civil affair has a domestic focus, and it will generate a good sight for everyone.",
+      "zh": "这个民事活动有一个国内焦点，它将为每个人产生一个好的景象。",
+      "words": [
+        {
+          "word": "civil",
+          "def": "公民的；民事的",
+          "ipa": "/ˈsɪvəl/",
+          "eng_def": "relating to the people of a country"
+        },
+        {
+          "word": "affair",
+          "def": "事务；事件",
+          "ipa": "/əˈfeər/",
+          "eng_def": "an event or matter"
+        },
+        {
+          "word": "domestic",
+          "def": "国内的；家庭的",
+          "ipa": "/dəˈmestɪk/",
+          "eng_def": "relating to a home or a country's own affairs"
+        },
+        {
+          "word": "generate",
+          "def": "产生；生成",
+          "ipa": "/ˈdʒenəreɪt/",
+          "eng_def": "to produce or create something"
+        },
+        {
+          "word": "sight",
+          "def": "景象；视力",
+          "ipa": "/saɪt/",
+          "eng_def": "something that you see"
+        }
+      ]
+    },
+    {
+      "en": "I have seen the skin of the old buildings, and it reminds me of the city's history.",
+      "zh": "我见过旧建筑的表层，它让我想起这座城市的历史。",
+      "words": [
+        {
+          "word": "skin",
+          "def": "皮肤；表层",
+          "ipa": "/skɪn/",
+          "eng_def": "the outer covering of a body or object"
+        },
+        {
+          "word": "remind",
+          "def": "提醒；使想起",
+          "ipa": "/rɪˈmaɪnd/",
+          "eng_def": "to help someone remember something"
+        },
+        {
+          "word": "seen",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "buildings",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "reminds",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "city's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The belief that everyone should help is strong among the citizens.",
+      "zh": "每个人都应该帮忙的信念在市民中很强烈。",
+      "words": [
+        {
+          "word": "belief",
+          "def": "信念；信仰",
+          "ipa": "/bɪˈliːf/",
+          "eng_def": "a feeling that something is true or right"
+        },
+        {
+          "word": "citizens",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "We must locate the prison near the square and remind visitors to stay away.",
+      "zh": "我们必须找到广场附近的监狱，并提醒游客远离。",
+      "words": [
+        {
+          "word": "locate",
+          "def": "找到；位于",
+          "ipa": "/loʊˈkeɪt/",
+          "eng_def": "to find the position of something"
+        },
+        {
+          "word": "prison",
+          "def": "监狱",
+          "ipa": "/ˈprɪzən/",
+          "eng_def": "a place where criminals are kept"
+        }
+      ]
+    },
+    {
+      "en": "The gift from the town will remind us of this happy occasion forever.",
+      "zh": "来自小镇的礼物将永远提醒我们记住这个快乐的场合。",
+      "words": [
+        {
+          "word": "gift",
+          "def": "礼物",
+          "ipa": "/ɡɪft/",
+          "eng_def": "something given to someone without payment"
+        },
+        {
+          "word": "forever",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "square",
+      "def": "广场；正方形",
+      "ipa": "/skweər/",
+      "eng_def": "an open area in a town with buildings around it",
+      "example": "We will meet in the square at noon."
+    },
+    {
+      "word": "occasion",
+      "def": "场合；时机",
+      "ipa": "/əˈkeɪʒən/",
+      "eng_def": "a special event or time",
+      "example": "This is a happy occasion for the family."
+    },
+    {
+      "word": "familiar",
+      "def": "熟悉的",
+      "ipa": "/fəˈmɪliər/",
+      "eng_def": "known or recognized because you have seen or heard it before",
+      "example": "I am familiar with this song."
+    },
+    {
+      "word": "ignore",
+      "def": "忽视；不理",
+      "ipa": "/ɪɡˈnɔːr/",
+      "eng_def": "to not pay attention to something or someone",
+      "example": "Do not ignore the warning sign."
+    },
+    {
+      "word": "destroy",
+      "def": "毁坏；破坏",
+      "ipa": "/dɪˈstrɔɪ/",
+      "eng_def": "to damage something so badly that it cannot be used",
+      "example": "The fire will destroy the house."
+    },
+    {
+      "word": "affair",
+      "def": "事务；事件",
+      "ipa": "/əˈfeər/",
+      "eng_def": "an event or matter",
+      "example": "The affair was a big success."
+    },
+    {
+      "word": "civil",
+      "def": "公民的；民事的",
+      "ipa": "/ˈsɪvəl/",
+      "eng_def": "relating to the people of a country",
+      "example": "We have civil rights in this country."
+    },
+    {
+      "word": "locate",
+      "def": "找到；位于",
+      "ipa": "/loʊˈkeɪt/",
+      "eng_def": "to find the position of something",
+      "example": "Can you locate the library on this map?"
+    },
+    {
+      "word": "citizen",
+      "def": "公民；市民",
+      "ipa": "/ˈsɪtɪzən/",
+      "eng_def": "a person who lives in a city or country",
+      "example": "Every citizen must follow the law."
+    },
+    {
+      "word": "temperature",
+      "def": "温度",
+      "ipa": "/ˈtemprətʃər/",
+      "eng_def": "how hot or cold something is",
+      "example": "The temperature today is 30 degrees."
+    },
+    {
+      "word": "gold",
+      "def": "金色的；黄金",
+      "ipa": "/ɡoʊld/",
+      "eng_def": "a valuable yellow metal or its color",
+      "example": "She wears a gold ring."
+    },
+    {
+      "word": "domestic",
+      "def": "国内的；家庭的",
+      "ipa": "/dəˈmestɪk/",
+      "eng_def": "relating to a home or a country's own affairs",
+      "example": "Domestic flights are cheaper than international ones."
+    },
+    {
+      "word": "load",
+      "def": "装载",
+      "ipa": "/loʊd/",
+      "eng_def": "to put things into a vehicle or container",
+      "example": "We need to load the boxes into the truck."
+    },
+    {
+      "word": "belief",
+      "def": "信念；信仰",
+      "ipa": "/bɪˈliːf/",
+      "eng_def": "a feeling that something is true or right",
+      "example": "My belief is that hard work pays off."
+    },
+    {
+      "word": "troop",
+      "def": "队伍；一群",
+      "ipa": "/truːp/",
+      "eng_def": "a group of people or soldiers",
+      "example": "A troop of students visited the museum."
+    },
+    {
+      "word": "technical",
+      "def": "技术的",
+      "ipa": "/ˈteknɪkəl/",
+      "eng_def": "relating to machines or special knowledge",
+      "example": "He has a technical job in the factory."
+    },
+    {
+      "word": "remind",
+      "def": "提醒；使想起",
+      "ipa": "/rɪˈmaɪnd/",
+      "eng_def": "to help someone remember something",
+      "example": "Please remind me to buy milk."
+    },
+    {
+      "word": "arrangement",
+      "def": "安排；布置",
+      "ipa": "/əˈreɪndʒmənt/",
+      "eng_def": "a plan or preparation for something",
+      "example": "The arrangement of the chairs is good."
+    },
+    {
+      "word": "skin",
+      "def": "皮肤；表层",
+      "ipa": "/skɪn/",
+      "eng_def": "the outer covering of a body or object",
+      "example": "The skin of the apple is red."
+    },
+    {
+      "word": "prison",
+      "def": "监狱",
+      "ipa": "/ˈprɪzən/",
+      "eng_def": "a place where criminals are kept",
+      "example": "He went to prison for stealing."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词的意思是“一个开放的区域，周围有建筑物”？",
+      "question_en": "Which word means 'an open area with buildings around it'?",
+      "options": [
+        "A. square",
+        "B. prison",
+        "C. troop",
+        "D. skin"
+      ],
+      "answer": 0,
+      "word": "square"
+    },
+    {
+      "question_cn": "哪个词的意思是“不关注某事或某人”？",
+      "question_en": "Which word means 'to not pay attention to something or someone'?",
+      "options": [
+        "A. remind",
+        "B. ignore",
+        "C. locate",
+        "D. destroy"
+      ],
+      "answer": 1,
+      "word": "ignore"
+    },
+    {
+      "question_cn": "哪个词的意思是“一个特殊的事件或时间”？",
+      "question_en": "Which word means 'a special event or time'?",
+      "options": [
+        "A. affair",
+        "B. belief",
+        "C. occasion",
+        "D. arrangement"
+      ],
+      "answer": 2,
+      "word": "occasion"
+    },
+    {
+      "question_cn": "哪个词的意思是“把东西放进车辆或容器里”？",
+      "question_en": "Which word means 'to put things into a vehicle or container'?",
+      "options": [
+        "A. generate",
+        "B. destroy",
+        "C. load",
+        "D. locate"
+      ],
+      "answer": 2,
+      "word": "load"
+    },
+    {
+      "question_cn": "哪个词的意思是“帮助某人记住某事”？",
+      "question_en": "Which word means 'to help someone remember something'?",
+      "options": [
+        "A. ignore",
+        "B. remind",
+        "C. destroy",
+        "D. locate"
+      ],
+      "answer": 1,
+      "word": "remind"
+    }
+  ],
+  "image_prompts": [
+    "A small town square with a statue and people preparing for a festival, bright sunny day.",
+    "A person looking at a newspaper with an editor friend, discussing plans.",
+    "A gold statue being moved by workers in a town square.",
+    "Volunteers loading bottles of water into a truck under a hot sun.",
+    "A sound system with a warning sign, a technician looking worried.",
+    "A family watching a parade in a town square with flags and decorations.",
+    "An old building with peeling paint, a person touching the wall thoughtfully.",
+    "A group of citizens holding hands in a circle, looking happy and united.",
+    "A prison building near a town square with a sign saying 'Keep Away'.",
+    "A person receiving a gift box from a town official, smiling in the square."
+  ],
+  "_needs_review": false,
+  "_lesson_num": 63,
+  "_new_word_count": 20
+}

@@ -1,0 +1,571 @@
+{
+  "id": 120,
+  "title": "A Mysterious Night at the Mountain Lodge",
+  "article_text": "Last winter, an intense inquiry was launched after a strange event at a ski resort presumably triggered a new amendment to local safety laws. The destruction of a large pipe near the lodge was a mystery that no one could solve at first. It is the chef's special cheese menu that everyone remembers because it was blessed by the owner before the storm. A guest whispered to the rear of the room that a magic guitar had been found in the piano room. The airline that flew them there later had to resign from the contract due to strict regulations. A rare species of bird was seen under the full moon, which many thought was a sign. The flag outside the lodge was torn, and the wind made a loud noise through the broken pipe. Someone must have triggered the alarm system, but no one knew how. Only then did the manager realize that the cheese had been left out, and the mystery of the smell was solved. The guitar player blessed the crowd with a final song before they all left the ski lodge forever.",
+  "sentences": [
+    {
+      "en": "Last winter, an intense inquiry was launched after a strange event at a ski resort presumably triggered a new amendment to local safety laws.",
+      "zh": "去年冬天，在一次滑雪胜地发生奇怪事件后，一项紧张的调查被启动，这大概引发了对当地安全法律的新修正案。",
+      "words": [
+        {
+          "word": "intense",
+          "def": "强烈的，紧张的",
+          "ipa": "/ɪnˈtens/",
+          "eng_def": "very strong or serious"
+        },
+        {
+          "word": "inquiry",
+          "def": "调查，询问",
+          "ipa": "/ɪnˈkwaɪəri/",
+          "eng_def": "a process of asking questions to find information"
+        },
+        {
+          "word": "ski",
+          "def": "滑雪",
+          "ipa": "/skiː/",
+          "eng_def": "the sport of moving on snow using long narrow boards"
+        },
+        {
+          "word": "presumably",
+          "def": "大概，推测起来",
+          "ipa": "/prɪˈzjuːməbli/",
+          "eng_def": "used to say that something is likely to be true"
+        },
+        {
+          "word": "trigger",
+          "def": "触发，引起",
+          "ipa": "/ˈtrɪɡər/",
+          "eng_def": "to cause something to start or happen"
+        },
+        {
+          "word": "amendment",
+          "def": "修正案，修改",
+          "ipa": "/əˈmendmənt/",
+          "eng_def": "a change to a law or document"
+        },
+        {
+          "word": "triggered",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The destruction of a large pipe near the lodge was a mystery that no one could solve at first.",
+      "zh": "小屋附近一根大管的破坏是一个谜，起初没人能解开。",
+      "words": [
+        {
+          "word": "destruction",
+          "def": "破坏，毁灭",
+          "ipa": "/dɪˈstrʌkʃən/",
+          "eng_def": "the act of damaging something so badly that it no longer exists"
+        },
+        {
+          "word": "pipe",
+          "def": "管子，管道",
+          "ipa": "/paɪp/",
+          "eng_def": "a tube used for carrying water, gas, or other substances"
+        },
+        {
+          "word": "mystery",
+          "def": "谜，神秘的事物",
+          "ipa": "/ˈmɪstəri/",
+          "eng_def": "something that is difficult to understand or explain"
+        },
+        {
+          "word": "lodge",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "It is the chef's special cheese menu that everyone remembers because it was blessed by the owner before the storm.",
+      "zh": "是厨师特别的奶酪菜单让每个人都记得，因为它在风暴前被店主祝福过。",
+      "words": [
+        {
+          "word": "cheese",
+          "def": "奶酪",
+          "ipa": "/tʃiːz/",
+          "eng_def": "a solid food made from milk"
+        },
+        {
+          "word": "menu",
+          "def": "菜单",
+          "ipa": "/ˈmenjuː/",
+          "eng_def": "a list of food and drinks available in a restaurant"
+        },
+        {
+          "word": "bless",
+          "def": "祝福，保佑",
+          "ipa": "/bles/",
+          "eng_def": "to ask for God's help or protection for someone or something"
+        },
+        {
+          "word": "chef's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "blessed",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "A guest whispered to the rear of the room that a magic guitar had been found in the piano room.",
+      "zh": "一位客人对着房间后面低声说，在钢琴房里发现了一把神奇的吉他。",
+      "words": [
+        {
+          "word": "whisper",
+          "def": "低语，耳语",
+          "ipa": "/ˈwɪspər/",
+          "eng_def": "to speak very quietly"
+        },
+        {
+          "word": "rear",
+          "def": "后面，后部",
+          "ipa": "/rɪər/",
+          "eng_def": "the back part of something"
+        },
+        {
+          "word": "magic",
+          "def": "魔法，神奇的",
+          "ipa": "/ˈmædʒɪk/",
+          "eng_def": "the power to make impossible things happen"
+        },
+        {
+          "word": "guitar",
+          "def": "吉他",
+          "ipa": "/ɡɪˈtɑːr/",
+          "eng_def": "a musical instrument with strings"
+        },
+        {
+          "word": "piano",
+          "def": "钢琴",
+          "ipa": "/piˈænəʊ/",
+          "eng_def": "a large musical instrument with black and white keys"
+        },
+        {
+          "word": "whispered",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "found",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The airline that flew them there later had to resign from the contract due to strict regulations.",
+      "zh": "把他们送到那里的航空公司后来因严格的规定不得不辞去合同。",
+      "words": [
+        {
+          "word": "airline",
+          "def": "航空公司",
+          "ipa": "/ˈeəlaɪn/",
+          "eng_def": "a company that provides air travel services"
+        },
+        {
+          "word": "resign",
+          "def": "辞职，放弃",
+          "ipa": "/rɪˈzaɪn/",
+          "eng_def": "to leave a job or position officially"
+        },
+        {
+          "word": "strict",
+          "def": "严格的",
+          "ipa": "/strɪkt/",
+          "eng_def": "demanding that rules are obeyed"
+        },
+        {
+          "word": "flew",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "later",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "A rare species of bird was seen under the full moon, which many thought was a sign.",
+      "zh": "在满月下看到了一种稀有鸟类，许多人认为这是一个征兆。",
+      "words": [
+        {
+          "word": "species",
+          "def": "物种，种类",
+          "ipa": "/ˈspiːʃiːz/",
+          "eng_def": "a group of living things that are similar and can produce young"
+        },
+        {
+          "word": "moon",
+          "def": "月亮",
+          "ipa": "/muːn/",
+          "eng_def": "the object that shines in the sky at night"
+        },
+        {
+          "word": "seen",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "thought",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The flag outside the lodge was torn, and the wind made a loud noise through the broken pipe.",
+      "zh": "小屋外的旗子被撕破了，风吹过破损的管子发出很大的噪音。",
+      "words": [
+        {
+          "word": "flag",
+          "def": "旗子，旗帜",
+          "ipa": "/flæɡ/",
+          "eng_def": "a piece of cloth with a pattern that represents a country or group"
+        },
+        {
+          "word": "lodge",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "torn",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "made",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "broken",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Someone must have triggered the alarm system, but no one knew how.",
+      "zh": "一定有人触发了警报系统，但没人知道是怎么做到的。",
+      "words": [
+        {
+          "word": "trigger",
+          "def": "触发，引起",
+          "ipa": "/ˈtrɪɡər/",
+          "eng_def": "to cause something to start or happen"
+        },
+        {
+          "word": "triggered",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "knew",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Only then did the manager realize that the cheese had been left out, and the mystery of the smell was solved.",
+      "zh": "直到那时经理才意识到奶酪被放在外面了，气味之谜也就解开了。",
+      "words": [
+        {
+          "word": "cheese",
+          "def": "奶酪",
+          "ipa": "/tʃiːz/",
+          "eng_def": "a solid food made from milk"
+        },
+        {
+          "word": "mystery",
+          "def": "谜，神秘的事物",
+          "ipa": "/ˈmɪstəri/",
+          "eng_def": "something that is difficult to understand or explain"
+        }
+      ]
+    },
+    {
+      "en": "The guitar player blessed the crowd with a final song before they all left the ski lodge forever.",
+      "zh": "吉他手用最后一首歌祝福了人群，然后他们永远离开了滑雪小屋。",
+      "words": [
+        {
+          "word": "guitar",
+          "def": "吉他",
+          "ipa": "/ɡɪˈtɑːr/",
+          "eng_def": "a musical instrument with strings"
+        },
+        {
+          "word": "bless",
+          "def": "祝福，保佑",
+          "ipa": "/bles/",
+          "eng_def": "to ask for God's help or protection for someone or something"
+        },
+        {
+          "word": "ski",
+          "def": "滑雪",
+          "ipa": "/skiː/",
+          "eng_def": "the sport of moving on snow using long narrow boards"
+        },
+        {
+          "word": "blessed",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "lodge",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "regulate",
+      "def": "调节，管理",
+      "ipa": "/ˈreɡjʊleɪt/",
+      "eng_def": "to control something by rules",
+      "example": "The government needs to regulate the use of pipes."
+    },
+    {
+      "word": "cheese",
+      "def": "奶酪",
+      "ipa": "/tʃiːz/",
+      "eng_def": "a solid food made from milk",
+      "example": "I like to eat cheese on my bread."
+    },
+    {
+      "word": "trigger",
+      "def": "触发，引起",
+      "ipa": "/ˈtrɪɡər/",
+      "eng_def": "to cause something to start or happen",
+      "example": "The loud noise triggered the alarm."
+    },
+    {
+      "word": "pipe",
+      "def": "管子，管道",
+      "ipa": "/paɪp/",
+      "eng_def": "a tube used for carrying water, gas, or other substances",
+      "example": "The pipe under the sink is broken."
+    },
+    {
+      "word": "destruction",
+      "def": "破坏，毁灭",
+      "ipa": "/dɪˈstrʌkʃən/",
+      "eng_def": "the act of damaging something so badly that it no longer exists",
+      "example": "The storm caused great destruction."
+    },
+    {
+      "word": "guitar",
+      "def": "吉他",
+      "ipa": "/ɡɪˈtɑːr/",
+      "eng_def": "a musical instrument with strings",
+      "example": "He plays the guitar very well."
+    },
+    {
+      "word": "flag",
+      "def": "旗子，旗帜",
+      "ipa": "/flæɡ/",
+      "eng_def": "a piece of cloth with a pattern that represents a country or group",
+      "example": "The flag was flying in the wind."
+    },
+    {
+      "word": "piano",
+      "def": "钢琴",
+      "ipa": "/piˈænəʊ/",
+      "eng_def": "a large musical instrument with black and white keys",
+      "example": "She sat at the piano and played a song."
+    },
+    {
+      "word": "magic",
+      "def": "魔法，神奇的",
+      "ipa": "/ˈmædʒɪk/",
+      "eng_def": "the power to make impossible things happen",
+      "example": "The magician performed a magic trick."
+    },
+    {
+      "word": "mystery",
+      "def": "谜，神秘的事物",
+      "ipa": "/ˈmɪstəri/",
+      "eng_def": "something that is difficult to understand or explain",
+      "example": "The disappearance of the keys is a mystery."
+    },
+    {
+      "word": "ski",
+      "def": "滑雪",
+      "ipa": "/skiː/",
+      "eng_def": "the sport of moving on snow using long narrow boards",
+      "example": "We go skiing every winter."
+    },
+    {
+      "word": "whisper",
+      "def": "低语，耳语",
+      "ipa": "/ˈwɪspər/",
+      "eng_def": "to speak very quietly",
+      "example": "She whispered the secret to me."
+    },
+    {
+      "word": "rear",
+      "def": "后面，后部",
+      "ipa": "/rɪər/",
+      "eng_def": "the back part of something",
+      "example": "The rear of the house has a garden."
+    },
+    {
+      "word": "menu",
+      "def": "菜单",
+      "ipa": "/ˈmenjuː/",
+      "eng_def": "a list of food and drinks available in a restaurant",
+      "example": "Please look at the menu before ordering."
+    },
+    {
+      "word": "species",
+      "def": "物种，种类",
+      "ipa": "/ˈspiːʃiːz/",
+      "eng_def": "a group of living things that are similar and can produce young",
+      "example": "This species of bird is very rare."
+    },
+    {
+      "word": "moon",
+      "def": "月亮",
+      "ipa": "/muːn/",
+      "eng_def": "the object that shines in the sky at night",
+      "example": "The moon was full and bright."
+    },
+    {
+      "word": "presumably",
+      "def": "大概，推测起来",
+      "ipa": "/prɪˈzjuːməbli/",
+      "eng_def": "used to say that something is likely to be true",
+      "example": "He is presumably at home now."
+    },
+    {
+      "word": "bless",
+      "def": "祝福，保佑",
+      "ipa": "/bles/",
+      "eng_def": "to ask for God's help or protection for someone or something",
+      "example": "The priest blessed the new house."
+    },
+    {
+      "word": "airline",
+      "def": "航空公司",
+      "ipa": "/ˈeəlaɪn/",
+      "eng_def": "a company that provides air travel services",
+      "example": "Which airline did you fly with?"
+    },
+    {
+      "word": "amendment",
+      "def": "修正案，修改",
+      "ipa": "/əˈmendmənt/",
+      "eng_def": "a change to a law or document",
+      "example": "The amendment to the law was approved."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "“trigger” 最接近的意思是什么？",
+      "question_en": "What is the closest meaning of 'trigger'?",
+      "options": [
+        "A. 停止",
+        "B. 触发",
+        "C. 修理",
+        "D. 忘记"
+      ],
+      "answer": 1,
+      "word": "trigger"
+    },
+    {
+      "question_cn": "“whisper” 是什么意思？",
+      "question_en": "What does 'whisper' mean?",
+      "options": [
+        "A. 大喊",
+        "B. 低语",
+        "C. 唱歌",
+        "D. 跳舞"
+      ],
+      "answer": 1,
+      "word": "whisper"
+    },
+    {
+      "question_cn": "“species” 指的是什么？",
+      "question_en": "What does 'species' refer to?",
+      "options": [
+        "A. 一种颜色",
+        "B. 一种物种",
+        "C. 一种食物",
+        "D. 一种工具"
+      ],
+      "answer": 1,
+      "word": "species"
+    },
+    {
+      "question_cn": "“amendment” 最合适的解释是？",
+      "question_en": "What is the best explanation of 'amendment'?",
+      "options": [
+        "A. 破坏",
+        "B. 修正案",
+        "C. 菜单",
+        "D. 魔法"
+      ],
+      "answer": 1,
+      "word": "amendment"
+    },
+    {
+      "question_cn": "“bless” 通常是什么意思？",
+      "question_en": "What does 'bless' usually mean?",
+      "options": [
+        "A. 诅咒",
+        "B. 祝福",
+        "C. 忘记",
+        "D. 破坏"
+      ],
+      "answer": 1,
+      "word": "bless"
+    }
+  ],
+  "image_prompts": [
+    "A snowy ski resort with a lodge and a broken pipe in the foreground, people looking worried.",
+    "A large broken pipe near a wooden lodge, with scattered debris showing destruction.",
+    "A chef holding a cheese menu, with an owner raising a hand in blessing near a window showing a storm outside.",
+    "A guest whispering to another person at the back of a room, with a magic guitar and a piano visible in the background.",
+    "An airline plane on a runway, with a contract document being torn up, showing strict rules.",
+    "A rare bird flying under a full moon in a night sky, with pine trees below.",
+    "A torn flag waving in the wind outside a lodge, with a broken pipe nearby.",
+    "A person's hand triggering an alarm system on a wall, with a surprised expression.",
+    "A manager looking at a piece of cheese left on a table, with a relieved expression as the mystery is solved.",
+    "A guitar player on a stage blessing the crowd with a final song, with people leaving a ski lodge in the background."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['regulate']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 120,
+  "_new_word_count": 20
+}

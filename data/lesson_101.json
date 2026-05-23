@@ -1,0 +1,493 @@
+{
+  "id": 101,
+  "title": "A Creative Journey to Overcome Challenges",
+  "article_text": "Last year, I had a problem with my van while I was on a long trail. I had to reverse the vehicle to get out of a trap, but my knee was in pain. I adjusted the mirror to see the curve in the road. Nowadays, I feel more confident because I overcame that awful experience. My friend posed for a photo at the agricultural festival. He was a strong competitor in the vegetable-growing contest. We drank alcohol and wrote a poem about the planet. The poem was written in a creative mode that was new to me. If only I had seen the loose extension cord, I would have avoided the fall. The wealth of the community was a mirror of their hard work.",
+  "sentences": [
+    {
+      "en": "Last year, I had a problem with my van while I was on a long trail.",
+      "zh": "去年，我在一条长小路上遇到了我的面包车的问题。",
+      "words": [
+        {
+          "word": "van",
+          "def": "货车；面包车",
+          "ipa": "/væn/",
+          "eng_def": "a vehicle for carrying things or people"
+        },
+        {
+          "word": "trail",
+          "def": "小径；小路",
+          "ipa": "/treɪl/",
+          "eng_def": "a path through the country"
+        }
+      ]
+    },
+    {
+      "en": "I had to reverse the vehicle to get out of a trap, but my knee was in pain.",
+      "zh": "我不得不倒车以摆脱陷阱，但我的膝盖很疼。",
+      "words": [
+        {
+          "word": "reverse",
+          "def": "倒车；反转",
+          "ipa": "/rɪˈvɜːrs/",
+          "eng_def": "to go backwards"
+        },
+        {
+          "word": "trap",
+          "def": "陷阱",
+          "ipa": "/træp/",
+          "eng_def": "something that catches animals or people"
+        },
+        {
+          "word": "knee",
+          "def": "膝盖",
+          "ipa": "/niː/",
+          "eng_def": "the joint in the middle of the leg"
+        }
+      ]
+    },
+    {
+      "en": "I adjusted the mirror to see the curve in the road.",
+      "zh": "我调整了镜子以便看到路上的弯道。",
+      "words": [
+        {
+          "word": "adjust",
+          "def": "调整",
+          "ipa": "/əˈdʒʌst/",
+          "eng_def": "to change something slightly"
+        },
+        {
+          "word": "mirror",
+          "def": "镜子",
+          "ipa": "/ˈmɪrər/",
+          "eng_def": "a piece of glass that shows your face"
+        },
+        {
+          "word": "curve",
+          "def": "弯道；曲线",
+          "ipa": "/kɜːrv/",
+          "eng_def": "a line that bends"
+        },
+        {
+          "word": "adjusted",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Nowadays, I feel more confident because I overcame that awful experience.",
+      "zh": "如今，我更加自信，因为我克服了那次可怕的经历。",
+      "words": [
+        {
+          "word": "nowadays",
+          "def": "如今；现在",
+          "ipa": "/ˈnaʊədeɪz/",
+          "eng_def": "at the present time"
+        },
+        {
+          "word": "confident",
+          "def": "自信的",
+          "ipa": "/ˈkɑːnfɪdənt/",
+          "eng_def": "sure that you can do something well"
+        },
+        {
+          "word": "overcame",
+          "def": "克服（过去式）",
+          "ipa": "/ˌoʊvərˈkeɪm/",
+          "eng_def": "to succeed in dealing with a problem"
+        },
+        {
+          "word": "awful",
+          "def": "可怕的；极坏的",
+          "ipa": "/ˈɔːfəl/",
+          "eng_def": "very bad or unpleasant"
+        }
+      ]
+    },
+    {
+      "en": "My friend posed for a photo at the agricultural festival.",
+      "zh": "我的朋友在农业节上摆姿势拍照。",
+      "words": [
+        {
+          "word": "posed",
+          "def": "摆姿势（过去式）",
+          "ipa": "/poʊzd/",
+          "eng_def": "to stay still for a picture"
+        },
+        {
+          "word": "agricultural",
+          "def": "农业的",
+          "ipa": "/ˌæɡrɪˈkʌltʃərəl/",
+          "eng_def": "related to farming"
+        },
+        {
+          "word": "festival",
+          "def": "节日；庆典",
+          "ipa": "/ˈfestɪvəl/",
+          "eng_def": "a special event with activities"
+        }
+      ]
+    },
+    {
+      "en": "He was a strong competitor in the vegetable-growing contest.",
+      "zh": "他在蔬菜种植比赛中是一个强劲的竞争者。",
+      "words": [
+        {
+          "word": "competitor",
+          "def": "竞争者；对手",
+          "ipa": "/kəmˈpetɪtər/",
+          "eng_def": "a person who tries to win"
+        },
+        {
+          "word": "vegetable",
+          "def": "蔬菜",
+          "ipa": "/ˈvedʒtəbəl/",
+          "eng_def": "a plant that people eat"
+        },
+        {
+          "word": "vegetable-growing",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "contest",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "We drank alcohol and wrote a poem about the planet.",
+      "zh": "我们喝了酒，写了一首关于地球的诗。",
+      "words": [
+        {
+          "word": "alcohol",
+          "def": "酒精；酒",
+          "ipa": "/ˈælkəhɔːl/",
+          "eng_def": "a drink that can make people drunk"
+        },
+        {
+          "word": "poem",
+          "def": "诗",
+          "ipa": "/ˈpoʊəm/",
+          "eng_def": "a piece of writing with rhythm"
+        },
+        {
+          "word": "planet",
+          "def": "行星；地球",
+          "ipa": "/ˈplænɪt/",
+          "eng_def": "a large round object in space"
+        },
+        {
+          "word": "drank",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "wrote",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The poem was written in a creative mode that was new to me.",
+      "zh": "这首诗是以一种对我来说全新的创意模式写成的。",
+      "words": [
+        {
+          "word": "creative",
+          "def": "有创意的；创作的",
+          "ipa": "/kriˈeɪtɪv/",
+          "eng_def": "able to make new things or ideas"
+        },
+        {
+          "word": "mode",
+          "def": "模式；方式",
+          "ipa": "/moʊd/",
+          "eng_def": "a way of doing something"
+        },
+        {
+          "word": "written",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "If only I had seen the loose extension cord, I would have avoided the fall.",
+      "zh": "要是我看到了那根松动的延长线，我就能避免摔倒了。",
+      "words": [
+        {
+          "word": "loose",
+          "def": "松的；松动的",
+          "ipa": "/luːs/",
+          "eng_def": "not fixed tightly"
+        },
+        {
+          "word": "extension",
+          "def": "延长；扩展",
+          "ipa": "/ɪkˈstenʃən/",
+          "eng_def": "something that makes something longer"
+        },
+        {
+          "word": "seen",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "cord",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The wealth of the community was a mirror of their hard work.",
+      "zh": "这个社区的财富是他们辛勤工作的反映。",
+      "words": [
+        {
+          "word": "wealth",
+          "def": "财富",
+          "ipa": "/welθ/",
+          "eng_def": "a large amount of money or property"
+        },
+        {
+          "word": "mirror",
+          "def": "反映；镜子",
+          "ipa": "/ˈmɪrər/",
+          "eng_def": "something that shows what something else is like"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "reverse",
+      "def": "倒车；反转",
+      "ipa": "/rɪˈvɜːrs/",
+      "eng_def": "to go backwards",
+      "example": "I had to reverse the car to get out of the trap."
+    },
+    {
+      "word": "mode",
+      "def": "模式；方式",
+      "ipa": "/moʊd/",
+      "eng_def": "a way of doing something",
+      "example": "The poem was written in a creative mode."
+    },
+    {
+      "word": "mirror",
+      "def": "镜子；反映",
+      "ipa": "/ˈmɪrər/",
+      "eng_def": "a piece of glass that shows your face",
+      "example": "I adjusted the mirror to see the curve."
+    },
+    {
+      "word": "awful",
+      "def": "可怕的；极坏的",
+      "ipa": "/ˈɔːfəl/",
+      "eng_def": "very bad or unpleasant",
+      "example": "I overcame that awful experience."
+    },
+    {
+      "word": "pose",
+      "def": "摆姿势",
+      "ipa": "/poʊz/",
+      "eng_def": "to stay still for a picture",
+      "example": "My friend posed for a photo."
+    },
+    {
+      "word": "adjust",
+      "def": "调整",
+      "ipa": "/əˈdʒʌst/",
+      "eng_def": "to change something slightly",
+      "example": "I adjusted the mirror."
+    },
+    {
+      "word": "creative",
+      "def": "有创意的；创作的",
+      "ipa": "/kriˈeɪtɪv/",
+      "eng_def": "able to make new things or ideas",
+      "example": "It was a creative mode."
+    },
+    {
+      "word": "nowadays",
+      "def": "如今；现在",
+      "ipa": "/ˈnaʊədeɪz/",
+      "eng_def": "at the present time",
+      "example": "Nowadays, I feel more confident."
+    },
+    {
+      "word": "poem",
+      "def": "诗",
+      "ipa": "/ˈpoʊəm/",
+      "eng_def": "a piece of writing with rhythm",
+      "example": "We wrote a poem about the planet."
+    },
+    {
+      "word": "agricultural",
+      "def": "农业的",
+      "ipa": "/ˌæɡrɪˈkʌltʃərəl/",
+      "eng_def": "related to farming",
+      "example": "We went to the agricultural festival."
+    },
+    {
+      "word": "competitor",
+      "def": "竞争者；对手",
+      "ipa": "/kəmˈpetɪtər/",
+      "eng_def": "a person who tries to win",
+      "example": "He was a strong competitor."
+    },
+    {
+      "word": "alcohol",
+      "def": "酒精；酒",
+      "ipa": "/ˈælkəhɔːl/",
+      "eng_def": "a drink that can make people drunk",
+      "example": "We drank alcohol."
+    },
+    {
+      "word": "festival",
+      "def": "节日；庆典",
+      "ipa": "/ˈfestɪvəl/",
+      "eng_def": "a special event with activities",
+      "example": "We went to the agricultural festival."
+    },
+    {
+      "word": "vegetable",
+      "def": "蔬菜",
+      "ipa": "/ˈvedʒtəbəl/",
+      "eng_def": "a plant that people eat",
+      "example": "He grew vegetables for the contest."
+    },
+    {
+      "word": "van",
+      "def": "货车；面包车",
+      "ipa": "/væn/",
+      "eng_def": "a vehicle for carrying things or people",
+      "example": "I had a problem with my van."
+    },
+    {
+      "word": "confident",
+      "def": "自信的",
+      "ipa": "/ˈkɑːnfɪdənt/",
+      "eng_def": "sure that you can do something well",
+      "example": "Now I feel more confident."
+    },
+    {
+      "word": "planet",
+      "def": "行星；地球",
+      "ipa": "/ˈplænɪt/",
+      "eng_def": "a large round object in space",
+      "example": "We wrote a poem about the planet."
+    },
+    {
+      "word": "curve",
+      "def": "弯道；曲线",
+      "ipa": "/kɜːrv/",
+      "eng_def": "a line that bends",
+      "example": "I saw the curve in the road."
+    },
+    {
+      "word": "knee",
+      "def": "膝盖",
+      "ipa": "/niː/",
+      "eng_def": "the joint in the middle of the leg",
+      "example": "My knee was in pain."
+    },
+    {
+      "word": "overcome",
+      "def": "克服",
+      "ipa": "/ˌoʊvərˈkʌm/",
+      "eng_def": "to succeed in dealing with a problem",
+      "example": "I overcame that awful experience."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词的意思是“倒车或反转”？",
+      "question_en": "Which word means 'to go backwards'?",
+      "options": [
+        "A. reverse",
+        "B. adjust",
+        "C. pose",
+        "D. overcome"
+      ],
+      "answer": 0,
+      "word": "reverse"
+    },
+    {
+      "question_cn": "哪个词描述“有创意的”？",
+      "question_en": "Which word describes 'able to make new things'?",
+      "options": [
+        "A. awful",
+        "B. creative",
+        "C. confident",
+        "D. agricultural"
+      ],
+      "answer": 1,
+      "word": "creative"
+    },
+    {
+      "question_cn": "哪个词是“竞争者”的意思？",
+      "question_en": "Which word means 'a person who tries to win'?",
+      "options": [
+        "A. festival",
+        "B. competitor",
+        "C. poem",
+        "D. mirror"
+      ],
+      "answer": 1,
+      "word": "competitor"
+    },
+    {
+      "question_cn": "哪个词指的是“膝盖”？",
+      "question_en": "Which word refers to 'the joint in the middle of the leg'?",
+      "options": [
+        "A. curve",
+        "B. van",
+        "C. knee",
+        "D. planet"
+      ],
+      "answer": 2,
+      "word": "knee"
+    },
+    {
+      "question_cn": "哪个词的意思是“如今”？",
+      "question_en": "Which word means 'at the present time'?",
+      "options": [
+        "A. nowadays",
+        "B. mode",
+        "C. alcohol",
+        "D. vegetable"
+      ],
+      "answer": 0,
+      "word": "nowadays"
+    }
+  ],
+  "image_prompts": [
+    "A person driving a van on a long dirt trail in the countryside.",
+    "The van is reversing out of a muddy trap, and the driver is holding his knee in pain.",
+    "Close-up of a car mirror showing a curved road behind the vehicle.",
+    "A smiling person standing confidently after surviving a difficult journey.",
+    "A friend posing for a photo at a lively agricultural festival with vegetables on display.",
+    "A man holding a large vegetable, standing next to other competitors at a contest.",
+    "A group of people sitting around a table, drinking alcohol and writing a poem about Earth.",
+    "A notebook with a poem written in a new creative style, with colorful words.",
+    "A person tripping over a loose extension cord on the floor.",
+    "A wealthy community with nice houses and gardens, reflecting the hard work of the people."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['overcome']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 101,
+  "_new_word_count": 20
+}

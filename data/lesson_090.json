@@ -1,0 +1,517 @@
+{
+  "id": 90,
+  "title": "The Rural Landscape and Its Challenges",
+  "article_text": "The rural landscape I used to know was calm, but now unemployment is a crucial problem. A storm damaged many crops, which was a minor fault of the weather forecast. A gentleman from the city came to negotiate with the farmers about the wheel invention. He exhibited a toy that could help them hunt for water. The minority of workers had to abandon their old tools for this new machine. The origin of this tool was a drama about a great achievement in agriculture. Every interpretation of the plan was discussed in silence during the examination. They were educating the children about the thick forest and its wildlife. The exhibition was a crucial event for the community to understand their history. We were waiting for the storm to pass, hoping for a calm future.",
+  "sentences": [
+    {
+      "en": "The rural landscape I used to know was calm, but now unemployment is a crucial problem.",
+      "zh": "我过去熟悉的乡村风景很平静，但现在失业是一个关键问题。",
+      "words": [
+        {
+          "word": "rural",
+          "def": "乡村的",
+          "ipa": "/ˈrʊərəl/",
+          "eng_def": "related to the countryside"
+        },
+        {
+          "word": "landscape",
+          "def": "风景",
+          "ipa": "/ˈlændskeɪp/",
+          "eng_def": "a large area of land seen from one place"
+        },
+        {
+          "word": "calm",
+          "def": "平静的",
+          "ipa": "/kɑːm/",
+          "eng_def": "quiet and peaceful"
+        },
+        {
+          "word": "unemployment",
+          "def": "失业",
+          "ipa": "/ˌʌnɪmˈplɔɪmənt/",
+          "eng_def": "the state of not having a job"
+        },
+        {
+          "word": "crucial",
+          "def": "关键的",
+          "ipa": "/ˈkruːʃəl/",
+          "eng_def": "very important"
+        }
+      ]
+    },
+    {
+      "en": "A storm damaged many crops, which was a minor fault of the weather forecast.",
+      "zh": "一场暴风雨损坏了许多庄稼，这是天气预报的一个小错误。",
+      "words": [
+        {
+          "word": "storm",
+          "def": "暴风雨",
+          "ipa": "/stɔːm/",
+          "eng_def": "a strong wind with rain"
+        },
+        {
+          "word": "crop",
+          "def": "庄稼",
+          "ipa": "/krɒp/",
+          "eng_def": "a plant grown for food"
+        },
+        {
+          "word": "minor",
+          "def": "较小的",
+          "ipa": "/ˈmaɪnər/",
+          "eng_def": "small and not very important"
+        },
+        {
+          "word": "fault",
+          "def": "错误",
+          "ipa": "/fɔːlt/",
+          "eng_def": "something wrong in a plan or machine"
+        },
+        {
+          "word": "crops",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "forecast",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "A gentleman from the city came to negotiate with the farmers about the wheel invention.",
+      "zh": "一位来自城市的绅士来和农民们谈判关于轮子发明的事情。",
+      "words": [
+        {
+          "word": "gentleman",
+          "def": "绅士",
+          "ipa": "/ˈdʒentlmən/",
+          "eng_def": "a polite man"
+        },
+        {
+          "word": "negotiate",
+          "def": "谈判",
+          "ipa": "/nɪˈɡoʊʃieɪt/",
+          "eng_def": "to talk to reach an agreement"
+        },
+        {
+          "word": "wheel",
+          "def": "轮子",
+          "ipa": "/wiːl/",
+          "eng_def": "a round object that turns to move things"
+        },
+        {
+          "word": "came",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "invention",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "He exhibited a toy that could help them hunt for water.",
+      "zh": "他展示了一个玩具，可以帮助他们寻找水源。",
+      "words": [
+        {
+          "word": "exhibit",
+          "def": "展示",
+          "ipa": "/ɪɡˈzɪbɪt/",
+          "eng_def": "to show something in public"
+        },
+        {
+          "word": "toy",
+          "def": "玩具",
+          "ipa": "/tɔɪ/",
+          "eng_def": "an object for children to play with"
+        },
+        {
+          "word": "hunt",
+          "def": "寻找",
+          "ipa": "/hʌnt/",
+          "eng_def": "to search for something"
+        },
+        {
+          "word": "exhibited",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The minority of workers had to abandon their old tools for this new machine.",
+      "zh": "少数工人不得不放弃他们的旧工具来使用这台新机器。",
+      "words": [
+        {
+          "word": "minority",
+          "def": "少数",
+          "ipa": "/maɪˈnɒrəti/",
+          "eng_def": "a small part of a group"
+        },
+        {
+          "word": "abandon",
+          "def": "放弃",
+          "ipa": "/əˈbændən/",
+          "eng_def": "to leave something behind"
+        }
+      ]
+    },
+    {
+      "en": "The origin of this tool was a drama about a great achievement in agriculture.",
+      "zh": "这个工具的起源是一部关于农业伟大成就的戏剧。",
+      "words": [
+        {
+          "word": "origin",
+          "def": "起源",
+          "ipa": "/ˈɒrɪdʒɪn/",
+          "eng_def": "the start of something"
+        },
+        {
+          "word": "drama",
+          "def": "戏剧",
+          "ipa": "/ˈdrɑːmə/",
+          "eng_def": "a story performed by actors"
+        },
+        {
+          "word": "achievement",
+          "def": "成就",
+          "ipa": "/əˈtʃiːvmənt/",
+          "eng_def": "something done successfully"
+        },
+        {
+          "word": "agriculture",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Every interpretation of the plan was discussed in silence during the examination.",
+      "zh": "在考试期间，大家对计划的每一种解释都默默地进行了讨论。",
+      "words": [
+        {
+          "word": "interpretation",
+          "def": "解释",
+          "ipa": "/ɪnˌtɜːprɪˈteɪʃən/",
+          "eng_def": "the way someone understands something"
+        },
+        {
+          "word": "silence",
+          "def": "沉默",
+          "ipa": "/ˈsaɪləns/",
+          "eng_def": "absence of sound"
+        },
+        {
+          "word": "examination",
+          "def": "考试",
+          "ipa": "/ɪɡˌzæmɪˈneɪʃən/",
+          "eng_def": "a test of knowledge"
+        }
+      ]
+    },
+    {
+      "en": "They were educating the children about the thick forest and its wildlife.",
+      "zh": "他们正在教育孩子们关于茂密森林及其野生动物的知识。",
+      "words": [
+        {
+          "word": "educate",
+          "def": "教育",
+          "ipa": "/ˈedʒukeɪt/",
+          "eng_def": "to teach someone"
+        },
+        {
+          "word": "thick",
+          "def": "茂密的",
+          "ipa": "/θɪk/",
+          "eng_def": "with many things close together"
+        },
+        {
+          "word": "educating",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "children",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "wildlife",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The exhibition was a crucial event for the community to understand their history.",
+      "zh": "这次展览是社区了解其历史的关键活动。",
+      "words": [
+        {
+          "word": "exhibition",
+          "def": "展览",
+          "ipa": "/ˌeksɪˈbɪʃən/",
+          "eng_def": "a public show of things"
+        },
+        {
+          "word": "crucial",
+          "def": "关键的",
+          "ipa": "/ˈkruːʃəl/",
+          "eng_def": "very important"
+        }
+      ]
+    },
+    {
+      "en": "We were waiting for the storm to pass, hoping for a calm future.",
+      "zh": "我们正在等待暴风雨过去，希望未来平静。",
+      "words": [
+        {
+          "word": "storm",
+          "def": "暴风雨",
+          "ipa": "/stɔːm/",
+          "eng_def": "a strong wind with rain"
+        },
+        {
+          "word": "calm",
+          "def": "平静的",
+          "ipa": "/kɑːm/",
+          "eng_def": "quiet and peaceful"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "crucial",
+      "def": "关键的",
+      "ipa": "/ˈkruːʃəl/",
+      "eng_def": "very important",
+      "example": "This meeting is crucial for our future."
+    },
+    {
+      "word": "unemployment",
+      "def": "失业",
+      "ipa": "/ˌʌnɪmˈplɔɪmənt/",
+      "eng_def": "the state of not having a job",
+      "example": "Unemployment is high in this area."
+    },
+    {
+      "word": "wheel",
+      "def": "轮子",
+      "ipa": "/wiːl/",
+      "eng_def": "a round object that turns to move things",
+      "example": "The car has four wheels."
+    },
+    {
+      "word": "crop",
+      "def": "庄稼",
+      "ipa": "/krɒp/",
+      "eng_def": "a plant grown for food",
+      "example": "Farmers grow crops like rice and corn."
+    },
+    {
+      "word": "minority",
+      "def": "少数",
+      "ipa": "/maɪˈnɒrəti/",
+      "eng_def": "a small part of a group",
+      "example": "Only a minority of students failed the test."
+    },
+    {
+      "word": "origin",
+      "def": "起源",
+      "ipa": "/ˈɒrɪdʒɪn/",
+      "eng_def": "the start of something",
+      "example": "The origin of this tradition is unknown."
+    },
+    {
+      "word": "interpretation",
+      "def": "解释",
+      "ipa": "/ɪnˌtɜːprɪˈteɪʃən/",
+      "eng_def": "the way someone understands something",
+      "example": "His interpretation of the poem was interesting."
+    },
+    {
+      "word": "gentleman",
+      "def": "绅士",
+      "ipa": "/ˈdʒentlmən/",
+      "eng_def": "a polite man",
+      "example": "The gentleman opened the door for her."
+    },
+    {
+      "word": "drama",
+      "def": "戏剧",
+      "ipa": "/ˈdrɑːmə/",
+      "eng_def": "a story performed by actors",
+      "example": "We watched a drama about family life."
+    },
+    {
+      "word": "landscape",
+      "def": "风景",
+      "ipa": "/ˈlændskeɪp/",
+      "eng_def": "a large area of land seen from one place",
+      "example": "The landscape was beautiful with green hills."
+    },
+    {
+      "word": "educate",
+      "def": "教育",
+      "ipa": "/ˈedʒukeɪt/",
+      "eng_def": "to teach someone",
+      "example": "Schools educate children in many subjects."
+    },
+    {
+      "word": "toy",
+      "def": "玩具",
+      "ipa": "/tɔɪ/",
+      "eng_def": "an object for children to play with",
+      "example": "The child played with a red toy car."
+    },
+    {
+      "word": "fault",
+      "def": "错误",
+      "ipa": "/fɔːlt/",
+      "eng_def": "something wrong in a plan or machine",
+      "example": "It was my fault that we were late."
+    },
+    {
+      "word": "exhibit",
+      "def": "展示",
+      "ipa": "/ɪɡˈzɪbɪt/",
+      "eng_def": "to show something in public",
+      "example": "The museum will exhibit new paintings."
+    },
+    {
+      "word": "minor",
+      "def": "较小的",
+      "ipa": "/ˈmaɪnər/",
+      "eng_def": "small and not very important",
+      "example": "He had a minor injury in the game."
+    },
+    {
+      "word": "hunt",
+      "def": "寻找",
+      "ipa": "/hʌnt/",
+      "eng_def": "to search for something",
+      "example": "They hunt for food in the forest."
+    },
+    {
+      "word": "storm",
+      "def": "暴风雨",
+      "ipa": "/stɔːm/",
+      "eng_def": "a strong wind with rain",
+      "example": "The storm destroyed many houses."
+    },
+    {
+      "word": "thick",
+      "def": "茂密的",
+      "ipa": "/θɪk/",
+      "eng_def": "with many things close together",
+      "example": "The forest was thick with trees."
+    },
+    {
+      "word": "achievement",
+      "def": "成就",
+      "ipa": "/əˈtʃiːvmənt/",
+      "eng_def": "something done successfully",
+      "example": "Winning the race was a great achievement."
+    },
+    {
+      "word": "negotiate",
+      "def": "谈判",
+      "ipa": "/nɪˈɡoʊʃieɪt/",
+      "eng_def": "to talk to reach an agreement",
+      "example": "They will negotiate a new contract."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词的意思是“非常关键或重要”？",
+      "question_en": "Which word means 'very important'?",
+      "options": [
+        "A. minor",
+        "B. crucial",
+        "C. thick",
+        "D. calm"
+      ],
+      "answer": 1,
+      "word": "crucial"
+    },
+    {
+      "question_cn": "如果你在寻找某物，你会用什么词？",
+      "question_en": "If you are searching for something, which word do you use?",
+      "options": [
+        "A. exhibit",
+        "B. hunt",
+        "C. educate",
+        "D. negotiate"
+      ],
+      "answer": 1,
+      "word": "hunt"
+    },
+    {
+      "question_cn": "“少数”用英语怎么说？",
+      "question_en": "What is the English word for 'a small part of a group'?",
+      "options": [
+        "A. minority",
+        "B. majority",
+        "C. origin",
+        "D. drama"
+      ],
+      "answer": 0,
+      "word": "minority"
+    },
+    {
+      "question_cn": "哪个词表示“与某人讨论以达成协议”？",
+      "question_en": "Which word means 'to talk to reach an agreement'?",
+      "options": [
+        "A. negotiate",
+        "B. abandon",
+        "C. exhibit",
+        "D. educate"
+      ],
+      "answer": 0,
+      "word": "negotiate"
+    },
+    {
+      "question_cn": "“错误”或“缺陷”用英语怎么说？",
+      "question_en": "What is the English word for 'something wrong in a plan or machine'?",
+      "options": [
+        "A. achievement",
+        "B. fault",
+        "C. storm",
+        "D. toy"
+      ],
+      "answer": 1,
+      "word": "fault"
+    }
+  ],
+  "image_prompts": [
+    "A calm rural landscape with green fields and a blue sky, but a sign showing unemployment statistics.",
+    "A storm cloud over a field of damaged crops, with a weather forecast screen showing a minor error.",
+    "A polite gentleman in a suit talking to farmers near a large wooden wheel in a field.",
+    "A man showing a small toy that looks like a water-finding device to curious farmers.",
+    "A few workers leaving their old tools on the ground and walking toward a new machine.",
+    "A stage with actors performing a drama about an ancient farming achievement, with a tool displayed.",
+    "A quiet room where people sit in silence during an examination, with papers on desks.",
+    "A teacher educating children in a forest with thick trees and animals in the background.",
+    "A community exhibition hall with historical items on display, people looking at them.",
+    "A group of people waiting under shelter as a storm passes, looking at a calm horizon."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['educate']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 90,
+  "_new_word_count": 20
+}

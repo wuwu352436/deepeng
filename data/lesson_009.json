@@ -1,0 +1,481 @@
+{
+  "id": 9,
+  "title": "A Town Class for the Future",
+  "article_text": "Our class is about a small town. The subject of the class is the town's development. A clear plan is on top of our list for the future. We have a break of half an hour per day. The town's food is a big part of its value. We want to win a prize for our project. The project will involve many people among the town. We need to reach a goal before the end of the year. Five years ago, the town had only one office. The town's color is either blue or green in my mind.",
+  "sentences": [
+    {
+      "en": "Our class is about a small town.",
+      "zh": "我们的课是关于一个小镇的。",
+      "words": [
+        {
+          "word": "class",
+          "def": "课",
+          "ipa": "/klæs/",
+          "eng_def": "a group of students who learn together"
+        },
+        {
+          "word": "town",
+          "def": "小镇",
+          "ipa": "/taʊn/",
+          "eng_def": "a small place where people live and work"
+        }
+      ]
+    },
+    {
+      "en": "The subject of the class is the town's development.",
+      "zh": "这堂课的主题是小镇的发展。",
+      "words": [
+        {
+          "word": "subject",
+          "def": "主题",
+          "ipa": "/ˈsʌb.dʒɪkt/",
+          "eng_def": "the main idea of a class or lesson"
+        },
+        {
+          "word": "development",
+          "def": "发展",
+          "ipa": "/dɪˈvel.əp.mənt/",
+          "eng_def": "the process of growing or improving"
+        },
+        {
+          "word": "town's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "A clear plan is on top of our list for the future.",
+      "zh": "一个清晰的计划在我们列表的顶部，为了未来。",
+      "words": [
+        {
+          "word": "clear",
+          "def": "清晰的",
+          "ipa": "/klɪr/",
+          "eng_def": "easy to understand; not confusing"
+        },
+        {
+          "word": "top",
+          "def": "顶部",
+          "ipa": "/tɒp/",
+          "eng_def": "the highest part of something"
+        },
+        {
+          "word": "future",
+          "def": "未来",
+          "ipa": "/ˈfjuː.tʃər/",
+          "eng_def": "the time that will come after now"
+        },
+        {
+          "word": "list",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "We have a break of half an hour per day.",
+      "zh": "我们每天休息半小时。",
+      "words": [
+        {
+          "word": "break",
+          "def": "休息",
+          "ipa": "/breɪk/",
+          "eng_def": "a short time when you stop working"
+        },
+        {
+          "word": "half",
+          "def": "一半",
+          "ipa": "/hæf/",
+          "eng_def": "one of two equal parts of something"
+        },
+        {
+          "word": "per",
+          "def": "每",
+          "ipa": "/pɜːr/",
+          "eng_def": "for each"
+        }
+      ]
+    },
+    {
+      "en": "The town's food is a big part of its value.",
+      "zh": "小镇的食物是其价值的重要部分。",
+      "words": [
+        {
+          "word": "food",
+          "def": "食物",
+          "ipa": "/fuːd/",
+          "eng_def": "things people eat"
+        },
+        {
+          "word": "value",
+          "def": "价值",
+          "ipa": "/ˈvæl.juː/",
+          "eng_def": "how much something is worth"
+        },
+        {
+          "word": "town's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "We want to win a prize for our project.",
+      "zh": "我们想为我们的项目赢得一个奖项。",
+      "words": [
+        {
+          "word": "win",
+          "def": "赢得",
+          "ipa": "/wɪn/",
+          "eng_def": "to be the best in a competition"
+        },
+        {
+          "word": "prize",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "project",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The project will involve many people among the town.",
+      "zh": "这个项目将涉及小镇中的许多人。",
+      "words": [
+        {
+          "word": "involve",
+          "def": "涉及",
+          "ipa": "/ɪnˈvɒlv/",
+          "eng_def": "to include or need something or someone"
+        },
+        {
+          "word": "among",
+          "def": "在……之中",
+          "ipa": "/əˈmʌŋ/",
+          "eng_def": "in the middle of a group of things or people"
+        },
+        {
+          "word": "project",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "We need to reach a goal before the end of the year.",
+      "zh": "我们需要在年底前达到一个目标。",
+      "words": [
+        {
+          "word": "reach",
+          "def": "达到",
+          "ipa": "/riːtʃ/",
+          "eng_def": "to get to a place or a level"
+        },
+        {
+          "word": "goal",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Five years ago, the town had only one office.",
+      "zh": "五年前，这个小镇只有一个办公室。",
+      "words": [
+        {
+          "word": "ago",
+          "def": "以前",
+          "ipa": "/əˈɡoʊ/",
+          "eng_def": "before now; in the past"
+        },
+        {
+          "word": "office",
+          "def": "办公室",
+          "ipa": "/ˈɒf.ɪs/",
+          "eng_def": "a room where people work at desks"
+        },
+        {
+          "word": "five",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The town's color is either blue or green in my mind.",
+      "zh": "在我心里，小镇的颜色要么是蓝色要么是绿色。",
+      "words": [
+        {
+          "word": "color",
+          "def": "颜色",
+          "ipa": "/ˈkʌl.ər/",
+          "eng_def": "the way things look when light hits them (e.g. red, blue)"
+        },
+        {
+          "word": "either",
+          "def": "要么",
+          "ipa": "/ˈaɪ.ðər/",
+          "eng_def": "one or the other of two things"
+        },
+        {
+          "word": "mind",
+          "def": "心里",
+          "ipa": "/maɪnd/",
+          "eng_def": "the part of you that thinks and remembers"
+        },
+        {
+          "word": "town's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "blue",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "green",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "subject",
+      "def": "主题",
+      "ipa": "/ˈsʌb.dʒɪkt/",
+      "eng_def": "the main idea of a class or lesson",
+      "example": "The subject of our class is history."
+    },
+    {
+      "word": "class",
+      "def": "课",
+      "ipa": "/klæs/",
+      "eng_def": "a group of students who learn together",
+      "example": "Our class has twenty students."
+    },
+    {
+      "word": "development",
+      "def": "发展",
+      "ipa": "/dɪˈvel.əp.mənt/",
+      "eng_def": "the process of growing or improving",
+      "example": "The development of the town is fast."
+    },
+    {
+      "word": "town",
+      "def": "小镇",
+      "ipa": "/taʊn/",
+      "eng_def": "a small place where people live and work",
+      "example": "I live in a small town."
+    },
+    {
+      "word": "half",
+      "def": "一半",
+      "ipa": "/hæf/",
+      "eng_def": "one of two equal parts of something",
+      "example": "Half of the students are here."
+    },
+    {
+      "word": "minute",
+      "def": "分钟",
+      "ipa": "/ˈmɪn.ɪt/",
+      "eng_def": "a unit of time equal to 60 seconds",
+      "example": "We wait for ten minutes."
+    },
+    {
+      "word": "food",
+      "def": "食物",
+      "ipa": "/fuːd/",
+      "eng_def": "things people eat",
+      "example": "The food in this restaurant is good."
+    },
+    {
+      "word": "break",
+      "def": "休息",
+      "ipa": "/breɪk/",
+      "eng_def": "a short time when you stop working",
+      "example": "We have a break at noon."
+    },
+    {
+      "word": "clear",
+      "def": "清晰的",
+      "ipa": "/klɪr/",
+      "eng_def": "easy to understand; not confusing",
+      "example": "The sky is clear today."
+    },
+    {
+      "word": "future",
+      "def": "未来",
+      "ipa": "/ˈfjuː.tʃər/",
+      "eng_def": "the time that will come after now",
+      "example": "I want a good future."
+    },
+    {
+      "word": "either",
+      "def": "要么",
+      "ipa": "/ˈaɪ.ðər/",
+      "eng_def": "one or the other of two things",
+      "example": "You can have either tea or coffee."
+    },
+    {
+      "word": "ago",
+      "def": "以前",
+      "ipa": "/əˈɡoʊ/",
+      "eng_def": "before now; in the past",
+      "example": "Two years ago, I was a child."
+    },
+    {
+      "word": "per",
+      "def": "每",
+      "ipa": "/pɜːr/",
+      "eng_def": "for each",
+      "example": "The cost is ten dollars per person."
+    },
+    {
+      "word": "remain",
+      "def": "保持",
+      "ipa": "/rɪˈmeɪn/",
+      "eng_def": "to stay in the same place or condition",
+      "example": "The food must remain fresh."
+    },
+    {
+      "word": "top",
+      "def": "顶部",
+      "ipa": "/tɒp/",
+      "eng_def": "the highest part of something",
+      "example": "The book is on top of the desk."
+    },
+    {
+      "word": "among",
+      "def": "在……之中",
+      "ipa": "/əˈmʌŋ/",
+      "eng_def": "in the middle of a group of things or people",
+      "example": "She is among her friends."
+    },
+    {
+      "word": "win",
+      "def": "赢得",
+      "ipa": "/wɪn/",
+      "eng_def": "to be the best in a competition",
+      "example": "Our team can win the game."
+    },
+    {
+      "word": "color",
+      "def": "颜色",
+      "ipa": "/ˈkʌl.ər/",
+      "eng_def": "the way things look when light hits them (e.g. red, blue)",
+      "example": "My favorite color is blue."
+    },
+    {
+      "word": "involve",
+      "def": "涉及",
+      "ipa": "/ɪnˈvɒlv/",
+      "eng_def": "to include or need something or someone",
+      "example": "The job involves a lot of work."
+    },
+    {
+      "word": "reach",
+      "def": "达到",
+      "ipa": "/riːtʃ/",
+      "eng_def": "to get to a place or a level",
+      "example": "We reach the top of the hill."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词的意思是‘主题’？",
+      "question_en": "Which word means 'the main idea of a class or lesson'?",
+      "options": [
+        "A. class",
+        "B. subject",
+        "C. development",
+        "D. town"
+      ],
+      "answer": 1,
+      "word": "subject"
+    },
+    {
+      "question_cn": "‘未来’对应的英语单词是？",
+      "question_en": "What is the English word for '未来'?",
+      "options": [
+        "A. future",
+        "B. break",
+        "C. clear",
+        "D. half"
+      ],
+      "answer": 0,
+      "word": "future"
+    },
+    {
+      "question_cn": "‘赢得’的英语是哪一个？",
+      "question_en": "Which word means 'to be the best in a competition'?",
+      "options": [
+        "A. involve",
+        "B. reach",
+        "C. win",
+        "D. remain"
+      ],
+      "answer": 2,
+      "word": "win"
+    },
+    {
+      "question_cn": "‘在……之中’对应的英语单词是？",
+      "question_en": "What is the English word for '在……之中'?",
+      "options": [
+        "A. among",
+        "B. either",
+        "C. top",
+        "D. per"
+      ],
+      "answer": 0,
+      "word": "among"
+    },
+    {
+      "question_cn": "‘达到’的英语是哪一个？",
+      "question_en": "Which word means 'to get to a place or a level'?",
+      "options": [
+        "A. reach",
+        "B. involve",
+        "C. remain",
+        "D. win"
+      ],
+      "answer": 0,
+      "word": "reach"
+    }
+  ],
+  "image_prompts": [
+    "A classroom with students sitting at desks, a teacher pointing to a map of a small town on the board.",
+    "A chalkboard with 'Subject: Town Development' written on it, students taking notes.",
+    "A list on a whiteboard with 'Clear Plan' at the top, a clock showing the future time.",
+    "Students sitting on chairs in a hallway, eating snacks during a break, a clock showing half past an hour.",
+    "A plate of local food (bread and cheese) on a table, with a price tag showing 'Value'.",
+    "A team of students holding a trophy, cheering after winning a prize.",
+    "A group of people standing in a circle in a town square, talking and pointing at a map.",
+    "A goal line on a running track, a runner reaching the finish line with a calendar showing the end of year.",
+    "A small town with only one office building, a sign saying '5 years ago'.",
+    "A person thinking with thought bubbles showing blue and green colors, a small town in the background."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['remain', 'minute']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 9,
+  "_new_word_count": 20
+}

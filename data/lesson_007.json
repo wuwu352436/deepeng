@@ -1,0 +1,538 @@
+{
+  "id": 7,
+  "title": "A Visit to the Power Center",
+  "article_text": "My mother and I visit the power center today. We watch a big deal about water power. The center has a test for new products. We see nothing special at first, but soon we find a base for a new machine. The machine can grow plants with water. I send a message to my friend to suggest a visit. The staff allow us to walk past the test area. They probably return to the center later. The power of water does not matter if we lose control. This visit is already a concern for my mother.",
+  "sentences": [
+    {
+      "en": "My mother and I visit the power center today.",
+      "zh": "我和妈妈今天参观了电力中心。",
+      "words": [
+        {
+          "word": "mother",
+          "def": "母亲",
+          "ipa": "/ˈmʌðər/",
+          "eng_def": "a female parent"
+        },
+        {
+          "word": "visit",
+          "def": "参观",
+          "ipa": "/ˈvɪzɪt/",
+          "eng_def": "to go to a place for a short time"
+        },
+        {
+          "word": "power",
+          "def": "电力",
+          "ipa": "/ˈpaʊər/",
+          "eng_def": "energy that makes machines work"
+        },
+        {
+          "word": "center",
+          "def": "中心",
+          "ipa": "/ˈsentər/",
+          "eng_def": "a place where something is done"
+        }
+      ]
+    },
+    {
+      "en": "We watch a big deal about water power.",
+      "zh": "我们观看了一个关于水能的重要事件。",
+      "words": [
+        {
+          "word": "watch",
+          "def": "观看",
+          "ipa": "/wɒtʃ/",
+          "eng_def": "to look at something for a time"
+        },
+        {
+          "word": "deal",
+          "def": "事件",
+          "ipa": "/diːl/",
+          "eng_def": "an important event or agreement"
+        },
+        {
+          "word": "water",
+          "def": "水",
+          "ipa": "/ˈwɔːtər/",
+          "eng_def": "a clear liquid that we drink"
+        },
+        {
+          "word": "power",
+          "def": "电力",
+          "ipa": "/ˈpaʊər/",
+          "eng_def": "energy that makes machines work"
+        }
+      ]
+    },
+    {
+      "en": "The center has a test for new products.",
+      "zh": "中心有一个针对新产品的测试。",
+      "words": [
+        {
+          "word": "center",
+          "def": "中心",
+          "ipa": "/ˈsentər/",
+          "eng_def": "a place where something is done"
+        },
+        {
+          "word": "test",
+          "def": "测试",
+          "ipa": "/test/",
+          "eng_def": "a way to see if something works"
+        },
+        {
+          "word": "products",
+          "def": "产品",
+          "ipa": "/ˈprɒdʌkts/",
+          "eng_def": "things that people make or grow"
+        }
+      ]
+    },
+    {
+      "en": "We see nothing special at first, but soon we find a base for a new machine.",
+      "zh": "起初我们没看到什么特别的，但很快我们找到了新机器的基础。",
+      "words": [
+        {
+          "word": "nothing",
+          "def": "没有什么",
+          "ipa": "/ˈnʌθɪŋ/",
+          "eng_def": "not anything"
+        },
+        {
+          "word": "soon",
+          "def": "很快",
+          "ipa": "/suːn/",
+          "eng_def": "after a short time"
+        },
+        {
+          "word": "base",
+          "def": "基础",
+          "ipa": "/beɪs/",
+          "eng_def": "the bottom part that supports something"
+        },
+        {
+          "word": "special",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "machine",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The machine can grow plants with water.",
+      "zh": "这台机器可以用水种植植物。",
+      "words": [
+        {
+          "word": "grow",
+          "def": "种植",
+          "ipa": "/ɡrəʊ/",
+          "eng_def": "to make plants get bigger"
+        },
+        {
+          "word": "water",
+          "def": "水",
+          "ipa": "/ˈwɔːtər/",
+          "eng_def": "a clear liquid that we drink"
+        },
+        {
+          "word": "machine",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "plants",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I send a message to my friend to suggest a visit.",
+      "zh": "我给朋友发了一条消息，建议他来参观。",
+      "words": [
+        {
+          "word": "send",
+          "def": "发送",
+          "ipa": "/send/",
+          "eng_def": "to make something go to someone"
+        },
+        {
+          "word": "suggest",
+          "def": "建议",
+          "ipa": "/səˈdʒest/",
+          "eng_def": "to say that someone should do something"
+        },
+        {
+          "word": "visit",
+          "def": "参观",
+          "ipa": "/ˈvɪzɪt/",
+          "eng_def": "to go to a place for a short time"
+        },
+        {
+          "word": "message",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The staff allow us to walk past the test area.",
+      "zh": "工作人员允许我们走过测试区。",
+      "words": [
+        {
+          "word": "allow",
+          "def": "允许",
+          "ipa": "/əˈlaʊ/",
+          "eng_def": "to let someone do something"
+        },
+        {
+          "word": "walk",
+          "def": "走",
+          "ipa": "/wɔːk/",
+          "eng_def": "to move on foot"
+        },
+        {
+          "word": "past",
+          "def": "经过",
+          "ipa": "/pɑːst/",
+          "eng_def": "from one side to the other side of something"
+        },
+        {
+          "word": "test",
+          "def": "测试",
+          "ipa": "/test/",
+          "eng_def": "a way to see if something works"
+        },
+        {
+          "word": "staff",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "They probably return to the center later.",
+      "zh": "他们可能稍后会回到中心。",
+      "words": [
+        {
+          "word": "probably",
+          "def": "很可能",
+          "ipa": "/ˈprɒbəbli/",
+          "eng_def": "likely to happen"
+        },
+        {
+          "word": "return",
+          "def": "返回",
+          "ipa": "/rɪˈtɜːn/",
+          "eng_def": "to go back to a place"
+        },
+        {
+          "word": "center",
+          "def": "中心",
+          "ipa": "/ˈsentər/",
+          "eng_def": "a place where something is done"
+        },
+        {
+          "word": "later",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The power of water does not matter if we lose control.",
+      "zh": "如果我们失去控制，水能就不重要了。",
+      "words": [
+        {
+          "word": "power",
+          "def": "电力",
+          "ipa": "/ˈpaʊər/",
+          "eng_def": "energy that makes machines work"
+        },
+        {
+          "word": "water",
+          "def": "水",
+          "ipa": "/ˈwɔːtər/",
+          "eng_def": "a clear liquid that we drink"
+        },
+        {
+          "word": "matter",
+          "def": "要紧",
+          "ipa": "/ˈmætər/",
+          "eng_def": "to be important"
+        },
+        {
+          "word": "lose",
+          "def": "失去",
+          "ipa": "/luːz/",
+          "eng_def": "to no longer have something"
+        },
+        {
+          "word": "control",
+          "def": "控制",
+          "ipa": "/kənˈtrəʊl/",
+          "eng_def": "the power to make something do what you want"
+        }
+      ]
+    },
+    {
+      "en": "This visit is already a concern for my mother.",
+      "zh": "这次参观已经让我妈妈担心了。",
+      "words": [
+        {
+          "word": "visit",
+          "def": "参观",
+          "ipa": "/ˈvɪzɪt/",
+          "eng_def": "to go to a place for a short time"
+        },
+        {
+          "word": "already",
+          "def": "已经",
+          "ipa": "/ɔːlˈredi/",
+          "eng_def": "before now"
+        },
+        {
+          "word": "concern",
+          "def": "担心",
+          "ipa": "/kənˈsɜːn/",
+          "eng_def": "a feeling of worry"
+        },
+        {
+          "word": "mother",
+          "def": "母亲",
+          "ipa": "/ˈmʌðər/",
+          "eng_def": "a female parent"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "deal",
+      "def": "事件",
+      "ipa": "/diːl/",
+      "eng_def": "an important event or agreement",
+      "example": "We watch a big deal about water power."
+    },
+    {
+      "word": "water",
+      "def": "水",
+      "ipa": "/ˈwɔːtər/",
+      "eng_def": "a clear liquid that we drink",
+      "example": "The machine can grow plants with water."
+    },
+    {
+      "word": "send",
+      "def": "发送",
+      "ipa": "/send/",
+      "eng_def": "to make something go to someone",
+      "example": "I send a message to my friend."
+    },
+    {
+      "word": "allow",
+      "def": "允许",
+      "ipa": "/əˈlaʊ/",
+      "eng_def": "to let someone do something",
+      "example": "The staff allow us to walk past."
+    },
+    {
+      "word": "soon",
+      "def": "很快",
+      "ipa": "/suːn/",
+      "eng_def": "after a short time",
+      "example": "Soon we find a base."
+    },
+    {
+      "word": "watch",
+      "def": "观看",
+      "ipa": "/wɒtʃ/",
+      "eng_def": "to look at something for a time",
+      "example": "We watch a big deal."
+    },
+    {
+      "word": "base",
+      "def": "基础",
+      "ipa": "/beɪs/",
+      "eng_def": "the bottom part that supports something",
+      "example": "We find a base for a new machine."
+    },
+    {
+      "word": "probably",
+      "def": "很可能",
+      "ipa": "/ˈprɒbəbli/",
+      "eng_def": "likely to happen",
+      "example": "They probably return later."
+    },
+    {
+      "word": "suggest",
+      "def": "建议",
+      "ipa": "/səˈdʒest/",
+      "eng_def": "to say that someone should do something",
+      "example": "I suggest a visit."
+    },
+    {
+      "word": "past",
+      "def": "经过",
+      "ipa": "/pɑːst/",
+      "eng_def": "from one side to the other side of something",
+      "example": "We walk past the test area."
+    },
+    {
+      "word": "power",
+      "def": "电力",
+      "ipa": "/ˈpaʊər/",
+      "eng_def": "energy that makes machines work",
+      "example": "The power of water is great."
+    },
+    {
+      "word": "test",
+      "def": "测试",
+      "ipa": "/test/",
+      "eng_def": "a way to see if something works",
+      "example": "The center has a test."
+    },
+    {
+      "word": "visit",
+      "def": "参观",
+      "ipa": "/ˈvɪzɪt/",
+      "eng_def": "to go to a place for a short time",
+      "example": "We visit the power center."
+    },
+    {
+      "word": "center",
+      "def": "中心",
+      "ipa": "/ˈsentər/",
+      "eng_def": "a place where something is done",
+      "example": "The center is big."
+    },
+    {
+      "word": "grow",
+      "def": "种植",
+      "ipa": "/ɡrəʊ/",
+      "eng_def": "to make plants get bigger",
+      "example": "The machine can grow plants."
+    },
+    {
+      "word": "nothing",
+      "def": "没有什么",
+      "ipa": "/ˈnʌθɪŋ/",
+      "eng_def": "not anything",
+      "example": "We see nothing special."
+    },
+    {
+      "word": "return",
+      "def": "返回",
+      "ipa": "/rɪˈtɜːn/",
+      "eng_def": "to go back to a place",
+      "example": "They return to the center."
+    },
+    {
+      "word": "mother",
+      "def": "母亲",
+      "ipa": "/ˈmʌðər/",
+      "eng_def": "a female parent",
+      "example": "My mother and I visit."
+    },
+    {
+      "word": "walk",
+      "def": "走",
+      "ipa": "/wɔːk/",
+      "eng_def": "to move on foot",
+      "example": "We walk past the test area."
+    },
+    {
+      "word": "matter",
+      "def": "要紧",
+      "ipa": "/ˈmætər/",
+      "eng_def": "to be important",
+      "example": "It does not matter."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词的意思是“发送”？",
+      "question_en": "Which word means 'to make something go to someone'?",
+      "options": [
+        "A. send",
+        "B. allow",
+        "C. watch",
+        "D. return"
+      ],
+      "answer": 0,
+      "word": "send"
+    },
+    {
+      "question_cn": "哪个词的意思是“建议”？",
+      "question_en": "Which word means 'to say that someone should do something'?",
+      "options": [
+        "A. suggest",
+        "B. grow",
+        "C. visit",
+        "D. walk"
+      ],
+      "answer": 0,
+      "word": "suggest"
+    },
+    {
+      "question_cn": "哪个词的意思是“允许”？",
+      "question_en": "Which word means 'to let someone do something'?",
+      "options": [
+        "A. allow",
+        "B. matter",
+        "C. test",
+        "D. deal"
+      ],
+      "answer": 0,
+      "word": "allow"
+    },
+    {
+      "question_cn": "哪个词的意思是“很可能”？",
+      "question_en": "Which word means 'likely to happen'?",
+      "options": [
+        "A. probably",
+        "B. soon",
+        "C. past",
+        "D. nothing"
+      ],
+      "answer": 0,
+      "word": "probably"
+    },
+    {
+      "question_cn": "哪个词的意思是“返回”？",
+      "question_en": "Which word means 'to go back to a place'?",
+      "options": [
+        "A. return",
+        "B. base",
+        "C. center",
+        "D. power"
+      ],
+      "answer": 0,
+      "word": "return"
+    }
+  ],
+  "image_prompts": [
+    "A woman and her child walking into a modern power center building.",
+    "A group of people watching a large screen showing water and energy.",
+    "A scientist testing a new product in a lab with machines.",
+    "A person looking at a large empty room, then finding a metal base on the floor.",
+    "A machine with green plants growing inside, water dripping on them.",
+    "A person typing on a phone with a message bubble that says 'Visit here!'",
+    "Staff members standing by a door, letting a visitor walk through to a test area.",
+    "A person walking back into the power center building from outside.",
+    "A hand losing grip on a control panel near water pipes.",
+    "A mother looking worried while standing in the power center lobby."
+  ],
+  "_needs_review": false,
+  "_lesson_num": 7,
+  "_new_word_count": 20
+}

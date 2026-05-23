@@ -1,0 +1,484 @@
+{
+  "id": 17,
+  "title": "A Plan for National Education",
+  "article_text": "The national government makes a list for education reform. We need to measure the road to better schools. Therefore, we can accord on a new plan. The fund will serve the industry and help kids learn. I wish every kid can wear a uniform and enjoy school. The rest of the money goes to teach teachers. This field of study can certainly kill old problems. It itself is a great chance for change. The death of bad teaching methods is likely. We can claim a good relationship with parents and students.",
+  "sentences": [
+    {
+      "en": "The national government makes a list for education reform.",
+      "zh": "国家政府为教育改革制定了一个清单。",
+      "words": [
+        {
+          "word": "national",
+          "def": "国家的",
+          "ipa": "/ˈnæʃənəl/",
+          "eng_def": "relating to a whole country"
+        },
+        {
+          "word": "list",
+          "def": "清单，列表",
+          "ipa": "/lɪst/",
+          "eng_def": "a set of items written one after another"
+        },
+        {
+          "word": "education",
+          "def": "教育",
+          "ipa": "/ˌedʒuˈkeɪʃən/",
+          "eng_def": "the process of teaching and learning"
+        },
+        {
+          "word": "reform",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "We need to measure the road to better schools.",
+      "zh": "我们需要衡量通往更好学校的道路。",
+      "words": [
+        {
+          "word": "measure",
+          "def": "测量，衡量",
+          "ipa": "/ˈmeʒər/",
+          "eng_def": "to find the size or amount of something"
+        },
+        {
+          "word": "road",
+          "def": "道路",
+          "ipa": "/roʊd/",
+          "eng_def": "a way between places for cars and people"
+        },
+        {
+          "word": "better",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Therefore, we can accord on a new plan.",
+      "zh": "因此，我们可以就一个新计划达成一致。",
+      "words": [
+        {
+          "word": "therefore",
+          "def": "因此",
+          "ipa": "/ˈðerfɔːr/",
+          "eng_def": "for that reason"
+        },
+        {
+          "word": "accord",
+          "def": "一致，协议",
+          "ipa": "/əˈkɔːrd/",
+          "eng_def": "to agree or be in agreement"
+        }
+      ]
+    },
+    {
+      "en": "The fund will serve the industry and help kids learn.",
+      "zh": "这笔资金将服务于工业并帮助孩子们学习。",
+      "words": [
+        {
+          "word": "fund",
+          "def": "资金，基金",
+          "ipa": "/fʌnd/",
+          "eng_def": "money saved or used for a purpose"
+        },
+        {
+          "word": "serve",
+          "def": "服务，提供",
+          "ipa": "/sɜːrv/",
+          "eng_def": "to give help or provide something"
+        },
+        {
+          "word": "industry",
+          "def": "工业，行业",
+          "ipa": "/ˈɪndəstri/",
+          "eng_def": "the making of goods in factories"
+        },
+        {
+          "word": "kid",
+          "def": "孩子",
+          "ipa": "/kɪd/",
+          "eng_def": "a young person"
+        },
+        {
+          "word": "enjoy",
+          "def": "享受",
+          "ipa": "/ɪnˈdʒɔɪ/",
+          "eng_def": "to get pleasure from something"
+        },
+        {
+          "word": "kids",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I wish every kid can wear a uniform and enjoy school.",
+      "zh": "我希望每个孩子都能穿校服并享受学校生活。",
+      "words": [
+        {
+          "word": "wish",
+          "def": "希望，愿望",
+          "ipa": "/wɪʃ/",
+          "eng_def": "to want something to happen"
+        },
+        {
+          "word": "wear",
+          "def": "穿，戴",
+          "ipa": "/wer/",
+          "eng_def": "to have clothes on your body"
+        },
+        {
+          "word": "enjoy",
+          "def": "享受",
+          "ipa": "/ɪnˈdʒɔɪ/",
+          "eng_def": "to get pleasure from something"
+        },
+        {
+          "word": "uniform",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The rest of the money goes to teach teachers.",
+      "zh": "剩余的钱用于培训教师。",
+      "words": [
+        {
+          "word": "rest",
+          "def": "剩余部分",
+          "ipa": "/rest/",
+          "eng_def": "what is left after part is taken"
+        },
+        {
+          "word": "teach",
+          "def": "教，教授",
+          "ipa": "/tiːtʃ/",
+          "eng_def": "to give knowledge or show how to do something"
+        },
+        {
+          "word": "goes",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "This field of study can certainly kill old problems.",
+      "zh": "这个研究领域当然可以消除旧问题。",
+      "words": [
+        {
+          "word": "field",
+          "def": "领域，田地",
+          "ipa": "/fiːld/",
+          "eng_def": "an area of study or work"
+        },
+        {
+          "word": "certainly",
+          "def": "当然，肯定",
+          "ipa": "/ˈsɜːrtənli/",
+          "eng_def": "without doubt"
+        },
+        {
+          "word": "kill",
+          "def": "杀死，消除",
+          "ipa": "/kɪl/",
+          "eng_def": "to make something die or end"
+        }
+      ]
+    },
+    {
+      "en": "It itself is a great chance for change.",
+      "zh": "它本身就是一个改变的好机会。",
+      "words": [
+        {
+          "word": "itself",
+          "def": "它自己",
+          "ipa": "/ɪtˈself/",
+          "eng_def": "the same thing as the subject"
+        },
+        {
+          "word": "chance",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The death of bad teaching methods is likely.",
+      "zh": "糟糕教学方法的消亡是可能的。",
+      "words": [
+        {
+          "word": "death",
+          "def": "死亡，消亡",
+          "ipa": "/deθ/",
+          "eng_def": "the end of life"
+        },
+        {
+          "word": "likely",
+          "def": "可能的",
+          "ipa": "/ˈlaɪkli/",
+          "eng_def": "probably going to happen"
+        },
+        {
+          "word": "teaching",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "methods",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "We can claim a good relationship with parents and students.",
+      "zh": "我们可以声称与家长和学生关系良好。",
+      "words": [
+        {
+          "word": "claim",
+          "def": "声称，主张",
+          "ipa": "/kleɪm/",
+          "eng_def": "to say something is true"
+        },
+        {
+          "word": "relationship",
+          "def": "关系",
+          "ipa": "/rɪˈleɪʃənʃɪp/",
+          "eng_def": "the way two people or groups feel about each other"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "road",
+      "def": "道路",
+      "ipa": "/roʊd/",
+      "eng_def": "a way between places for cars and people",
+      "example": "We walk on the road."
+    },
+    {
+      "word": "accord",
+      "def": "一致，协议",
+      "ipa": "/əˈkɔːrd/",
+      "eng_def": "to agree or be in agreement",
+      "example": "They accord on the plan."
+    },
+    {
+      "word": "list",
+      "def": "清单，列表",
+      "ipa": "/lɪst/",
+      "eng_def": "a set of items written one after another",
+      "example": "I make a list of things to do."
+    },
+    {
+      "word": "wish",
+      "def": "希望，愿望",
+      "ipa": "/wɪʃ/",
+      "eng_def": "to want something to happen",
+      "example": "I wish for a new book."
+    },
+    {
+      "word": "therefore",
+      "def": "因此",
+      "ipa": "/ˈðerfɔːr/",
+      "eng_def": "for that reason",
+      "example": "It is raining; therefore I take an umbrella."
+    },
+    {
+      "word": "wear",
+      "def": "穿，戴",
+      "ipa": "/wer/",
+      "eng_def": "to have clothes on your body",
+      "example": "I wear a blue shirt."
+    },
+    {
+      "word": "fund",
+      "def": "资金，基金",
+      "ipa": "/fʌnd/",
+      "eng_def": "money saved or used for a purpose",
+      "example": "The fund helps poor children."
+    },
+    {
+      "word": "rest",
+      "def": "剩余部分",
+      "ipa": "/rest/",
+      "eng_def": "what is left after part is taken",
+      "example": "Eat the rest of the food."
+    },
+    {
+      "word": "kid",
+      "def": "孩子",
+      "ipa": "/kɪd/",
+      "eng_def": "a young person",
+      "example": "The kid plays in the park."
+    },
+    {
+      "word": "industry",
+      "def": "工业，行业",
+      "ipa": "/ˈɪndəstri/",
+      "eng_def": "the making of goods in factories",
+      "example": "The car industry makes cars."
+    },
+    {
+      "word": "education",
+      "def": "教育",
+      "ipa": "/ˌedʒuˈkeɪʃən/",
+      "eng_def": "the process of teaching and learning",
+      "example": "Education is important for kids."
+    },
+    {
+      "word": "measure",
+      "def": "测量，衡量",
+      "ipa": "/ˈmeʒər/",
+      "eng_def": "to find the size or amount of something",
+      "example": "We measure the table."
+    },
+    {
+      "word": "kill",
+      "def": "杀死，消除",
+      "ipa": "/kɪl/",
+      "eng_def": "to make something die or end",
+      "example": "The cold can kill plants."
+    },
+    {
+      "word": "serve",
+      "def": "服务，提供",
+      "ipa": "/sɜːrv/",
+      "eng_def": "to give help or provide something",
+      "example": "She serves food at the party."
+    },
+    {
+      "word": "likely",
+      "def": "可能的",
+      "ipa": "/ˈlaɪkli/",
+      "eng_def": "probably going to happen",
+      "example": "It is likely to rain today."
+    },
+    {
+      "word": "certainly",
+      "def": "当然，肯定",
+      "ipa": "/ˈsɜːrtənli/",
+      "eng_def": "without doubt",
+      "example": "He certainly knows the answer."
+    },
+    {
+      "word": "national",
+      "def": "国家的",
+      "ipa": "/ˈnæʃənəl/",
+      "eng_def": "relating to a whole country",
+      "example": "The national flag is red."
+    },
+    {
+      "word": "itself",
+      "def": "它自己",
+      "ipa": "/ɪtˈself/",
+      "eng_def": "the same thing as the subject",
+      "example": "The cat cleans itself."
+    },
+    {
+      "word": "teach",
+      "def": "教，教授",
+      "ipa": "/tiːtʃ/",
+      "eng_def": "to give knowledge or show how to do something",
+      "example": "I teach English."
+    },
+    {
+      "word": "field",
+      "def": "领域，田地",
+      "ipa": "/fiːld/",
+      "eng_def": "an area of study or work",
+      "example": "She works in the medical field."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "“因此”用英语怎么说？",
+      "question_en": "How do you say '因此' in English?",
+      "options": [
+        "A. therefore",
+        "B. accord",
+        "C. list",
+        "D. wear"
+      ],
+      "answer": 0,
+      "word": "therefore"
+    },
+    {
+      "question_cn": "“资金”的英语单词是？",
+      "question_en": "What is the English word for '资金'?",
+      "options": [
+        "A. fund",
+        "B. rest",
+        "C. field",
+        "D. road"
+      ],
+      "answer": 0,
+      "word": "fund"
+    },
+    {
+      "question_cn": "“杀死”的英语单词是？",
+      "question_en": "What is the English word for '杀死'?",
+      "options": [
+        "A. kill",
+        "B. teach",
+        "C. measure",
+        "D. serve"
+      ],
+      "answer": 0,
+      "word": "kill"
+    },
+    {
+      "question_cn": "“教育”的英语单词是？",
+      "question_en": "What is the English word for '教育'?",
+      "options": [
+        "A. education",
+        "B. industry",
+        "C. list",
+        "D. wish"
+      ],
+      "answer": 0,
+      "word": "education"
+    },
+    {
+      "question_cn": "“国家的”用英语怎么说？",
+      "question_en": "How do you say '国家的' in English?",
+      "options": [
+        "A. national",
+        "B. likely",
+        "C. certainly",
+        "D. itself"
+      ],
+      "answer": 0,
+      "word": "national"
+    }
+  ],
+  "image_prompts": [
+    "A government building with a large list on a table.",
+    "A long road leading to a school with a ruler measuring the distance.",
+    "Two people shaking hands in agreement over a document.",
+    "A pile of coins labeled 'fund' going to a factory and a child studying.",
+    "A child wearing a school uniform and smiling while reading a book.",
+    "A teacher in front of a classroom with leftover money being used for training.",
+    "A scientist in a field of study erasing old problems with a brush.",
+    "A glowing opportunity sign pointing to a door of change.",
+    "A broken blackboard representing the end of bad teaching methods.",
+    "A parent and teacher shaking hands with a student between them."
+  ],
+  "_needs_review": false,
+  "_lesson_num": 17,
+  "_new_word_count": 20
+}

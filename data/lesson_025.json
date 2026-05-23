@@ -1,0 +1,463 @@
+{
+  "id": 25,
+  "title": "Building a Business",
+  "article_text": "I respect my father because he has various skills for his work. He can catch opportunities and thus build a successful business. His son also tries to learn every simple skill from him. The medium level of stock in his shop helps the local economy. Good character and management are important for any business. He hits every goal he sets and can establish a strong company. Indeed, his final plan is to fit the business for the average person. I always notice that he works hard every day. His international manager sometimes visits our shop. The shop does not contain any bad products.",
+  "sentences": [
+    {
+      "en": "I respect my father because he has various skills for his work.",
+      "zh": "我尊敬我的父亲，因为他有各种工作技能。",
+      "words": [
+        {
+          "word": "respect",
+          "def": "尊敬",
+          "ipa": "/rɪˈspekt/",
+          "eng_def": "to have a good opinion of someone"
+        },
+        {
+          "word": "various",
+          "def": "各种不同的",
+          "ipa": "/ˈveəriəs/",
+          "eng_def": "many different types of"
+        },
+        {
+          "word": "skill",
+          "def": "技能",
+          "ipa": "/skɪl/",
+          "eng_def": "the ability to do something well"
+        },
+        {
+          "word": "skills",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "He can catch opportunities and thus build a successful business.",
+      "zh": "他能抓住机会，从而建立成功的事业。",
+      "words": [
+        {
+          "word": "catch",
+          "def": "抓住",
+          "ipa": "/kætʃ/",
+          "eng_def": "to get hold of something moving"
+        },
+        {
+          "word": "thus",
+          "def": "因此",
+          "ipa": "/ðʌs/",
+          "eng_def": "as a result of something"
+        },
+        {
+          "word": "opportunities",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "successful",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "His son also tries to learn every simple skill from him.",
+      "zh": "他的儿子也尝试从他那里学习每一个简单的技能。",
+      "words": [
+        {
+          "word": "son",
+          "def": "儿子",
+          "ipa": "/sʌn/",
+          "eng_def": "a male child of a parent"
+        },
+        {
+          "word": "simple",
+          "def": "简单的",
+          "ipa": "/ˈsɪmpəl/",
+          "eng_def": "easy to understand or do"
+        },
+        {
+          "word": "skill",
+          "def": "技能",
+          "ipa": "/skɪl/",
+          "eng_def": "the ability to do something well"
+        },
+        {
+          "word": "tries",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The medium level of stock in his shop helps the local economy.",
+      "zh": "他店里中等水平的库存有助于当地经济。",
+      "words": [
+        {
+          "word": "medium",
+          "def": "中等的",
+          "ipa": "/ˈmiːdiəm/",
+          "eng_def": "in the middle between two sizes or amounts"
+        },
+        {
+          "word": "stock",
+          "def": "库存",
+          "ipa": "/stɒk/",
+          "eng_def": "the goods that a shop has for sale"
+        },
+        {
+          "word": "economy",
+          "def": "经济",
+          "ipa": "/ɪˈkɒnəmi/",
+          "eng_def": "the system of money and trade in a country"
+        }
+      ]
+    },
+    {
+      "en": "Good character and management are important for any business.",
+      "zh": "好的品格和管理对任何生意都很重要。",
+      "words": [
+        {
+          "word": "character",
+          "def": "品格",
+          "ipa": "/ˈkærɪktər/",
+          "eng_def": "the qualities that make a person different from others"
+        },
+        {
+          "word": "management",
+          "def": "管理",
+          "ipa": "/ˈmænɪdʒmənt/",
+          "eng_def": "the control and organization of something"
+        }
+      ]
+    },
+    {
+      "en": "He hits every goal he sets and can establish a strong company.",
+      "zh": "他实现每一个设定的目标，并能建立一家强大的公司。",
+      "words": [
+        {
+          "word": "hit",
+          "def": "达到",
+          "ipa": "/hɪt/",
+          "eng_def": "to reach or achieve something"
+        },
+        {
+          "word": "establish",
+          "def": "建立",
+          "ipa": "/ɪˈstæblɪʃ/",
+          "eng_def": "to start or create something"
+        },
+        {
+          "word": "hits",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "goal",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Indeed, his final plan is to fit the business for the average person.",
+      "zh": "的确，他的最终计划是让生意适合普通人。",
+      "words": [
+        {
+          "word": "indeed",
+          "def": "的确",
+          "ipa": "/ɪnˈdiːd/",
+          "eng_def": "used to say that something is true"
+        },
+        {
+          "word": "final",
+          "def": "最终的",
+          "ipa": "/ˈfaɪnəl/",
+          "eng_def": "last in a series"
+        },
+        {
+          "word": "fit",
+          "def": "适合",
+          "ipa": "/fɪt/",
+          "eng_def": "to be the right size or type for someone"
+        },
+        {
+          "word": "average",
+          "def": "普通的",
+          "ipa": "/ˈævərɪdʒ/",
+          "eng_def": "typical or normal"
+        }
+      ]
+    },
+    {
+      "en": "I always notice that he works hard every day.",
+      "zh": "我总是注意到他每天努力工作。",
+      "words": [
+        {
+          "word": "notice",
+          "def": "注意到",
+          "ipa": "/ˈnəʊtɪs/",
+          "eng_def": "to see or become aware of something"
+        }
+      ]
+    },
+    {
+      "en": "His international manager sometimes visits our shop.",
+      "zh": "他的国际经理有时会来我们店里。",
+      "words": [
+        {
+          "word": "international",
+          "def": "国际的",
+          "ipa": "/ˌɪntəˈnæʃənəl/",
+          "eng_def": "involving more than one country"
+        },
+        {
+          "word": "manager",
+          "def": "经理",
+          "ipa": "/ˈmænɪdʒər/",
+          "eng_def": "a person who controls a business"
+        }
+      ]
+    },
+    {
+      "en": "The shop does not contain any bad products.",
+      "zh": "这家店不包含任何劣质产品。",
+      "words": [
+        {
+          "word": "contain",
+          "def": "包含",
+          "ipa": "/kənˈteɪn/",
+          "eng_def": "to have something inside"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "respect",
+      "def": "尊敬",
+      "ipa": "/rɪˈspekt/",
+      "eng_def": "to have a good opinion of someone",
+      "example": "I respect my teacher."
+    },
+    {
+      "word": "various",
+      "def": "各种不同的",
+      "ipa": "/ˈveəriəs/",
+      "eng_def": "many different types of",
+      "example": "She has various books."
+    },
+    {
+      "word": "catch",
+      "def": "抓住",
+      "ipa": "/kætʃ/",
+      "eng_def": "to get hold of something moving",
+      "example": "He can catch a ball."
+    },
+    {
+      "word": "thus",
+      "def": "因此",
+      "ipa": "/ðʌs/",
+      "eng_def": "as a result of something",
+      "example": "He studies hard, thus he passes."
+    },
+    {
+      "word": "skill",
+      "def": "技能",
+      "ipa": "/skɪl/",
+      "eng_def": "the ability to do something well",
+      "example": "Reading is a useful skill."
+    },
+    {
+      "word": "attempt",
+      "def": "尝试",
+      "ipa": "/əˈtempt/",
+      "eng_def": "to try to do something",
+      "example": "I attempt to finish my work."
+    },
+    {
+      "word": "son",
+      "def": "儿子",
+      "ipa": "/sʌn/",
+      "eng_def": "a male child of a parent",
+      "example": "His son is five years old."
+    },
+    {
+      "word": "simple",
+      "def": "简单的",
+      "ipa": "/ˈsɪmpəl/",
+      "eng_def": "easy to understand or do",
+      "example": "This is a simple question."
+    },
+    {
+      "word": "medium",
+      "def": "中等的",
+      "ipa": "/ˈmiːdiəm/",
+      "eng_def": "in the middle between two sizes or amounts",
+      "example": "I want a medium coffee."
+    },
+    {
+      "word": "average",
+      "def": "普通的",
+      "ipa": "/ˈævərɪdʒ/",
+      "eng_def": "typical or normal",
+      "example": "He is an average student."
+    },
+    {
+      "word": "stock",
+      "def": "库存",
+      "ipa": "/stɒk/",
+      "eng_def": "the goods that a shop has for sale",
+      "example": "The shop has a big stock of shoes."
+    },
+    {
+      "word": "management",
+      "def": "管理",
+      "ipa": "/ˈmænɪdʒmənt/",
+      "eng_def": "the control and organization of something",
+      "example": "Good management helps a company grow."
+    },
+    {
+      "word": "character",
+      "def": "品格",
+      "ipa": "/ˈkærɪktər/",
+      "eng_def": "the qualities that make a person different from others",
+      "example": "She has a strong character."
+    },
+    {
+      "word": "bed",
+      "def": "床",
+      "ipa": "/bed/",
+      "eng_def": "a piece of furniture for sleeping on",
+      "example": "I sleep on my bed."
+    },
+    {
+      "word": "hit",
+      "def": "达到",
+      "ipa": "/hɪt/",
+      "eng_def": "to reach or achieve something",
+      "example": "He hits his sales goal."
+    },
+    {
+      "word": "establish",
+      "def": "建立",
+      "ipa": "/ɪˈstæblɪʃ/",
+      "eng_def": "to start or create something",
+      "example": "They establish a new company."
+    },
+    {
+      "word": "indeed",
+      "def": "的确",
+      "ipa": "/ɪnˈdiːd/",
+      "eng_def": "used to say that something is true",
+      "example": "Indeed, it is a good idea."
+    },
+    {
+      "word": "final",
+      "def": "最终的",
+      "ipa": "/ˈfaɪnəl/",
+      "eng_def": "last in a series",
+      "example": "This is my final answer."
+    },
+    {
+      "word": "economy",
+      "def": "经济",
+      "ipa": "/ɪˈkɒnəmi/",
+      "eng_def": "the system of money and trade in a country",
+      "example": "The economy is growing."
+    },
+    {
+      "word": "fit",
+      "def": "适合",
+      "ipa": "/fɪt/",
+      "eng_def": "to be the right size or type for someone",
+      "example": "This shirt fits me well."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "“respect” 的意思是什么？",
+      "question_en": "What does 'respect' mean?",
+      "options": [
+        "A. 尊敬",
+        "B. 讨厌",
+        "C. 忽略",
+        "D. 忘记"
+      ],
+      "answer": 0,
+      "word": "respect"
+    },
+    {
+      "question_cn": "“various” 的意思是什么？",
+      "question_en": "What does 'various' mean?",
+      "options": [
+        "A. 相同的",
+        "B. 各种不同的",
+        "C. 很少的",
+        "D. 唯一的"
+      ],
+      "answer": 1,
+      "word": "various"
+    },
+    {
+      "question_cn": "“catch” 的意思是什么？",
+      "question_en": "What does 'catch' mean?",
+      "options": [
+        "A. 扔掉",
+        "B. 抓住",
+        "C. 打破",
+        "D. 推开"
+      ],
+      "answer": 1,
+      "word": "catch"
+    },
+    {
+      "question_cn": "“establish” 的意思是什么？",
+      "question_en": "What does 'establish' mean?",
+      "options": [
+        "A. 破坏",
+        "B. 建立",
+        "C. 移动",
+        "D. 关闭"
+      ],
+      "answer": 1,
+      "word": "establish"
+    },
+    {
+      "question_cn": "“average” 的意思是什么？",
+      "question_en": "What does 'average' mean?",
+      "options": [
+        "A. 特别的",
+        "B. 普通的",
+        "C. 最差的",
+        "D. 最好的"
+      ],
+      "answer": 1,
+      "word": "average"
+    }
+  ],
+  "image_prompts": [
+    "A young boy looking up at his father with respect, father working at a desk with various tools around.",
+    "A businessman catching a flying opportunity (like a golden ring) with a net, leading to a successful office building in background.",
+    "A son sitting next to his father, learning a simple skill like tying a knot.",
+    "A small shop with a medium amount of stock on shelves, money signs and a graph showing local economy growth.",
+    "A manager standing in front of a chart showing character and management as two pillars supporting a business.",
+    "A man hitting a target with an arrow, then building a strong company building with his hands.",
+    "A business plan on paper with 'final plan' written, fitting a puzzle piece into a picture of an average person.",
+    "A person noticing a hardworking businessman at his desk with a clock showing late hours.",
+    "An international manager from another country visiting a local shop, shaking hands with the owner.",
+    "A shop interior with clean shelves, no bad products, a sign saying '100% good quality'."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['bed', 'attempt']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 25,
+  "_new_word_count": 20
+}

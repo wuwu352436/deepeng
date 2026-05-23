@@ -1,0 +1,505 @@
+{
+  "id": 91,
+  "title": "A Company’s Success Story",
+  "article_text": "Our company became the main supplier for many industries, and that prize was a great recognition of our hard work. The CEO, whose vision was crucial, helped us dominate the market with a new acquisition of a smaller firm. We typically saw a variation in profits, but the proof of our growth was in the rising sales numbers. The laughter from our peers during a meeting was a sign that we had deeply enjoyed the success together. The unemployment rate fell, and many workers received assistance to find new jobs after the old factory closed its doors. The roof of the old building was repaired, and the wheel of progress turned faster than before. The soil in the fields was rich, and the crop yield had increased after the company provided new farming tools. The company offered a good pension plan, and many employees looked forward to their retirement with a peaceful life. The electricity bill was paid on time, and the wing of the building was used for storage. If we had not worked together, we would not have achieved such a high level of success, and everyone would have felt a loss of hope.",
+  "sentences": [
+    {
+      "en": "Our company became the main supplier for many industries, and that prize was a great recognition of our hard work.",
+      "zh": "我们公司成为许多行业的主要供应商，那个奖项是对我们辛勤工作的极大认可。",
+      "words": [
+        {
+          "word": "supplier",
+          "def": "供应商",
+          "ipa": "/səˈplaɪər/",
+          "eng_def": "a person or company that provides goods or services"
+        },
+        {
+          "word": "prize",
+          "def": "奖项，奖品",
+          "ipa": "/praɪz/",
+          "eng_def": "something given to someone for winning a competition or doing good work"
+        },
+        {
+          "word": "recognition",
+          "def": "认可，承认",
+          "ipa": "/ˌrekəɡˈnɪʃən/",
+          "eng_def": "the act of accepting that something is true or important"
+        },
+        {
+          "word": "became",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "industries",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The CEO, whose vision was crucial, helped us dominate the market with a new acquisition of a smaller firm.",
+      "zh": "CEO的眼光至关重要，他通过收购一家小公司帮助我们主导了市场。",
+      "words": [
+        {
+          "word": "crucial",
+          "def": "至关重要的",
+          "ipa": "/ˈkruːʃəl/",
+          "eng_def": "very important"
+        },
+        {
+          "word": "dominate",
+          "def": "主导，支配",
+          "ipa": "/ˈdɒmɪneɪt/",
+          "eng_def": "to control or have a strong influence over something"
+        },
+        {
+          "word": "acquisition",
+          "def": "收购，获得",
+          "ipa": "/ˌækwɪˈzɪʃən/",
+          "eng_def": "the act of buying or getting something"
+        },
+        {
+          "word": "ceo",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "whose",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "smaller",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "We typically saw a variation in profits, but the proof of our growth was in the rising sales numbers.",
+      "zh": "我们通常看到利润有变化，但我们增长的证据在于不断上升的销售数字。",
+      "words": [
+        {
+          "word": "typically",
+          "def": "通常",
+          "ipa": "/ˈtɪpɪkli/",
+          "eng_def": "in the usual way; normally"
+        },
+        {
+          "word": "variation",
+          "def": "变化，变动",
+          "ipa": "/ˌveəriˈeɪʃən/",
+          "eng_def": "a change in amount or level"
+        },
+        {
+          "word": "proof",
+          "def": "证据",
+          "ipa": "/pruːf/",
+          "eng_def": "information that shows something is true"
+        },
+        {
+          "word": "saw",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The laughter from our peers during a meeting was a sign that we had deeply enjoyed the success together.",
+      "zh": "会议上同伴们的笑声表明我们深深地一起享受了成功。",
+      "words": [
+        {
+          "word": "laughter",
+          "def": "笑声",
+          "ipa": "/ˈlɑːftər/",
+          "eng_def": "the sound of people laughing"
+        },
+        {
+          "word": "peer",
+          "def": "同伴，同龄人",
+          "ipa": "/pɪər/",
+          "eng_def": "a person who is the same age or has the same position as you"
+        },
+        {
+          "word": "deeply",
+          "def": "深深地",
+          "ipa": "/ˈdiːpli/",
+          "eng_def": "in a strong or serious way"
+        },
+        {
+          "word": "peers",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The unemployment rate fell, and many workers received assistance to find new jobs after the old factory closed its doors.",
+      "zh": "失业率下降了，许多工人在旧工厂关门后得到了找新工作的援助。",
+      "words": [
+        {
+          "word": "unemployment",
+          "def": "失业",
+          "ipa": "/ˌʌnɪmˈplɔɪmənt/",
+          "eng_def": "the state of not having a job"
+        },
+        {
+          "word": "assistance",
+          "def": "援助，帮助",
+          "ipa": "/əˈsɪstəns/",
+          "eng_def": "help or support"
+        },
+        {
+          "word": "fell",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The roof of the old building was repaired, and the wheel of progress turned faster than before.",
+      "zh": "旧建筑的屋顶修好了，进步的车轮比以前转得更快了。",
+      "words": [
+        {
+          "word": "roof",
+          "def": "屋顶",
+          "ipa": "/ruːf/",
+          "eng_def": "the top covering of a building"
+        },
+        {
+          "word": "wheel",
+          "def": "轮子，车轮",
+          "ipa": "/wiːl/",
+          "eng_def": "a round object that turns to move a vehicle or machine"
+        },
+        {
+          "word": "faster",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The soil in the fields was rich, and the crop yield had increased after the company provided new farming tools.",
+      "zh": "田地里的土壤很肥沃，公司提供新农具后作物产量增加了。",
+      "words": [
+        {
+          "word": "soil",
+          "def": "土壤",
+          "ipa": "/sɔɪl/",
+          "eng_def": "the top layer of earth in which plants grow"
+        },
+        {
+          "word": "crop",
+          "def": "作物，庄稼",
+          "ipa": "/krɒp/",
+          "eng_def": "a plant grown for food, usually on a farm"
+        }
+      ]
+    },
+    {
+      "en": "The company offered a good pension plan, and many employees looked forward to their retirement with a peaceful life.",
+      "zh": "公司提供了良好的养老金计划，许多员工期待着退休后过上平静的生活。",
+      "words": [
+        {
+          "word": "pension",
+          "def": "养老金，退休金",
+          "ipa": "/ˈpenʃən/",
+          "eng_def": "money paid regularly to someone who has stopped working because of age"
+        },
+        {
+          "word": "retirement",
+          "def": "退休",
+          "ipa": "/rɪˈtaɪəmənt/",
+          "eng_def": "the time when you stop working because of age"
+        },
+        {
+          "word": "peaceful",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The electricity bill was paid on time, and the wing of the building was used for storage.",
+      "zh": "电费按时支付了，大楼的侧翼被用于存储。",
+      "words": [
+        {
+          "word": "electricity",
+          "def": "电",
+          "ipa": "/ɪˌlekˈtrɪsəti/",
+          "eng_def": "a form of energy used for light, heat, and power"
+        },
+        {
+          "word": "wing",
+          "def": "侧翼，翅膀",
+          "ipa": "/wɪŋ/",
+          "eng_def": "a part of a building that goes out from the main part"
+        },
+        {
+          "word": "paid",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "storage",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "If we had not worked together, we would not have achieved such a high level of success, and everyone would have felt a loss of hope.",
+      "zh": "如果我们没有一起努力，我们就不会取得如此高的成功，每个人都会感到失去希望。",
+      "words": [
+        {
+          "word": "ultimately",
+          "def": "最终",
+          "ipa": "/ˈʌltɪmətli/",
+          "eng_def": "finally; in the end"
+        },
+        {
+          "word": "felt",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "dominate",
+      "def": "主导，支配",
+      "ipa": "/ˈdɒmɪneɪt/",
+      "eng_def": "to control or have a strong influence over something",
+      "example": "The big company tried to dominate the market."
+    },
+    {
+      "word": "supplier",
+      "def": "供应商",
+      "ipa": "/səˈplaɪər/",
+      "eng_def": "a person or company that provides goods or services",
+      "example": "We need a new supplier for our office paper."
+    },
+    {
+      "word": "prize",
+      "def": "奖项，奖品",
+      "ipa": "/praɪz/",
+      "eng_def": "something given to someone for winning a competition or doing good work",
+      "example": "She won first prize in the science contest."
+    },
+    {
+      "word": "typically",
+      "def": "通常",
+      "ipa": "/ˈtɪpɪkli/",
+      "eng_def": "in the usual way; normally",
+      "example": "He typically arrives at work at eight o'clock."
+    },
+    {
+      "word": "peer",
+      "def": "同伴，同龄人",
+      "ipa": "/pɪər/",
+      "eng_def": "a person who is the same age or has the same position as you",
+      "example": "Her peers respect her for her honesty."
+    },
+    {
+      "word": "pension",
+      "def": "养老金，退休金",
+      "ipa": "/ˈpenʃən/",
+      "eng_def": "money paid regularly to someone who has stopped working because of age",
+      "example": "My grandfather gets a pension from the government."
+    },
+    {
+      "word": "wing",
+      "def": "侧翼，翅膀",
+      "ipa": "/wɪŋ/",
+      "eng_def": "a part of a building that goes out from the main part",
+      "example": "The hospital has a new wing for children."
+    },
+    {
+      "word": "acquisition",
+      "def": "收购，获得",
+      "ipa": "/ˌækwɪˈzɪʃən/",
+      "eng_def": "the act of buying or getting something",
+      "example": "The company's acquisition of the small firm helped it grow."
+    },
+    {
+      "word": "laughter",
+      "def": "笑声",
+      "ipa": "/ˈlɑːftər/",
+      "eng_def": "the sound of people laughing",
+      "example": "Her joke caused a lot of laughter."
+    },
+    {
+      "word": "deeply",
+      "def": "深深地",
+      "ipa": "/ˈdiːpli/",
+      "eng_def": "in a strong or serious way",
+      "example": "He was deeply moved by the story."
+    },
+    {
+      "word": "recognition",
+      "def": "认可，承认",
+      "ipa": "/ˌrekəɡˈnɪʃən/",
+      "eng_def": "the act of accepting that something is true or important",
+      "example": "He received recognition for his hard work."
+    },
+    {
+      "word": "electricity",
+      "def": "电",
+      "ipa": "/ɪˌlekˈtrɪsəti/",
+      "eng_def": "a form of energy used for light, heat, and power",
+      "example": "We use electricity to light our homes."
+    },
+    {
+      "word": "assistance",
+      "def": "援助，帮助",
+      "ipa": "/əˈsɪstəns/",
+      "eng_def": "help or support",
+      "example": "She offered her assistance to the old man."
+    },
+    {
+      "word": "roof",
+      "def": "屋顶",
+      "ipa": "/ruːf/",
+      "eng_def": "the top covering of a building",
+      "example": "The roof of the house is made of tiles."
+    },
+    {
+      "word": "retirement",
+      "def": "退休",
+      "ipa": "/rɪˈtaɪəmənt/",
+      "eng_def": "the time when you stop working because of age",
+      "example": "He is looking forward to his retirement next year."
+    },
+    {
+      "word": "respectively",
+      "def": "分别地",
+      "ipa": "/rɪˈspektɪvli/",
+      "eng_def": "in the order given",
+      "example": "Tom and Jerry are 10 and 12 years old, respectively."
+    },
+    {
+      "word": "variation",
+      "def": "变化，变动",
+      "ipa": "/ˌveəriˈeɪʃən/",
+      "eng_def": "a change in amount or level",
+      "example": "There is a variation in temperature between day and night."
+    },
+    {
+      "word": "ultimately",
+      "def": "最终",
+      "ipa": "/ˈʌltɪmətli/",
+      "eng_def": "finally; in the end",
+      "example": "Ultimately, we decided to stay home."
+    },
+    {
+      "word": "proof",
+      "def": "证据",
+      "ipa": "/pruːf/",
+      "eng_def": "information that shows something is true",
+      "example": "Do you have proof that he did it?"
+    },
+    {
+      "word": "soil",
+      "def": "土壤",
+      "ipa": "/sɔɪl/",
+      "eng_def": "the top layer of earth in which plants grow",
+      "example": "The soil in this garden is very rich."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词的意思是“供应商”？",
+      "question_en": "Which word means 'a person or company that provides goods or services'?",
+      "options": [
+        "A. supplier",
+        "B. peer",
+        "C. prize",
+        "D. wing"
+      ],
+      "answer": 0,
+      "word": "supplier"
+    },
+    {
+      "question_cn": "哪个词的意思是“最终”？",
+      "question_en": "Which word means 'finally; in the end'?",
+      "options": [
+        "A. deeply",
+        "B. ultimately",
+        "C. typically",
+        "D. respectively"
+      ],
+      "answer": 1,
+      "word": "ultimately"
+    },
+    {
+      "question_cn": "哪个词的意思是“收购”？",
+      "question_en": "Which word means 'the act of buying or getting something'?",
+      "options": [
+        "A. recognition",
+        "B. variation",
+        "C. acquisition",
+        "D. assistance"
+      ],
+      "answer": 2,
+      "word": "acquisition"
+    },
+    {
+      "question_cn": "哪个词的意思是“养老金”？",
+      "question_en": "Which word means 'money paid regularly to someone who has stopped working because of age'?",
+      "options": [
+        "A. retirement",
+        "B. pension",
+        "C. prize",
+        "D. proof"
+      ],
+      "answer": 1,
+      "word": "pension"
+    },
+    {
+      "question_cn": "哪个词的意思是“土壤”？",
+      "question_en": "Which word means 'the top layer of earth in which plants grow'?",
+      "options": [
+        "A. soil",
+        "B. crop",
+        "C. roof",
+        "D. wheel"
+      ],
+      "answer": 0,
+      "word": "soil"
+    }
+  ],
+  "image_prompts": [
+    "A company building with a sign reading 'Main Supplier' and a trophy on a desk.",
+    "A CEO pointing at a graph showing market dominance, with a small company logo being absorbed.",
+    "A line chart showing profit variation with an arrow pointing upward to highlight proof of growth.",
+    "A group of colleagues laughing together in a meeting room, with smiles and joyful expressions.",
+    "A factory closing its doors with a 'Help Wanted' sign nearby, and workers receiving assistance forms.",
+    "An old building with a repaired roof and a large wheel turning next to it, symbolizing progress.",
+    "A farmer holding rich soil in his hands next to a field of tall crops with new farming tools nearby.",
+    "An office with a 'Pension Plan' poster and an elderly couple smiling while sitting in a peaceful garden.",
+    "A building with a side wing used for storage, and an electricity meter showing 'Paid'.",
+    "A group of people shaking hands in celebration, with a banner saying 'Success Together' in the background."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['respectively', 'ultimately']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 91,
+  "_new_word_count": 20
+}

@@ -1,0 +1,439 @@
+{
+  "id": 39,
+  "title": "A New Project at Work",
+  "article_text": "My sister has a big responsibility at her job. She works for a creative agency in the city. Her original idea for a new garden design won a prize. She wants to fix the garden before summer, so she must work hard. Her dream is to start her own company one day. She can easily cross the river to visit the university. She does not like rock music, nor does she enjoy loud parties. She saved enough dollars to buy a new house. Her proposal for the project is a legal document. After a long conversation with her boss, she felt good about the future.",
+  "sentences": [
+    {
+      "en": "My sister has a big responsibility at her job.",
+      "zh": "我姐姐在工作上承担着重大责任。",
+      "words": [
+        {
+          "word": "sister",
+          "def": "姐妹",
+          "ipa": "/ˈsɪstər/",
+          "eng_def": "a female sibling"
+        },
+        {
+          "word": "responsibility",
+          "def": "责任",
+          "ipa": "/rɪˌspɑnsəˈbɪləti/",
+          "eng_def": "a duty or task that you must do"
+        }
+      ]
+    },
+    {
+      "en": "She works for a creative agency in the city.",
+      "zh": "她在城里一家创意机构工作。",
+      "words": [
+        {
+          "word": "agency",
+          "def": "机构",
+          "ipa": "/ˈeɪdʒənsi/",
+          "eng_def": "a business that provides a service"
+        },
+        {
+          "word": "creative",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Her original idea for a new garden design won a prize.",
+      "zh": "她为一座新花园设计的原创想法赢得了奖项。",
+      "words": [
+        {
+          "word": "original",
+          "def": "原创的",
+          "ipa": "/əˈrɪdʒənl/",
+          "eng_def": "new and different; not a copy"
+        },
+        {
+          "word": "garden",
+          "def": "花园",
+          "ipa": "/ˈɡɑːrdn/",
+          "eng_def": "an area for growing flowers or plants"
+        },
+        {
+          "word": "won",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "prize",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "She wants to fix the garden before summer, so she must work hard.",
+      "zh": "她想在夏天前修好花园，所以她必须努力工作。",
+      "words": [
+        {
+          "word": "fix",
+          "def": "修理",
+          "ipa": "/fɪks/",
+          "eng_def": "to make something work again or put it in good condition"
+        }
+      ]
+    },
+    {
+      "en": "Her dream is to start her own company one day.",
+      "zh": "她的梦想是有一天创办自己的公司。",
+      "words": [
+        {
+          "word": "dream",
+          "def": "梦想",
+          "ipa": "/driːm/",
+          "eng_def": "a wish or goal for the future"
+        }
+      ]
+    },
+    {
+      "en": "She can easily cross the river to visit the university.",
+      "zh": "她可以轻松过河去参观大学。",
+      "words": [
+        {
+          "word": "easily",
+          "def": "容易地",
+          "ipa": "/ˈiːzɪli/",
+          "eng_def": "without difficulty"
+        },
+        {
+          "word": "cross",
+          "def": "穿过",
+          "ipa": "/krɔːs/",
+          "eng_def": "to go from one side to the other"
+        },
+        {
+          "word": "university",
+          "def": "大学",
+          "ipa": "/ˌjuːnɪˈvɜːrsəti/",
+          "eng_def": "a school for higher education"
+        },
+        {
+          "word": "river",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "She does not like rock music, nor does she enjoy loud parties.",
+      "zh": "她不喜欢摇滚乐，也不喜欢吵闹的聚会。",
+      "words": [
+        {
+          "word": "rock",
+          "def": "摇滚",
+          "ipa": "/rɑːk/",
+          "eng_def": "a type of loud popular music"
+        },
+        {
+          "word": "nor",
+          "def": "也不",
+          "ipa": "/nɔːr/",
+          "eng_def": "used after 'not' to add another negative idea"
+        },
+        {
+          "word": "loud",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "parties",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "She saved enough dollars to buy a new house.",
+      "zh": "她存够了美元来买新房子。",
+      "words": [
+        {
+          "word": "dollar",
+          "def": "美元",
+          "ipa": "/ˈdɑːlər/",
+          "eng_def": "the money used in the US and some other countries"
+        },
+        {
+          "word": "dollars",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Her proposal for the project is a legal document.",
+      "zh": "她的项目提案是一份法律文件。",
+      "words": [
+        {
+          "word": "proposal",
+          "def": "提案",
+          "ipa": "/prəˈpoʊzl/",
+          "eng_def": "a plan or suggestion for a group to consider"
+        },
+        {
+          "word": "legal",
+          "def": "法律的",
+          "ipa": "/ˈliːɡl/",
+          "eng_def": "related to the law"
+        }
+      ]
+    },
+    {
+      "en": "After a long conversation with her boss, she felt good about the future.",
+      "zh": "和老板长谈后，她对未来感觉很好。",
+      "words": [
+        {
+          "word": "conversation",
+          "def": "对话",
+          "ipa": "/ˌkɑːnvərˈseɪʃn/",
+          "eng_def": "a talk between two or more people"
+        },
+        {
+          "word": "boss",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "felt",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "responsibility",
+      "def": "责任",
+      "ipa": "/rɪˌspɑnsəˈbɪləti/",
+      "eng_def": "a duty or task that you must do",
+      "example": "Taking care of a pet is a big responsibility."
+    },
+    {
+      "word": "original",
+      "def": "原创的",
+      "ipa": "/əˈrɪdʒənl/",
+      "eng_def": "new and different; not a copy",
+      "example": "She has an original painting in her room."
+    },
+    {
+      "word": "sister",
+      "def": "姐妹",
+      "ipa": "/ˈsɪstər/",
+      "eng_def": "a female sibling",
+      "example": "My sister is older than me."
+    },
+    {
+      "word": "rock",
+      "def": "摇滚",
+      "ipa": "/rɑːk/",
+      "eng_def": "a type of loud popular music",
+      "example": "He likes rock music a lot."
+    },
+    {
+      "word": "dream",
+      "def": "梦想",
+      "ipa": "/driːm/",
+      "eng_def": "a wish or goal for the future",
+      "example": "Her dream is to travel the world."
+    },
+    {
+      "word": "nor",
+      "def": "也不",
+      "ipa": "/nɔːr/",
+      "eng_def": "used after 'not' to add another negative idea",
+      "example": "He does not eat meat, nor does he drink milk."
+    },
+    {
+      "word": "university",
+      "def": "大学",
+      "ipa": "/ˌjuːnɪˈvɜːrsəti/",
+      "eng_def": "a school for higher education",
+      "example": "She studies at a university in London."
+    },
+    {
+      "word": "easily",
+      "def": "容易地",
+      "ipa": "/ˈiːzɪli/",
+      "eng_def": "without difficulty",
+      "example": "He can easily solve this problem."
+    },
+    {
+      "word": "agency",
+      "def": "机构",
+      "ipa": "/ˈeɪdʒənsi/",
+      "eng_def": "a business that provides a service",
+      "example": "She works for an advertising agency."
+    },
+    {
+      "word": "dollar",
+      "def": "美元",
+      "ipa": "/ˈdɑːlər/",
+      "eng_def": "the money used in the US and some other countries",
+      "example": "This book costs ten dollars."
+    },
+    {
+      "word": "garden",
+      "def": "花园",
+      "ipa": "/ˈɡɑːrdn/",
+      "eng_def": "an area for growing flowers or plants",
+      "example": "We have a beautiful garden behind our house."
+    },
+    {
+      "word": "fix",
+      "def": "修理",
+      "ipa": "/fɪks/",
+      "eng_def": "to make something work again or put it in good condition",
+      "example": "Can you fix my bike?"
+    },
+    {
+      "word": "ahead",
+      "def": "在前面",
+      "ipa": "/əˈhɛd/",
+      "eng_def": "in front; in the future",
+      "example": "Look ahead and you will see the park."
+    },
+    {
+      "word": "cross",
+      "def": "穿过",
+      "ipa": "/krɔːs/",
+      "eng_def": "to go from one side to the other",
+      "example": "We need to cross the street carefully."
+    },
+    {
+      "word": "yeah",
+      "def": "是的",
+      "ipa": "/jɛə/",
+      "eng_def": "a casual way to say yes",
+      "example": "Yeah, I understand the lesson."
+    },
+    {
+      "word": "weight",
+      "def": "重量",
+      "ipa": "/weɪt/",
+      "eng_def": "how heavy something is",
+      "example": "The weight of this box is too much for me."
+    },
+    {
+      "word": "legal",
+      "def": "法律的",
+      "ipa": "/ˈliːɡl/",
+      "eng_def": "related to the law",
+      "example": "You need a legal document to sell your house."
+    },
+    {
+      "word": "proposal",
+      "def": "提案",
+      "ipa": "/prəˈpoʊzl/",
+      "eng_def": "a plan or suggestion for a group to consider",
+      "example": "He wrote a proposal for the new park."
+    },
+    {
+      "word": "version",
+      "def": "版本",
+      "ipa": "/ˈvɜːrʒn/",
+      "eng_def": "a form of something that is different from other forms",
+      "example": "This is the new version of the game."
+    },
+    {
+      "word": "conversation",
+      "def": "对话",
+      "ipa": "/ˌkɑːnvərˈseɪʃn/",
+      "eng_def": "a talk between two or more people",
+      "example": "We had a nice conversation at dinner."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "“责任”用英语怎么说？",
+      "question_en": "How do you say '责任' in English?",
+      "options": [
+        "A. responsibility",
+        "B. agency",
+        "C. proposal",
+        "D. conversation"
+      ],
+      "answer": 0,
+      "word": "responsibility"
+    },
+    {
+      "question_cn": "哪个词的意思是“原创的”？",
+      "question_en": "Which word means '原创的'?",
+      "options": [
+        "A. legal",
+        "B. original",
+        "C. ahead",
+        "D. easily"
+      ],
+      "answer": 1,
+      "word": "original"
+    },
+    {
+      "question_cn": "“机构”用英语怎么说？",
+      "question_en": "How do you say '机构' in English?",
+      "options": [
+        "A. garden",
+        "B. dollar",
+        "C. agency",
+        "D. dream"
+      ],
+      "answer": 2,
+      "word": "agency"
+    },
+    {
+      "question_cn": "哪个词的意思是“穿过”？",
+      "question_en": "Which word means '穿过'?",
+      "options": [
+        "A. cross",
+        "B. fix",
+        "C. rock",
+        "D. weight"
+      ],
+      "answer": 0,
+      "word": "cross"
+    },
+    {
+      "question_cn": "“提案”用英语怎么说？",
+      "question_en": "How do you say '提案' in English?",
+      "options": [
+        "A. conversation",
+        "B. version",
+        "C. proposal",
+        "D. sister"
+      ],
+      "answer": 2,
+      "word": "proposal"
+    }
+  ],
+  "image_prompts": [
+    "A young woman sitting at a desk in an office, looking at papers with a thoughtful expression.",
+    "A modern office building with a sign that says 'Creative Agency' on the front.",
+    "A woman holding a drawing of a garden with colorful flowers and a prize ribbon next to it.",
+    "A woman using tools to fix a garden fence on a sunny day.",
+    "A woman looking at a sign that says 'Your Dream Company' with a smiling face.",
+    "A woman walking on a bridge over a river, with a university building in the background.",
+    "A woman covering her ears while loud music plays from a radio with a rock band picture.",
+    "A pile of dollar bills and coins on a table next to a small model house.",
+    "A woman handing a paper marked 'Proposal' to a man in a suit, with a law book on the desk.",
+    "Two women talking happily in a bright room, with a window showing a sunny day."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['ahead', 'weight', 'yeah', 'version']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 39,
+  "_new_word_count": 20
+}

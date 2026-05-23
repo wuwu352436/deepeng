@@ -1,0 +1,457 @@
+{
+  "id": 46,
+  "title": "A Perfect Evening",
+  "article_text": "Nobody wanted to examine the old farm, so I went alone. I saw a collection of old tools hanging on the wall. The display was interesting, but I needed to transfer some items to a new place. I intend to lay them out carefully for a regular show. The speed of my work was slightly slow because I worked alone. My physical condition is perfect, so I can work for a long time. I must reply to my friend about dinner plans. We plan to eat dinner together, and I will wear a suit. My friend's politics are different from mine, but we do not argue. Overall, the evening was good, and I will respond to his invitation tomorrow.",
+  "sentences": [
+    {
+      "en": "Nobody wanted to examine the old farm, so I went alone.",
+      "zh": "没有人想检查那个旧农场，所以我独自去了。",
+      "words": [
+        {
+          "word": "nobody",
+          "def": "没有人",
+          "ipa": "/ˈnoʊbədi/",
+          "eng_def": "not one person"
+        },
+        {
+          "word": "examine",
+          "def": "检查",
+          "ipa": "/ɪɡˈzæmɪn/",
+          "eng_def": "look at carefully"
+        },
+        {
+          "word": "farm",
+          "def": "农场",
+          "ipa": "/fɑːrm/",
+          "eng_def": "land for growing food or keeping animals"
+        },
+        {
+          "word": "went",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I saw a collection of old tools hanging on the wall.",
+      "zh": "我看到墙上挂着一堆旧工具。",
+      "words": [
+        {
+          "word": "collection",
+          "def": "收藏品",
+          "ipa": "/kəˈlekʃən/",
+          "eng_def": "a group of things kept together"
+        },
+        {
+          "word": "hang",
+          "def": "悬挂",
+          "ipa": "/hæŋ/",
+          "eng_def": "to put something so it is held from above"
+        },
+        {
+          "word": "saw",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "tools",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The display was interesting, but I needed to transfer some items to a new place.",
+      "zh": "这个展示很有趣，但我需要把一些物品转移到新地方。",
+      "words": [
+        {
+          "word": "display",
+          "def": "展示",
+          "ipa": "/dɪˈspleɪ/",
+          "eng_def": "a show or exhibition"
+        },
+        {
+          "word": "transfer",
+          "def": "转移",
+          "ipa": "/trænsˈfɜːr/",
+          "eng_def": "move from one place to another"
+        }
+      ]
+    },
+    {
+      "en": "I intend to lay them out carefully for a regular show.",
+      "zh": "我打算把它们小心地摆好，做一个定期展览。",
+      "words": [
+        {
+          "word": "intend",
+          "def": "打算",
+          "ipa": "/ɪnˈtend/",
+          "eng_def": "plan to do something"
+        },
+        {
+          "word": "lay",
+          "def": "摆放",
+          "ipa": "/leɪ/",
+          "eng_def": "put something down in a flat position"
+        },
+        {
+          "word": "regular",
+          "def": "定期的",
+          "ipa": "/ˈreɡjələr/",
+          "eng_def": "happening often or at set times"
+        },
+        {
+          "word": "carefully",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The speed of my work was slightly slow because I worked alone.",
+      "zh": "我工作的速度稍微有点慢，因为我独自工作。",
+      "words": [
+        {
+          "word": "speed",
+          "def": "速度",
+          "ipa": "/spiːd/",
+          "eng_def": "how fast something moves or happens"
+        },
+        {
+          "word": "slightly",
+          "def": "稍微",
+          "ipa": "/ˈslaɪtli/",
+          "eng_def": "a little; not much"
+        },
+        {
+          "word": "slow",
+          "def": "慢的",
+          "ipa": "/sloʊ/",
+          "eng_def": "not fast; taking a long time"
+        }
+      ]
+    },
+    {
+      "en": "My physical condition is perfect, so I can work for a long time.",
+      "zh": "我的身体状况很好，所以我可以长时间工作。",
+      "words": [
+        {
+          "word": "physical",
+          "def": "身体的",
+          "ipa": "/ˈfɪzɪkəl/",
+          "eng_def": "related to the body"
+        },
+        {
+          "word": "perfect",
+          "def": "完美的",
+          "ipa": "/ˈpɜːrfɪkt/",
+          "eng_def": "without any problems or mistakes"
+        }
+      ]
+    },
+    {
+      "en": "I must reply to my friend about dinner plans.",
+      "zh": "我必须回复朋友关于晚餐计划的事。",
+      "words": [
+        {
+          "word": "reply",
+          "def": "回复",
+          "ipa": "/rɪˈplaɪ/",
+          "eng_def": "answer someone"
+        },
+        {
+          "word": "dinner",
+          "def": "晚餐",
+          "ipa": "/ˈdɪnər/",
+          "eng_def": "the main meal of the day, usually eaten in the evening"
+        }
+      ]
+    },
+    {
+      "en": "We plan to eat dinner together, and I will wear a suit.",
+      "zh": "我们计划一起吃晚餐，我会穿西装。",
+      "words": [
+        {
+          "word": "suit",
+          "def": "西装",
+          "ipa": "/suːt/",
+          "eng_def": "a set of clothes with a jacket and pants"
+        }
+      ]
+    },
+    {
+      "en": "My friend's politics are different from mine, but we do not argue.",
+      "zh": "我朋友的政治观点和我的不同，但我们不争吵。",
+      "words": [
+        {
+          "word": "politics",
+          "def": "政治",
+          "ipa": "/ˈpɑːlətɪks/",
+          "eng_def": "activities related to government and power"
+        },
+        {
+          "word": "friend's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Overall, the evening was good, and I will respond to his invitation tomorrow.",
+      "zh": "总的来说，这个晚上很好，我明天会回复他的邀请。",
+      "words": [
+        {
+          "word": "overall",
+          "def": "总的来说",
+          "ipa": "/ˌoʊvərˈɔːl/",
+          "eng_def": "considering everything"
+        },
+        {
+          "word": "respond",
+          "def": "回应",
+          "ipa": "/rɪˈspɑːnd/",
+          "eng_def": "answer or react to something"
+        },
+        {
+          "word": "apart",
+          "def": "分开",
+          "ipa": "/əˈpɑːrt/",
+          "eng_def": "separate or not together"
+        },
+        {
+          "word": "invitation",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "nobody",
+      "def": "没有人",
+      "ipa": "/ˈnoʊbədi/",
+      "eng_def": "not one person",
+      "example": "Nobody came to the party."
+    },
+    {
+      "word": "examine",
+      "def": "检查",
+      "ipa": "/ɪɡˈzæmɪn/",
+      "eng_def": "look at carefully",
+      "example": "The doctor will examine you."
+    },
+    {
+      "word": "lay",
+      "def": "摆放",
+      "ipa": "/leɪ/",
+      "eng_def": "put something down in a flat position",
+      "example": "Please lay the book on the table."
+    },
+    {
+      "word": "speed",
+      "def": "速度",
+      "ipa": "/spiːd/",
+      "eng_def": "how fast something moves or happens",
+      "example": "The car's speed was very high."
+    },
+    {
+      "word": "politics",
+      "def": "政治",
+      "ipa": "/ˈpɑːlətɪks/",
+      "eng_def": "activities related to government and power",
+      "example": "He is interested in politics."
+    },
+    {
+      "word": "reply",
+      "def": "回复",
+      "ipa": "/rɪˈplaɪ/",
+      "eng_def": "answer someone",
+      "example": "I will reply to your email soon."
+    },
+    {
+      "word": "display",
+      "def": "展示",
+      "ipa": "/dɪˈspleɪ/",
+      "eng_def": "a show or exhibition",
+      "example": "The museum has a new display."
+    },
+    {
+      "word": "transfer",
+      "def": "转移",
+      "ipa": "/trænsˈfɜːr/",
+      "eng_def": "move from one place to another",
+      "example": "Transfer the files to the new computer."
+    },
+    {
+      "word": "perfect",
+      "def": "完美的",
+      "ipa": "/ˈpɜːrfɪkt/",
+      "eng_def": "without any problems or mistakes",
+      "example": "The weather is perfect today."
+    },
+    {
+      "word": "slightly",
+      "def": "稍微",
+      "ipa": "/ˈslaɪtli/",
+      "eng_def": "a little; not much",
+      "example": "I am slightly tired."
+    },
+    {
+      "word": "overall",
+      "def": "总的来说",
+      "ipa": "/ˌoʊvərˈɔːl/",
+      "eng_def": "considering everything",
+      "example": "Overall, the trip was good."
+    },
+    {
+      "word": "intend",
+      "def": "打算",
+      "ipa": "/ɪnˈtend/",
+      "eng_def": "plan to do something",
+      "example": "I intend to study tonight."
+    },
+    {
+      "word": "user",
+      "def": "用户",
+      "ipa": "/ˈjuːzər/",
+      "eng_def": "a person who uses something",
+      "example": "The user can change the settings."
+    },
+    {
+      "word": "respond",
+      "def": "回应",
+      "ipa": "/rɪˈspɑːnd/",
+      "eng_def": "answer or react to something",
+      "example": "Please respond to my question."
+    },
+    {
+      "word": "dinner",
+      "def": "晚餐",
+      "ipa": "/ˈdɪnər/",
+      "eng_def": "the main meal of the day, usually eaten in the evening",
+      "example": "We eat dinner at 7 o'clock."
+    },
+    {
+      "word": "slow",
+      "def": "慢的",
+      "ipa": "/sloʊ/",
+      "eng_def": "not fast; taking a long time",
+      "example": "The turtle is very slow."
+    },
+    {
+      "word": "regular",
+      "def": "定期的",
+      "ipa": "/ˈreɡjələr/",
+      "eng_def": "happening often or at set times",
+      "example": "I have regular meetings on Monday."
+    },
+    {
+      "word": "physical",
+      "def": "身体的",
+      "ipa": "/ˈfɪzɪkəl/",
+      "eng_def": "related to the body",
+      "example": "Physical exercise is good for health."
+    },
+    {
+      "word": "apart",
+      "def": "分开",
+      "ipa": "/əˈpɑːrt/",
+      "eng_def": "separate or not together",
+      "example": "The two houses are far apart."
+    },
+    {
+      "word": "suit",
+      "def": "西装",
+      "ipa": "/suːt/",
+      "eng_def": "a set of clothes with a jacket and pants",
+      "example": "He wore a black suit to the meeting."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词的意思是“没有人”？",
+      "question_en": "Which word means 'not one person'?",
+      "options": [
+        "A. nobody",
+        "B. somebody",
+        "C. everybody",
+        "D. anybody"
+      ],
+      "answer": 0,
+      "word": "nobody"
+    },
+    {
+      "question_cn": "哪个词的意思是“检查”？",
+      "question_en": "Which word means 'look at carefully'?",
+      "options": [
+        "A. display",
+        "B. examine",
+        "C. transfer",
+        "D. reply"
+      ],
+      "answer": 1,
+      "word": "examine"
+    },
+    {
+      "question_cn": "哪个词的意思是“速度”？",
+      "question_en": "Which word means 'how fast something moves'?",
+      "options": [
+        "A. slow",
+        "B. speed",
+        "C. regular",
+        "D. physical"
+      ],
+      "answer": 1,
+      "word": "speed"
+    },
+    {
+      "question_cn": "哪个词的意思是“完美的”？",
+      "question_en": "Which word means 'without any problems'?",
+      "options": [
+        "A. perfect",
+        "B. slightly",
+        "C. overall",
+        "D. apart"
+      ],
+      "answer": 0,
+      "word": "perfect"
+    },
+    {
+      "question_cn": "哪个词的意思是“回复”？",
+      "question_en": "Which word means 'answer someone'?",
+      "options": [
+        "A. respond",
+        "B. intend",
+        "C. lay",
+        "D. suit"
+      ],
+      "answer": 0,
+      "word": "respond"
+    }
+  ],
+  "image_prompts": [
+    "An old farm with nobody around, a person walking alone towards it.",
+    "A wall with old tools hanging on it, a collection of metal and wooden items.",
+    "A museum display with interesting objects, a person moving items to a new place.",
+    "A person carefully laying out tools on a table for a regular show.",
+    "A person working slowly alone, a clock showing the speed of time.",
+    "A fit person exercising, showing perfect physical condition.",
+    "A person looking at a phone, thinking about dinner plans with a friend.",
+    "Two people having dinner at a nice restaurant, one wearing a suit.",
+    "Two friends talking, one with a book about politics, the other with a different book.",
+    "A person smiling and writing a reply to an invitation, the evening scene outside."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['apart', 'user']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 46,
+  "_new_word_count": 20
+}

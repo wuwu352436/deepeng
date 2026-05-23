@@ -1,0 +1,481 @@
+{
+  "id": 43,
+  "title": "A New Office Trial",
+  "article_text": "The company started a trial for new office equipment. The administration wanted to reduce stress for workers. They bought a heavy and expensive chair for the executive office. The writer needed to remove extra text from the report. He worked quickly because the context was complex. The radio played music directly in the room. Otherwise, the workers could not concentrate. The manager gave a sample of the new content to the team. He said, \"You must conduct the test carefully, or the scene will not be safe.\" The title of the project was \"Better Work, Less Stress.\"",
+  "sentences": [
+    {
+      "en": "The company started a trial for new office equipment.",
+      "zh": "公司开始了一项新办公设备的试用。",
+      "words": [
+        {
+          "word": "trial",
+          "def": "试用",
+          "ipa": "/ˈtraɪəl/",
+          "eng_def": "a test of something to see if it works well"
+        },
+        {
+          "word": "equipment",
+          "def": "设备",
+          "ipa": "/ɪˈkwɪpmənt/",
+          "eng_def": "the things needed for a particular activity"
+        }
+      ]
+    },
+    {
+      "en": "The administration wanted to reduce stress for workers.",
+      "zh": "管理层想要减轻员工的压力。",
+      "words": [
+        {
+          "word": "administration",
+          "def": "管理层",
+          "ipa": "/ədˌmɪnɪˈstreɪʃən/",
+          "eng_def": "the people who manage a company or organization"
+        },
+        {
+          "word": "stress",
+          "def": "压力",
+          "ipa": "/stres/",
+          "eng_def": "a feeling of worry or pressure"
+        }
+      ]
+    },
+    {
+      "en": "They bought a heavy and expensive chair for the executive office.",
+      "zh": "他们为高管办公室买了一把沉重且昂贵的椅子。",
+      "words": [
+        {
+          "word": "heavy",
+          "def": "沉重的",
+          "ipa": "/ˈhɛvi/",
+          "eng_def": "having a lot of weight"
+        },
+        {
+          "word": "expensive",
+          "def": "昂贵的",
+          "ipa": "/ɪkˈspɛnsɪv/",
+          "eng_def": "costing a lot of money"
+        },
+        {
+          "word": "chair",
+          "def": "椅子",
+          "ipa": "/tʃɛr/",
+          "eng_def": "a piece of furniture for sitting on"
+        },
+        {
+          "word": "executive",
+          "def": "高管的",
+          "ipa": "/ɪɡˈzɛkjʊtɪv/",
+          "eng_def": "relating to a person with a high position in a company"
+        },
+        {
+          "word": "bought",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The writer needed to remove extra text from the report.",
+      "zh": "作者需要从报告中删除多余的文本。",
+      "words": [
+        {
+          "word": "writer",
+          "def": "作者",
+          "ipa": "/ˈraɪtər/",
+          "eng_def": "a person who writes books, articles, etc."
+        },
+        {
+          "word": "remove",
+          "def": "删除",
+          "ipa": "/rɪˈmuːv/",
+          "eng_def": "to take something away"
+        },
+        {
+          "word": "extra",
+          "def": "额外的",
+          "ipa": "/ˈɛkstrə/",
+          "eng_def": "more than is usual or necessary"
+        },
+        {
+          "word": "text",
+          "def": "文本",
+          "ipa": "/tɛkst/",
+          "eng_def": "written words"
+        }
+      ]
+    },
+    {
+      "en": "He worked quickly because the context was complex.",
+      "zh": "他工作得很快，因为上下文很复杂。",
+      "words": [
+        {
+          "word": "quickly",
+          "def": "快速地",
+          "ipa": "/ˈkwɪkli/",
+          "eng_def": "at a fast speed"
+        },
+        {
+          "word": "context",
+          "def": "上下文",
+          "ipa": "/ˈkɒntɛkst/",
+          "eng_def": "the words or situation around a word or event"
+        },
+        {
+          "word": "complex",
+          "def": "复杂的",
+          "ipa": "/ˈkɒmplɛks/",
+          "eng_def": "difficult to understand because it has many parts"
+        }
+      ]
+    },
+    {
+      "en": "The radio played music directly in the room.",
+      "zh": "收音机直接在房间里播放音乐。",
+      "words": [
+        {
+          "word": "radio",
+          "def": "收音机",
+          "ipa": "/ˈreɪdiəʊ/",
+          "eng_def": "a device that receives sound signals from the air"
+        },
+        {
+          "word": "directly",
+          "def": "直接地",
+          "ipa": "/dɪˈrɛktli/",
+          "eng_def": "without anything in between"
+        }
+      ]
+    },
+    {
+      "en": "Otherwise, the workers could not concentrate.",
+      "zh": "否则，工人们无法集中注意力。",
+      "words": [
+        {
+          "word": "otherwise",
+          "def": "否则",
+          "ipa": "/ˈʌðəwaɪz/",
+          "eng_def": "if not; or else"
+        },
+        {
+          "word": "concentrate",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The manager gave a sample of the new content to the team.",
+      "zh": "经理给了团队一份新内容的样本。",
+      "words": [
+        {
+          "word": "sample",
+          "def": "样本",
+          "ipa": "/ˈsɑːmpəl/",
+          "eng_def": "a small part that shows what the whole is like"
+        },
+        {
+          "word": "content",
+          "def": "内容",
+          "ipa": "/ˈkɒntɛnt/",
+          "eng_def": "the information or ideas in a book, speech, etc."
+        },
+        {
+          "word": "gave",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "He said, \"You must conduct the test carefully, or the scene will not be safe.\"",
+      "zh": "他说：“你们必须仔细进行测试，否则场景就不安全。”",
+      "words": [
+        {
+          "word": "conduct",
+          "def": "进行",
+          "ipa": "/kənˈdʌkt/",
+          "eng_def": "to do or carry out an activity"
+        },
+        {
+          "word": "carefully",
+          "def": "仔细地",
+          "ipa": "/ˈkɛərfəli/",
+          "eng_def": "with great attention to avoid mistakes or danger"
+        },
+        {
+          "word": "scene",
+          "def": "场景",
+          "ipa": "/siːn/",
+          "eng_def": "a place where something happens"
+        },
+        {
+          "word": "safe",
+          "def": "安全的",
+          "ipa": "/seɪf/",
+          "eng_def": "not in danger; protected from harm"
+        },
+        {
+          "word": "prevent",
+          "def": "防止",
+          "ipa": "/prɪˈvɛnt/",
+          "eng_def": "to stop something from happening"
+        },
+        {
+          "word": "said",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The title of the project was \"Better Work, Less Stress.\"",
+      "zh": "项目的标题是“更好的工作，更少的压力”。",
+      "words": [
+        {
+          "word": "title",
+          "def": "标题",
+          "ipa": "/ˈtaɪtəl/",
+          "eng_def": "the name of a book, movie, project, etc."
+        },
+        {
+          "word": "ride",
+          "def": "乘坐",
+          "ipa": "/raɪd/",
+          "eng_def": "to sit on a bicycle, horse, etc. and travel"
+        },
+        {
+          "word": "better",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "trial",
+      "def": "试用",
+      "ipa": "/ˈtraɪəl/",
+      "eng_def": "a test of something to see if it works well",
+      "example": "The company started a trial for new office equipment."
+    },
+    {
+      "word": "stress",
+      "def": "压力",
+      "ipa": "/stres/",
+      "eng_def": "a feeling of worry or pressure",
+      "example": "The administration wanted to reduce stress for workers."
+    },
+    {
+      "word": "radio",
+      "def": "收音机",
+      "ipa": "/ˈreɪdiəʊ/",
+      "eng_def": "a device that receives sound signals from the air",
+      "example": "The radio played music directly in the room."
+    },
+    {
+      "word": "administration",
+      "def": "管理层",
+      "ipa": "/ədˌmɪnɪˈstreɪʃən/",
+      "eng_def": "the people who manage a company or organization",
+      "example": "The administration wanted to reduce stress for workers."
+    },
+    {
+      "word": "complex",
+      "def": "复杂的",
+      "ipa": "/ˈkɒmplɛks/",
+      "eng_def": "difficult to understand because it has many parts",
+      "example": "He worked quickly because the context was complex."
+    },
+    {
+      "word": "text",
+      "def": "文本",
+      "ipa": "/tɛkst/",
+      "eng_def": "written words",
+      "example": "The writer needed to remove extra text from the report."
+    },
+    {
+      "word": "context",
+      "def": "上下文",
+      "ipa": "/ˈkɒntɛkst/",
+      "eng_def": "the words or situation around a word or event",
+      "example": "He worked quickly because the context was complex."
+    },
+    {
+      "word": "ride",
+      "def": "乘坐",
+      "ipa": "/raɪd/",
+      "eng_def": "to sit on a bicycle, horse, etc. and travel",
+      "example": "The title of the project was 'Better Work, Less Stress.'"
+    },
+    {
+      "word": "directly",
+      "def": "直接地",
+      "ipa": "/dɪˈrɛktli/",
+      "eng_def": "without anything in between",
+      "example": "The radio played music directly in the room."
+    },
+    {
+      "word": "heavy",
+      "def": "沉重的",
+      "ipa": "/ˈhɛvi/",
+      "eng_def": "having a lot of weight",
+      "example": "They bought a heavy and expensive chair for the executive office."
+    },
+    {
+      "word": "remove",
+      "def": "删除",
+      "ipa": "/rɪˈmuːv/",
+      "eng_def": "to take something away",
+      "example": "The writer needed to remove extra text from the report."
+    },
+    {
+      "word": "conduct",
+      "def": "进行",
+      "ipa": "/kənˈdʌkt/",
+      "eng_def": "to do or carry out an activity",
+      "example": "He said, 'You must conduct the test carefully, or the scene will not be safe.'"
+    },
+    {
+      "word": "equipment",
+      "def": "设备",
+      "ipa": "/ɪˈkwɪpmənt/",
+      "eng_def": "the things needed for a particular activity",
+      "example": "The company started a trial for new office equipment."
+    },
+    {
+      "word": "otherwise",
+      "def": "否则",
+      "ipa": "/ˈʌðəwaɪz/",
+      "eng_def": "if not; or else",
+      "example": "Otherwise, the workers could not concentrate."
+    },
+    {
+      "word": "title",
+      "def": "标题",
+      "ipa": "/ˈtaɪtəl/",
+      "eng_def": "the name of a book, movie, project, etc.",
+      "example": "The title of the project was 'Better Work, Less Stress.'"
+    },
+    {
+      "word": "extra",
+      "def": "额外的",
+      "ipa": "/ˈɛkstrə/",
+      "eng_def": "more than is usual or necessary",
+      "example": "The writer needed to remove extra text from the report."
+    },
+    {
+      "word": "executive",
+      "def": "高管的",
+      "ipa": "/ɪɡˈzɛkjʊtɪv/",
+      "eng_def": "relating to a person with a high position in a company",
+      "example": "They bought a heavy and expensive chair for the executive office."
+    },
+    {
+      "word": "chair",
+      "def": "椅子",
+      "ipa": "/tʃɛr/",
+      "eng_def": "a piece of furniture for sitting on",
+      "example": "They bought a heavy and expensive chair for the executive office."
+    },
+    {
+      "word": "expensive",
+      "def": "昂贵的",
+      "ipa": "/ɪkˈspɛnsɪv/",
+      "eng_def": "costing a lot of money",
+      "example": "They bought a heavy and expensive chair for the executive office."
+    },
+    {
+      "word": "sample",
+      "def": "样本",
+      "ipa": "/ˈsɑːmpəl/",
+      "eng_def": "a small part that shows what the whole is like",
+      "example": "The manager gave a sample of the new content to the team."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词的意思是“试用”？",
+      "question_en": "Which word means 'a test of something to see if it works well'?",
+      "options": [
+        "A. trial",
+        "B. stress",
+        "C. sample",
+        "D. text"
+      ],
+      "answer": 0,
+      "word": "trial"
+    },
+    {
+      "question_cn": "“上下文”对应的英文是？",
+      "question_en": "What is the English word for 'the words or situation around a word or event'?",
+      "options": [
+        "A. content",
+        "B. context",
+        "C. complex",
+        "D. conduct"
+      ],
+      "answer": 1,
+      "word": "context"
+    },
+    {
+      "question_cn": "“昂贵的”用英语怎么说？",
+      "question_en": "How do you say 'costing a lot of money' in English?",
+      "options": [
+        "A. heavy",
+        "B. extra",
+        "C. expensive",
+        "D. executive"
+      ],
+      "answer": 2,
+      "word": "expensive"
+    },
+    {
+      "question_cn": "“否则”对应的英文是？",
+      "question_en": "What is the English word for 'if not; or else'?",
+      "options": [
+        "A. otherwise",
+        "B. directly",
+        "C. because",
+        "D. quickly"
+      ],
+      "answer": 0,
+      "word": "otherwise"
+    },
+    {
+      "question_cn": "哪个词的意思是“设备”？",
+      "question_en": "Which word means 'the things needed for a particular activity'?",
+      "options": [
+        "A. equipment",
+        "B. administration",
+        "C. radio",
+        "D. chair"
+      ],
+      "answer": 0,
+      "word": "equipment"
+    }
+  ],
+  "image_prompts": [
+    "People in an office looking at a new machine with a 'Trial' sign.",
+    "A manager talking to workers about reducing stress.",
+    "A large, heavy-looking expensive chair in a fancy office.",
+    "A writer deleting extra words from a document on a computer.",
+    "A person working fast with a puzzled expression near a complex diagram.",
+    "A radio on a desk playing music in a quiet room.",
+    "Workers looking tired and unable to focus without music.",
+    "A manager handing a small paper sample to a team.",
+    "A person carefully checking a machine while a sign says 'Safety First'.",
+    "A project title board reading 'Better Work, Less Stress' in an office."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['ride']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 43,
+  "_new_word_count": 20
+}

@@ -1,0 +1,502 @@
+{
+  "id": 36,
+  "title": "Learning Science and Fun in Daily Life",
+  "article_text": "Science is fun because it helps us understand basic ideas about our world. We must protect our natural resources like water and air to keep a healthy balance. The author of a new book says exercise is useful for both body and mind. My male friend operates a small restaurant and enjoys his work. He uses his income to buy property and save for the future. A good diet can encourage strong hair and healthy skin. We can reflect on our daily actions to find the basis for a better life. Pollution can damage the environment and cause disease in plants and animals. Obviously, we need to learn the application of science in everyday life. I saw a hot document about a new pattern for clean energy in the science class.",
+  "sentences": [
+    {
+      "en": "Science is fun because it helps us understand basic ideas about our world.",
+      "zh": "科学很有趣，因为它帮助我们理解关于世界的基本概念。",
+      "words": [
+        {
+          "word": "science",
+          "def": "科学",
+          "ipa": "/ˈsaɪəns/",
+          "eng_def": "the study of the natural world"
+        },
+        {
+          "word": "fun",
+          "def": "有趣的",
+          "ipa": "/fʌn/",
+          "eng_def": "enjoyable or amusing"
+        },
+        {
+          "word": "basic",
+          "def": "基本的",
+          "ipa": "/ˈbeɪsɪk/",
+          "eng_def": "simple and important"
+        }
+      ]
+    },
+    {
+      "en": "We must protect our natural resources like water and air to keep a healthy balance.",
+      "zh": "我们必须保护像水和空气这样的自然资源，以保持健康的平衡。",
+      "words": [
+        {
+          "word": "protect",
+          "def": "保护",
+          "ipa": "/prəˈtekt/",
+          "eng_def": "to keep something safe"
+        },
+        {
+          "word": "resource",
+          "def": "资源",
+          "ipa": "/rɪˈzɔːrs/",
+          "eng_def": "something useful that people have or use"
+        },
+        {
+          "word": "balance",
+          "def": "平衡",
+          "ipa": "/ˈbæləns/",
+          "eng_def": "a state where things are equal or stable"
+        },
+        {
+          "word": "resources",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "healthy",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The author of a new book says exercise is useful for both body and mind.",
+      "zh": "一本新书的作者说锻炼对身体和心灵都有用。",
+      "words": [
+        {
+          "word": "author",
+          "def": "作者",
+          "ipa": "/ˈɔːθər/",
+          "eng_def": "a person who writes a book or article"
+        },
+        {
+          "word": "exercise",
+          "def": "锻炼",
+          "ipa": "/ˈeksərsaɪz/",
+          "eng_def": "physical activity to stay healthy"
+        },
+        {
+          "word": "useful",
+          "def": "有用的",
+          "ipa": "/ˈjuːsfəl/",
+          "eng_def": "helpful for doing something"
+        }
+      ]
+    },
+    {
+      "en": "My male friend operates a small restaurant and enjoys his work.",
+      "zh": "我的男性朋友经营一家小餐馆，并且喜欢他的工作。",
+      "words": [
+        {
+          "word": "male",
+          "def": "男性的",
+          "ipa": "/meɪl/",
+          "eng_def": "relating to men or boys"
+        },
+        {
+          "word": "operate",
+          "def": "经营；操作",
+          "ipa": "/ˈɑːpəreɪt/",
+          "eng_def": "to control or run something"
+        },
+        {
+          "word": "restaurant",
+          "def": "餐馆",
+          "ipa": "/ˈrestərɑːnt/",
+          "eng_def": "a place where you buy and eat food"
+        },
+        {
+          "word": "operates",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "He uses his income to buy property and save for the future.",
+      "zh": "他用他的收入购买房产并为未来存钱。",
+      "words": [
+        {
+          "word": "income",
+          "def": "收入",
+          "ipa": "/ˈɪnkʌm/",
+          "eng_def": "money you get from work or business"
+        },
+        {
+          "word": "property",
+          "def": "财产；房产",
+          "ipa": "/ˈprɑːpərti/",
+          "eng_def": "something that someone owns, like land or a building"
+        }
+      ]
+    },
+    {
+      "en": "A good diet can encourage strong hair and healthy skin.",
+      "zh": "良好的饮食可以促进强健的头发和健康的皮肤。",
+      "words": [
+        {
+          "word": "encourage",
+          "def": "鼓励；促进",
+          "ipa": "/ɪnˈkɜːrɪdʒ/",
+          "eng_def": "to make someone want to do something or to help something grow"
+        },
+        {
+          "word": "hair",
+          "def": "头发",
+          "ipa": "/her/",
+          "eng_def": "thin strands that grow on the head or body"
+        },
+        {
+          "word": "diet",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "healthy",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "skin",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "We can reflect on our daily actions to find the basis for a better life.",
+      "zh": "我们可以反思日常行为，找到更好生活的基础。",
+      "words": [
+        {
+          "word": "reflect",
+          "def": "反思；反映",
+          "ipa": "/rɪˈflekt/",
+          "eng_def": "to think carefully about something"
+        },
+        {
+          "word": "basis",
+          "def": "基础",
+          "ipa": "/ˈbeɪsɪs/",
+          "eng_def": "the main idea or fact that supports something"
+        },
+        {
+          "word": "daily",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "better",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Pollution can damage the environment and cause disease in plants and animals.",
+      "zh": "污染会破坏环境，并在动植物中引起疾病。",
+      "words": [
+        {
+          "word": "damage",
+          "def": "破坏",
+          "ipa": "/ˈdæmɪdʒ/",
+          "eng_def": "to harm or break something"
+        },
+        {
+          "word": "disease",
+          "def": "疾病",
+          "ipa": "/dɪˈziːz/",
+          "eng_def": "a sickness or illness"
+        },
+        {
+          "word": "pollution",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Obviously, we need to learn the application of science in everyday life.",
+      "zh": "显然，我们需要学习科学在日常生活中的应用。",
+      "words": [
+        {
+          "word": "obviously",
+          "def": "显然",
+          "ipa": "/ˈɑːbviəsli/",
+          "eng_def": "in a way that is easy to see or understand"
+        },
+        {
+          "word": "application",
+          "def": "应用",
+          "ipa": "/ˌæplɪˈkeɪʃən/",
+          "eng_def": "the use of an idea or method in a real situation"
+        },
+        {
+          "word": "everyday",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I saw a hot document about a new pattern for clean energy in the science class.",
+      "zh": "我在科学课上看到一份关于清洁能源新模式的抢手文件。",
+      "words": [
+        {
+          "word": "hot",
+          "def": "热的；抢手的",
+          "ipa": "/hɑːt/",
+          "eng_def": "very warm; also popular or new"
+        },
+        {
+          "word": "document",
+          "def": "文件",
+          "ipa": "/ˈdɑːkjumənt/",
+          "eng_def": "a piece of paper or electronic file with information"
+        },
+        {
+          "word": "pattern",
+          "def": "模式；图案",
+          "ipa": "/ˈpætərn/",
+          "eng_def": "a repeated design or way of doing something"
+        },
+        {
+          "word": "saw",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "fun",
+      "def": "有趣的",
+      "ipa": "/fʌn/",
+      "eng_def": "enjoyable or amusing",
+      "example": "Science is fun because it helps us understand basic ideas about our world."
+    },
+    {
+      "word": "protect",
+      "def": "保护",
+      "ipa": "/prəˈtekt/",
+      "eng_def": "to keep something safe",
+      "example": "We must protect our natural resources like water and air to keep a healthy balance."
+    },
+    {
+      "word": "resource",
+      "def": "资源",
+      "ipa": "/rɪˈzɔːrs/",
+      "eng_def": "something useful that people have or use",
+      "example": "We must protect our natural resources like water and air to keep a healthy balance."
+    },
+    {
+      "word": "science",
+      "def": "科学",
+      "ipa": "/ˈsaɪəns/",
+      "eng_def": "the study of the natural world",
+      "example": "Science is fun because it helps us understand basic ideas about our world."
+    },
+    {
+      "word": "disease",
+      "def": "疾病",
+      "ipa": "/dɪˈziːz/",
+      "eng_def": "a sickness or illness",
+      "example": "Pollution can damage the environment and cause disease in plants and animals."
+    },
+    {
+      "word": "balance",
+      "def": "平衡",
+      "ipa": "/ˈbæləns/",
+      "eng_def": "a state where things are equal or stable",
+      "example": "We must protect our natural resources like water and air to keep a healthy balance."
+    },
+    {
+      "word": "damage",
+      "def": "破坏",
+      "ipa": "/ˈdæmɪdʒ/",
+      "eng_def": "to harm or break something",
+      "example": "Pollution can damage the environment and cause disease in plants and animals."
+    },
+    {
+      "word": "basis",
+      "def": "基础",
+      "ipa": "/ˈbeɪsɪs/",
+      "eng_def": "the main idea or fact that supports something",
+      "example": "We can reflect on our daily actions to find the basis for a better life."
+    },
+    {
+      "word": "author",
+      "def": "作者",
+      "ipa": "/ˈɔːθər/",
+      "eng_def": "a person who writes a book or article",
+      "example": "The author of a new book says exercise is useful for both body and mind."
+    },
+    {
+      "word": "basic",
+      "def": "基本的",
+      "ipa": "/ˈbeɪsɪk/",
+      "eng_def": "simple and important",
+      "example": "Science is fun because it helps us understand basic ideas about our world."
+    },
+    {
+      "word": "encourage",
+      "def": "鼓励；促进",
+      "ipa": "/ɪnˈkɜːrɪdʒ/",
+      "eng_def": "to make someone want to do something or to help something grow",
+      "example": "A good diet can encourage strong hair and healthy skin."
+    },
+    {
+      "word": "hair",
+      "def": "头发",
+      "ipa": "/her/",
+      "eng_def": "thin strands that grow on the head or body",
+      "example": "A good diet can encourage strong hair and healthy skin."
+    },
+    {
+      "word": "male",
+      "def": "男性的",
+      "ipa": "/meɪl/",
+      "eng_def": "relating to men or boys",
+      "example": "My male friend operates a small restaurant and enjoys his work."
+    },
+    {
+      "word": "operate",
+      "def": "经营；操作",
+      "ipa": "/ˈɑːpəreɪt/",
+      "eng_def": "to control or run something",
+      "example": "My male friend operates a small restaurant and enjoys his work."
+    },
+    {
+      "word": "reflect",
+      "def": "反思；反映",
+      "ipa": "/rɪˈflekt/",
+      "eng_def": "to think carefully about something",
+      "example": "We can reflect on our daily actions to find the basis for a better life."
+    },
+    {
+      "word": "exercise",
+      "def": "锻炼",
+      "ipa": "/ˈeksərsaɪz/",
+      "eng_def": "physical activity to stay healthy",
+      "example": "The author of a new book says exercise is useful for both body and mind."
+    },
+    {
+      "word": "useful",
+      "def": "有用的",
+      "ipa": "/ˈjuːsfəl/",
+      "eng_def": "helpful for doing something",
+      "example": "The author of a new book says exercise is useful for both body and mind."
+    },
+    {
+      "word": "restaurant",
+      "def": "餐馆",
+      "ipa": "/ˈrestərɑːnt/",
+      "eng_def": "a place where you buy and eat food",
+      "example": "My male friend operates a small restaurant and enjoys his work."
+    },
+    {
+      "word": "income",
+      "def": "收入",
+      "ipa": "/ˈɪnkʌm/",
+      "eng_def": "money you get from work or business",
+      "example": "He uses his income to buy property and save for the future."
+    },
+    {
+      "word": "property",
+      "def": "财产；房产",
+      "ipa": "/ˈprɑːpərti/",
+      "eng_def": "something that someone owns, like land or a building",
+      "example": "He uses his income to buy property and save for the future."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "“保护”的英文是什么？",
+      "question_en": "What is the English word for '保护'?",
+      "options": [
+        "A. protect",
+        "B. damage",
+        "C. reflect",
+        "D. operate"
+      ],
+      "answer": 0,
+      "word": "protect"
+    },
+    {
+      "question_cn": "“疾病”的英文是什么？",
+      "question_en": "What is the English word for '疾病'?",
+      "options": [
+        "A. balance",
+        "B. disease",
+        "C. resource",
+        "D. basis"
+      ],
+      "answer": 1,
+      "word": "disease"
+    },
+    {
+      "question_cn": "“收入”的英文是什么？",
+      "question_en": "What is the English word for '收入'?",
+      "options": [
+        "A. property",
+        "B. income",
+        "C. restaurant",
+        "D. exercise"
+      ],
+      "answer": 1,
+      "word": "income"
+    },
+    {
+      "question_cn": "“作者”的英文是什么？",
+      "question_en": "What is the English word for '作者'?",
+      "options": [
+        "A. male",
+        "B. author",
+        "C. pattern",
+        "D. document"
+      ],
+      "answer": 1,
+      "word": "author"
+    },
+    {
+      "question_cn": "“鼓励”的英文是什么？",
+      "question_en": "What is the English word for '鼓励'?",
+      "options": [
+        "A. encourage",
+        "B. protect",
+        "C. operate",
+        "D. reflect"
+      ],
+      "answer": 0,
+      "word": "encourage"
+    }
+  ],
+  "image_prompts": [
+    "A smiling teacher in front of a blackboard with science symbols like a test tube and planet, students looking happy.",
+    "A clean river with trees and birds, a sign saying 'Protect Our Resources' next to a balanced scale.",
+    "A person sitting at a desk writing a book, with a title 'Exercise for Health' on the cover.",
+    "A man in a chef hat cooking in a small restaurant kitchen, with customers at tables.",
+    "A person counting money and looking at a house and a savings jar labeled 'Future'.",
+    "A plate of healthy food like vegetables and fruit, with shiny hair and glowing skin around it.",
+    "A person sitting quietly, thinking, with a light bulb above their head and a ladder labeled 'Basis'.",
+    "A polluted factory with smoke, a sad tree and a sick animal lying on the ground.",
+    "A classroom with students looking at a poster of science applications in daily life, like a light bulb and a car.",
+    "A student holding a paper with a sun and wind turbine pattern, titled 'Clean Energy'."
+  ],
+  "_needs_review": false,
+  "_lesson_num": 36,
+  "_new_word_count": 20
+}

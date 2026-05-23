@@ -1,0 +1,427 @@
+{
+  "id": 69,
+  "title": "A Farmer's Wedding Plan",
+  "article_text": "A farmer named Tom wants to wed his girlfriend, but he needs a loan for the wedding. He has a reasonable plan to rent his land for a theme party. The atmosphere at his farm is largely peaceful and fresh. He believes the appearance of the farm will strongly attract guests. He must get a guarantee from a bank first. He thinks his judgment about this business is correct. The bank will approve his loan if he shows a good comparison of costs. He will work till the evening to finish his proposal. The definition of success for him is a happy marriage. He also wants protection for his family with insurance.",
+  "sentences": [
+    {
+      "en": "A farmer named Tom wants to wed his girlfriend, but he needs a loan for the wedding.",
+      "zh": "一位名叫汤姆的农民想与他的女朋友结婚，但他需要一笔贷款来办婚礼。",
+      "words": [
+        {
+          "word": "farmer",
+          "def": "农民",
+          "ipa": "/ˈfɑːrmər/",
+          "eng_def": "a person who works on a farm"
+        },
+        {
+          "word": "wed",
+          "def": "结婚",
+          "ipa": "/wɛd/",
+          "eng_def": "to marry someone"
+        },
+        {
+          "word": "loan",
+          "def": "贷款",
+          "ipa": "/loʊn/",
+          "eng_def": "money that you borrow"
+        },
+        {
+          "word": "tom",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "girlfriend",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "wedding",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "He has a reasonable plan to rent his land for a theme party.",
+      "zh": "他有一个合理的计划，出租他的土地来办主题派对。",
+      "words": [
+        {
+          "word": "reasonable",
+          "def": "合理的",
+          "ipa": "/ˈriːzənəbl/",
+          "eng_def": "fair and sensible"
+        },
+        {
+          "word": "rent",
+          "def": "出租",
+          "ipa": "/rɛnt/",
+          "eng_def": "to pay to use something"
+        },
+        {
+          "word": "theme",
+          "def": "主题",
+          "ipa": "/θiːm/",
+          "eng_def": "the main subject or idea"
+        }
+      ]
+    },
+    {
+      "en": "The atmosphere at his farm is largely peaceful and fresh.",
+      "zh": "他农场的氛围大体上是宁静而清新的。",
+      "words": [
+        {
+          "word": "atmosphere",
+          "def": "氛围",
+          "ipa": "/ˈætməsfɪr/",
+          "eng_def": "the feeling in a place"
+        },
+        {
+          "word": "largely",
+          "def": "大体上",
+          "ipa": "/ˈlɑːrdʒli/",
+          "eng_def": "mostly or mainly"
+        },
+        {
+          "word": "peaceful",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "He believes the appearance of the farm will strongly attract guests.",
+      "zh": "他相信农场的外观会强烈吸引客人。",
+      "words": [
+        {
+          "word": "appearance",
+          "def": "外观",
+          "ipa": "/əˈpɪrəns/",
+          "eng_def": "the way something looks"
+        },
+        {
+          "word": "strongly",
+          "def": "强烈地",
+          "ipa": "/ˈstrɒŋli/",
+          "eng_def": "with a lot of force or power"
+        }
+      ]
+    },
+    {
+      "en": "He must get a guarantee from a bank first.",
+      "zh": "他必须先得到银行的担保。",
+      "words": [
+        {
+          "word": "must",
+          "def": "必须",
+          "ipa": "/mʌst/",
+          "eng_def": "used to say something is necessary"
+        },
+        {
+          "word": "guarantee",
+          "def": "担保",
+          "ipa": "/ˌɡærənˈtiː/",
+          "eng_def": "a promise that something will happen"
+        }
+      ]
+    },
+    {
+      "en": "He thinks his judgment about this business is correct.",
+      "zh": "他认为自己对这个生意的判断是正确的。",
+      "words": [
+        {
+          "word": "judgment",
+          "def": "判断",
+          "ipa": "/ˈdʒʌdʒmənt/",
+          "eng_def": "an opinion or decision"
+        }
+      ]
+    },
+    {
+      "en": "The bank will approve his loan if he shows a good comparison of costs.",
+      "zh": "如果他展示出良好的成本比较，银行就会批准他的贷款。",
+      "words": [
+        {
+          "word": "approve",
+          "def": "批准",
+          "ipa": "/əˈpruːv/",
+          "eng_def": "to say yes to something"
+        },
+        {
+          "word": "comparison",
+          "def": "比较",
+          "ipa": "/kəmˈpærɪsn/",
+          "eng_def": "the act of looking at differences"
+        }
+      ]
+    },
+    {
+      "en": "He will work till the evening to finish his proposal.",
+      "zh": "他会工作到晚上来完成他的提案。",
+      "words": [
+        {
+          "word": "till",
+          "def": "直到",
+          "ipa": "/tɪl/",
+          "eng_def": "up to a certain time"
+        }
+      ]
+    },
+    {
+      "en": "The definition of success for him is a happy marriage.",
+      "zh": "对他来说，成功的定义是幸福的婚姻。",
+      "words": [
+        {
+          "word": "definition",
+          "def": "定义",
+          "ipa": "/ˌdɛfɪˈnɪʃən/",
+          "eng_def": "the meaning of a word or idea"
+        }
+      ]
+    },
+    {
+      "en": "He also wants protection for his family with insurance.",
+      "zh": "他还想通过保险为家人提供保护。",
+      "words": [
+        {
+          "word": "protection",
+          "def": "保护",
+          "ipa": "/prəˈtɛkʃən/",
+          "eng_def": "keeping someone safe"
+        },
+        {
+          "word": "insurance",
+          "def": "保险",
+          "ipa": "/ɪnˈʃʊrəns/",
+          "eng_def": "a promise to pay for loss or damage"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "protection",
+      "def": "保护",
+      "ipa": "/prəˈtɛkʃən/",
+      "eng_def": "keeping someone safe",
+      "example": "He wants protection for his family."
+    },
+    {
+      "word": "largely",
+      "def": "大体上",
+      "ipa": "/ˈlɑːrdʒli/",
+      "eng_def": "mostly or mainly",
+      "example": "The atmosphere is largely peaceful."
+    },
+    {
+      "word": "wed",
+      "def": "结婚",
+      "ipa": "/wɛd/",
+      "eng_def": "to marry someone",
+      "example": "He wants to wed his girlfriend."
+    },
+    {
+      "word": "rent",
+      "def": "出租",
+      "ipa": "/rɛnt/",
+      "eng_def": "to pay to use something",
+      "example": "He will rent his land."
+    },
+    {
+      "word": "shot",
+      "def": "射击；拍摄",
+      "ipa": "/ʃɒt/",
+      "eng_def": "the act of firing a gun or taking a photo",
+      "example": "He took a nice shot of the farm."
+    },
+    {
+      "word": "appearance",
+      "def": "外观",
+      "ipa": "/əˈpɪrəns/",
+      "eng_def": "the way something looks",
+      "example": "The appearance of the farm is nice."
+    },
+    {
+      "word": "reasonable",
+      "def": "合理的",
+      "ipa": "/ˈriːzənəbl/",
+      "eng_def": "fair and sensible",
+      "example": "His plan is reasonable."
+    },
+    {
+      "word": "guarantee",
+      "def": "担保",
+      "ipa": "/ˌɡærənˈtiː/",
+      "eng_def": "a promise that something will happen",
+      "example": "He needs a guarantee from the bank."
+    },
+    {
+      "word": "till",
+      "def": "直到",
+      "ipa": "/tɪl/",
+      "eng_def": "up to a certain time",
+      "example": "He works till evening."
+    },
+    {
+      "word": "theme",
+      "def": "主题",
+      "ipa": "/θiːm/",
+      "eng_def": "the main subject or idea",
+      "example": "The party has a theme."
+    },
+    {
+      "word": "judgment",
+      "def": "判断",
+      "ipa": "/ˈdʒʌdʒmənt/",
+      "eng_def": "an opinion or decision",
+      "example": "His judgment is good."
+    },
+    {
+      "word": "odd",
+      "def": "奇怪的",
+      "ipa": "/ɒd/",
+      "eng_def": "strange or unusual",
+      "example": "That idea seems odd."
+    },
+    {
+      "word": "approve",
+      "def": "批准",
+      "ipa": "/əˈpruːv/",
+      "eng_def": "to say yes to something",
+      "example": "The bank will approve the loan."
+    },
+    {
+      "word": "loan",
+      "def": "贷款",
+      "ipa": "/loʊn/",
+      "eng_def": "money that you borrow",
+      "example": "He needs a loan."
+    },
+    {
+      "word": "definition",
+      "def": "定义",
+      "ipa": "/ˌdɛfɪˈnɪʃən/",
+      "eng_def": "the meaning of a word or idea",
+      "example": "The definition of success is clear."
+    },
+    {
+      "word": "elect",
+      "def": "选举",
+      "ipa": "/ɪˈlɛkt/",
+      "eng_def": "to choose someone by voting",
+      "example": "They will elect a leader."
+    },
+    {
+      "word": "atmosphere",
+      "def": "氛围",
+      "ipa": "/ˈætməsfɪr/",
+      "eng_def": "the feeling in a place",
+      "example": "The atmosphere is fresh."
+    },
+    {
+      "word": "farmer",
+      "def": "农民",
+      "ipa": "/ˈfɑːrmər/",
+      "eng_def": "a person who works on a farm",
+      "example": "The farmer is happy."
+    },
+    {
+      "word": "comparison",
+      "def": "比较",
+      "ipa": "/kəmˈpærɪsn/",
+      "eng_def": "the act of looking at differences",
+      "example": "He made a comparison of costs."
+    },
+    {
+      "word": "characteristic",
+      "def": "特征",
+      "ipa": "/ˌkærɪktəˈrɪstɪk/",
+      "eng_def": "a special quality of something",
+      "example": "Fresh air is a characteristic of the farm."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "“贷款”用英语怎么说？",
+      "question_en": "How do you say '贷款' in English?",
+      "options": [
+        "A. loan",
+        "B. rent",
+        "C. guarantee",
+        "D. protection"
+      ],
+      "answer": 0,
+      "word": "loan"
+    },
+    {
+      "question_cn": "哪个词的意思是“外观”？",
+      "question_en": "Which word means '外观'?",
+      "options": [
+        "A. atmosphere",
+        "B. appearance",
+        "C. definition",
+        "D. judgment"
+      ],
+      "answer": 1,
+      "word": "appearance"
+    },
+    {
+      "question_cn": "“批准”的英语是？",
+      "question_en": "What is the English for '批准'?",
+      "options": [
+        "A. elect",
+        "B. approve",
+        "C. wed",
+        "D. rent"
+      ],
+      "answer": 1,
+      "word": "approve"
+    },
+    {
+      "question_cn": "“合理的”用英语怎么说？",
+      "question_en": "How do you say '合理的' in English?",
+      "options": [
+        "A. odd",
+        "B. reasonable",
+        "C. largely",
+        "D. strong"
+      ],
+      "answer": 1,
+      "word": "reasonable"
+    },
+    {
+      "question_cn": "哪个词的意思是“氛围”？",
+      "question_en": "Which word means '氛围'?",
+      "options": [
+        "A. theme",
+        "B. comparison",
+        "C. atmosphere",
+        "D. characteristic"
+      ],
+      "answer": 2,
+      "word": "atmosphere"
+    }
+  ],
+  "image_prompts": [
+    "A smiling farmer named Tom standing next to his girlfriend on a sunny farm.",
+    "Tom writing a plan on paper, with a picture of a party tent on the land.",
+    "A peaceful farm with green grass, trees, and a calm sky.",
+    "A beautiful farm view with flowers and a sign saying 'Welcome'.",
+    "Tom talking to a bank manager, who is handing him a document.",
+    "Tom thinking with a thought bubble showing a checkmark and a cross.",
+    "Tom showing a chart of costs to a bank manager at a desk.",
+    "Tom working at a desk late in the evening with a lamp on.",
+    "A happy married couple with the word 'Success' above them.",
+    "A family under a big umbrella labeled 'Insurance' with a shield."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['odd', 'shot', 'characteristic', 'elect']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 69,
+  "_new_word_count": 20
+}

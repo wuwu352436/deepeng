@@ -1,0 +1,463 @@
+{
+  "id": 62,
+  "title": "A Gift for the Editor",
+  "article_text": "An editor normally works at a desk, but today he is climbing a mountain. He wants to generate a new gift for his guest. The guest will mainly see the beautiful sight from the top. Moreover, the editor must not deny himself this chance. He has a gun in his bag for safety, but he hopes he will not use it. The delivery of a quote from the minister will happen later. Basically, anybody can climb this mountain if they have the right manner. The noise from the wind is loud in his mouth and ears. He does not oppose the climb because it is a historical branch of his life. The violence in his past is now behind him, and he should focus on the present.",
+  "sentences": [
+    {
+      "en": "An editor normally works at a desk, but today he is climbing a mountain.",
+      "zh": "一位编辑通常坐在桌前工作，但今天他在爬山。",
+      "words": [
+        {
+          "word": "editor",
+          "def": "编辑",
+          "ipa": "/ˈedɪtər/",
+          "eng_def": "a person who prepares written material for publication"
+        },
+        {
+          "word": "normally",
+          "def": "通常地",
+          "ipa": "/ˈnɔːrməli/",
+          "eng_def": "in the usual way or under normal conditions"
+        },
+        {
+          "word": "climb",
+          "def": "攀登",
+          "ipa": "/klaɪm/",
+          "eng_def": "to go up something, such as a mountain or stairs"
+        },
+        {
+          "word": "desk",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "climbing",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "He wants to generate a new gift for his guest.",
+      "zh": "他想为他的客人准备一份新礼物。",
+      "words": [
+        {
+          "word": "generate",
+          "def": "产生",
+          "ipa": "/ˈdʒenəreɪt/",
+          "eng_def": "to produce or create something"
+        },
+        {
+          "word": "gift",
+          "def": "礼物",
+          "ipa": "/ɡɪft/",
+          "eng_def": "something given freely, often for a special occasion"
+        },
+        {
+          "word": "guest",
+          "def": "客人",
+          "ipa": "/ɡest/",
+          "eng_def": "a person who is invited to visit or stay"
+        }
+      ]
+    },
+    {
+      "en": "The guest will mainly see the beautiful sight from the top.",
+      "zh": "客人将主要从山顶看到美丽的景色。",
+      "words": [
+        {
+          "word": "mainly",
+          "def": "主要地",
+          "ipa": "/ˈmeɪnli/",
+          "eng_def": "mostly or primarily"
+        },
+        {
+          "word": "sight",
+          "def": "景象",
+          "ipa": "/saɪt/",
+          "eng_def": "something that is seen, especially a notable view"
+        }
+      ]
+    },
+    {
+      "en": "Moreover, the editor must not deny himself this chance.",
+      "zh": "而且，编辑不能拒绝自己这个机会。",
+      "words": [
+        {
+          "word": "moreover",
+          "def": "此外",
+          "ipa": "/mɔːrˈoʊvər/",
+          "eng_def": "in addition; besides"
+        },
+        {
+          "word": "deny",
+          "def": "否认；拒绝",
+          "ipa": "/dɪˈnaɪ/",
+          "eng_def": "to say that something is not true; to refuse to give"
+        }
+      ]
+    },
+    {
+      "en": "He has a gun in his bag for safety, but he hopes he will not use it.",
+      "zh": "他包里有一把枪以防万一，但他希望不会用到它。",
+      "words": [
+        {
+          "word": "gun",
+          "def": "枪",
+          "ipa": "/ɡʌn/",
+          "eng_def": "a weapon that shoots bullets"
+        }
+      ]
+    },
+    {
+      "en": "The delivery of a quote from the minister will happen later.",
+      "zh": "部长的一句引文稍后会送达。",
+      "words": [
+        {
+          "word": "delivery",
+          "def": "递送",
+          "ipa": "/dɪˈlɪvəri/",
+          "eng_def": "the act of bringing something to a person or place"
+        },
+        {
+          "word": "quote",
+          "def": "引文",
+          "ipa": "/kwoʊt/",
+          "eng_def": "a group of words taken from a text or speech"
+        },
+        {
+          "word": "minister",
+          "def": "部长",
+          "ipa": "/ˈmɪnɪstər/",
+          "eng_def": "a person in charge of a government department"
+        },
+        {
+          "word": "later",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Basically, anybody can climb this mountain if they have the right manner.",
+      "zh": "基本上，任何人都能爬这座山，只要他们态度正确。",
+      "words": [
+        {
+          "word": "basically",
+          "def": "基本上",
+          "ipa": "/ˈbeɪsɪkli/",
+          "eng_def": "in a simple or fundamental way"
+        },
+        {
+          "word": "anybody",
+          "def": "任何人",
+          "ipa": "/ˈenibɑːdi/",
+          "eng_def": "any person at all"
+        },
+        {
+          "word": "manner",
+          "def": "方式；态度",
+          "ipa": "/ˈmænər/",
+          "eng_def": "the way something is done; behavior"
+        }
+      ]
+    },
+    {
+      "en": "The noise from the wind is loud in his mouth and ears.",
+      "zh": "风的噪音在他嘴里和耳朵里很响。",
+      "words": [
+        {
+          "word": "noise",
+          "def": "噪音",
+          "ipa": "/nɔɪz/",
+          "eng_def": "a sound, especially one that is loud or unpleasant"
+        },
+        {
+          "word": "mouth",
+          "def": "嘴",
+          "ipa": "/maʊθ/",
+          "eng_def": "the opening in the face used for eating and speaking"
+        },
+        {
+          "word": "loud",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "ears",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "He does not oppose the climb because it is a historical branch of his life.",
+      "zh": "他不反对这次攀登，因为这是他人生中一个历史性的分支。",
+      "words": [
+        {
+          "word": "oppose",
+          "def": "反对",
+          "ipa": "/əˈpoʊz/",
+          "eng_def": "to be against something or someone"
+        },
+        {
+          "word": "historical",
+          "def": "历史性的",
+          "ipa": "/hɪˈstɔːrɪkl/",
+          "eng_def": "related to the past or history"
+        },
+        {
+          "word": "branch",
+          "def": "分支",
+          "ipa": "/bræntʃ/",
+          "eng_def": "a part or division of something larger"
+        }
+      ]
+    },
+    {
+      "en": "The violence in his past is now behind him, and he should focus on the present.",
+      "zh": "他过去的暴力现在已过去，他应该专注于当下。",
+      "words": [
+        {
+          "word": "violence",
+          "def": "暴力",
+          "ipa": "/ˈvaɪələns/",
+          "eng_def": "behavior that hurts or damages people or things"
+        },
+        {
+          "word": "bedroom",
+          "def": "卧室",
+          "ipa": "/ˈbedruːm/",
+          "eng_def": "a room used for sleeping"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "editor",
+      "def": "编辑",
+      "ipa": "/ˈedɪtər/",
+      "eng_def": "a person who prepares written material for publication",
+      "example": "The editor checked the article for mistakes."
+    },
+    {
+      "word": "normally",
+      "def": "通常地",
+      "ipa": "/ˈnɔːrməli/",
+      "eng_def": "in the usual way or under normal conditions",
+      "example": "I normally eat breakfast at seven."
+    },
+    {
+      "word": "sight",
+      "def": "景象",
+      "ipa": "/saɪt/",
+      "eng_def": "something that is seen, especially a notable view",
+      "example": "The sunset was a beautiful sight."
+    },
+    {
+      "word": "generate",
+      "def": "产生",
+      "ipa": "/ˈdʒenəreɪt/",
+      "eng_def": "to produce or create something",
+      "example": "The machine can generate electricity."
+    },
+    {
+      "word": "gift",
+      "def": "礼物",
+      "ipa": "/ɡɪft/",
+      "eng_def": "something given freely, often for a special occasion",
+      "example": "She gave me a gift for my birthday."
+    },
+    {
+      "word": "delivery",
+      "def": "递送",
+      "ipa": "/dɪˈlɪvəri/",
+      "eng_def": "the act of bringing something to a person or place",
+      "example": "The delivery of the package took two days."
+    },
+    {
+      "word": "deny",
+      "def": "否认；拒绝",
+      "ipa": "/dɪˈnaɪ/",
+      "eng_def": "to say that something is not true; to refuse to give",
+      "example": "He will deny the accusation."
+    },
+    {
+      "word": "guest",
+      "def": "客人",
+      "ipa": "/ɡest/",
+      "eng_def": "a person who is invited to visit or stay",
+      "example": "We have a guest coming for dinner."
+    },
+    {
+      "word": "anybody",
+      "def": "任何人",
+      "ipa": "/ˈenibɑːdi/",
+      "eng_def": "any person at all",
+      "example": "Anybody can learn to swim."
+    },
+    {
+      "word": "bedroom",
+      "def": "卧室",
+      "ipa": "/ˈbedruːm/",
+      "eng_def": "a room used for sleeping",
+      "example": "My bedroom has a blue bed."
+    },
+    {
+      "word": "quote",
+      "def": "引文",
+      "ipa": "/kwoʊt/",
+      "eng_def": "a group of words taken from a text or speech",
+      "example": "She read a quote from the book."
+    },
+    {
+      "word": "climb",
+      "def": "攀登",
+      "ipa": "/klaɪm/",
+      "eng_def": "to go up something, such as a mountain or stairs",
+      "example": "They will climb the hill tomorrow."
+    },
+    {
+      "word": "basically",
+      "def": "基本上",
+      "ipa": "/ˈbeɪsɪkli/",
+      "eng_def": "in a simple or fundamental way",
+      "example": "Basically, the plan is simple."
+    },
+    {
+      "word": "violence",
+      "def": "暴力",
+      "ipa": "/ˈvaɪələns/",
+      "eng_def": "behavior that hurts or damages people or things",
+      "example": "Violence is never the answer."
+    },
+    {
+      "word": "minister",
+      "def": "部长",
+      "ipa": "/ˈmɪnɪstər/",
+      "eng_def": "a person in charge of a government department",
+      "example": "The minister gave a speech."
+    },
+    {
+      "word": "mainly",
+      "def": "主要地",
+      "ipa": "/ˈmeɪnli/",
+      "eng_def": "mostly or primarily",
+      "example": "The team is mainly from China."
+    },
+    {
+      "word": "mouth",
+      "def": "嘴",
+      "ipa": "/maʊθ/",
+      "eng_def": "the opening in the face used for eating and speaking",
+      "example": "Open your mouth for the dentist."
+    },
+    {
+      "word": "noise",
+      "def": "噪音",
+      "ipa": "/nɔɪz/",
+      "eng_def": "a sound, especially one that is loud or unpleasant",
+      "example": "The noise from the street woke me up."
+    },
+    {
+      "word": "manner",
+      "def": "方式；态度",
+      "ipa": "/ˈmænər/",
+      "eng_def": "the way something is done; behavior",
+      "example": "He spoke in a polite manner."
+    },
+    {
+      "word": "gun",
+      "def": "枪",
+      "ipa": "/ɡʌn/",
+      "eng_def": "a weapon that shoots bullets",
+      "example": "The police officer carried a gun."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词的意思是“编辑”？",
+      "question_en": "Which word means 'a person who prepares written material for publication'?",
+      "options": [
+        "A. editor",
+        "B. minister",
+        "C. guest",
+        "D. delivery"
+      ],
+      "answer": 0,
+      "word": "editor"
+    },
+    {
+      "question_cn": "哪个词的意思是“产生”？",
+      "question_en": "Which word means 'to produce or create something'?",
+      "options": [
+        "A. climb",
+        "B. deny",
+        "C. generate",
+        "D. oppose"
+      ],
+      "answer": 2,
+      "word": "generate"
+    },
+    {
+      "question_cn": "哪个词的意思是“噪音”？",
+      "question_en": "Which word means 'a sound, especially one that is loud or unpleasant'?",
+      "options": [
+        "A. sight",
+        "B. noise",
+        "C. mouth",
+        "D. gift"
+      ],
+      "answer": 1,
+      "word": "noise"
+    },
+    {
+      "question_cn": "哪个词的意思是“基本上”？",
+      "question_en": "Which word means 'in a simple or fundamental way'?",
+      "options": [
+        "A. mainly",
+        "B. normally",
+        "C. basically",
+        "D. moreover"
+      ],
+      "answer": 2,
+      "word": "basically"
+    },
+    {
+      "question_cn": "哪个词的意思是“拒绝”？",
+      "question_en": "Which word means 'to say that something is not true; to refuse to give'?",
+      "options": [
+        "A. deny",
+        "B. deliver",
+        "C. oppose",
+        "D. quote"
+      ],
+      "answer": 0,
+      "word": "deny"
+    }
+  ],
+  "image_prompts": [
+    "An editor sitting at a desk with papers, then climbing a mountain.",
+    "A person holding a wrapped gift, smiling at a guest.",
+    "A guest looking at a beautiful mountain view from the top.",
+    "An editor looking determined, refusing to give up.",
+    "A bag with a gun inside, on a mountain trail.",
+    "A minister speaking, with a written quote being delivered.",
+    "A person climbing a mountain with a confident manner.",
+    "Wind blowing loudly, affecting a person's mouth and ears.",
+    "A tree branch with historical symbols, representing life's path.",
+    "A person leaving behind a dark past of violence, focusing on a bright present."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['bedroom']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 62,
+  "_new_word_count": 20
+}

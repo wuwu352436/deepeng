@@ -1,0 +1,472 @@
+{
+  "id": 67,
+  "title": "A New Forest Factory",
+  "article_text": "A friendly resident wants to build a secure factory near the west forest. The factory will produce a new device for local people. The device can amaze users with its smart features. Every birth in the town gets a label with the device's name. The factory's root idea comes from a typical need for better communication. We must investigate the expense of this project before we start. The company will concentrate on making plenty of devices each month. A channel on television gave a good recommendation for the product. The factory will rank high in the west region for its leadership. We should explore the forest to find a relevant place for the provision of materials.",
+  "sentences": [
+    {
+      "en": "A friendly resident wants to build a secure factory near the west forest.",
+      "zh": "一位友好的居民想在西部森林附近建造一个安全的工厂。",
+      "words": [
+        {
+          "word": "friendly",
+          "def": "友好的",
+          "ipa": "/ˈfrendli/",
+          "eng_def": "kind and pleasant"
+        },
+        {
+          "word": "resident",
+          "def": "居民",
+          "ipa": "/ˈrezɪdənt/",
+          "eng_def": "a person who lives in a place"
+        },
+        {
+          "word": "secure",
+          "def": "安全的",
+          "ipa": "/sɪˈkjʊr/",
+          "eng_def": "safe; not in danger"
+        },
+        {
+          "word": "factory",
+          "def": "工厂",
+          "ipa": "/ˈfæktəri/",
+          "eng_def": "a building where things are made"
+        },
+        {
+          "word": "west",
+          "def": "西部",
+          "ipa": "/west/",
+          "eng_def": "the direction where the sun goes down"
+        },
+        {
+          "word": "forest",
+          "def": "森林",
+          "ipa": "/ˈfɔrɪst/",
+          "eng_def": "a large area with many trees"
+        }
+      ]
+    },
+    {
+      "en": "The factory will produce a new device for local people.",
+      "zh": "这家工厂将为当地人生产一种新设备。",
+      "words": [
+        {
+          "word": "device",
+          "def": "设备",
+          "ipa": "/dɪˈvaɪs/",
+          "eng_def": "a tool or machine for a special job"
+        }
+      ]
+    },
+    {
+      "en": "The device can amaze users with its smart features.",
+      "zh": "这个设备能以其智能功能让用户感到惊奇。",
+      "words": [
+        {
+          "word": "amaze",
+          "def": "使惊奇",
+          "ipa": "/əˈmeɪz/",
+          "eng_def": "to surprise someone very much"
+        },
+        {
+          "word": "smart",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Every birth in the town gets a label with the device's name.",
+      "zh": "镇上每个新生儿都会得到一个带有设备名称的标签。",
+      "words": [
+        {
+          "word": "birth",
+          "def": "出生",
+          "ipa": "/bɜrθ/",
+          "eng_def": "the time when a baby comes out of its mother"
+        },
+        {
+          "word": "label",
+          "def": "标签",
+          "ipa": "/ˈleɪbəl/",
+          "eng_def": "a piece of paper or cloth that gives information"
+        },
+        {
+          "word": "device's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The factory's root idea comes from a typical need for better communication.",
+      "zh": "工厂的根本想法源于对更好沟通的典型需求。",
+      "words": [
+        {
+          "word": "root",
+          "def": "根源",
+          "ipa": "/ruːt/",
+          "eng_def": "the main cause or origin of something"
+        },
+        {
+          "word": "typical",
+          "def": "典型的",
+          "ipa": "/ˈtɪpɪkəl/",
+          "eng_def": "normal; usual for a group"
+        },
+        {
+          "word": "factory's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "better",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "We must investigate the expense of this project before we start.",
+      "zh": "在开始之前，我们必须调查这个项目的费用。",
+      "words": [
+        {
+          "word": "investigate",
+          "def": "调查",
+          "ipa": "/ɪnˈvestɪɡeɪt/",
+          "eng_def": "to try to find out the facts about something"
+        },
+        {
+          "word": "expense",
+          "def": "费用",
+          "ipa": "/ɪkˈspens/",
+          "eng_def": "the money you spend on something"
+        }
+      ]
+    },
+    {
+      "en": "The company will concentrate on making plenty of devices each month.",
+      "zh": "公司将集中精力每月生产大量设备。",
+      "words": [
+        {
+          "word": "concentrate",
+          "def": "集中",
+          "ipa": "/ˈkɑːnsəntreɪt/",
+          "eng_def": "to give all your attention to something"
+        },
+        {
+          "word": "plenty",
+          "def": "大量",
+          "ipa": "/ˈplenti/",
+          "eng_def": "a large amount or number"
+        },
+        {
+          "word": "devices",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "A channel on television gave a good recommendation for the product.",
+      "zh": "电视上的一个频道为这个产品给出了很好的推荐。",
+      "words": [
+        {
+          "word": "channel",
+          "def": "频道",
+          "ipa": "/ˈtʃænəl/",
+          "eng_def": "a TV station or program number"
+        },
+        {
+          "word": "recommendation",
+          "def": "推荐",
+          "ipa": "/ˌrekəmenˈdeɪʃən/",
+          "eng_def": "a suggestion that something is good or useful"
+        },
+        {
+          "word": "gave",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The factory will rank high in the west region for its leadership.",
+      "zh": "这家工厂将因其领导力在西部区域排名靠前。",
+      "words": [
+        {
+          "word": "rank",
+          "def": "排名",
+          "ipa": "/ræŋk/",
+          "eng_def": "the position or level of something"
+        },
+        {
+          "word": "leadership",
+          "def": "领导力",
+          "ipa": "/ˈliːdərʃɪp/",
+          "eng_def": "the ability to lead a group"
+        },
+        {
+          "word": "west",
+          "def": "西部",
+          "ipa": "/west/",
+          "eng_def": "the direction where the sun goes down"
+        }
+      ]
+    },
+    {
+      "en": "We should explore the forest to find a relevant place for the provision of materials.",
+      "zh": "我们应该探索森林，为材料供应找到一个相关的地点。",
+      "words": [
+        {
+          "word": "explore",
+          "def": "探索",
+          "ipa": "/ɪkˈsplɔːr/",
+          "eng_def": "to travel to a new place to learn about it"
+        },
+        {
+          "word": "forest",
+          "def": "森林",
+          "ipa": "/ˈfɔrɪst/",
+          "eng_def": "a large area with many trees"
+        },
+        {
+          "word": "relevant",
+          "def": "相关的",
+          "ipa": "/ˈreləvənt/",
+          "eng_def": "connected to what is being discussed"
+        },
+        {
+          "word": "provision",
+          "def": "供应",
+          "ipa": "/prəˈvɪʒən/",
+          "eng_def": "the act of giving or supplying something"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "secure",
+      "def": "安全的",
+      "ipa": "/sɪˈkjʊr/",
+      "eng_def": "safe; not in danger",
+      "example": "The factory is secure."
+    },
+    {
+      "word": "amaze",
+      "def": "使惊奇",
+      "ipa": "/əˈmeɪz/",
+      "eng_def": "to surprise someone very much",
+      "example": "The device will amaze you."
+    },
+    {
+      "word": "device",
+      "def": "设备",
+      "ipa": "/dɪˈvaɪs/",
+      "eng_def": "a tool or machine for a special job",
+      "example": "I use a small device."
+    },
+    {
+      "word": "birth",
+      "def": "出生",
+      "ipa": "/bɜrθ/",
+      "eng_def": "the time when a baby comes out of its mother",
+      "example": "The birth was happy."
+    },
+    {
+      "word": "forest",
+      "def": "森林",
+      "ipa": "/ˈfɔrɪst/",
+      "eng_def": "a large area with many trees",
+      "example": "We walk in the forest."
+    },
+    {
+      "word": "label",
+      "def": "标签",
+      "ipa": "/ˈleɪbəl/",
+      "eng_def": "a piece of paper or cloth that gives information",
+      "example": "Read the label on the box."
+    },
+    {
+      "word": "root",
+      "def": "根源",
+      "ipa": "/ruːt/",
+      "eng_def": "the main cause or origin of something",
+      "example": "The root of the problem is clear."
+    },
+    {
+      "word": "factory",
+      "def": "工厂",
+      "ipa": "/ˈfæktəri/",
+      "eng_def": "a building where things are made",
+      "example": "The factory makes toys."
+    },
+    {
+      "word": "expense",
+      "def": "费用",
+      "ipa": "/ɪkˈspens/",
+      "eng_def": "the money you spend on something",
+      "example": "The expense is too high."
+    },
+    {
+      "word": "channel",
+      "def": "频道",
+      "ipa": "/ˈtʃænəl/",
+      "eng_def": "a TV station or program number",
+      "example": "I watch that channel."
+    },
+    {
+      "word": "investigate",
+      "def": "调查",
+      "ipa": "/ɪnˈvestɪɡeɪt/",
+      "eng_def": "to try to find out the facts about something",
+      "example": "The police investigate the case."
+    },
+    {
+      "word": "recommendation",
+      "def": "推荐",
+      "ipa": "/ˌrekəmenˈdeɪʃən/",
+      "eng_def": "a suggestion that something is good or useful",
+      "example": "I need a recommendation."
+    },
+    {
+      "word": "rank",
+      "def": "排名",
+      "ipa": "/ræŋk/",
+      "eng_def": "the position or level of something",
+      "example": "Our team is rank one."
+    },
+    {
+      "word": "typical",
+      "def": "典型的",
+      "ipa": "/ˈtɪpɪkəl/",
+      "eng_def": "normal; usual for a group",
+      "example": "It is a typical day."
+    },
+    {
+      "word": "west",
+      "def": "西部",
+      "ipa": "/west/",
+      "eng_def": "the direction where the sun goes down",
+      "example": "The sun sets in the west."
+    },
+    {
+      "word": "friendly",
+      "def": "友好的",
+      "ipa": "/ˈfrendli/",
+      "eng_def": "kind and pleasant",
+      "example": "She is a friendly person."
+    },
+    {
+      "word": "resident",
+      "def": "居民",
+      "ipa": "/ˈrezɪdənt/",
+      "eng_def": "a person who lives in a place",
+      "example": "The resident likes the park."
+    },
+    {
+      "word": "provision",
+      "def": "供应",
+      "ipa": "/prəˈvɪʒən/",
+      "eng_def": "the act of giving or supplying something",
+      "example": "The provision of food is important."
+    },
+    {
+      "word": "concentrate",
+      "def": "集中",
+      "ipa": "/ˈkɑːnsəntreɪt/",
+      "eng_def": "to give all your attention to something",
+      "example": "I concentrate on my work."
+    },
+    {
+      "word": "plenty",
+      "def": "大量",
+      "ipa": "/ˈplenti/",
+      "eng_def": "a large amount or number",
+      "example": "There is plenty of water."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词的意思是“安全的”？",
+      "question_en": "Which word means 'safe'?",
+      "options": [
+        "A. secure",
+        "B. amaze",
+        "C. device",
+        "D. label"
+      ],
+      "answer": 0,
+      "word": "secure"
+    },
+    {
+      "question_cn": "哪个词的意思是“调查”？",
+      "question_en": "Which word means 'to try to find out the facts'?",
+      "options": [
+        "A. rank",
+        "B. investigate",
+        "C. concentrate",
+        "D. explore"
+      ],
+      "answer": 1,
+      "word": "investigate"
+    },
+    {
+      "question_cn": "哪个词的意思是“典型的”？",
+      "question_en": "Which word means 'normal or usual'?",
+      "options": [
+        "A. friendly",
+        "B. typical",
+        "C. relevant",
+        "D. secure"
+      ],
+      "answer": 1,
+      "word": "typical"
+    },
+    {
+      "question_cn": "哪个词的意思是“推荐”？",
+      "question_en": "Which word means 'a suggestion that something is good'?",
+      "options": [
+        "A. provision",
+        "B. recommendation",
+        "C. expense",
+        "D. channel"
+      ],
+      "answer": 1,
+      "word": "recommendation"
+    },
+    {
+      "question_cn": "哪个词的意思是“大量”？",
+      "question_en": "Which word means 'a large amount'?",
+      "options": [
+        "A. plenty",
+        "B. birth",
+        "C. root",
+        "D. rank"
+      ],
+      "answer": 0,
+      "word": "plenty"
+    }
+  ],
+  "image_prompts": [
+    "A friendly resident smiling near a secure factory beside a west forest.",
+    "A factory producing a new shiny device for local people.",
+    "A person looking amazed at a smart device with glowing features.",
+    "A newborn baby with a label attached to its blanket showing a device name.",
+    "A tree with roots spreading under a factory, representing the root idea.",
+    "A person investigating a paper with expense numbers on it.",
+    "A factory worker concentrating while making many devices.",
+    "A TV channel logo on a screen showing a recommendation for a product.",
+    "A ranking chart showing the factory at the top in a west region map.",
+    "People exploring a forest, looking for a relevant place for material provision."
+  ],
+  "_needs_review": false,
+  "_lesson_num": 67,
+  "_new_word_count": 20
+}

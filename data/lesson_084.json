@@ -1,0 +1,433 @@
+{
+  "id": 84,
+  "title": "A Lucky Day in the City",
+  "article_text": "I was walking to the library when I saw a coat on the ground. The coat had a pocket with some money inside, and I felt lucky. I wanted to return the money because it was the right thing to do. I was watching the street for a long time, doing an observation of the people. A man was running after a crash, and he looked worried. He was eating meat from a dish, and he seemed to have no concentration. The implication of the crash was that someone was hurt, so I decided to defend the man. He was a classic king of the street, but he was unusual because he was very kind. The interaction between us was short, but I learned a fundamental lesson about honesty. I used to borrow money from friends, but now I know I should not bother others for help.",
+  "sentences": [
+    {
+      "en": "I was walking to the library when I saw a coat on the ground.",
+      "zh": "我正走去图书馆时，看到地上有一件外套。",
+      "words": [
+        {
+          "word": "coat",
+          "def": "外套",
+          "ipa": "/koʊt/",
+          "eng_def": "a piece of clothing worn over other clothes to keep warm"
+        },
+        {
+          "word": "library",
+          "def": "图书馆",
+          "ipa": "/ˈlaɪbreri/",
+          "eng_def": "a place where books are kept for reading or borrowing"
+        },
+        {
+          "word": "saw",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The coat had a pocket with some money inside, and I felt lucky.",
+      "zh": "外套有一个口袋，里面有一些钱，我觉得很幸运。",
+      "words": [
+        {
+          "word": "pocket",
+          "def": "口袋",
+          "ipa": "/ˈpɑkɪt/",
+          "eng_def": "a small bag sewn into clothing for carrying things"
+        },
+        {
+          "word": "lucky",
+          "def": "幸运的",
+          "ipa": "/ˈlʌki/",
+          "eng_def": "having good things happen by chance"
+        },
+        {
+          "word": "felt",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I wanted to return the money because it was the right thing to do.",
+      "zh": "我想归还这些钱，因为这是正确的事情。",
+      "words": [
+        {
+          "word": "return",
+          "def": "归还",
+          "ipa": "/rɪˈtɜrn/",
+          "eng_def": "to give something back to its owner"
+        }
+      ]
+    },
+    {
+      "en": "I was watching the street for a long time, doing an observation of the people.",
+      "zh": "我长时间观察街道，对人们进行观察。",
+      "words": [
+        {
+          "word": "observation",
+          "def": "观察",
+          "ipa": "/ˌɑbzərˈveɪʃən/",
+          "eng_def": "the act of watching someone or something carefully"
+        }
+      ]
+    },
+    {
+      "en": "A man was running after a crash, and he looked worried.",
+      "zh": "一个男人在撞车后奔跑，他看起来很担心。",
+      "words": [
+        {
+          "word": "crash",
+          "def": "碰撞；撞车",
+          "ipa": "/kræʃ/",
+          "eng_def": "an accident when a vehicle hits something"
+        },
+        {
+          "word": "worried",
+          "def": "担心的",
+          "ipa": "/ˈwɜrid/",
+          "eng_def": "feeling unhappy because you think bad things may happen"
+        },
+        {
+          "word": "running",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "He was eating meat from a dish, and he seemed to have no concentration.",
+      "zh": "他正从一个盘子里吃肉，他似乎没有专注力。",
+      "words": [
+        {
+          "word": "meat",
+          "def": "肉",
+          "ipa": "/miːt/",
+          "eng_def": "the flesh of an animal used as food"
+        },
+        {
+          "word": "dish",
+          "def": "盘子；菜肴",
+          "ipa": "/dɪʃ/",
+          "eng_def": "a flat container for serving food; a type of food"
+        },
+        {
+          "word": "concentration",
+          "def": "专注；集中",
+          "ipa": "/ˌkɑnsənˈtreɪʃən/",
+          "eng_def": "the ability to think carefully about something"
+        }
+      ]
+    },
+    {
+      "en": "The implication of the crash was that someone was hurt, so I decided to defend the man.",
+      "zh": "撞车的暗示是有人受伤了，所以我决定保护那个男人。",
+      "words": [
+        {
+          "word": "implication",
+          "def": "暗示；含义",
+          "ipa": "/ˌɪmplɪˈkeɪʃən/",
+          "eng_def": "a possible result or meaning of something"
+        },
+        {
+          "word": "defend",
+          "def": "保护；辩护",
+          "ipa": "/dɪˈfɛnd/",
+          "eng_def": "to protect someone or something from harm"
+        }
+      ]
+    },
+    {
+      "en": "He was a classic king of the street, but he was unusual because he was very kind.",
+      "zh": "他是典型的街头之王，但他很不寻常，因为他非常善良。",
+      "words": [
+        {
+          "word": "classic",
+          "def": "经典的；典型的",
+          "ipa": "/ˈklæsɪk/",
+          "eng_def": "serving as a typical example of something"
+        },
+        {
+          "word": "king",
+          "def": "国王",
+          "ipa": "/kɪŋ/",
+          "eng_def": "a man who rules a country; the most important person in a group"
+        },
+        {
+          "word": "unusual",
+          "def": "不寻常的",
+          "ipa": "/ʌnˈjuːʒuəl/",
+          "eng_def": "not normal; different from what is usual"
+        }
+      ]
+    },
+    {
+      "en": "The interaction between us was short, but I learned a fundamental lesson about honesty.",
+      "zh": "我们之间的互动很短暂，但我学到了关于诚实的基本一课。",
+      "words": [
+        {
+          "word": "interaction",
+          "def": "互动；交流",
+          "ipa": "/ˌɪntərˈækʃən/",
+          "eng_def": "the activity of talking or doing things with others"
+        },
+        {
+          "word": "fundamental",
+          "def": "基本的；根本的",
+          "ipa": "/ˌfʌndəˈmɛntəl/",
+          "eng_def": "forming the base from which everything else develops"
+        },
+        {
+          "word": "honesty",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I used to borrow money from friends, but now I know I should not bother others for help.",
+      "zh": "我过去常常向朋友借钱，但现在我知道我不应该为帮助而打扰别人。",
+      "words": [
+        {
+          "word": "borrow",
+          "def": "借入",
+          "ipa": "/ˈbɑroʊ/",
+          "eng_def": "to take something from someone and plan to return it"
+        },
+        {
+          "word": "bother",
+          "def": "打扰",
+          "ipa": "/ˈbɑðər/",
+          "eng_def": "to cause trouble or worry to someone"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "coat",
+      "def": "外套",
+      "ipa": "/koʊt/",
+      "eng_def": "a piece of clothing worn over other clothes to keep warm",
+      "example": "I wear a coat in winter."
+    },
+    {
+      "word": "democracy",
+      "def": "民主",
+      "ipa": "/dɪˈmɑkrəsi/",
+      "eng_def": "a system of government where people choose their leaders",
+      "example": "In a democracy, people vote for their leaders."
+    },
+    {
+      "word": "pocket",
+      "def": "口袋",
+      "ipa": "/ˈpɑkɪt/",
+      "eng_def": "a small bag sewn into clothing for carrying things",
+      "example": "I put my phone in my pocket."
+    },
+    {
+      "word": "lucky",
+      "def": "幸运的",
+      "ipa": "/ˈlʌki/",
+      "eng_def": "having good things happen by chance",
+      "example": "She was lucky to find her lost ring."
+    },
+    {
+      "word": "crash",
+      "def": "碰撞；撞车",
+      "ipa": "/kræʃ/",
+      "eng_def": "an accident when a vehicle hits something",
+      "example": "The car crash was very loud."
+    },
+    {
+      "word": "observation",
+      "def": "观察",
+      "ipa": "/ˌɑbzərˈveɪʃən/",
+      "eng_def": "the act of watching someone or something carefully",
+      "example": "His observation of the birds helped him learn."
+    },
+    {
+      "word": "meat",
+      "def": "肉",
+      "ipa": "/miːt/",
+      "eng_def": "the flesh of an animal used as food",
+      "example": "I eat meat for dinner."
+    },
+    {
+      "word": "concentration",
+      "def": "专注；集中",
+      "ipa": "/ˌkɑnsənˈtreɪʃən/",
+      "eng_def": "the ability to think carefully about something",
+      "example": "Reading needs concentration."
+    },
+    {
+      "word": "implication",
+      "def": "暗示；含义",
+      "ipa": "/ˌɪmplɪˈkeɪʃən/",
+      "eng_def": "a possible result or meaning of something",
+      "example": "The implication of his words was clear."
+    },
+    {
+      "word": "deserve",
+      "def": "值得",
+      "ipa": "/dɪˈzɜrv/",
+      "eng_def": "to be worthy of something",
+      "example": "You deserve a reward for your hard work."
+    },
+    {
+      "word": "unusual",
+      "def": "不寻常的",
+      "ipa": "/ʌnˈjuːʒuəl/",
+      "eng_def": "not normal; different from what is usual",
+      "example": "It is unusual to see snow here."
+    },
+    {
+      "word": "defend",
+      "def": "保护；辩护",
+      "ipa": "/dɪˈfɛnd/",
+      "eng_def": "to protect someone or something from harm",
+      "example": "The dog defends its home."
+    },
+    {
+      "word": "classic",
+      "def": "经典的；典型的",
+      "ipa": "/ˈklæsɪk/",
+      "eng_def": "serving as a typical example of something",
+      "example": "This is a classic example of good design."
+    },
+    {
+      "word": "king",
+      "def": "国王",
+      "ipa": "/kɪŋ/",
+      "eng_def": "a man who rules a country; the most important person in a group",
+      "example": "The king lives in a palace."
+    },
+    {
+      "word": "interaction",
+      "def": "互动；交流",
+      "ipa": "/ˌɪntərˈækʃən/",
+      "eng_def": "the activity of talking or doing things with others",
+      "example": "Social interaction is important for children."
+    },
+    {
+      "word": "repair",
+      "def": "修理",
+      "ipa": "/rɪˈpɛr/",
+      "eng_def": "to fix something that is broken",
+      "example": "He will repair the broken chair."
+    },
+    {
+      "word": "collapse",
+      "def": "倒塌；崩溃",
+      "ipa": "/kəˈlæps/",
+      "eng_def": "to fall down or fail suddenly",
+      "example": "The old building might collapse."
+    },
+    {
+      "word": "borrow",
+      "def": "借入",
+      "ipa": "/ˈbɑroʊ/",
+      "eng_def": "to take something from someone and plan to return it",
+      "example": "Can I borrow your pen?"
+    },
+    {
+      "word": "fundamental",
+      "def": "基本的；根本的",
+      "ipa": "/ˌfʌndəˈmɛntəl/",
+      "eng_def": "forming the base from which everything else develops",
+      "example": "Honesty is a fundamental value."
+    },
+    {
+      "word": "dish",
+      "def": "盘子；菜肴",
+      "ipa": "/dɪʃ/",
+      "eng_def": "a flat container for serving food; a type of food",
+      "example": "She washed the dish after dinner."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "“外套”用英语怎么说？",
+      "question_en": "How do you say '外套' in English?",
+      "options": [
+        "A. coat",
+        "B. dish",
+        "C. king",
+        "D. pocket"
+      ],
+      "answer": 0,
+      "word": "coat"
+    },
+    {
+      "question_cn": "哪个词的意思是“保护”？",
+      "question_en": "Which word means 'to protect'?",
+      "options": [
+        "A. crash",
+        "B. defend",
+        "C. borrow",
+        "D. collapse"
+      ],
+      "answer": 1,
+      "word": "defend"
+    },
+    {
+      "question_cn": "“观察”对应的英语单词是？",
+      "question_en": "What is the English word for '观察'?",
+      "options": [
+        "A. observation",
+        "B. interaction",
+        "C. implication",
+        "D. concentration"
+      ],
+      "answer": 0,
+      "word": "observation"
+    },
+    {
+      "question_cn": "哪个词的意思是“基本的”？",
+      "question_en": "Which word means 'basic'?",
+      "options": [
+        "A. classic",
+        "B. lucky",
+        "C. fundamental",
+        "D. unusual"
+      ],
+      "answer": 2,
+      "word": "fundamental"
+    },
+    {
+      "question_cn": "“借入”用英语怎么说？",
+      "question_en": "How do you say '借入' in English?",
+      "options": [
+        "A. repair",
+        "B. deserve",
+        "C. borrow",
+        "D. defend"
+      ],
+      "answer": 2,
+      "word": "borrow"
+    }
+  ],
+  "image_prompts": [
+    "A person walking on a city street, noticing a coat lying on the ground.",
+    "Close-up of a coat with a pocket, some money visible inside.",
+    "A person holding money, looking thoughtful about returning it.",
+    "A person standing on a street, watching people pass by carefully.",
+    "A man running near a car crash, looking worried.",
+    "A man eating meat from a plate, looking distracted.",
+    "A person standing protectively in front of another person after a crash.",
+    "A man with a confident posture, but a kind expression, on a street.",
+    "Two people having a brief conversation on a sidewalk.",
+    "A person refusing to borrow money from a friend, with a determined look."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['democracy', 'collapse', 'deserve', 'repair']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 84,
+  "_new_word_count": 20
+}

@@ -1,0 +1,505 @@
+{
+  "id": 118,
+  "title": "The Tale of a Town's Change",
+  "article_text": "A wooden sign at the old town hall told a tale of great change. The town's boom came from a new factory, which brought jobs and pride. However, the cost of maintenance for the old buildings was a big constraint. Consequently, the town had to undergo a democratic vote on how to spend money. Some people would pretend the problems were not there, but that was not a good idea. The scope of the project was large, and it could potentially strengthen the local economy. A cow in the field near the factory was a familiar creature to all. The town's diversity grew as new families came, and partnership with the city helped a lot. The mayor would allege that the factory's waste was not a problem, but many disagreed. Not only did the town fold the old plans, but it also put them in a bin for recycling; only then did real change begin.",
+  "sentences": [
+    {
+      "en": "A wooden sign at the old town hall told a tale of great change.",
+      "zh": "旧市政厅的一块木制标牌讲述了一个巨大变化的故事。",
+      "words": [
+        {
+          "word": "wooden",
+          "def": "木制的",
+          "ipa": "/ˈwʊdən/",
+          "eng_def": "made of wood"
+        },
+        {
+          "word": "tale",
+          "def": "故事",
+          "ipa": "/teɪl/",
+          "eng_def": "a story about imaginary or real events"
+        },
+        {
+          "word": "told",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The town's boom came from a new factory, which brought jobs and pride.",
+      "zh": "该镇的繁荣来自一家新工厂，它带来了工作和自豪感。",
+      "words": [
+        {
+          "word": "boom",
+          "def": "繁荣",
+          "ipa": "/buːm/",
+          "eng_def": "a time of fast economic growth"
+        },
+        {
+          "word": "pride",
+          "def": "自豪",
+          "ipa": "/praɪd/",
+          "eng_def": "a feeling of satisfaction from your own or others' achievements"
+        },
+        {
+          "word": "town's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "came",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "brought",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "However, the cost of maintenance for the old buildings was a big constraint.",
+      "zh": "然而，旧建筑的维护成本是一个很大的限制。",
+      "words": [
+        {
+          "word": "maintenance",
+          "def": "维护",
+          "ipa": "/ˈmeɪntənəns/",
+          "eng_def": "the work of keeping something in good condition"
+        },
+        {
+          "word": "constraint",
+          "def": "限制",
+          "ipa": "/kənˈstreɪnt/",
+          "eng_def": "something that limits what you can do"
+        },
+        {
+          "word": "buildings",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Consequently, the town had to undergo a democratic vote on how to spend money.",
+      "zh": "因此，该镇不得不进行一次民主投票来决定如何花钱。",
+      "words": [
+        {
+          "word": "consequently",
+          "def": "因此",
+          "ipa": "/ˈkɒnsɪkwəntli/",
+          "eng_def": "as a result"
+        },
+        {
+          "word": "undergo",
+          "def": "经历",
+          "ipa": "/ˌʌndəˈɡəʊ/",
+          "eng_def": "to experience something, especially a change or treatment"
+        },
+        {
+          "word": "democratic",
+          "def": "民主的",
+          "ipa": "/ˌdeməˈkrætɪk/",
+          "eng_def": "based on the idea that everyone should have equal rights and be able to vote"
+        }
+      ]
+    },
+    {
+      "en": "Some people would pretend the problems were not there, but that was not a good idea.",
+      "zh": "有些人会假装问题不存在，但那不是个好主意。",
+      "words": [
+        {
+          "word": "pretend",
+          "def": "假装",
+          "ipa": "/prɪˈtend/",
+          "eng_def": "to act as if something is true when it is not"
+        }
+      ]
+    },
+    {
+      "en": "The scope of the project was large, and it could potentially strengthen the local economy.",
+      "zh": "该项目的范围很大，它有可能加强当地经济。",
+      "words": [
+        {
+          "word": "scope",
+          "def": "范围",
+          "ipa": "/skəʊp/",
+          "eng_def": "the range of things that a subject or activity deals with"
+        },
+        {
+          "word": "potentially",
+          "def": "潜在地",
+          "ipa": "/pəˈtenʃəli/",
+          "eng_def": "possibly true in the future if things develop"
+        },
+        {
+          "word": "strengthen",
+          "def": "加强",
+          "ipa": "/ˈstreŋkθən/",
+          "eng_def": "to make something stronger"
+        }
+      ]
+    },
+    {
+      "en": "A cow in the field near the factory was a familiar creature to all.",
+      "zh": "工厂附近田野里的一头牛是大家都熟悉的生物。",
+      "words": [
+        {
+          "word": "cow",
+          "def": "牛",
+          "ipa": "/kaʊ/",
+          "eng_def": "a large farm animal kept for milk or meat"
+        },
+        {
+          "word": "creature",
+          "def": "生物",
+          "ipa": "/ˈkriːtʃə/",
+          "eng_def": "any living thing that is not a plant"
+        }
+      ]
+    },
+    {
+      "en": "The town's diversity grew as new families came, and partnership with the city helped a lot.",
+      "zh": "随着新家庭的到来，小镇的多样性增加了，与城市的合作也帮助很大。",
+      "words": [
+        {
+          "word": "diversity",
+          "def": "多样性",
+          "ipa": "/daɪˈvɜːsəti/",
+          "eng_def": "the fact of including many different types of people or things"
+        },
+        {
+          "word": "partnership",
+          "def": "合作关系",
+          "ipa": "/ˈpɑːtnəʃɪp/",
+          "eng_def": "a relationship between two people or organizations working together"
+        },
+        {
+          "word": "town's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "grew",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "families",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "came",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The mayor would allege that the factory's waste was not a problem, but many disagreed.",
+      "zh": "市长会声称工厂的废物不是问题，但许多人不同意。",
+      "words": [
+        {
+          "word": "allege",
+          "def": "声称",
+          "ipa": "/əˈledʒ/",
+          "eng_def": "to say that someone has done something wrong without proof"
+        },
+        {
+          "word": "mayor",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "factory's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Not only did the town fold the old plans, but it also put them in a bin for recycling; only then did real change begin.",
+      "zh": "小镇不仅折叠了旧计划，而且把它们扔进了回收箱；只有在那时，真正的改变才开始。",
+      "words": [
+        {
+          "word": "fold",
+          "def": "折叠",
+          "ipa": "/fəʊld/",
+          "eng_def": "to bend something so that one part lies on top of another"
+        },
+        {
+          "word": "bin",
+          "def": "垃圾桶",
+          "ipa": "/bɪn/",
+          "eng_def": "a container for waste"
+        },
+        {
+          "word": "whilst",
+          "def": "当……的时候",
+          "ipa": "/waɪlst/",
+          "eng_def": "during the time that; at the same time as"
+        },
+        {
+          "word": "dramatically",
+          "def": "显著地",
+          "ipa": "/drəˈmætɪkli/",
+          "eng_def": "in a sudden and very noticeable way"
+        },
+        {
+          "word": "stake",
+          "def": "赌注",
+          "ipa": "/steɪk/",
+          "eng_def": "money or something valuable that you risk on a result"
+        },
+        {
+          "word": "participation",
+          "def": "参与",
+          "ipa": "/pɑːˌtɪsɪˈpeɪʃn/",
+          "eng_def": "the act of taking part in something"
+        },
+        {
+          "word": "recycling",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "wooden",
+      "def": "木制的",
+      "ipa": "/ˈwʊdən/",
+      "eng_def": "made of wood",
+      "example": "The table is wooden."
+    },
+    {
+      "word": "boom",
+      "def": "繁荣",
+      "ipa": "/buːm/",
+      "eng_def": "a time of fast economic growth",
+      "example": "The town had a boom after the factory opened."
+    },
+    {
+      "word": "tale",
+      "def": "故事",
+      "ipa": "/teɪl/",
+      "eng_def": "a story about imaginary or real events",
+      "example": "She told a tale about a dragon."
+    },
+    {
+      "word": "democratic",
+      "def": "民主的",
+      "ipa": "/ˌdeməˈkrætɪk/",
+      "eng_def": "based on the idea that everyone should have equal rights and be able to vote",
+      "example": "The election was democratic."
+    },
+    {
+      "word": "maintenance",
+      "def": "维护",
+      "ipa": "/ˈmeɪntənəns/",
+      "eng_def": "the work of keeping something in good condition",
+      "example": "The building needs maintenance."
+    },
+    {
+      "word": "consequently",
+      "def": "因此",
+      "ipa": "/ˈkɒnsɪkwəntli/",
+      "eng_def": "as a result",
+      "example": "It rained; consequently, the game was cancelled."
+    },
+    {
+      "word": "pot",
+      "def": "锅；罐",
+      "ipa": "/pɒt/",
+      "eng_def": "a round container used for cooking or storing food",
+      "example": "She put the soup in a pot."
+    },
+    {
+      "word": "cow",
+      "def": "牛",
+      "ipa": "/kaʊ/",
+      "eng_def": "a large farm animal kept for milk or meat",
+      "example": "The cow is eating grass."
+    },
+    {
+      "word": "strengthen",
+      "def": "加强",
+      "ipa": "/ˈstreŋkθən/",
+      "eng_def": "to make something stronger",
+      "example": "Exercise can strengthen your body."
+    },
+    {
+      "word": "whilst",
+      "def": "当……的时候",
+      "ipa": "/waɪlst/",
+      "eng_def": "during the time that; at the same time as",
+      "example": "He read whilst eating."
+    },
+    {
+      "word": "constraint",
+      "def": "限制",
+      "ipa": "/kənˈstreɪnt/",
+      "eng_def": "something that limits what you can do",
+      "example": "Money is a constraint."
+    },
+    {
+      "word": "fold",
+      "def": "折叠",
+      "ipa": "/fəʊld/",
+      "eng_def": "to bend something so that one part lies on top of another",
+      "example": "Fold the paper in half."
+    },
+    {
+      "word": "bin",
+      "def": "垃圾桶",
+      "ipa": "/bɪn/",
+      "eng_def": "a container for waste",
+      "example": "Put the trash in the bin."
+    },
+    {
+      "word": "undergo",
+      "def": "经历",
+      "ipa": "/ˌʌndəˈɡəʊ/",
+      "eng_def": "to experience something, especially a change or treatment",
+      "example": "He will undergo surgery."
+    },
+    {
+      "word": "potentially",
+      "def": "潜在地",
+      "ipa": "/pəˈtenʃəli/",
+      "eng_def": "possibly true in the future if things develop",
+      "example": "This plan is potentially dangerous."
+    },
+    {
+      "word": "scope",
+      "def": "范围",
+      "ipa": "/skəʊp/",
+      "eng_def": "the range of things that a subject or activity deals with",
+      "example": "The scope of the project is huge."
+    },
+    {
+      "word": "pretend",
+      "def": "假装",
+      "ipa": "/prɪˈtend/",
+      "eng_def": "to act as if something is true when it is not",
+      "example": "The child likes to pretend."
+    },
+    {
+      "word": "diversity",
+      "def": "多样性",
+      "ipa": "/daɪˈvɜːsəti/",
+      "eng_def": "the fact of including many different types of people or things",
+      "example": "We value diversity."
+    },
+    {
+      "word": "allege",
+      "def": "声称",
+      "ipa": "/əˈledʒ/",
+      "eng_def": "to say that someone has done something wrong without proof",
+      "example": "They allege he stole the money."
+    },
+    {
+      "word": "pride",
+      "def": "自豪",
+      "ipa": "/praɪd/",
+      "eng_def": "a feeling of satisfaction from your own or others' achievements",
+      "example": "She felt pride in her work."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词的意思是“木制的”？",
+      "question_en": "Which word means 'made of wood'?",
+      "options": [
+        "A. wooden",
+        "B. boom",
+        "C. tale",
+        "D. pot"
+      ],
+      "answer": 0,
+      "word": "wooden"
+    },
+    {
+      "question_cn": "哪个词的意思是“限制”？",
+      "question_en": "Which word means 'something that limits what you can do'?",
+      "options": [
+        "A. constraint",
+        "B. pride",
+        "C. scope",
+        "D. diversity"
+      ],
+      "answer": 0,
+      "word": "constraint"
+    },
+    {
+      "question_cn": "哪个词的意思是“假装”？",
+      "question_en": "Which word means 'to act as if something is true when it is not'?",
+      "options": [
+        "A. allege",
+        "B. pretend",
+        "C. undergo",
+        "D. strengthen"
+      ],
+      "answer": 1,
+      "word": "pretend"
+    },
+    {
+      "question_cn": "哪个词的意思是“因此”？",
+      "question_en": "Which word means 'as a result'?",
+      "options": [
+        "A. consequently",
+        "B. potentially",
+        "C. whilst",
+        "D. dramatically"
+      ],
+      "answer": 0,
+      "word": "consequently"
+    },
+    {
+      "question_cn": "哪个词的意思是“声称（无证据）”？",
+      "question_en": "Which word means 'to say that someone has done something wrong without proof'?",
+      "options": [
+        "A. allege",
+        "B. pretend",
+        "C. boast",
+        "D. claim"
+      ],
+      "answer": 0,
+      "word": "allege"
+    }
+  ],
+  "image_prompts": [
+    "A wooden sign on an old town hall building, with text about change.",
+    "A busy factory with workers and a happy town in the background, symbolizing boom and pride.",
+    "An old building with cracks and a person looking at a list of maintenance costs, with a chain representing constraint.",
+    "A town hall meeting with people voting, a ballot box labeled 'democratic vote'.",
+    "A person covering their eyes and ears, pretending problems do not exist, while a factory smokes in the background.",
+    "A large blueprint with arrows showing scope, and a graph going up to show strengthening economy.",
+    "A brown cow standing in a green field near a factory, with a sign saying 'familiar creature'.",
+    "A group of diverse families holding hands with a city skyline in the background, and a handshake symbolizing partnership.",
+    "A mayor speaking at a podium, with a speech bubble saying 'the waste is not a problem', and people shaking their heads.",
+    "A person folding a large paper plan and putting it into a recycling bin, with a sunrise symbolizing new change."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['whilst']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 118,
+  "_new_word_count": 20
+}

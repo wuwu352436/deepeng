@@ -1,0 +1,469 @@
+{
+  "id": 29,
+  "title": "A Movie Discussion",
+  "article_text": "Nearly every week, our class has a discussion about a movie. This week, the movie is about a doctor from another nation. The doctor can seek new challenges despite having a busy job. He has the ability to help many people, and that is a big advantage. The movie also shows a link between a church and a holiday. Before the film, we see a statement on the board about the story. I am sorry, but I nearly miss the beginning because I am late. Let's introduce the main unit of the film: a family that wants to marry. A machine helps them travel nearly a mile below the ground. After the movie, we have a discussion, and I feel ready to write my mark.",
+  "sentences": [
+    {
+      "en": "Nearly every week, our class has a discussion about a movie.",
+      "zh": "几乎每周，我们班都会讨论一部电影。",
+      "words": [
+        {
+          "word": "nearly",
+          "def": "几乎",
+          "ipa": "/ˈnɪrli/",
+          "eng_def": "almost"
+        },
+        {
+          "word": "discussion",
+          "def": "讨论",
+          "ipa": "/dɪˈskʌʃən/",
+          "eng_def": "a talk about something"
+        },
+        {
+          "word": "movie",
+          "def": "电影",
+          "ipa": "/ˈmuːvi/",
+          "eng_def": "a film"
+        }
+      ]
+    },
+    {
+      "en": "This week, the movie is about a doctor from another nation.",
+      "zh": "这周的电影是关于一位来自另一个国家的医生。",
+      "words": [
+        {
+          "word": "doctor",
+          "def": "医生",
+          "ipa": "/ˈdɑːktər/",
+          "eng_def": "a person who helps sick people"
+        },
+        {
+          "word": "nation",
+          "def": "国家",
+          "ipa": "/ˈneɪʃən/",
+          "eng_def": "a country"
+        }
+      ]
+    },
+    {
+      "en": "The doctor can seek new challenges despite having a busy job.",
+      "zh": "这位医生尽管工作繁忙，仍能寻找新的挑战。",
+      "words": [
+        {
+          "word": "seek",
+          "def": "寻找",
+          "ipa": "/siːk/",
+          "eng_def": "to try to find"
+        },
+        {
+          "word": "challenge",
+          "def": "挑战",
+          "ipa": "/ˈtʃælɪndʒ/",
+          "eng_def": "something difficult that tests you"
+        },
+        {
+          "word": "despite",
+          "def": "尽管",
+          "ipa": "/dɪˈspaɪt/",
+          "eng_def": "even though"
+        },
+        {
+          "word": "challenges",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "busy",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "He has the ability to help many people, and that is a big advantage.",
+      "zh": "他有能力帮助很多人，这是一个很大的优势。",
+      "words": [
+        {
+          "word": "ability",
+          "def": "能力",
+          "ipa": "/əˈbɪləti/",
+          "eng_def": "the power to do something"
+        },
+        {
+          "word": "advantage",
+          "def": "优势",
+          "ipa": "/ədˈvæntɪdʒ/",
+          "eng_def": "something that helps you"
+        }
+      ]
+    },
+    {
+      "en": "The movie also shows a link between a church and a holiday.",
+      "zh": "电影还展示了教堂和节日之间的联系。",
+      "words": [
+        {
+          "word": "link",
+          "def": "联系",
+          "ipa": "/lɪŋk/",
+          "eng_def": "a connection"
+        },
+        {
+          "word": "church",
+          "def": "教堂",
+          "ipa": "/tʃɜːrtʃ/",
+          "eng_def": "a building for religious meetings"
+        },
+        {
+          "word": "holiday",
+          "def": "节日",
+          "ipa": "/ˈhɑːlədeɪ/",
+          "eng_def": "a special day of rest or celebration"
+        }
+      ]
+    },
+    {
+      "en": "Before the film, we see a statement on the board about the story.",
+      "zh": "电影开始前，我们看到黑板上关于故事的一段陈述。",
+      "words": [
+        {
+          "word": "statement",
+          "def": "陈述",
+          "ipa": "/ˈsteɪtmənt/",
+          "eng_def": "something said or written"
+        },
+        {
+          "word": "board",
+          "def": "黑板",
+          "ipa": "/bɔːrd/",
+          "eng_def": "a flat surface for writing"
+        }
+      ]
+    },
+    {
+      "en": "I am sorry, but I nearly miss the beginning because I am late.",
+      "zh": "很抱歉，我因为迟到差点错过了开头。",
+      "words": [
+        {
+          "word": "sorry",
+          "def": "抱歉",
+          "ipa": "/ˈsɑːri/",
+          "eng_def": "feeling sad or regretful"
+        },
+        {
+          "word": "nearly",
+          "def": "几乎",
+          "ipa": "/ˈnɪrli/",
+          "eng_def": "almost"
+        },
+        {
+          "word": "beginning",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Let's introduce the main unit of the film: a family that wants to marry.",
+      "zh": "我们来介绍电影的主要单元：一个想要结婚的家庭。",
+      "words": [
+        {
+          "word": "introduce",
+          "def": "介绍",
+          "ipa": "/ˌɪntrəˈduːs/",
+          "eng_def": "to present for the first time"
+        },
+        {
+          "word": "unit",
+          "def": "单元",
+          "ipa": "/ˈjuːnɪt/",
+          "eng_def": "a single part of something"
+        },
+        {
+          "word": "marry",
+          "def": "结婚",
+          "ipa": "/ˈmæri/",
+          "eng_def": "to become husband and wife"
+        },
+        {
+          "word": "let's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "A machine helps them travel nearly a mile below the ground.",
+      "zh": "一台机器帮助他们在地下旅行近一英里。",
+      "words": [
+        {
+          "word": "machine",
+          "def": "机器",
+          "ipa": "/məˈʃiːn/",
+          "eng_def": "a tool with moving parts"
+        },
+        {
+          "word": "mile",
+          "def": "英里",
+          "ipa": "/maɪl/",
+          "eng_def": "a unit for measuring distance"
+        },
+        {
+          "word": "below",
+          "def": "在……下面",
+          "ipa": "/bɪˈloʊ/",
+          "eng_def": "under"
+        }
+      ]
+    },
+    {
+      "en": "After the movie, we have a discussion, and I feel ready to write my mark.",
+      "zh": "电影结束后，我们进行了讨论，我准备好写下自己的分数了。",
+      "words": [
+        {
+          "word": "discussion",
+          "def": "讨论",
+          "ipa": "/dɪˈskʌʃən/",
+          "eng_def": "a talk about something"
+        },
+        {
+          "word": "ready",
+          "def": "准备好的",
+          "ipa": "/ˈredi/",
+          "eng_def": "prepared"
+        },
+        {
+          "word": "mark",
+          "def": "分数",
+          "ipa": "/mɑːrk/",
+          "eng_def": "a score or grade"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "below",
+      "def": "在……下面",
+      "ipa": "/bɪˈloʊ/",
+      "eng_def": "under",
+      "example": "The cat is below the table."
+    },
+    {
+      "word": "movie",
+      "def": "电影",
+      "ipa": "/ˈmuːvi/",
+      "eng_def": "a film",
+      "example": "We watch a movie every Friday."
+    },
+    {
+      "word": "doctor",
+      "def": "医生",
+      "ipa": "/ˈdɑːktər/",
+      "eng_def": "a person who helps sick people",
+      "example": "The doctor works in a hospital."
+    },
+    {
+      "word": "discussion",
+      "def": "讨论",
+      "ipa": "/dɪˈskʌʃən/",
+      "eng_def": "a talk about something",
+      "example": "We have a discussion in class."
+    },
+    {
+      "word": "sorry",
+      "def": "抱歉",
+      "ipa": "/ˈsɑːri/",
+      "eng_def": "feeling sad or regretful",
+      "example": "I am sorry for being late."
+    },
+    {
+      "word": "challenge",
+      "def": "挑战",
+      "ipa": "/ˈtʃælɪndʒ/",
+      "eng_def": "something difficult that tests you",
+      "example": "This game is a big challenge."
+    },
+    {
+      "word": "nation",
+      "def": "国家",
+      "ipa": "/ˈneɪʃən/",
+      "eng_def": "a country",
+      "example": "China is a big nation."
+    },
+    {
+      "word": "nearly",
+      "def": "几乎",
+      "ipa": "/ˈnɪrli/",
+      "eng_def": "almost",
+      "example": "I nearly finish my homework."
+    },
+    {
+      "word": "statement",
+      "def": "陈述",
+      "ipa": "/ˈsteɪtmənt/",
+      "eng_def": "something said or written",
+      "example": "He makes a statement about the news."
+    },
+    {
+      "word": "link",
+      "def": "联系",
+      "ipa": "/lɪŋk/",
+      "eng_def": "a connection",
+      "example": "There is a link between exercise and health."
+    },
+    {
+      "word": "despite",
+      "def": "尽管",
+      "ipa": "/dɪˈspaɪt/",
+      "eng_def": "even though",
+      "example": "Despite the rain, we go outside."
+    },
+    {
+      "word": "introduce",
+      "def": "介绍",
+      "ipa": "/ˌɪntrəˈduːs/",
+      "eng_def": "to present for the first time",
+      "example": "Let me introduce my friend."
+    },
+    {
+      "word": "advantage",
+      "def": "优势",
+      "ipa": "/ədˈvæntɪdʒ/",
+      "eng_def": "something that helps you",
+      "example": "Being tall is an advantage in basketball."
+    },
+    {
+      "word": "ready",
+      "def": "准备好的",
+      "ipa": "/ˈredi/",
+      "eng_def": "prepared",
+      "example": "I am ready for the test."
+    },
+    {
+      "word": "marry",
+      "def": "结婚",
+      "ipa": "/ˈmæri/",
+      "eng_def": "to become husband and wife",
+      "example": "They want to marry next year."
+    },
+    {
+      "word": "strike",
+      "def": "击打",
+      "ipa": "/straɪk/",
+      "eng_def": "to hit",
+      "example": "The boxer can strike hard."
+    },
+    {
+      "word": "mile",
+      "def": "英里",
+      "ipa": "/maɪl/",
+      "eng_def": "a unit for measuring distance",
+      "example": "We walk one mile every day."
+    },
+    {
+      "word": "seek",
+      "def": "寻找",
+      "ipa": "/siːk/",
+      "eng_def": "to try to find",
+      "example": "The dog seeks its bone."
+    },
+    {
+      "word": "ability",
+      "def": "能力",
+      "ipa": "/əˈbɪləti/",
+      "eng_def": "the power to do something",
+      "example": "She has the ability to sing well."
+    },
+    {
+      "word": "unit",
+      "def": "单元",
+      "ipa": "/ˈjuːnɪt/",
+      "eng_def": "a single part of something",
+      "example": "This book has ten units."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "“nearly” 是什么意思？",
+      "question_en": "What does 'nearly' mean?",
+      "options": [
+        "A. 几乎",
+        "B. 完全",
+        "C. 从不",
+        "D. 总是"
+      ],
+      "answer": 0,
+      "word": "nearly"
+    },
+    {
+      "question_cn": "“advantage” 的中文释义是什么？",
+      "question_en": "What is the Chinese meaning of 'advantage'?",
+      "options": [
+        "A. 缺点",
+        "B. 优势",
+        "C. 挑战",
+        "D. 能力"
+      ],
+      "answer": 1,
+      "word": "advantage"
+    },
+    {
+      "question_cn": "“despite” 在句子中表示什么关系？",
+      "question_en": "What relationship does 'despite' show in a sentence?",
+      "options": [
+        "A. 因为",
+        "B. 尽管",
+        "C. 所以",
+        "D. 但是"
+      ],
+      "answer": 1,
+      "word": "despite"
+    },
+    {
+      "question_cn": "“seek” 的意思是？",
+      "question_en": "What does 'seek' mean?",
+      "options": [
+        "A. 找到",
+        "B. 寻找",
+        "C. 隐藏",
+        "D. 失去"
+      ],
+      "answer": 1,
+      "word": "seek"
+    },
+    {
+      "question_cn": "“unit” 在课文中的含义是什么？",
+      "question_en": "What does 'unit' mean in the text?",
+      "options": [
+        "A. 单位",
+        "B. 单元",
+        "C. 统一",
+        "D. 联合"
+      ],
+      "answer": 1,
+      "word": "unit"
+    }
+  ],
+  "image_prompts": [
+    "A classroom with students sitting at desks, a teacher points to a board with the word 'movie' on it.",
+    "A doctor in a white coat stands next to a map of the world, with a flag of a different nation behind him.",
+    "The doctor climbs a mountain, representing challenges, while a clock shows he has a busy schedule.",
+    "A doctor helps a group of happy people; a glowing sign says 'advantage' above them.",
+    "A church building with a holiday decoration, and a chain link symbol connecting them.",
+    "A blackboard with a written statement about a story, and a student reading it.",
+    "A person running late, looking at a clock, with a movie theater in the background.",
+    "A family standing together, with a wedding ring and the word 'marry' above them.",
+    "A large machine digging underground, with a sign showing '1 mile' and an arrow pointing down.",
+    "Students sitting in a circle talking, one holds a paper with a big red mark on it."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['strike']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 29,
+  "_new_word_count": 20
+}

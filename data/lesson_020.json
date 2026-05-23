@@ -1,0 +1,505 @@
+{
+  "id": 20,
+  "title": "A New Way to Live",
+  "article_text": "Our society can accept a new way to live in this current century. We can reduce personal waste by picking up trash from the ground every day. A good leader can fight for a similar change in every street. Some evidence exists that this simple choice can help animals and people. For example, we can contact a former leader to help us complete the plan. We must be patient and never lie about our work. Let's start this fine project now. Technology can help us stay in contact with each other. We can use some new tools to pick up trash faster. I always mention that this is a good idea.",
+  "sentences": [
+    {
+      "en": "Our society can accept a new way to live in this current century.",
+      "zh": "我们的社会可以接受一种新的生活方式，在这个当前世纪。",
+      "words": [
+        {
+          "word": "society",
+          "def": "社会",
+          "ipa": "/səˈsaɪəti/",
+          "eng_def": "a group of people living together in a community"
+        },
+        {
+          "word": "accept",
+          "def": "接受",
+          "ipa": "/əkˈsɛpt/",
+          "eng_def": "to agree to take something"
+        },
+        {
+          "word": "current",
+          "def": "当前的",
+          "ipa": "/ˈkɜrənt/",
+          "eng_def": "happening or existing now"
+        },
+        {
+          "word": "century",
+          "def": "世纪",
+          "ipa": "/ˈsɛntʃəri/",
+          "eng_def": "a period of 100 years"
+        }
+      ]
+    },
+    {
+      "en": "We can reduce personal waste by picking up trash from the ground every day.",
+      "zh": "我们可以通过每天捡起地上的垃圾来减少个人废物。",
+      "words": [
+        {
+          "word": "reduce",
+          "def": "减少",
+          "ipa": "/rɪˈdus/",
+          "eng_def": "to make something smaller in amount or size"
+        },
+        {
+          "word": "personal",
+          "def": "个人的",
+          "ipa": "/ˈpɜrsənəl/",
+          "eng_def": "relating to a particular person"
+        },
+        {
+          "word": "pick",
+          "def": "捡起",
+          "ipa": "/pɪk/",
+          "eng_def": "to take something up with your hands"
+        },
+        {
+          "word": "ground",
+          "def": "地面",
+          "ipa": "/ɡraʊnd/",
+          "eng_def": "the solid surface of the earth"
+        },
+        {
+          "word": "waste",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "picking",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "trash",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "A good leader can fight for a similar change in every street.",
+      "zh": "一个好的领导者可以为每条街道上的类似变化而奋斗。",
+      "words": [
+        {
+          "word": "leader",
+          "def": "领导者",
+          "ipa": "/ˈlidər/",
+          "eng_def": "a person who guides or directs others"
+        },
+        {
+          "word": "fight",
+          "def": "奋斗",
+          "ipa": "/faɪt/",
+          "eng_def": "to try very hard to achieve something"
+        },
+        {
+          "word": "similar",
+          "def": "相似的",
+          "ipa": "/ˈsɪmələr/",
+          "eng_def": "almost the same but not exactly"
+        },
+        {
+          "word": "street",
+          "def": "街道",
+          "ipa": "/strit/",
+          "eng_def": "a road in a city or town"
+        }
+      ]
+    },
+    {
+      "en": "Some evidence exists that this simple choice can help animals and people.",
+      "zh": "有一些证据表明这个简单的选择可以帮助动物和人们。",
+      "words": [
+        {
+          "word": "evidence",
+          "def": "证据",
+          "ipa": "/ˈɛvɪdəns/",
+          "eng_def": "facts that show something is true"
+        },
+        {
+          "word": "exist",
+          "def": "存在",
+          "ipa": "/ɪɡˈzɪst/",
+          "eng_def": "to be real or present"
+        },
+        {
+          "word": "choice",
+          "def": "选择",
+          "ipa": "/tʃɔɪs/",
+          "eng_def": "the act of picking between two or more things"
+        },
+        {
+          "word": "animal",
+          "def": "动物",
+          "ipa": "/ˈænɪməl/",
+          "eng_def": "a living creature that is not a plant"
+        },
+        {
+          "word": "exists",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "simple",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "animals",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "For example, we can contact a former leader to help us complete the plan.",
+      "zh": "例如，我们可以联系一位前任领导者来帮助我们完成计划。",
+      "words": [
+        {
+          "word": "contact",
+          "def": "联系",
+          "ipa": "/ˈkɑntækt/",
+          "eng_def": "to get in touch with someone"
+        },
+        {
+          "word": "former",
+          "def": "前任的",
+          "ipa": "/ˈfɔrmər/",
+          "eng_def": "happening or existing before but not now"
+        },
+        {
+          "word": "complete",
+          "def": "完成",
+          "ipa": "/kəmˈplit/",
+          "eng_def": "to finish doing something"
+        }
+      ]
+    },
+    {
+      "en": "We must be patient and never lie about our work.",
+      "zh": "我们必须有耐心，绝不对我们的工作说谎。",
+      "words": [
+        {
+          "word": "patient",
+          "def": "有耐心的",
+          "ipa": "/ˈpeɪʃənt/",
+          "eng_def": "able to wait without becoming upset"
+        },
+        {
+          "word": "lie",
+          "def": "说谎",
+          "ipa": "/laɪ/",
+          "eng_def": "to say something that is not true"
+        }
+      ]
+    },
+    {
+      "en": "Let's start this fine project now.",
+      "zh": "我们现在开始这个美好的项目吧。",
+      "words": [
+        {
+          "word": "fine",
+          "def": "美好的",
+          "ipa": "/faɪn/",
+          "eng_def": "very good or of high quality"
+        },
+        {
+          "word": "let's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Technology can help us stay in contact with each other.",
+      "zh": "技术可以帮助我们保持彼此联系。",
+      "words": [
+        {
+          "word": "technology",
+          "def": "技术",
+          "ipa": "/tɛkˈnɑlədʒi/",
+          "eng_def": "the use of science for practical purposes"
+        },
+        {
+          "word": "contact",
+          "def": "联系",
+          "ipa": "/ˈkɑntækt/",
+          "eng_def": "the state of being in touch with someone"
+        }
+      ]
+    },
+    {
+      "en": "We can use some new tools to pick up trash faster.",
+      "zh": "我们可以用一些新工具更快地捡起垃圾。",
+      "words": [
+        {
+          "word": "pick",
+          "def": "捡起",
+          "ipa": "/pɪk/",
+          "eng_def": "to take something up with your hands"
+        },
+        {
+          "word": "tools",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "trash",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "faster",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I always mention that this is a good idea.",
+      "zh": "我总是提到这是一个好主意。",
+      "words": [
+        {
+          "word": "mention",
+          "def": "提到",
+          "ipa": "/ˈmɛnʃən/",
+          "eng_def": "to say something about something"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "complete",
+      "def": "完成",
+      "ipa": "/kəmˈplit/",
+      "eng_def": "to finish doing something",
+      "example": "We can complete the work today."
+    },
+    {
+      "word": "lie",
+      "def": "说谎",
+      "ipa": "/laɪ/",
+      "eng_def": "to say something that is not true",
+      "example": "Do not lie to your teacher."
+    },
+    {
+      "word": "pick",
+      "def": "捡起",
+      "ipa": "/pɪk/",
+      "eng_def": "to take something up with your hands",
+      "example": "Please pick up the book."
+    },
+    {
+      "word": "reduce",
+      "def": "减少",
+      "ipa": "/rɪˈdus/",
+      "eng_def": "to make something smaller in amount or size",
+      "example": "We need to reduce waste."
+    },
+    {
+      "word": "personal",
+      "def": "个人的",
+      "ipa": "/ˈpɜrsənəl/",
+      "eng_def": "relating to a particular person",
+      "example": "This is my personal bag."
+    },
+    {
+      "word": "ground",
+      "def": "地面",
+      "ipa": "/ɡraʊnd/",
+      "eng_def": "the solid surface of the earth",
+      "example": "The ball is on the ground."
+    },
+    {
+      "word": "animal",
+      "def": "动物",
+      "ipa": "/ˈænɪməl/",
+      "eng_def": "a living creature that is not a plant",
+      "example": "I see an animal in the park."
+    },
+    {
+      "word": "arrive",
+      "def": "到达",
+      "ipa": "/əˈraɪv/",
+      "eng_def": "to reach a place",
+      "example": "We arrive at school at 8 o'clock."
+    },
+    {
+      "word": "patient",
+      "def": "有耐心的",
+      "ipa": "/ˈpeɪʃənt/",
+      "eng_def": "able to wait without becoming upset",
+      "example": "Please be patient."
+    },
+    {
+      "word": "current",
+      "def": "当前的",
+      "ipa": "/ˈkɜrənt/",
+      "eng_def": "happening or existing now",
+      "example": "The current time is 3 PM."
+    },
+    {
+      "word": "century",
+      "def": "世纪",
+      "ipa": "/ˈsɛntʃəri/",
+      "eng_def": "a period of 100 years",
+      "example": "We live in the 21st century."
+    },
+    {
+      "word": "evidence",
+      "def": "证据",
+      "ipa": "/ˈɛvɪdəns/",
+      "eng_def": "facts that show something is true",
+      "example": "There is evidence for his idea."
+    },
+    {
+      "word": "exist",
+      "def": "存在",
+      "ipa": "/ɪɡˈzɪst/",
+      "eng_def": "to be real or present",
+      "example": "This problem does not exist."
+    },
+    {
+      "word": "similar",
+      "def": "相似的",
+      "ipa": "/ˈsɪmələr/",
+      "eng_def": "almost the same but not exactly",
+      "example": "These two bags are similar."
+    },
+    {
+      "word": "fight",
+      "def": "奋斗",
+      "ipa": "/faɪt/",
+      "eng_def": "to try very hard to achieve something",
+      "example": "We fight for our rights."
+    },
+    {
+      "word": "leader",
+      "def": "领导者",
+      "ipa": "/ˈlidər/",
+      "eng_def": "a person who guides or directs others",
+      "example": "She is a good leader."
+    },
+    {
+      "word": "fine",
+      "def": "美好的",
+      "ipa": "/faɪn/",
+      "eng_def": "very good or of high quality",
+      "example": "This is a fine day."
+    },
+    {
+      "word": "street",
+      "def": "街道",
+      "ipa": "/strit/",
+      "eng_def": "a road in a city or town",
+      "example": "I walk on the street."
+    },
+    {
+      "word": "former",
+      "def": "前任的",
+      "ipa": "/ˈfɔrmər/",
+      "eng_def": "happening or existing before but not now",
+      "example": "He is a former teacher."
+    },
+    {
+      "word": "contact",
+      "def": "联系",
+      "ipa": "/ˈkɑntækt/",
+      "eng_def": "to get in touch with someone",
+      "example": "Please contact me later."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "“complete” 是什么意思？",
+      "question_en": "What does 'complete' mean?",
+      "options": [
+        "A. 开始",
+        "B. 完成",
+        "C. 忘记",
+        "D. 尝试"
+      ],
+      "answer": 1,
+      "word": "complete"
+    },
+    {
+      "question_cn": "“evidence” 的中文翻译是什么？",
+      "question_en": "What is the Chinese translation of 'evidence'?",
+      "options": [
+        "A. 证据",
+        "B. 想法",
+        "C. 问题",
+        "D. 故事"
+      ],
+      "answer": 0,
+      "word": "evidence"
+    },
+    {
+      "question_cn": "哪个词的意思是“有耐心的”？",
+      "question_en": "Which word means 'able to wait without becoming upset'?",
+      "options": [
+        "A. current",
+        "B. patient",
+        "C. similar",
+        "D. personal"
+      ],
+      "answer": 1,
+      "word": "patient"
+    },
+    {
+      "question_cn": "“former” 的反义词是什么？",
+      "question_en": "What is the opposite of 'former'?",
+      "options": [
+        "A. 当前的",
+        "B. 未来的",
+        "C. 过去的",
+        "D. 相同的"
+      ],
+      "answer": 0,
+      "word": "former"
+    },
+    {
+      "question_cn": "“contact” 是动词时是什么意思？",
+      "question_en": "What does 'contact' mean as a verb?",
+      "options": [
+        "A. 联系",
+        "B. 离开",
+        "C. 发现",
+        "D. 忘记"
+      ],
+      "answer": 0,
+      "word": "contact"
+    }
+  ],
+  "image_prompts": [
+    "A diverse group of people in a modern city, smiling as they pick up trash from the ground, with a banner saying 'New Way to Live'.",
+    "A person holding a trash bag, picking up a piece of paper from the ground in a park, with trees and a clear sky.",
+    "A confident leader standing on a street, pointing forward, with people following, and similar houses on both sides.",
+    "A scientist holding a clipboard with charts, showing evidence to a group of animals (dog, cat, bird) and people around a table.",
+    "A person on a phone, smiling, with a former leader (older person) sitting at a desk, and a plan document on the table.",
+    "A person meditating patiently on a cushion, with a clock on the wall showing time, and a speech bubble saying 'No lies'.",
+    "A group of people starting a project, holding hands, with a sign that says 'Fine Project' and a bright sun in the background.",
+    "Two people using smartphones and a tablet, with connection symbols (WiFi, Bluetooth) floating between them, showing technology.",
+    "A person using a long-handled tool to pick up trash in a park, with a speedometer symbol showing 'Faster'.",
+    "A person speaking at a podium, with a thought bubble showing a lightbulb and the words 'Good Idea', and a listening audience."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['arrive']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 20,
+  "_new_word_count": 20
+}

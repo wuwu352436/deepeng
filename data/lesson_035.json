@@ -1,0 +1,538 @@
+{
+  "id": 35,
+  "title": "A Career in Document Search",
+  "article_text": "I saw a huge document on my desk this morning, and I needed to check every pattern in it. The application for my new job was unclear, so I asked my officer for help. Obviously, I had to search for the central information about my career. My boss gave me a bill for the new office dress, and I was hot from the work. I heard a dog bark throughout the speech, but I continued anyway. I had to separate the oil documents from the profit reports. I made a guess about the correct answer, and it was correct. The style of the report was interesting, but I needed to refer to the example. For instance, I saw a message about the new application in the central office. I went to the dress shop quickly because I needed a new shirt for the career meeting.",
+  "sentences": [
+    {
+      "en": "I saw a huge document on my desk this morning, and I needed to check every pattern in it.",
+      "zh": "今天早上我看到一份巨大的文件在我的桌子上，我需要检查其中的每一个模式。",
+      "words": [
+        {
+          "word": "huge",
+          "def": "巨大的",
+          "ipa": "/hjuːdʒ/",
+          "eng_def": "very big in size or amount"
+        },
+        {
+          "word": "document",
+          "def": "文件",
+          "ipa": "/ˈdɒkjʊmənt/",
+          "eng_def": "a paper or electronic record with information"
+        },
+        {
+          "word": "pattern",
+          "def": "模式；图案",
+          "ipa": "/ˈpætən/",
+          "eng_def": "a repeated design or a regular way something happens"
+        },
+        {
+          "word": "saw",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "desk",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The application for my new job was unclear, so I asked my officer for help.",
+      "zh": "我的新工作申请不清楚，所以我向我的官员求助。",
+      "words": [
+        {
+          "word": "application",
+          "def": "申请；应用程序",
+          "ipa": "/ˌæplɪˈkeɪʃən/",
+          "eng_def": "a formal request for a job or a computer program"
+        },
+        {
+          "word": "unclear",
+          "def": "不清楚的",
+          "ipa": "/ʌnˈklɪər/",
+          "eng_def": "not easy to understand or see clearly"
+        },
+        {
+          "word": "officer",
+          "def": "官员；军官",
+          "ipa": "/ˈɒfɪsər/",
+          "eng_def": "a person with a position of authority in an organization"
+        }
+      ]
+    },
+    {
+      "en": "Obviously, I had to search for the central information about my career.",
+      "zh": "显然，我必须搜索关于我职业的核心信息。",
+      "words": [
+        {
+          "word": "obviously",
+          "def": "显然地",
+          "ipa": "/ˈɒbviəsli/",
+          "eng_def": "in a way that is easy to see or understand"
+        },
+        {
+          "word": "search",
+          "def": "搜索",
+          "ipa": "/sɜːtʃ/",
+          "eng_def": "to look for something carefully"
+        },
+        {
+          "word": "central",
+          "def": "中心的；主要的",
+          "ipa": "/ˈsentrəl/",
+          "eng_def": "in the middle or most important"
+        },
+        {
+          "word": "career",
+          "def": "职业；生涯",
+          "ipa": "/kəˈrɪər/",
+          "eng_def": "a job or profession that someone does for a long time"
+        }
+      ]
+    },
+    {
+      "en": "My boss gave me a bill for the new office dress, and I was hot from the work.",
+      "zh": "我的老板给了我一张新办公室服装的账单，我工作得发热。",
+      "words": [
+        {
+          "word": "bill",
+          "def": "账单；钞票",
+          "ipa": "/bɪl/",
+          "eng_def": "a piece of paper that shows how much money you need to pay"
+        },
+        {
+          "word": "dress",
+          "def": "连衣裙；穿着",
+          "ipa": "/dres/",
+          "eng_def": "a piece of clothing for women or the act of putting on clothes"
+        },
+        {
+          "word": "hot",
+          "def": "热的",
+          "ipa": "/hɒt/",
+          "eng_def": "having a high temperature"
+        },
+        {
+          "word": "boss",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "gave",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I heard a dog bark throughout the speech, but I continued anyway.",
+      "zh": "我听到一只狗在整个演讲过程中叫，但我还是继续了。",
+      "words": [
+        {
+          "word": "dog",
+          "def": "狗",
+          "ipa": "/dɒɡ/",
+          "eng_def": "a common animal with four legs, kept as a pet or for work"
+        },
+        {
+          "word": "throughout",
+          "def": "贯穿；遍及",
+          "ipa": "/θruːˈaʊt/",
+          "eng_def": "in every part of a place or during a whole period of time"
+        },
+        {
+          "word": "speech",
+          "def": "演讲；言语",
+          "ipa": "/spiːtʃ/",
+          "eng_def": "a formal talk given to an audience"
+        },
+        {
+          "word": "anyway",
+          "def": "无论如何",
+          "ipa": "/ˈeniweɪ/",
+          "eng_def": "used to change a topic or say something is not important"
+        },
+        {
+          "word": "heard",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "bark",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I had to separate the oil documents from the profit reports.",
+      "zh": "我不得不把石油文件与利润报告分开。",
+      "words": [
+        {
+          "word": "separate",
+          "def": "分开的；分离",
+          "ipa": "/ˈsepəreɪt/",
+          "eng_def": "to divide something into parts or not together"
+        },
+        {
+          "word": "oil",
+          "def": "油；石油",
+          "ipa": "/ɔɪl/",
+          "eng_def": "a thick liquid from under the ground used for fuel or cooking"
+        },
+        {
+          "word": "profit",
+          "def": "利润；收益",
+          "ipa": "/ˈprɒfɪt/",
+          "eng_def": "money that you get from selling something for more than it cost"
+        },
+        {
+          "word": "documents",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I made a guess about the correct answer, and it was correct.",
+      "zh": "我猜了一下正确答案，结果是对的。",
+      "words": [
+        {
+          "word": "guess",
+          "def": "猜测",
+          "ipa": "/ɡes/",
+          "eng_def": "to give an answer without knowing if it is true"
+        },
+        {
+          "word": "made",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "correct",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The style of the report was interesting, but I needed to refer to the example.",
+      "zh": "报告的风格很有趣，但我需要参考那个例子。",
+      "words": [
+        {
+          "word": "style",
+          "def": "风格；样式",
+          "ipa": "/staɪl/",
+          "eng_def": "a way of doing something, especially in art or fashion"
+        },
+        {
+          "word": "refer",
+          "def": "参考；提及",
+          "ipa": "/rɪˈfɜːr/",
+          "eng_def": "to look at something for information or to mention something"
+        }
+      ]
+    },
+    {
+      "en": "For instance, I saw a message about the new application in the central office.",
+      "zh": "例如，我在中心办公室看到一条关于新申请的消息。",
+      "words": [
+        {
+          "word": "instance",
+          "def": "例子；实例",
+          "ipa": "/ˈɪnstəns/",
+          "eng_def": "an example of something happening"
+        },
+        {
+          "word": "message",
+          "def": "消息；信息",
+          "ipa": "/ˈmesɪdʒ/",
+          "eng_def": "a piece of information sent to someone"
+        },
+        {
+          "word": "central",
+          "def": "中心的；主要的",
+          "ipa": "/ˈsentrəl/",
+          "eng_def": "in the middle or most important"
+        },
+        {
+          "word": "application",
+          "def": "申请；应用程序",
+          "ipa": "/ˌæplɪˈkeɪʃən/",
+          "eng_def": "a formal request for a job or a computer program"
+        },
+        {
+          "word": "saw",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I went to the dress shop quickly because I needed a new shirt for the career meeting.",
+      "zh": "我快速去了服装店，因为我需要一件新衬衫参加职业会议。",
+      "words": [
+        {
+          "word": "dress",
+          "def": "连衣裙；穿着",
+          "ipa": "/dres/",
+          "eng_def": "a piece of clothing for women or the act of putting on clothes"
+        },
+        {
+          "word": "quickly",
+          "def": "快速地",
+          "ipa": "/ˈkwɪkli/",
+          "eng_def": "at a fast speed"
+        },
+        {
+          "word": "career",
+          "def": "职业；生涯",
+          "ipa": "/kəˈrɪər/",
+          "eng_def": "a job or profession that someone does for a long time"
+        },
+        {
+          "word": "went",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "shirt",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "document",
+      "def": "文件",
+      "ipa": "/ˈdɒkjʊmənt/",
+      "eng_def": "a paper or electronic record with information",
+      "example": "I need to read this document."
+    },
+    {
+      "word": "pattern",
+      "def": "模式；图案",
+      "ipa": "/ˈpætən/",
+      "eng_def": "a repeated design or a regular way something happens",
+      "example": "The pattern on the shirt is nice."
+    },
+    {
+      "word": "application",
+      "def": "申请；应用程序",
+      "ipa": "/ˌæplɪˈkeɪʃən/",
+      "eng_def": "a formal request for a job or a computer program",
+      "example": "I filled in the application for school."
+    },
+    {
+      "word": "hot",
+      "def": "热的",
+      "ipa": "/hɒt/",
+      "eng_def": "having a high temperature",
+      "example": "The soup is hot."
+    },
+    {
+      "word": "obviously",
+      "def": "显然地",
+      "ipa": "/ˈɒbviəsli/",
+      "eng_def": "in a way that is easy to see or understand",
+      "example": "He obviously likes her."
+    },
+    {
+      "word": "unclear",
+      "def": "不清楚的",
+      "ipa": "/ʌnˈklɪər/",
+      "eng_def": "not easy to understand or see clearly",
+      "example": "The instructions are unclear."
+    },
+    {
+      "word": "bill",
+      "def": "账单；钞票",
+      "ipa": "/bɪl/",
+      "eng_def": "a piece of paper that shows how much money you need to pay",
+      "example": "I paid the bill for dinner."
+    },
+    {
+      "word": "search",
+      "def": "搜索",
+      "ipa": "/sɜːtʃ/",
+      "eng_def": "to look for something carefully",
+      "example": "I search for my keys every morning."
+    },
+    {
+      "word": "separate",
+      "def": "分开的；分离",
+      "ipa": "/ˈsepəreɪt/",
+      "eng_def": "to divide something into parts or not together",
+      "example": "Please separate the blue pens from the red ones."
+    },
+    {
+      "word": "central",
+      "def": "中心的；主要的",
+      "ipa": "/ˈsentrəl/",
+      "eng_def": "in the middle or most important",
+      "example": "The central station is very busy."
+    },
+    {
+      "word": "career",
+      "def": "职业；生涯",
+      "ipa": "/kəˈrɪər/",
+      "eng_def": "a job or profession that someone does for a long time",
+      "example": "She has a career in teaching."
+    },
+    {
+      "word": "anyway",
+      "def": "无论如何",
+      "ipa": "/ˈeniweɪ/",
+      "eng_def": "used to change a topic or say something is not important",
+      "example": "I don't like it, but I'll do it anyway."
+    },
+    {
+      "word": "speech",
+      "def": "演讲；言语",
+      "ipa": "/spiːtʃ/",
+      "eng_def": "a formal talk given to an audience",
+      "example": "The president gave a speech."
+    },
+    {
+      "word": "dog",
+      "def": "狗",
+      "ipa": "/dɒɡ/",
+      "eng_def": "a common animal with four legs, kept as a pet or for work",
+      "example": "My dog likes to play in the park."
+    },
+    {
+      "word": "officer",
+      "def": "官员；军官",
+      "ipa": "/ˈɒfɪsər/",
+      "eng_def": "a person with a position of authority in an organization",
+      "example": "The police officer helped us."
+    },
+    {
+      "word": "throughout",
+      "def": "贯穿；遍及",
+      "ipa": "/θruːˈaʊt/",
+      "eng_def": "in every part of a place or during a whole period of time",
+      "example": "It rained throughout the day."
+    },
+    {
+      "word": "oil",
+      "def": "油；石油",
+      "ipa": "/ɔɪl/",
+      "eng_def": "a thick liquid from under the ground used for fuel or cooking",
+      "example": "We need oil to cook the food."
+    },
+    {
+      "word": "dress",
+      "def": "连衣裙；穿着",
+      "ipa": "/dres/",
+      "eng_def": "a piece of clothing for women or the act of putting on clothes",
+      "example": "She wore a red dress to the party."
+    },
+    {
+      "word": "profit",
+      "def": "利润；收益",
+      "ipa": "/ˈprɒfɪt/",
+      "eng_def": "money that you get from selling something for more than it cost",
+      "example": "The company made a big profit."
+    },
+    {
+      "word": "guess",
+      "def": "猜测",
+      "ipa": "/ɡes/",
+      "eng_def": "to give an answer without knowing if it is true",
+      "example": "Can you guess my age?"
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词的意思是‘文件’？",
+      "question_en": "Which word means 'a paper or electronic record with information'?",
+      "options": [
+        "A. pattern",
+        "B. document",
+        "C. bill",
+        "D. profit"
+      ],
+      "answer": 1,
+      "word": "document"
+    },
+    {
+      "question_cn": "哪个词的意思是‘显然地’？",
+      "question_en": "Which word means 'in a way that is easy to see or understand'?",
+      "options": [
+        "A. anyway",
+        "B. obviously",
+        "C. unclear",
+        "D. quickly"
+      ],
+      "answer": 1,
+      "word": "obviously"
+    },
+    {
+      "question_cn": "哪个词的意思是‘搜索’？",
+      "question_en": "Which word means 'to look for something carefully'?",
+      "options": [
+        "A. search",
+        "B. separate",
+        "C. refer",
+        "D. guess"
+      ],
+      "answer": 0,
+      "word": "search"
+    },
+    {
+      "question_cn": "哪个词的意思是‘职业’？",
+      "question_en": "Which word means 'a job or profession that someone does for a long time'?",
+      "options": [
+        "A. officer",
+        "B. speech",
+        "C. career",
+        "D. central"
+      ],
+      "answer": 2,
+      "word": "career"
+    },
+    {
+      "question_cn": "哪个词的意思是‘利润’？",
+      "question_en": "Which word means 'money that you get from selling something for more than it cost'?",
+      "options": [
+        "A. bill",
+        "B. profit",
+        "C. pattern",
+        "D. oil"
+      ],
+      "answer": 1,
+      "word": "profit"
+    }
+  ],
+  "image_prompts": [
+    "A desk with a huge document and a person looking at patterns on it.",
+    "A person talking to an officer about an application form.",
+    "A person searching through files for central career information.",
+    "A boss handing a bill to an employee near a dress rack; the employee looks hot.",
+    "A person giving a speech while a dog barks in the background.",
+    "Two piles of papers: one labeled 'oil' and one labeled 'profit'.",
+    "A person thinking with a question mark, making a guess.",
+    "A person looking at a report style and referring to an example book.",
+    "A central office with a message board showing an application notice.",
+    "A person quickly entering a dress shop to buy a shirt for a career meeting."
+  ],
+  "_needs_review": false,
+  "_lesson_num": 35,
+  "_new_word_count": 20
+}

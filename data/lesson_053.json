@@ -1,0 +1,481 @@
+{
+  "id": 53,
+  "title": "A Business Trip to the Mountains",
+  "article_text": "My colleague and I have a duty to visit a mountain town for a commercial meeting. We will take a plane because the traffic is extremely bad on the road. My colleague bought a ticket for the flight and put it in her bag. Before the trip, we had to adopt a new technique to combine our ideas for the presentation. The hotel owner gave us a warm welcome and a free meal. During the meeting, we saw a lady who uses a special expression when she speaks. We should not hide our problems from each other because open talk leads to improvement. The marriage of our boss to a famous lady is a big topic in the company. After the meeting, we had to repeat our main points plus answer some questions. The final result of our work was equal to our background and the tools we used.",
+  "sentences": [
+    {
+      "en": "My colleague and I have a duty to visit a mountain town for a commercial meeting.",
+      "zh": "我和同事有责任去一个山城参加商业会议。",
+      "words": [
+        {
+          "word": "colleague",
+          "def": "同事",
+          "ipa": "/ˈkɒliːɡ/",
+          "eng_def": "a person who works with you"
+        },
+        {
+          "word": "duty",
+          "def": "责任",
+          "ipa": "/ˈdjuːti/",
+          "eng_def": "something you must do because it is right or your job"
+        },
+        {
+          "word": "mountain",
+          "def": "山",
+          "ipa": "/ˈmaʊntɪn/",
+          "eng_def": "a very high piece of land"
+        },
+        {
+          "word": "commercial",
+          "def": "商业的",
+          "ipa": "/kəˈmɜːrʃl/",
+          "eng_def": "related to buying and selling things"
+        }
+      ]
+    },
+    {
+      "en": "We will take a plane because the traffic is extremely bad on the road.",
+      "zh": "我们将乘坐飞机，因为路上的交通非常糟糕。",
+      "words": [
+        {
+          "word": "plane",
+          "def": "飞机",
+          "ipa": "/pleɪn/",
+          "eng_def": "a vehicle that flies in the air"
+        },
+        {
+          "word": "traffic",
+          "def": "交通",
+          "ipa": "/ˈtræfɪk/",
+          "eng_def": "cars and other vehicles on the road"
+        },
+        {
+          "word": "extremely",
+          "def": "极其",
+          "ipa": "/ɪkˈstriːmli/",
+          "eng_def": "very much; to a very high degree"
+        }
+      ]
+    },
+    {
+      "en": "My colleague bought a ticket for the flight and put it in her bag.",
+      "zh": "我的同事买了一张机票，把它放进了她的包里。",
+      "words": [
+        {
+          "word": "colleague",
+          "def": "同事",
+          "ipa": "/ˈkɒliːɡ/",
+          "eng_def": "a person who works with you"
+        },
+        {
+          "word": "ticket",
+          "def": "票",
+          "ipa": "/ˈtɪkɪt/",
+          "eng_def": "a piece of paper that allows you to travel or enter a place"
+        },
+        {
+          "word": "bag",
+          "def": "包",
+          "ipa": "/bæɡ/",
+          "eng_def": "a container made of cloth, plastic, etc. used to carry things"
+        },
+        {
+          "word": "bought",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Before the trip, we had to adopt a new technique to combine our ideas for the presentation.",
+      "zh": "旅行前，我们不得不采用一种新技术来整合我们的想法用于演示。",
+      "words": [
+        {
+          "word": "adopt",
+          "def": "采用",
+          "ipa": "/əˈdɒpt/",
+          "eng_def": "to start to use something new"
+        },
+        {
+          "word": "technique",
+          "def": "技术",
+          "ipa": "/tekˈniːk/",
+          "eng_def": "a special way of doing something"
+        },
+        {
+          "word": "combine",
+          "def": "结合",
+          "ipa": "/kəmˈbaɪn/",
+          "eng_def": "to put two or more things together"
+        },
+        {
+          "word": "presentation",
+          "def": "演示",
+          "ipa": "/ˌprezənˈteɪʃn/",
+          "eng_def": "a talk or show to give information to people"
+        }
+      ]
+    },
+    {
+      "en": "The hotel owner gave us a warm welcome and a free meal.",
+      "zh": "酒店老板热情地欢迎了我们，并提供了免费餐食。",
+      "words": [
+        {
+          "word": "owner",
+          "def": "所有者",
+          "ipa": "/ˈoʊnər/",
+          "eng_def": "a person who owns something"
+        },
+        {
+          "word": "meal",
+          "def": "餐",
+          "ipa": "/miːl/",
+          "eng_def": "an occasion when you eat food"
+        },
+        {
+          "word": "gave",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "During the meeting, we saw a lady who uses a special expression when she speaks.",
+      "zh": "会议期间，我们看到一位女士，她说话时使用一种特殊的表情。",
+      "words": [
+        {
+          "word": "lady",
+          "def": "女士",
+          "ipa": "/ˈleɪdi/",
+          "eng_def": "a polite word for a woman"
+        },
+        {
+          "word": "expression",
+          "def": "表情",
+          "ipa": "/ɪkˈspreʃn/",
+          "eng_def": "the look on your face that shows your feelings"
+        },
+        {
+          "word": "saw",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "We should not hide our problems from each other because open talk leads to improvement.",
+      "zh": "我们不应该互相隐瞒问题，因为开放的交谈能带来改进。",
+      "words": [
+        {
+          "word": "hide",
+          "def": "隐藏",
+          "ipa": "/haɪd/",
+          "eng_def": "to put something where it cannot be seen"
+        },
+        {
+          "word": "improvement",
+          "def": "改进",
+          "ipa": "/ɪmˈpruːvmənt/",
+          "eng_def": "the act of making something better"
+        }
+      ]
+    },
+    {
+      "en": "The marriage of our boss to a famous lady is a big topic in the company.",
+      "zh": "我们老板与一位著名女士的婚姻是公司里的大话题。",
+      "words": [
+        {
+          "word": "marriage",
+          "def": "婚姻",
+          "ipa": "/ˈmærɪdʒ/",
+          "eng_def": "the relationship between two people who are husband and wife"
+        },
+        {
+          "word": "lady",
+          "def": "女士",
+          "ipa": "/ˈleɪdi/",
+          "eng_def": "a polite word for a woman"
+        },
+        {
+          "word": "boss",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "topic",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "After the meeting, we had to repeat our main points plus answer some questions.",
+      "zh": "会议结束后，我们不得不重复要点并回答一些问题。",
+      "words": [
+        {
+          "word": "repeat",
+          "def": "重复",
+          "ipa": "/rɪˈpiːt/",
+          "eng_def": "to say or do something again"
+        },
+        {
+          "word": "plus",
+          "def": "加上",
+          "ipa": "/plʌs/",
+          "eng_def": "and also; in addition"
+        }
+      ]
+    },
+    {
+      "en": "The final result of our work was equal to our background and the tools we used.",
+      "zh": "我们工作的最终结果与我们背景以及使用的工具相称。",
+      "words": [
+        {
+          "word": "equal",
+          "def": "等于",
+          "ipa": "/ˈiːkwəl/",
+          "eng_def": "the same in amount, size, or value"
+        },
+        {
+          "word": "background",
+          "def": "背景",
+          "ipa": "/ˈbækɡraʊnd/",
+          "eng_def": "the past experience or education of a person"
+        },
+        {
+          "word": "tool",
+          "def": "工具",
+          "ipa": "/tuːl/",
+          "eng_def": "an object used to help do a job"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "adopt",
+      "def": "采用",
+      "ipa": "/əˈdɒpt/",
+      "eng_def": "to start to use something new",
+      "example": "We adopted a new method to solve the problem."
+    },
+    {
+      "word": "combine",
+      "def": "结合",
+      "ipa": "/kəmˈbaɪn/",
+      "eng_def": "to put two or more things together",
+      "example": "You can combine sugar and water to make syrup."
+    },
+    {
+      "word": "mountain",
+      "def": "山",
+      "ipa": "/ˈmaʊntɪn/",
+      "eng_def": "a very high piece of land",
+      "example": "We climbed the mountain last summer."
+    },
+    {
+      "word": "waste",
+      "def": "浪费",
+      "ipa": "/weɪst/",
+      "eng_def": "to use more of something than you need",
+      "example": "Don't waste food; eat everything on your plate."
+    },
+    {
+      "word": "hide",
+      "def": "隐藏",
+      "ipa": "/haɪd/",
+      "eng_def": "to put something where it cannot be seen",
+      "example": "The child hid his toy under the bed."
+    },
+    {
+      "word": "marriage",
+      "def": "婚姻",
+      "ipa": "/ˈmærɪdʒ/",
+      "eng_def": "the relationship between two people who are husband and wife",
+      "example": "Their marriage lasted for fifty years."
+    },
+    {
+      "word": "ticket",
+      "def": "票",
+      "ipa": "/ˈtɪkɪt/",
+      "eng_def": "a piece of paper that allows you to travel or enter a place",
+      "example": "I bought a ticket for the concert."
+    },
+    {
+      "word": "meal",
+      "def": "餐",
+      "ipa": "/miːl/",
+      "eng_def": "an occasion when you eat food",
+      "example": "We have three meals a day: breakfast, lunch, and dinner."
+    },
+    {
+      "word": "colleague",
+      "def": "同事",
+      "ipa": "/ˈkɒliːɡ/",
+      "eng_def": "a person who works with you",
+      "example": "My colleague helped me finish the project."
+    },
+    {
+      "word": "bag",
+      "def": "包",
+      "ipa": "/bæɡ/",
+      "eng_def": "a container made of cloth, plastic, etc. used to carry things",
+      "example": "She put her books in her bag."
+    },
+    {
+      "word": "repeat",
+      "def": "重复",
+      "ipa": "/rɪˈpiːt/",
+      "eng_def": "to say or do something again",
+      "example": "Please repeat the sentence so I can understand."
+    },
+    {
+      "word": "equal",
+      "def": "等于",
+      "ipa": "/ˈiːkwəl/",
+      "eng_def": "the same in amount, size, or value",
+      "example": "Two plus two equals four."
+    },
+    {
+      "word": "expression",
+      "def": "表情",
+      "ipa": "/ɪkˈspreʃn/",
+      "eng_def": "the look on your face that shows your feelings",
+      "example": "His expression showed he was happy."
+    },
+    {
+      "word": "plus",
+      "def": "加上",
+      "ipa": "/plʌs/",
+      "eng_def": "and also; in addition",
+      "example": "The meal cost twenty dollars plus tax."
+    },
+    {
+      "word": "extremely",
+      "def": "极其",
+      "ipa": "/ɪkˈstriːmli/",
+      "eng_def": "very much; to a very high degree",
+      "example": "The weather is extremely cold today."
+    },
+    {
+      "word": "owner",
+      "def": "所有者",
+      "ipa": "/ˈoʊnər/",
+      "eng_def": "a person who owns something",
+      "example": "The owner of the car is my uncle."
+    },
+    {
+      "word": "plane",
+      "def": "飞机",
+      "ipa": "/pleɪn/",
+      "eng_def": "a vehicle that flies in the air",
+      "example": "We took a plane to Japan."
+    },
+    {
+      "word": "commercial",
+      "def": "商业的",
+      "ipa": "/kəˈmɜːrʃl/",
+      "eng_def": "related to buying and selling things",
+      "example": "They opened a commercial bank in the city."
+    },
+    {
+      "word": "lady",
+      "def": "女士",
+      "ipa": "/ˈleɪdi/",
+      "eng_def": "a polite word for a woman",
+      "example": "An old lady helped me find the street."
+    },
+    {
+      "word": "duty",
+      "def": "责任",
+      "ipa": "/ˈdjuːti/",
+      "eng_def": "something you must do because it is right or your job",
+      "example": "It is my duty to take care of my children."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词的意思是“采用”？",
+      "question_en": "Which word means 'to start to use something new'?",
+      "options": [
+        "A. adopt",
+        "B. combine",
+        "C. hide",
+        "D. repeat"
+      ],
+      "answer": 0,
+      "word": "adopt"
+    },
+    {
+      "question_cn": "哪个词的意思是“极其”？",
+      "question_en": "Which word means 'very much; to a very high degree'?",
+      "options": [
+        "A. equal",
+        "B. extremely",
+        "C. plus",
+        "D. waste"
+      ],
+      "answer": 1,
+      "word": "extremely"
+    },
+    {
+      "question_cn": "哪个词的意思是“同事”？",
+      "question_en": "Which word means 'a person who works with you'?",
+      "options": [
+        "A. owner",
+        "B. lady",
+        "C. colleague",
+        "D. duty"
+      ],
+      "answer": 2,
+      "word": "colleague"
+    },
+    {
+      "question_cn": "哪个词的意思是“商业的”？",
+      "question_en": "Which word means 'related to buying and selling things'?",
+      "options": [
+        "A. commercial",
+        "B. marriage",
+        "C. meal",
+        "D. ticket"
+      ],
+      "answer": 0,
+      "word": "commercial"
+    },
+    {
+      "question_cn": "哪个词的意思是“隐藏”？",
+      "question_en": "Which word means 'to put something where it cannot be seen'?",
+      "options": [
+        "A. adopt",
+        "B. combine",
+        "C. hide",
+        "D. repeat"
+      ],
+      "answer": 2,
+      "word": "hide"
+    }
+  ],
+  "image_prompts": [
+    "A man and a woman (colleagues) standing in front of a mountain town with a sign saying 'Commercial Meeting'.",
+    "A plane flying in the sky above a road full of cars (traffic jam).",
+    "A woman (colleague) holding a ticket and putting it into her bag.",
+    "Two people sitting at a table with papers, one showing a new technique and combining ideas.",
+    "A smiling hotel owner welcoming two guests, with a table of food (meal) in the background.",
+    "A meeting room with a lady speaking and making a special facial expression.",
+    "Two colleagues talking openly, with a light bulb (idea) above them and a graph showing improvement.",
+    "A boss and a famous lady in wedding clothes, with a sign 'Marriage' and company building behind.",
+    "A person standing at a whiteboard repeating main points with a plus sign and question marks.",
+    "A graph showing final result equal to background and tools, with a person looking satisfied."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['waste']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 53,
+  "_new_word_count": 20
+}

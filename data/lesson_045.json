@@ -1,0 +1,511 @@
+{
+  "id": 45,
+  "title": "A Tour of My Family's Farm",
+  "article_text": "Last weekend, I went on a tour of my uncle's farm. I saw a big collection of old farm tools he hangs on the wall. My cousin showed me a negative attitude about the work, but I liked it. A band played music near the farm, and I observed them carefully. My uncle's relative from the city came to see the farm. He uses alternative software to print pictures of the farm. We saw a pair of horses pull a heavy cart. The horse had a double leg injury, so it walked slowly. My uncle told me the truth about the farm's progress this year. I must deliver this video about the farm to my primary school class.",
+  "sentences": [
+    {
+      "en": "Last weekend, I went on a tour of my uncle's farm.",
+      "zh": "上周末，我参观了叔叔的农场。",
+      "words": [
+        {
+          "word": "tour",
+          "def": "参观；旅行",
+          "ipa": "/tʊr/",
+          "eng_def": "a visit to a place"
+        },
+        {
+          "word": "farm",
+          "def": "农场",
+          "ipa": "/fɑːrm/",
+          "eng_def": "land used for growing food or keeping animals"
+        },
+        {
+          "word": "went",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "uncle's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I saw a big collection of old farm tools he hangs on the wall.",
+      "zh": "我看到他挂在墙上的大量旧农具收藏。",
+      "words": [
+        {
+          "word": "collection",
+          "def": "收藏品",
+          "ipa": "/kəˈlekʃən/",
+          "eng_def": "a group of things kept together"
+        },
+        {
+          "word": "hangs",
+          "def": "悬挂",
+          "ipa": "/hæŋz/",
+          "eng_def": "puts something so it is held from above"
+        },
+        {
+          "word": "saw",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "tools",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "My cousin showed me a negative attitude about the work, but I liked it.",
+      "zh": "我表弟对这份工作表现出消极的态度，但我喜欢它。",
+      "words": [
+        {
+          "word": "negative",
+          "def": "消极的；负面的",
+          "ipa": "/ˈneɡətɪv/",
+          "eng_def": "not good or not positive"
+        },
+        {
+          "word": "attitude",
+          "def": "态度",
+          "ipa": "/ˈætɪtuːd/",
+          "eng_def": "the way you think or feel about something"
+        },
+        {
+          "word": "cousin",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "A band played music near the farm, and I observed them carefully.",
+      "zh": "一个乐队在农场附近演奏音乐，我仔细观察了他们。",
+      "words": [
+        {
+          "word": "band",
+          "def": "乐队",
+          "ipa": "/bænd/",
+          "eng_def": "a group of people who play music together"
+        },
+        {
+          "word": "observed",
+          "def": "观察",
+          "ipa": "/əbˈzɜːrvd/",
+          "eng_def": "watched carefully"
+        },
+        {
+          "word": "carefully",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "My uncle's relative from the city came to see the farm.",
+      "zh": "我叔叔住在城市的亲戚来看农场。",
+      "words": [
+        {
+          "word": "relative",
+          "def": "亲戚",
+          "ipa": "/ˈrelətɪv/",
+          "eng_def": "a person in your family"
+        },
+        {
+          "word": "uncle's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "came",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "He uses alternative software to print pictures of the farm.",
+      "zh": "他用另一种软件打印农场的照片。",
+      "words": [
+        {
+          "word": "alternative",
+          "def": "替代的；其他的",
+          "ipa": "/ɔːlˈtɜːrnətɪv/",
+          "eng_def": "different from the usual one"
+        },
+        {
+          "word": "software",
+          "def": "软件",
+          "ipa": "/ˈsɔːftwer/",
+          "eng_def": "programs used on a computer"
+        },
+        {
+          "word": "print",
+          "def": "打印",
+          "ipa": "/prɪnt/",
+          "eng_def": "to put words or pictures on paper using a machine"
+        }
+      ]
+    },
+    {
+      "en": "We saw a pair of horses pull a heavy cart.",
+      "zh": "我们看到一对马拉着一辆沉重的马车。",
+      "words": [
+        {
+          "word": "pair",
+          "def": "一对",
+          "ipa": "/per/",
+          "eng_def": "two things that go together"
+        },
+        {
+          "word": "saw",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "horses",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "cart",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The horse had a double leg injury, so it walked slowly.",
+      "zh": "这匹马腿部受了双重伤，所以它走得很慢。",
+      "words": [
+        {
+          "word": "double",
+          "def": "双重的；双倍的",
+          "ipa": "/ˈdʌbəl/",
+          "eng_def": "two times as much"
+        },
+        {
+          "word": "leg",
+          "def": "腿",
+          "ipa": "/leɡ/",
+          "eng_def": "the part of the body used for walking"
+        },
+        {
+          "word": "horse",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "injury",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "slowly",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "My uncle told me the truth about the farm's progress this year.",
+      "zh": "叔叔告诉我今年农场进展的真相。",
+      "words": [
+        {
+          "word": "truth",
+          "def": "真相；事实",
+          "ipa": "/truːθ/",
+          "eng_def": "the real facts about something"
+        },
+        {
+          "word": "progress",
+          "def": "进步；进展",
+          "ipa": "/ˈprɑːɡres/",
+          "eng_def": "improvement or movement forward"
+        },
+        {
+          "word": "uncle",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "told",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "farm's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I must deliver this video about the farm to my primary school class.",
+      "zh": "我必须把这个关于农场的视频送到我的小学班级。",
+      "words": [
+        {
+          "word": "deliver",
+          "def": "递送；交付",
+          "ipa": "/dɪˈlɪvər/",
+          "eng_def": "to take something to a person or place"
+        },
+        {
+          "word": "video",
+          "def": "视频",
+          "ipa": "/ˈvɪdioʊ/",
+          "eng_def": "a recording of moving pictures"
+        },
+        {
+          "word": "primary",
+          "def": "初级的；小学的",
+          "ipa": "/ˈpraɪmeri/",
+          "eng_def": "first or most important; relating to the first years of school"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "farm",
+      "def": "农场",
+      "ipa": "/fɑːrm/",
+      "eng_def": "land used for growing food or keeping animals",
+      "example": "My uncle works on a farm."
+    },
+    {
+      "word": "collection",
+      "def": "收藏品",
+      "ipa": "/kəˈlekʃən/",
+      "eng_def": "a group of things kept together",
+      "example": "She has a collection of old coins."
+    },
+    {
+      "word": "hang",
+      "def": "悬挂",
+      "ipa": "/hæŋ/",
+      "eng_def": "to put something so it is held from above",
+      "example": "I hang my coat on the hook."
+    },
+    {
+      "word": "negative",
+      "def": "消极的；负面的",
+      "ipa": "/ˈneɡətɪv/",
+      "eng_def": "not good or not positive",
+      "example": "He has a negative view of the plan."
+    },
+    {
+      "word": "band",
+      "def": "乐队",
+      "ipa": "/bænd/",
+      "eng_def": "a group of people who play music together",
+      "example": "The band played a nice song."
+    },
+    {
+      "word": "relative",
+      "def": "亲戚",
+      "ipa": "/ˈrelətɪv/",
+      "eng_def": "a person in your family",
+      "example": "My relative lives in another city."
+    },
+    {
+      "word": "tour",
+      "def": "参观；旅行",
+      "ipa": "/tʊr/",
+      "eng_def": "a visit to a place",
+      "example": "We took a tour of the museum."
+    },
+    {
+      "word": "alternative",
+      "def": "替代的；其他的",
+      "ipa": "/ɔːlˈtɜːrnətɪv/",
+      "eng_def": "different from the usual one",
+      "example": "We need an alternative plan."
+    },
+    {
+      "word": "software",
+      "def": "软件",
+      "ipa": "/ˈsɔːftwer/",
+      "eng_def": "programs used on a computer",
+      "example": "I use software to edit photos."
+    },
+    {
+      "word": "pair",
+      "def": "一对",
+      "ipa": "/per/",
+      "eng_def": "two things that go together",
+      "example": "I need a pair of shoes."
+    },
+    {
+      "word": "ship",
+      "def": "船；运送",
+      "ipa": "/ʃɪp/",
+      "eng_def": "a large boat; to send something",
+      "example": "The ship sailed across the ocean."
+    },
+    {
+      "word": "attitude",
+      "def": "态度",
+      "ipa": "/ˈætɪtuːd/",
+      "eng_def": "the way you think or feel about something",
+      "example": "Her attitude is very positive."
+    },
+    {
+      "word": "cheap",
+      "def": "便宜的",
+      "ipa": "/tʃiːp/",
+      "eng_def": "low in price",
+      "example": "This book is cheap."
+    },
+    {
+      "word": "double",
+      "def": "双重的；双倍的",
+      "ipa": "/ˈdʌbəl/",
+      "eng_def": "two times as much",
+      "example": "I paid double the price."
+    },
+    {
+      "word": "leg",
+      "def": "腿",
+      "ipa": "/leɡ/",
+      "eng_def": "the part of the body used for walking",
+      "example": "He hurt his leg."
+    },
+    {
+      "word": "observe",
+      "def": "观察",
+      "ipa": "/əbˈzɜːrv/",
+      "eng_def": "to watch carefully",
+      "example": "Scientists observe the stars."
+    },
+    {
+      "word": "sentence",
+      "def": "句子",
+      "ipa": "/ˈsentəns/",
+      "eng_def": "a group of words that expresses a complete thought",
+      "example": "Please write a sentence."
+    },
+    {
+      "word": "print",
+      "def": "打印",
+      "ipa": "/prɪnt/",
+      "eng_def": "to put words or pictures on paper using a machine",
+      "example": "I need to print this document."
+    },
+    {
+      "word": "progress",
+      "def": "进步；进展",
+      "ipa": "/ˈprɑːɡres/",
+      "eng_def": "improvement or movement forward",
+      "example": "She made good progress in English."
+    },
+    {
+      "word": "truth",
+      "def": "真相；事实",
+      "ipa": "/truːθ/",
+      "eng_def": "the real facts about something",
+      "example": "Always tell the truth."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "“band” 的意思是什么？",
+      "question_en": "What does 'band' mean?",
+      "options": [
+        "A. 乐队",
+        "B. 农场",
+        "C. 句子",
+        "D. 软件"
+      ],
+      "answer": 0,
+      "word": "band"
+    },
+    {
+      "question_cn": "“attitude” 的意思是什么？",
+      "question_en": "What does 'attitude' mean?",
+      "options": [
+        "A. 态度",
+        "B. 腿",
+        "C. 真相",
+        "D. 收藏"
+      ],
+      "answer": 0,
+      "word": "attitude"
+    },
+    {
+      "question_cn": "“observe” 的意思是什么？",
+      "question_en": "What does 'observe' mean?",
+      "options": [
+        "A. 观察",
+        "B. 悬挂",
+        "C. 打印",
+        "D. 运送"
+      ],
+      "answer": 0,
+      "word": "observe"
+    },
+    {
+      "question_cn": "“progress” 的意思是什么？",
+      "question_en": "What does 'progress' mean?",
+      "options": [
+        "A. 进步",
+        "B. 便宜的",
+        "C. 双倍的",
+        "D. 替代的"
+      ],
+      "answer": 0,
+      "word": "progress"
+    },
+    {
+      "question_cn": "“alternative” 的意思是什么？",
+      "question_en": "What does 'alternative' mean?",
+      "options": [
+        "A. 替代的",
+        "B. 消极的",
+        "C. 一对",
+        "D. 亲戚"
+      ],
+      "answer": 0,
+      "word": "alternative"
+    }
+  ],
+  "image_prompts": [
+    "A boy walking on a path toward a farm with a red barn and green fields under a blue sky.",
+    "Inside a farmhouse, a wall with many old farm tools like hoes and rakes hanging from hooks.",
+    "A young man with a sad face standing next to a tractor, looking unhappy.",
+    "A small band of three musicians playing guitars and drums near a wooden fence on a farm.",
+    "A man and a woman from the city standing at the farm gate, looking at the fields.",
+    "A person using a laptop with a printer next to it, printing a photo of a farm.",
+    "Two brown horses standing together in a field, pulling a wooden cart.",
+    "A horse with a bandage on one leg, walking slowly on a dirt path.",
+    "An older man talking to a boy, pointing at a field with growing plants.",
+    "A boy holding a video camera, recording the farm, with a school building in the background."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['ship', 'cheap', 'sentence']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 45,
+  "_new_word_count": 20
+}

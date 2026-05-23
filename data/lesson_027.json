@@ -1,0 +1,415 @@
+{
+  "id": 27,
+  "title": "A Film Project at College",
+  "article_text": "A guy at my college wants to make a film series. He has a clear purpose for this project. The director can direct the actors well. We can see the success of his work tomorrow. I recognize a problem with the window in the room. The lack of light is a problem for the image. We depend on the department for some help. The team can gain a good review for their work. Some people argue about the drug use in the film. The race to finish the project never stops.",
+  "sentences": [
+    {
+      "en": "A guy at my college wants to make a film series.",
+      "zh": "我大学里的一个家伙想制作一个电影系列。",
+      "words": [
+        {
+          "word": "guy",
+          "def": "家伙，男人",
+          "ipa": "/ɡaɪ/",
+          "eng_def": "a man or person"
+        },
+        {
+          "word": "college",
+          "def": "大学，学院",
+          "ipa": "/ˈkɑːlɪdʒ/",
+          "eng_def": "a school for higher education"
+        },
+        {
+          "word": "series",
+          "def": "系列，连续",
+          "ipa": "/ˈsɪriːz/",
+          "eng_def": "a number of things that come one after another"
+        }
+      ]
+    },
+    {
+      "en": "He has a clear purpose for this project.",
+      "zh": "他对这个项目有明确的目的。",
+      "words": [
+        {
+          "word": "clear",
+          "def": "清楚的，明确的",
+          "ipa": "/klɪr/",
+          "eng_def": "easy to see or understand"
+        },
+        {
+          "word": "purpose",
+          "def": "目的，意图",
+          "ipa": "/ˈpɜːrpəs/",
+          "eng_def": "the reason for doing something"
+        }
+      ]
+    },
+    {
+      "en": "The director can direct the actors well.",
+      "zh": "导演能很好地指导演员。",
+      "words": [
+        {
+          "word": "director",
+          "def": "导演，主管",
+          "ipa": "/dəˈrektər/",
+          "eng_def": "a person who controls or gives orders"
+        },
+        {
+          "word": "direct",
+          "def": "指导，导演",
+          "ipa": "/dəˈrekt/",
+          "eng_def": "to tell someone how to do something; to control"
+        },
+        {
+          "word": "actors",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "We can see the success of his work tomorrow.",
+      "zh": "我们明天就能看到他工作的成功。",
+      "words": [
+        {
+          "word": "success",
+          "def": "成功，成就",
+          "ipa": "/səkˈses/",
+          "eng_def": "the achievement of something desired"
+        },
+        {
+          "word": "tomorrow",
+          "def": "明天",
+          "ipa": "/təˈmɔːroʊ/",
+          "eng_def": "the day after today"
+        }
+      ]
+    },
+    {
+      "en": "I recognize a problem with the window in the room.",
+      "zh": "我意识到房间里窗户有问题。",
+      "words": [
+        {
+          "word": "recognize",
+          "def": "认出，意识到",
+          "ipa": "/ˈrekəɡnaɪz/",
+          "eng_def": "to know or see something as familiar"
+        },
+        {
+          "word": "window",
+          "def": "窗户",
+          "ipa": "/ˈwɪndoʊ/",
+          "eng_def": "an opening in a wall with glass"
+        }
+      ]
+    },
+    {
+      "en": "The lack of light is a problem for the image.",
+      "zh": "光线不足对画面来说是个问题。",
+      "words": [
+        {
+          "word": "lack",
+          "def": "缺乏，不足",
+          "ipa": "/læk/",
+          "eng_def": "the state of not having enough"
+        },
+        {
+          "word": "image",
+          "def": "图像，画面",
+          "ipa": "/ˈɪmɪdʒ/",
+          "eng_def": "a picture or view of something"
+        }
+      ]
+    },
+    {
+      "en": "We depend on the department for some help.",
+      "zh": "我们依靠这个部门提供一些帮助。",
+      "words": [
+        {
+          "word": "depend",
+          "def": "依靠，依赖",
+          "ipa": "/dɪˈpend/",
+          "eng_def": "to need someone or something for support"
+        },
+        {
+          "word": "department",
+          "def": "部门，系",
+          "ipa": "/dɪˈpɑːrtmənt/",
+          "eng_def": "a part of an organization or school"
+        }
+      ]
+    },
+    {
+      "en": "The team can gain a good review for their work.",
+      "zh": "这个团队能为他们的工作赢得好评。",
+      "words": [
+        {
+          "word": "gain",
+          "def": "获得，赢得",
+          "ipa": "/ɡeɪn/",
+          "eng_def": "to get something"
+        },
+        {
+          "word": "review",
+          "def": "评论，评价",
+          "ipa": "/rɪˈvjuː/",
+          "eng_def": "an opinion about a book, film, etc."
+        }
+      ]
+    },
+    {
+      "en": "Some people argue about the drug use in the film.",
+      "zh": "一些人争论电影中的药物使用。",
+      "words": [
+        {
+          "word": "argue",
+          "def": "争论，辩论",
+          "ipa": "/ˈɑːrɡjuː/",
+          "eng_def": "to disagree with words"
+        },
+        {
+          "word": "drug",
+          "def": "药物，毒品",
+          "ipa": "/drʌɡ/",
+          "eng_def": "a substance used as a medicine or for pleasure"
+        }
+      ]
+    },
+    {
+      "en": "The race to finish the project never stops.",
+      "zh": "完成这个项目的竞赛从未停止。",
+      "words": [
+        {
+          "word": "race",
+          "def": "竞赛，赛跑",
+          "ipa": "/reɪs/",
+          "eng_def": "a competition to see who is fastest"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "drug",
+      "def": "药物，毒品",
+      "ipa": "/drʌɡ/",
+      "eng_def": "a substance used as a medicine or for pleasure",
+      "example": "Some people argue about the drug use in the film."
+    },
+    {
+      "word": "wall",
+      "def": "墙，墙壁",
+      "ipa": "/wɔːl/",
+      "eng_def": "a side of a room or building",
+      "example": "The wall in the room is white."
+    },
+    {
+      "word": "series",
+      "def": "系列，连续",
+      "ipa": "/ˈsɪriːz/",
+      "eng_def": "a number of things that come one after another",
+      "example": "A guy at my college wants to make a film series."
+    },
+    {
+      "word": "direct",
+      "def": "指导，导演",
+      "ipa": "/dəˈrekt/",
+      "eng_def": "to tell someone how to do something; to control",
+      "example": "The director can direct the actors well."
+    },
+    {
+      "word": "success",
+      "def": "成功，成就",
+      "ipa": "/səkˈses/",
+      "eng_def": "the achievement of something desired",
+      "example": "We can see the success of his work tomorrow."
+    },
+    {
+      "word": "tomorrow",
+      "def": "明天",
+      "ipa": "/təˈmɔːroʊ/",
+      "eng_def": "the day after today",
+      "example": "We can see the success of his work tomorrow."
+    },
+    {
+      "word": "director",
+      "def": "导演，主管",
+      "ipa": "/dəˈrektər/",
+      "eng_def": "a person who controls or gives orders",
+      "example": "The director can direct the actors well."
+    },
+    {
+      "word": "clearly",
+      "def": "清楚地，明确地",
+      "ipa": "/ˈklɪrli/",
+      "eng_def": "in a clear way",
+      "example": "The director speaks clearly to the actors."
+    },
+    {
+      "word": "lack",
+      "def": "缺乏，不足",
+      "ipa": "/læk/",
+      "eng_def": "the state of not having enough",
+      "example": "The lack of light is a problem for the image."
+    },
+    {
+      "word": "review",
+      "def": "评论，评价",
+      "ipa": "/rɪˈvjuː/",
+      "eng_def": "an opinion about a book, film, etc.",
+      "example": "The team can gain a good review for their work."
+    },
+    {
+      "word": "depend",
+      "def": "依靠，依赖",
+      "ipa": "/dɪˈpend/",
+      "eng_def": "to need someone or something for support",
+      "example": "We depend on the department for some help."
+    },
+    {
+      "word": "race",
+      "def": "竞赛，赛跑",
+      "ipa": "/reɪs/",
+      "eng_def": "a competition to see who is fastest",
+      "example": "The race to finish the project never stops."
+    },
+    {
+      "word": "recognize",
+      "def": "认出，意识到",
+      "ipa": "/ˈrekəɡnaɪz/",
+      "eng_def": "to know or see something as familiar",
+      "example": "I recognize a problem with the window in the room."
+    },
+    {
+      "word": "window",
+      "def": "窗户",
+      "ipa": "/ˈwɪndoʊ/",
+      "eng_def": "an opening in a wall with glass",
+      "example": "I recognize a problem with the window in the room."
+    },
+    {
+      "word": "purpose",
+      "def": "目的，意图",
+      "ipa": "/ˈpɜːrpəs/",
+      "eng_def": "the reason for doing something",
+      "example": "He has a clear purpose for this project."
+    },
+    {
+      "word": "department",
+      "def": "部门，系",
+      "ipa": "/dɪˈpɑːrtmənt/",
+      "eng_def": "a part of an organization or school",
+      "example": "We depend on the department for some help."
+    },
+    {
+      "word": "gain",
+      "def": "获得，赢得",
+      "ipa": "/ɡeɪn/",
+      "eng_def": "to get something",
+      "example": "The team can gain a good review for their work."
+    },
+    {
+      "word": "tree",
+      "def": "树",
+      "ipa": "/triː/",
+      "eng_def": "a tall plant with a trunk and leaves",
+      "example": "There is a big tree outside the window."
+    },
+    {
+      "word": "college",
+      "def": "大学，学院",
+      "ipa": "/ˈkɑːlɪdʒ/",
+      "eng_def": "a school for higher education",
+      "example": "A guy at my college wants to make a film series."
+    },
+    {
+      "word": "argue",
+      "def": "争论，辩论",
+      "ipa": "/ˈɑːrɡjuː/",
+      "eng_def": "to disagree with words",
+      "example": "Some people argue about the drug use in the film."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "“director” 是什么意思？",
+      "question_en": "What does 'director' mean?",
+      "options": [
+        "A. 导演",
+        "B. 演员",
+        "C. 摄影师",
+        "D. 编剧"
+      ],
+      "answer": 0,
+      "word": "director"
+    },
+    {
+      "question_cn": "“lack” 在句子中的意思是？",
+      "question_en": "What does 'lack' mean in the sentence?",
+      "options": [
+        "A. 充足",
+        "B. 缺乏",
+        "C. 光明",
+        "D. 黑暗"
+      ],
+      "answer": 1,
+      "word": "lack"
+    },
+    {
+      "question_cn": "“argue” 的意思是？",
+      "question_en": "What does 'argue' mean?",
+      "options": [
+        "A. 同意",
+        "B. 争论",
+        "C. 唱歌",
+        "D. 跳舞"
+      ],
+      "answer": 1,
+      "word": "argue"
+    },
+    {
+      "question_cn": "“purpose” 的意思是？",
+      "question_en": "What does 'purpose' mean?",
+      "options": [
+        "A. 目的",
+        "B. 时间",
+        "C. 地点",
+        "D. 人物"
+      ],
+      "answer": 0,
+      "word": "purpose"
+    },
+    {
+      "question_cn": "“gain” 在句子中的意思是？",
+      "question_en": "What does 'gain' mean in the sentence?",
+      "options": [
+        "A. 失去",
+        "B. 获得",
+        "C. 制作",
+        "D. 观看"
+      ],
+      "answer": 1,
+      "word": "gain"
+    }
+  ],
+  "image_prompts": [
+    "A young guy at a college campus holding a film camera, smiling.",
+    "A man pointing at a whiteboard with a clear plan written on it.",
+    "A director on a film set giving instructions to actors.",
+    "A group of people watching a screen showing a success message, with a calendar showing tomorrow's date.",
+    "A person looking at a broken window in a room, with a worried expression.",
+    "A dark room with a small window, and a camera showing a poor image on a screen.",
+    "A group of students talking to a department head in an office.",
+    "A team celebrating with a positive review on a laptop screen.",
+    "Two people arguing with each other, with a film poster showing a drug warning in the background.",
+    "Several people running in a race toward a finish line with a film project banner."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['clearly', 'tree', 'wall']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 27,
+  "_new_word_count": 20
+}

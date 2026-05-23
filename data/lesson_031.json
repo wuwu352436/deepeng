@@ -1,0 +1,499 @@
+{
+  "id": 31,
+  "title": "A Village Visit",
+  "article_text": "My husband and I went to a small village last weekend. The village had no bus access, so we walked quickly. We saw a modern hospital there, and the treatment was very good. A doctor came to treat a man with a leg movement problem. He could not move his leg, but the doctor helped him identify the problem. The loss of movement made the man sad, but the treatment was worth the cost. The hospital had a good supply of natural medicine. My brother attended a meeting about the village's future. We must express our ideas, so shall we write a card? The pressure from the villagers was strong, but they felt happy because the agreement was good. You must take care of yourself!",
+  "sentences": [
+    {
+      "en": "My husband and I went to a small village last weekend.",
+      "zh": "我和我丈夫上周末去了一个小村庄。",
+      "words": [
+        {
+          "word": "husband",
+          "def": "丈夫",
+          "ipa": "/ˈhʌzbənd/",
+          "eng_def": "a man who is married"
+        },
+        {
+          "word": "village",
+          "def": "村庄",
+          "ipa": "/ˈvɪlɪdʒ/",
+          "eng_def": "a small town in the country"
+        },
+        {
+          "word": "went",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "weekend",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The village had no bus access, so we walked quickly.",
+      "zh": "村庄没有公交车通道，所以我们走得很快。",
+      "words": [
+        {
+          "word": "bus",
+          "def": "公共汽车",
+          "ipa": "/bʌs/",
+          "eng_def": "a large vehicle that carries people"
+        },
+        {
+          "word": "access",
+          "def": "通道；进入",
+          "ipa": "/ˈækses/",
+          "eng_def": "a way to enter or reach a place"
+        },
+        {
+          "word": "quickly",
+          "def": "快速地",
+          "ipa": "/ˈkwɪkli/",
+          "eng_def": "in a fast way"
+        }
+      ]
+    },
+    {
+      "en": "We saw a modern hospital there, and the treatment was very good.",
+      "zh": "我们在那里看到了一家现代化的医院，治疗非常好。",
+      "words": [
+        {
+          "word": "modern",
+          "def": "现代的",
+          "ipa": "/ˈmɒdən/",
+          "eng_def": "new and using the latest ideas"
+        },
+        {
+          "word": "hospital",
+          "def": "医院",
+          "ipa": "/ˈhɒspɪtl/",
+          "eng_def": "a place where sick people get care"
+        },
+        {
+          "word": "treatment",
+          "def": "治疗",
+          "ipa": "/ˈtriːtmənt/",
+          "eng_def": "medical care for an illness or injury"
+        },
+        {
+          "word": "saw",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "A doctor came to treat a man with a leg movement problem.",
+      "zh": "一位医生来治疗一个有腿部运动问题的男人。",
+      "words": [
+        {
+          "word": "treat",
+          "def": "治疗",
+          "ipa": "/triːt/",
+          "eng_def": "to give medical care to someone"
+        },
+        {
+          "word": "movement",
+          "def": "运动；活动",
+          "ipa": "/ˈmuːvmənt/",
+          "eng_def": "the act of moving"
+        },
+        {
+          "word": "came",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "leg",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "He could not move his leg, but the doctor helped him identify the problem.",
+      "zh": "他无法移动他的腿，但医生帮助他识别了问题。",
+      "words": [
+        {
+          "word": "identify",
+          "def": "识别；确认",
+          "ipa": "/aɪˈdentɪfaɪ/",
+          "eng_def": "to find out what someone or something is"
+        },
+        {
+          "word": "leg",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The loss of movement made the man sad, but the treatment was worth the cost.",
+      "zh": "失去运动能力让这个男人伤心，但治疗值得花费。",
+      "words": [
+        {
+          "word": "loss",
+          "def": "失去；损失",
+          "ipa": "/lɒs/",
+          "eng_def": "the fact of no longer having something"
+        },
+        {
+          "word": "worth",
+          "def": "值得的",
+          "ipa": "/wɜːθ/",
+          "eng_def": "having a good enough value to do something"
+        },
+        {
+          "word": "made",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "sad",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The hospital had a good supply of natural medicine.",
+      "zh": "这家医院有充足的自然药物供应。",
+      "words": [
+        {
+          "word": "supply",
+          "def": "供应；补给",
+          "ipa": "/səˈplaɪ/",
+          "eng_def": "an amount of something that is available"
+        },
+        {
+          "word": "natural",
+          "def": "自然的",
+          "ipa": "/ˈnætʃrəl/",
+          "eng_def": "from nature, not made by people"
+        },
+        {
+          "word": "medicine",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "My brother attended a meeting about the village's future.",
+      "zh": "我哥哥参加了一个关于村庄未来的会议。",
+      "words": [
+        {
+          "word": "brother",
+          "def": "兄弟",
+          "ipa": "/ˈbrʌðər/",
+          "eng_def": "a man or boy with the same parents as you"
+        },
+        {
+          "word": "attended",
+          "def": "出席；参加",
+          "ipa": "/əˈtendɪd/",
+          "eng_def": "went to an event or place"
+        },
+        {
+          "word": "village's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "We must express our ideas, so shall we write a card?",
+      "zh": "我们必须表达我们的想法，那么我们要写一张卡片吗？",
+      "words": [
+        {
+          "word": "express",
+          "def": "表达",
+          "ipa": "/ɪkˈspres/",
+          "eng_def": "to say or show what you think or feel"
+        },
+        {
+          "word": "shall",
+          "def": "将要（用于提议或询问）",
+          "ipa": "/ʃæl/",
+          "eng_def": "used to make a suggestion or ask a question"
+        },
+        {
+          "word": "card",
+          "def": "卡片",
+          "ipa": "/kɑːd/",
+          "eng_def": "a small piece of thick paper with a message"
+        }
+      ]
+    },
+    {
+      "en": "The pressure from the villagers was strong, but they felt happy because the agreement was good.",
+      "zh": "来自村民的压力很大，但他们感到高兴，因为协议很好。",
+      "words": [
+        {
+          "word": "pressure",
+          "def": "压力",
+          "ipa": "/ˈpreʃər/",
+          "eng_def": "a strong force or influence"
+        },
+        {
+          "word": "agreement",
+          "def": "协议；一致",
+          "ipa": "/əˈɡriːmənt/",
+          "eng_def": "a plan or decision made by two or more people"
+        },
+        {
+          "word": "yourself",
+          "def": "你自己",
+          "ipa": "/jɔːˈself/",
+          "eng_def": "used to refer to the person being spoken to"
+        },
+        {
+          "word": "villagers",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "felt",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "husband",
+      "def": "丈夫",
+      "ipa": "/ˈhʌzbənd/",
+      "eng_def": "a man who is married",
+      "example": "My husband works in a hospital."
+    },
+    {
+      "word": "access",
+      "def": "通道；进入",
+      "ipa": "/ˈækses/",
+      "eng_def": "a way to enter or reach a place",
+      "example": "We have access to the park through this gate."
+    },
+    {
+      "word": "movement",
+      "def": "运动；活动",
+      "ipa": "/ˈmuːvmənt/",
+      "eng_def": "the act of moving",
+      "example": "The baby made a small movement."
+    },
+    {
+      "word": "treat",
+      "def": "治疗",
+      "ipa": "/triːt/",
+      "eng_def": "to give medical care to someone",
+      "example": "The nurse will treat your cut."
+    },
+    {
+      "word": "identify",
+      "def": "识别；确认",
+      "ipa": "/aɪˈdentɪfaɪ/",
+      "eng_def": "to find out what someone or something is",
+      "example": "Can you identify this flower?"
+    },
+    {
+      "word": "loss",
+      "def": "失去；损失",
+      "ipa": "/lɒs/",
+      "eng_def": "the fact of no longer having something",
+      "example": "The loss of his keys made him late."
+    },
+    {
+      "word": "shall",
+      "def": "将要（用于提议或询问）",
+      "ipa": "/ʃæl/",
+      "eng_def": "used to make a suggestion or ask a question",
+      "example": "Shall we go now?"
+    },
+    {
+      "word": "modern",
+      "def": "现代的",
+      "ipa": "/ˈmɒdən/",
+      "eng_def": "new and using the latest ideas",
+      "example": "This is a modern building."
+    },
+    {
+      "word": "pressure",
+      "def": "压力",
+      "ipa": "/ˈpreʃər/",
+      "eng_def": "a strong force or influence",
+      "example": "He felt pressure to finish the work."
+    },
+    {
+      "word": "bus",
+      "def": "公共汽车",
+      "ipa": "/bʌs/",
+      "eng_def": "a large vehicle that carries people",
+      "example": "I take the bus to school."
+    },
+    {
+      "word": "treatment",
+      "def": "治疗",
+      "ipa": "/ˈtriːtmənt/",
+      "eng_def": "medical care for an illness or injury",
+      "example": "The treatment helped her feel better."
+    },
+    {
+      "word": "yourself",
+      "def": "你自己",
+      "ipa": "/jɔːˈself/",
+      "eng_def": "used to refer to the person being spoken to",
+      "example": "You must take care of yourself."
+    },
+    {
+      "word": "supply",
+      "def": "供应；补给",
+      "ipa": "/səˈplaɪ/",
+      "eng_def": "an amount of something that is available",
+      "example": "The shop has a good supply of food."
+    },
+    {
+      "word": "village",
+      "def": "村庄",
+      "ipa": "/ˈvɪlɪdʒ/",
+      "eng_def": "a small town in the country",
+      "example": "The village is very quiet."
+    },
+    {
+      "word": "worth",
+      "def": "值得的",
+      "ipa": "/wɜːθ/",
+      "eng_def": "having a good enough value to do something",
+      "example": "This book is worth reading."
+    },
+    {
+      "word": "natural",
+      "def": "自然的",
+      "ipa": "/ˈnætʃrəl/",
+      "eng_def": "from nature, not made by people",
+      "example": "Honey is a natural sweetener."
+    },
+    {
+      "word": "express",
+      "def": "表达",
+      "ipa": "/ɪkˈspres/",
+      "eng_def": "to say or show what you think or feel",
+      "example": "She expressed her ideas clearly."
+    },
+    {
+      "word": "indicate",
+      "def": "表明；指示",
+      "ipa": "/ˈɪndɪkeɪt/",
+      "eng_def": "to show or point out something",
+      "example": "The sign indicates the way to the station."
+    },
+    {
+      "word": "attend",
+      "def": "出席；参加",
+      "ipa": "/əˈtend/",
+      "eng_def": "to go to an event or place",
+      "example": "I will attend the meeting tomorrow."
+    },
+    {
+      "word": "brother",
+      "def": "兄弟",
+      "ipa": "/ˈbrʌðər/",
+      "eng_def": "a man or boy with the same parents as you",
+      "example": "My brother is taller than me."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "“husband” 的中文意思是什么？",
+      "question_en": "What is the Chinese meaning of 'husband'?",
+      "options": [
+        "A. 妻子",
+        "B. 丈夫",
+        "C. 兄弟",
+        "D. 父亲"
+      ],
+      "answer": 1,
+      "word": "husband"
+    },
+    {
+      "question_cn": "“access” 在句子 “The village had no bus access” 中是什么意思？",
+      "question_en": "What does 'access' mean in 'The village had no bus access'?",
+      "options": [
+        "A. 出口",
+        "B. 通道",
+        "C. 车辆",
+        "D. 道路"
+      ],
+      "answer": 1,
+      "word": "access"
+    },
+    {
+      "question_cn": "“treatment” 的中文意思是什么？",
+      "question_en": "What is the Chinese meaning of 'treatment'?",
+      "options": [
+        "A. 治疗",
+        "B. 训练",
+        "C. 测试",
+        "D. 旅行"
+      ],
+      "answer": 0,
+      "word": "treatment"
+    },
+    {
+      "question_cn": "“identify” 的中文意思是什么？",
+      "question_en": "What is the Chinese meaning of 'identify'?",
+      "options": [
+        "A. 忽视",
+        "B. 识别",
+        "C. 想象",
+        "D. 邀请"
+      ],
+      "answer": 1,
+      "word": "identify"
+    },
+    {
+      "question_cn": "“worth” 在句子 “the treatment was worth the cost” 中是什么意思？",
+      "question_en": "What does 'worth' mean in 'the treatment was worth the cost'?",
+      "options": [
+        "A. 昂贵的",
+        "B. 值得的",
+        "C. 便宜的",
+        "D. 免费的"
+      ],
+      "answer": 1,
+      "word": "worth"
+    }
+  ],
+  "image_prompts": [
+    "A man and a woman walking hand in hand along a path to a small village with houses.",
+    "A dirt road leading to a village, with a sign showing no bus access, and two people walking quickly.",
+    "A modern hospital building with large windows, inside a doctor and a patient smiling.",
+    "A doctor in a white coat examining a man's leg in a hospital room.",
+    "A man sitting on a bed, touching his leg with a worried face, and a doctor pointing at a chart.",
+    "A man with a sad face looking at his leg, and a doctor holding a medicine bottle.",
+    "A hospital shelf with many bottles of natural medicine labeled 'herbs'.",
+    "A group of people sitting around a table in a meeting room, one man is a brother figure.",
+    "Two people sitting at a table with a card and a pen, talking and smiling.",
+    "A group of villagers talking to a doctor, with happy faces and a paper of agreement on the table."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['indicate']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 31,
+  "_new_word_count": 20
+}

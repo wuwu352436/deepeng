@@ -1,0 +1,488 @@
+{
+  "id": 89,
+  "title": "A Rural Revolution",
+  "article_text": "Originally from a rural village, I used to think the calm life was boring. After a severe examination, I decided to abandon that old premise and move to the city. The rapid development there was a dramatic revolution for me. I was leaning on a bike to distribute flyers when I saw a delight on a child's face. Secondly, I felt grateful for the silence of the library, where I could study protein structures. I was deriving much intellectual pleasure from reading. The efficient public transport made it easy to get around. I was quickly learning how city life could differ from country life. A strange spell of happiness came over me. I was finally comfortable with my new life.",
+  "sentences": [
+    {
+      "en": "Originally from a rural village, I used to think the calm life was boring.",
+      "zh": "我原本来自一个乡村，过去认为平静的生活很无聊。",
+      "words": [
+        {
+          "word": "originally",
+          "def": "最初",
+          "ipa": "/əˈrɪdʒɪnəli/",
+          "eng_def": "at first"
+        },
+        {
+          "word": "rural",
+          "def": "乡村的",
+          "ipa": "/ˈrʊərəl/",
+          "eng_def": "relating to the countryside"
+        },
+        {
+          "word": "calm",
+          "def": "平静的",
+          "ipa": "/kɑːm/",
+          "eng_def": "not excited or angry; quiet"
+        }
+      ]
+    },
+    {
+      "en": "After a severe examination, I decided to abandon that old premise and move to the city.",
+      "zh": "在一次严格的考试之后，我决定放弃那个旧前提，搬到城市。",
+      "words": [
+        {
+          "word": "severe",
+          "def": "严格的；严重的",
+          "ipa": "/sɪˈvɪər/",
+          "eng_def": "very serious or strict"
+        },
+        {
+          "word": "examination",
+          "def": "考试；检查",
+          "ipa": "/ɪɡˌzæmɪˈneɪʃən/",
+          "eng_def": "a test of knowledge or a careful look"
+        },
+        {
+          "word": "abandon",
+          "def": "放弃",
+          "ipa": "/əˈbændən/",
+          "eng_def": "to leave or give up completely"
+        },
+        {
+          "word": "premise",
+          "def": "前提",
+          "ipa": "/ˈpremɪs/",
+          "eng_def": "an idea that is the basis for something"
+        }
+      ]
+    },
+    {
+      "en": "The rapid development there was a dramatic revolution for me.",
+      "zh": "那里的快速发展对我来说是一场戏剧性的革命。",
+      "words": [
+        {
+          "word": "rapid",
+          "def": "快速的",
+          "ipa": "/ˈræpɪd/",
+          "eng_def": "very fast"
+        },
+        {
+          "word": "dramatic",
+          "def": "戏剧性的；巨大的",
+          "ipa": "/drəˈmætɪk/",
+          "eng_def": "sudden and great"
+        },
+        {
+          "word": "revolution",
+          "def": "革命",
+          "ipa": "/ˌrevəˈluːʃən/",
+          "eng_def": "a complete change in a system or way of doing things"
+        }
+      ]
+    },
+    {
+      "en": "I was leaning on a bike to distribute flyers when I saw a delight on a child's face.",
+      "zh": "我正靠着一辆自行车分发传单，这时我看到一个孩子脸上露出喜悦。",
+      "words": [
+        {
+          "word": "lean",
+          "def": "倚靠",
+          "ipa": "/liːn/",
+          "eng_def": "to bend or rest against something"
+        },
+        {
+          "word": "bike",
+          "def": "自行车",
+          "ipa": "/baɪk/",
+          "eng_def": "a vehicle with two wheels that you ride"
+        },
+        {
+          "word": "distribute",
+          "def": "分发",
+          "ipa": "/dɪˈstrɪbjuːt/",
+          "eng_def": "to give out to people"
+        },
+        {
+          "word": "delight",
+          "def": "喜悦",
+          "ipa": "/dɪˈlaɪt/",
+          "eng_def": "great happiness"
+        },
+        {
+          "word": "leaning",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "flyers",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "saw",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "child's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Secondly, I felt grateful for the silence of the library, where I could study protein structures.",
+      "zh": "其次，我对图书馆的安静心怀感激，在那里我可以研究蛋白质结构。",
+      "words": [
+        {
+          "word": "secondly",
+          "def": "其次",
+          "ipa": "/ˈsekəndli/",
+          "eng_def": "used to introduce the second point"
+        },
+        {
+          "word": "grateful",
+          "def": "感激的",
+          "ipa": "/ˈɡreɪtfəl/",
+          "eng_def": "feeling or showing thanks"
+        },
+        {
+          "word": "silence",
+          "def": "安静",
+          "ipa": "/ˈsaɪləns/",
+          "eng_def": "complete quiet"
+        },
+        {
+          "word": "protein",
+          "def": "蛋白质",
+          "ipa": "/ˈprəʊtiːn/",
+          "eng_def": "a substance in food that helps the body grow"
+        },
+        {
+          "word": "felt",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I was deriving much intellectual pleasure from reading.",
+      "zh": "我从阅读中获得了很多智力上的乐趣。",
+      "words": [
+        {
+          "word": "derive",
+          "def": "获得",
+          "ipa": "/dɪˈraɪv/",
+          "eng_def": "to get something from something else"
+        },
+        {
+          "word": "intellectual",
+          "def": "智力的",
+          "ipa": "/ˌɪntəˈlektʃuəl/",
+          "eng_def": "relating to the ability to think and understand"
+        },
+        {
+          "word": "deriving",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The efficient public transport made it easy to get around.",
+      "zh": "高效的公共交通使出行变得容易。",
+      "words": [
+        {
+          "word": "efficient",
+          "def": "高效的",
+          "ipa": "/ɪˈfɪʃənt/",
+          "eng_def": "working well without wasting time or energy"
+        },
+        {
+          "word": "made",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I was quickly learning how city life could differ from country life.",
+      "zh": "我很快了解到城市生活与乡村生活有何不同。",
+      "words": [
+        {
+          "word": "differ",
+          "def": "不同",
+          "ipa": "/ˈdɪfər/",
+          "eng_def": "to be not the same"
+        }
+      ]
+    },
+    {
+      "en": "A strange spell of happiness came over me.",
+      "zh": "一阵奇怪的幸福感涌上我心头。",
+      "words": [
+        {
+          "word": "spell",
+          "def": "一阵；咒语",
+          "ipa": "/spel/",
+          "eng_def": "a short period of time; magic words"
+        },
+        {
+          "word": "happiness",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "came",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I was finally comfortable with my new life.",
+      "zh": "我终于对自己的新生活感到舒适了。",
+      "words": [
+        {
+          "word": "comfort",
+          "def": "舒适",
+          "ipa": "/ˈkʌmfət/",
+          "eng_def": "a state of physical or mental ease"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "rural",
+      "def": "乡村的",
+      "ipa": "/ˈrʊərəl/",
+      "eng_def": "relating to the countryside",
+      "example": "I grew up in a rural area."
+    },
+    {
+      "word": "calm",
+      "def": "平静的",
+      "ipa": "/kɑːm/",
+      "eng_def": "not excited or angry; quiet",
+      "example": "The sea was calm."
+    },
+    {
+      "word": "abandon",
+      "def": "放弃",
+      "ipa": "/əˈbændən/",
+      "eng_def": "to leave or give up completely",
+      "example": "They had to abandon the plan."
+    },
+    {
+      "word": "examination",
+      "def": "考试；检查",
+      "ipa": "/ɪɡˌzæmɪˈneɪʃən/",
+      "eng_def": "a test of knowledge or a careful look",
+      "example": "The examination was difficult."
+    },
+    {
+      "word": "silence",
+      "def": "安静",
+      "ipa": "/ˈsaɪləns/",
+      "eng_def": "complete quiet",
+      "example": "There was a long silence."
+    },
+    {
+      "word": "rapid",
+      "def": "快速的",
+      "ipa": "/ˈræpɪd/",
+      "eng_def": "very fast",
+      "example": "The change was rapid."
+    },
+    {
+      "word": "efficient",
+      "def": "高效的",
+      "ipa": "/ɪˈfɪʃənt/",
+      "eng_def": "working well without wasting time or energy",
+      "example": "This method is efficient."
+    },
+    {
+      "word": "revolution",
+      "def": "革命",
+      "ipa": "/ˌrevəˈluːʃən/",
+      "eng_def": "a complete change in a system or way of doing things",
+      "example": "The industrial revolution changed everything."
+    },
+    {
+      "word": "delight",
+      "def": "喜悦",
+      "ipa": "/dɪˈlaɪt/",
+      "eng_def": "great happiness",
+      "example": "She felt delight at the news."
+    },
+    {
+      "word": "spell",
+      "def": "一阵；咒语",
+      "ipa": "/spel/",
+      "eng_def": "a short period of time; magic words",
+      "example": "A spell of good weather."
+    },
+    {
+      "word": "premise",
+      "def": "前提",
+      "ipa": "/ˈpremɪs/",
+      "eng_def": "an idea that is the basis for something",
+      "example": "His argument is based on a false premise."
+    },
+    {
+      "word": "lean",
+      "def": "倚靠",
+      "ipa": "/liːn/",
+      "eng_def": "to bend or rest against something",
+      "example": "Don't lean on the wall."
+    },
+    {
+      "word": "dramatic",
+      "def": "戏剧性的；巨大的",
+      "ipa": "/drəˈmætɪk/",
+      "eng_def": "sudden and great",
+      "example": "There was a dramatic change."
+    },
+    {
+      "word": "differ",
+      "def": "不同",
+      "ipa": "/ˈdɪfər/",
+      "eng_def": "to be not the same",
+      "example": "Our opinions differ."
+    },
+    {
+      "word": "grateful",
+      "def": "感激的",
+      "ipa": "/ˈɡreɪtfəl/",
+      "eng_def": "feeling or showing thanks",
+      "example": "I am grateful for your help."
+    },
+    {
+      "word": "protein",
+      "def": "蛋白质",
+      "ipa": "/ˈprəʊtiːn/",
+      "eng_def": "a substance in food that helps the body grow",
+      "example": "Eggs are rich in protein."
+    },
+    {
+      "word": "bike",
+      "def": "自行车",
+      "ipa": "/baɪk/",
+      "eng_def": "a vehicle with two wheels that you ride",
+      "example": "He rides a bike to school."
+    },
+    {
+      "word": "distribute",
+      "def": "分发",
+      "ipa": "/dɪˈstrɪbjuːt/",
+      "eng_def": "to give out to people",
+      "example": "They distribute food to the poor."
+    },
+    {
+      "word": "intellectual",
+      "def": "智力的",
+      "ipa": "/ˌɪntəˈlektʃuəl/",
+      "eng_def": "relating to the ability to think and understand",
+      "example": "She has intellectual interests."
+    },
+    {
+      "word": "derive",
+      "def": "获得",
+      "ipa": "/dɪˈraɪv/",
+      "eng_def": "to get something from something else",
+      "example": "We derive pleasure from music."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词的意思是‘乡村的’？",
+      "question_en": "Which word means 'relating to the countryside'?",
+      "options": [
+        "A. urban",
+        "B. rural",
+        "C. calm",
+        "D. rapid"
+      ],
+      "answer": 1,
+      "word": "rural"
+    },
+    {
+      "question_cn": "哪个词的意思是‘放弃’？",
+      "question_en": "Which word means 'to leave or give up completely'?",
+      "options": [
+        "A. distribute",
+        "B. abandon",
+        "C. derive",
+        "D. lean"
+      ],
+      "answer": 1,
+      "word": "abandon"
+    },
+    {
+      "question_cn": "哪个词的意思是‘高效的’？",
+      "question_en": "Which word means 'working well without wasting time'?",
+      "options": [
+        "A. dramatic",
+        "B. grateful",
+        "C. efficient",
+        "D. intellectual"
+      ],
+      "answer": 2,
+      "word": "efficient"
+    },
+    {
+      "question_cn": "哪个词的意思是‘喜悦’？",
+      "question_en": "Which word means 'great happiness'?",
+      "options": [
+        "A. silence",
+        "B. delight",
+        "C. spell",
+        "D. premise"
+      ],
+      "answer": 1,
+      "word": "delight"
+    },
+    {
+      "question_cn": "哪个词的意思是‘分发’？",
+      "question_en": "Which word means 'to give out to people'?",
+      "options": [
+        "A. differ",
+        "B. distribute",
+        "C. derive",
+        "D. abandon"
+      ],
+      "answer": 1,
+      "word": "distribute"
+    }
+  ],
+  "image_prompts": [
+    "A quiet rural village with green fields and a calm sky.",
+    "A person sitting at a desk after a severe examination, looking at a decision note to abandon an old premise.",
+    "A city skyline with rapid development and dramatic changes, symbolizing a revolution.",
+    "A person leaning on a bike, distributing flyers to children, one child's face showing delight.",
+    "A quiet library with a person studying protein structures, feeling grateful for the silence.",
+    "A person reading books, deriving intellectual pleasure from them.",
+    "A city street with efficient public transport like a bus or train.",
+    "A split image showing rural life on one side and city life on the other, highlighting how they differ.",
+    "A person experiencing a strange spell of happiness, with a glowing aura around them.",
+    "A person sitting comfortably in a modern apartment, finally comfortable with their new life."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['rapidly', 'derive']",
+    "Missing new words in vocabulary list: {'rapidly'}"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 89,
+  "_new_word_count": 20
+}

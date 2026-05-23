@@ -1,0 +1,523 @@
+{
+  "id": 75,
+  "title": "A Neighborhood Problem",
+  "article_text": "I used to believe in the justice of our local government, but a recent poll changed my faith. My employer received a formal complaint about the weak streetlights in our neighborhood. The reduction in light was causing a rush of passengers to disappear after dark. One passenger said that the dark streets were a bore and a real problem. I was walking home when I heard a shout from a thin man near the yard. He was trying to compete with a group of people in a rush. Somehow, the tone of the situation made me feel weak. My mission was to reserve a meeting with the employer to discuss the phase of the project. I told him that the proportion of complaints was growing every week. I have been waiting for justice, but my faith is starting to thin.",
+  "sentences": [
+    {
+      "en": "I used to believe in the justice of our local government, but a recent poll changed my faith.",
+      "zh": "我曾经相信我们当地政府的公正，但最近的民意调查改变了我的信念。",
+      "words": [
+        {
+          "word": "used to",
+          "def": "过去常常",
+          "ipa": "/juːzd tuː/",
+          "eng_def": "happened in the past but not now"
+        },
+        {
+          "word": "justice",
+          "def": "公正",
+          "ipa": "/ˈdʒʌstɪs/",
+          "eng_def": "fair behavior or treatment"
+        },
+        {
+          "word": "poll",
+          "def": "民意调查",
+          "ipa": "/poʊl/",
+          "eng_def": "a study of what people think"
+        },
+        {
+          "word": "faith",
+          "def": "信念",
+          "ipa": "/feɪθ/",
+          "eng_def": "strong belief in something"
+        }
+      ]
+    },
+    {
+      "en": "My employer received a formal complaint about the weak streetlights in our neighborhood.",
+      "zh": "我的雇主收到了一份关于我们社区路灯昏暗的正式投诉。",
+      "words": [
+        {
+          "word": "employer",
+          "def": "雇主",
+          "ipa": "/ɪmˈplɔɪər/",
+          "eng_def": "a person or company that pays people to work"
+        },
+        {
+          "word": "formal",
+          "def": "正式的",
+          "ipa": "/ˈfɔːrməl/",
+          "eng_def": "done in an official way"
+        },
+        {
+          "word": "complaint",
+          "def": "投诉",
+          "ipa": "/kəmˈpleɪnt/",
+          "eng_def": "a statement that something is wrong"
+        },
+        {
+          "word": "weak",
+          "def": "虚弱的；暗淡的",
+          "ipa": "/wiːk/",
+          "eng_def": "not strong or bright"
+        },
+        {
+          "word": "neighborhood",
+          "def": "社区",
+          "ipa": "/ˈneɪbərhʊd/",
+          "eng_def": "the area where people live near each other"
+        },
+        {
+          "word": "streetlights",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The reduction in light was causing a rush of passengers to disappear after dark.",
+      "zh": "光线的减少导致乘客在天黑后匆忙消失。",
+      "words": [
+        {
+          "word": "reduction",
+          "def": "减少",
+          "ipa": "/rɪˈdʌkʃən/",
+          "eng_def": "making something smaller or less"
+        },
+        {
+          "word": "rush",
+          "def": "匆忙",
+          "ipa": "/rʌʃ/",
+          "eng_def": "a situation of moving quickly"
+        },
+        {
+          "word": "passenger",
+          "def": "乘客",
+          "ipa": "/ˈpæsəndʒər/",
+          "eng_def": "a person traveling in a vehicle"
+        },
+        {
+          "word": "disappear",
+          "def": "消失",
+          "ipa": "/ˌdɪsəˈpɪr/",
+          "eng_def": "to stop being seen"
+        },
+        {
+          "word": "passengers",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "One passenger said that the dark streets were a bore and a real problem.",
+      "zh": "一位乘客说黑暗的街道很无聊，而且是个真正的问题。",
+      "words": [
+        {
+          "word": "passenger",
+          "def": "乘客",
+          "ipa": "/ˈpæsəndʒər/",
+          "eng_def": "a person traveling in a vehicle"
+        },
+        {
+          "word": "bore",
+          "def": "令人厌烦的事",
+          "ipa": "/bɔːr/",
+          "eng_def": "something that is not interesting"
+        },
+        {
+          "word": "said",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I was walking home when I heard a shout from a thin man near the yard.",
+      "zh": "我正走回家，这时听到院子里一个瘦削男人的喊声。",
+      "words": [
+        {
+          "word": "shout",
+          "def": "喊叫",
+          "ipa": "/ʃaʊt/",
+          "eng_def": "a loud call or cry"
+        },
+        {
+          "word": "thin",
+          "def": "瘦的",
+          "ipa": "/θɪn/",
+          "eng_def": "having little fat on the body"
+        },
+        {
+          "word": "yard",
+          "def": "院子",
+          "ipa": "/jɑːrd/",
+          "eng_def": "an area of land near a building"
+        },
+        {
+          "word": "heard",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "He was trying to compete with a group of people in a rush.",
+      "zh": "他正试图与一群匆忙的人竞争。",
+      "words": [
+        {
+          "word": "compete",
+          "def": "竞争",
+          "ipa": "/kəmˈpiːt/",
+          "eng_def": "to try to be better than others"
+        },
+        {
+          "word": "rush",
+          "def": "匆忙",
+          "ipa": "/rʌʃ/",
+          "eng_def": "a situation of moving quickly"
+        }
+      ]
+    },
+    {
+      "en": "Somehow, the tone of the situation made me feel weak.",
+      "zh": "不知怎么地，这种情况的氛围让我感到无力。",
+      "words": [
+        {
+          "word": "somehow",
+          "def": "不知怎么地",
+          "ipa": "/ˈsʌmhaʊ/",
+          "eng_def": "in a way that is not known"
+        },
+        {
+          "word": "tone",
+          "def": "氛围；语气",
+          "ipa": "/toʊn/",
+          "eng_def": "the general feeling or character of something"
+        },
+        {
+          "word": "weak",
+          "def": "虚弱的",
+          "ipa": "/wiːk/",
+          "eng_def": "not strong"
+        },
+        {
+          "word": "made",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "My mission was to reserve a meeting with the employer to discuss the phase of the project.",
+      "zh": "我的任务是预约与雇主开会，讨论项目的阶段。",
+      "words": [
+        {
+          "word": "mission",
+          "def": "任务",
+          "ipa": "/ˈmɪʃən/",
+          "eng_def": "an important job or duty"
+        },
+        {
+          "word": "reserve",
+          "def": "预约",
+          "ipa": "/rɪˈzɜːrv/",
+          "eng_def": "to arrange for something to be kept for you"
+        },
+        {
+          "word": "employer",
+          "def": "雇主",
+          "ipa": "/ɪmˈplɔɪər/",
+          "eng_def": "a person or company that pays people to work"
+        },
+        {
+          "word": "phase",
+          "def": "阶段",
+          "ipa": "/feɪz/",
+          "eng_def": "a part or stage in a process"
+        }
+      ]
+    },
+    {
+      "en": "I told him that the proportion of complaints was growing every week.",
+      "zh": "我告诉他投诉的比例每周都在增长。",
+      "words": [
+        {
+          "word": "proportion",
+          "def": "比例",
+          "ipa": "/prəˈpɔːrʃən/",
+          "eng_def": "the amount of something compared to the whole"
+        },
+        {
+          "word": "complaint",
+          "def": "投诉",
+          "ipa": "/kəmˈpleɪnt/",
+          "eng_def": "a statement that something is wrong"
+        },
+        {
+          "word": "told",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "complaints",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I have been waiting for justice, but my faith is starting to thin.",
+      "zh": "我一直在等待公正，但我的信念开始变得薄弱。",
+      "words": [
+        {
+          "word": "justice",
+          "def": "公正",
+          "ipa": "/ˈdʒʌstɪs/",
+          "eng_def": "fair behavior or treatment"
+        },
+        {
+          "word": "faith",
+          "def": "信念",
+          "ipa": "/feɪθ/",
+          "eng_def": "strong belief in something"
+        },
+        {
+          "word": "thin",
+          "def": "变薄；变弱",
+          "ipa": "/θɪn/",
+          "eng_def": "to become less strong or thick"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "compete",
+      "def": "竞争",
+      "ipa": "/kəmˈpiːt/",
+      "eng_def": "to try to be better than others",
+      "example": "He was trying to compete with a group of people in a rush."
+    },
+    {
+      "word": "poll",
+      "def": "民意调查",
+      "ipa": "/poʊl/",
+      "eng_def": "a study of what people think",
+      "example": "A recent poll changed my faith."
+    },
+    {
+      "word": "weak",
+      "def": "虚弱的；暗淡的",
+      "ipa": "/wiːk/",
+      "eng_def": "not strong or bright",
+      "example": "The weak streetlights made the streets dark."
+    },
+    {
+      "word": "faith",
+      "def": "信念",
+      "ipa": "/feɪθ/",
+      "eng_def": "strong belief in something",
+      "example": "A recent poll changed my faith."
+    },
+    {
+      "word": "reduction",
+      "def": "减少",
+      "ipa": "/rɪˈdʌkʃən/",
+      "eng_def": "making something smaller or less",
+      "example": "The reduction in light was causing problems."
+    },
+    {
+      "word": "reserve",
+      "def": "预约",
+      "ipa": "/rɪˈzɜːrv/",
+      "eng_def": "to arrange for something to be kept for you",
+      "example": "My mission was to reserve a meeting."
+    },
+    {
+      "word": "complaint",
+      "def": "投诉",
+      "ipa": "/kəmˈpleɪnt/",
+      "eng_def": "a statement that something is wrong",
+      "example": "My employer received a formal complaint."
+    },
+    {
+      "word": "bore",
+      "def": "令人厌烦的事",
+      "ipa": "/bɔːr/",
+      "eng_def": "something that is not interesting",
+      "example": "The dark streets were a bore."
+    },
+    {
+      "word": "mission",
+      "def": "任务",
+      "ipa": "/ˈmɪʃən/",
+      "eng_def": "an important job or duty",
+      "example": "My mission was to reserve a meeting."
+    },
+    {
+      "word": "somehow",
+      "def": "不知怎么地",
+      "ipa": "/ˈsʌmhaʊ/",
+      "eng_def": "in a way that is not known",
+      "example": "Somehow, the tone of the situation made me feel weak."
+    },
+    {
+      "word": "tone",
+      "def": "氛围；语气",
+      "ipa": "/toʊn/",
+      "eng_def": "the general feeling or character of something",
+      "example": "The tone of the situation made me feel weak."
+    },
+    {
+      "word": "neighborhood",
+      "def": "社区",
+      "ipa": "/ˈneɪbərhʊd/",
+      "eng_def": "the area where people live near each other",
+      "example": "The weak streetlights in our neighborhood."
+    },
+    {
+      "word": "passenger",
+      "def": "乘客",
+      "ipa": "/ˈpæsəndʒər/",
+      "eng_def": "a person traveling in a vehicle",
+      "example": "One passenger said the dark streets were a bore."
+    },
+    {
+      "word": "justice",
+      "def": "公正",
+      "ipa": "/ˈdʒʌstɪs/",
+      "eng_def": "fair behavior or treatment",
+      "example": "I used to believe in the justice of our local government."
+    },
+    {
+      "word": "phase",
+      "def": "阶段",
+      "ipa": "/feɪz/",
+      "eng_def": "a part or stage in a process",
+      "example": "We discussed the phase of the project."
+    },
+    {
+      "word": "thin",
+      "def": "瘦的；变薄",
+      "ipa": "/θɪn/",
+      "eng_def": "having little fat; to become less strong",
+      "example": "I heard a shout from a thin man."
+    },
+    {
+      "word": "rush",
+      "def": "匆忙",
+      "ipa": "/rʌʃ/",
+      "eng_def": "a situation of moving quickly",
+      "example": "A rush of passengers to disappear after dark."
+    },
+    {
+      "word": "formal",
+      "def": "正式的",
+      "ipa": "/ˈfɔːrməl/",
+      "eng_def": "done in an official way",
+      "example": "My employer received a formal complaint."
+    },
+    {
+      "word": "religion",
+      "def": "宗教",
+      "ipa": "/rɪˈlɪdʒən/",
+      "eng_def": "a system of belief in a god or gods",
+      "example": "Religion was not discussed in this article."
+    },
+    {
+      "word": "employer",
+      "def": "雇主",
+      "ipa": "/ɪmˈplɔɪər/",
+      "eng_def": "a person or company that pays people to work",
+      "example": "My employer received a formal complaint."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词的意思是“竞争”？",
+      "question_en": "Which word means 'to try to be better than others'?",
+      "options": [
+        "A. compete",
+        "B. poll",
+        "C. reserve",
+        "D. rush"
+      ],
+      "answer": 0,
+      "word": "compete"
+    },
+    {
+      "question_cn": "哪个词的意思是“投诉”？",
+      "question_en": "Which word means 'a statement that something is wrong'?",
+      "options": [
+        "A. faith",
+        "B. complaint",
+        "C. mission",
+        "D. tone"
+      ],
+      "answer": 1,
+      "word": "complaint"
+    },
+    {
+      "question_cn": "哪个词的意思是“不知怎么地”？",
+      "question_en": "Which word means 'in a way that is not known'?",
+      "options": [
+        "A. somehow",
+        "B. thin",
+        "C. weak",
+        "D. formal"
+      ],
+      "answer": 0,
+      "word": "somehow"
+    },
+    {
+      "question_cn": "哪个词的意思是“乘客”？",
+      "question_en": "Which word means 'a person traveling in a vehicle'?",
+      "options": [
+        "A. employer",
+        "B. passenger",
+        "C. neighbor",
+        "D. religion"
+      ],
+      "answer": 1,
+      "word": "passenger"
+    },
+    {
+      "question_cn": "哪个词的意思是“减少”？",
+      "question_en": "Which word means 'making something smaller or less'?",
+      "options": [
+        "A. reduction",
+        "B. rush",
+        "C. phase",
+        "D. justice"
+      ],
+      "answer": 0,
+      "word": "reduction"
+    }
+  ],
+  "image_prompts": [
+    "A person looking at a poll result on a screen, looking disappointed.",
+    "A person receiving a formal letter from an employer about streetlights.",
+    "Dark street with dim lights, people rushing to leave.",
+    "A passenger sitting on a bench, looking bored.",
+    "A thin man shouting near a yard at night.",
+    "A group of people running in a hurry, one person trying to keep up.",
+    "A person standing still, feeling weak, with a worried expression.",
+    "A person scheduling a meeting on a calendar with an employer.",
+    "A graph showing growing proportion of complaints over weeks.",
+    "A person waiting under a streetlight, looking up with hope fading."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['religion']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 75,
+  "_new_word_count": 20
+}

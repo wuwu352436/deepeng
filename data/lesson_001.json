@@ -1,0 +1,430 @@
+{
+  "id": 1,
+  "title": "A Small Business and Its Market",
+  "article_text": "My friend has a small business in this area. The business provides information about the local market. However, there is a large issue with money. The government does not pay for any fact without an order. My friend reads every word in the government order. A month is a long time for a small business without pay. The name of the business is a simple fact. The business area is open for a new market. My friend wants to open a new market for the people. However, the government issue is a problem for the business.",
+  "sentences": [
+    {
+      "en": "My friend has a small business in this area.",
+      "zh": "我的朋友在这个地区有一个小生意。",
+      "words": [
+        {
+          "word": "friend",
+          "def": "朋友",
+          "ipa": "/frend/",
+          "eng_def": "a person you like and know well"
+        },
+        {
+          "word": "business",
+          "def": "生意",
+          "ipa": "/ˈbɪznəs/",
+          "eng_def": "a company or trade"
+        },
+        {
+          "word": "area",
+          "def": "地区",
+          "ipa": "/ˈɛriə/",
+          "eng_def": "a part of a place"
+        }
+      ]
+    },
+    {
+      "en": "The business provides information about the local market.",
+      "zh": "这个生意提供关于当地市场的信息。",
+      "words": [
+        {
+          "word": "provides",
+          "def": "提供",
+          "ipa": "/prəˈvaɪdz/",
+          "eng_def": "gives something to someone"
+        },
+        {
+          "word": "information",
+          "def": "信息",
+          "ipa": "/ˌɪnfərˈmeɪʃən/",
+          "eng_def": "facts about something"
+        },
+        {
+          "word": "market",
+          "def": "市场",
+          "ipa": "/ˈmɑrkɪt/",
+          "eng_def": "a place where people buy and sell things"
+        },
+        {
+          "word": "local",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "However, there is a large issue with money.",
+      "zh": "然而，有一个关于钱的大问题。",
+      "words": [
+        {
+          "word": "However",
+          "def": "然而",
+          "ipa": "/haʊˈɛvər/",
+          "eng_def": "but; used to show a different idea"
+        },
+        {
+          "word": "large",
+          "def": "大的",
+          "ipa": "/lɑrdʒ/",
+          "eng_def": "big in size or amount"
+        },
+        {
+          "word": "issue",
+          "def": "问题",
+          "ipa": "/ˈɪʃu/",
+          "eng_def": "a problem or important topic"
+        },
+        {
+          "word": "money",
+          "def": "钱",
+          "ipa": "/ˈmʌni/",
+          "eng_def": "coins or paper used to buy things"
+        }
+      ]
+    },
+    {
+      "en": "The government does not pay for any fact without an order.",
+      "zh": "政府不会为任何没有订单的事实付款。",
+      "words": [
+        {
+          "word": "government",
+          "def": "政府",
+          "ipa": "/ˈɡʌvərnmənt/",
+          "eng_def": "the group that rules a country"
+        },
+        {
+          "word": "pay",
+          "def": "付款",
+          "ipa": "/peɪ/",
+          "eng_def": "to give money for something"
+        },
+        {
+          "word": "fact",
+          "def": "事实",
+          "ipa": "/fækt/",
+          "eng_def": "something that is true"
+        },
+        {
+          "word": "without",
+          "def": "没有",
+          "ipa": "/wɪˈðaʊt/",
+          "eng_def": "not having something"
+        },
+        {
+          "word": "order",
+          "def": "订单",
+          "ipa": "/ˈɔrdər/",
+          "eng_def": "a request for something to be made or done"
+        }
+      ]
+    },
+    {
+      "en": "My friend reads every word in the government order.",
+      "zh": "我的朋友阅读政府订单中的每一个字。",
+      "words": [
+        {
+          "word": "reads",
+          "def": "阅读",
+          "ipa": "/ridz/",
+          "eng_def": "looks at written words and understands them"
+        },
+        {
+          "word": "word",
+          "def": "字",
+          "ipa": "/wɜrd/",
+          "eng_def": "a unit of language with meaning"
+        }
+      ]
+    },
+    {
+      "en": "A month is a long time for a small business without pay.",
+      "zh": "一个月对于没有付款的小生意来说是长时间。",
+      "words": [
+        {
+          "word": "month",
+          "def": "月",
+          "ipa": "/mʌnθ/",
+          "eng_def": "one of the 12 parts of a year"
+        }
+      ]
+    },
+    {
+      "en": "The name of the business is a simple fact.",
+      "zh": "这个生意的名字是一个简单的事实。",
+      "words": [
+        {
+          "word": "name",
+          "def": "名字",
+          "ipa": "/neɪm/",
+          "eng_def": "a word that identifies a person or thing"
+        },
+        {
+          "word": "simple",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The business area is open for a new market.",
+      "zh": "这个生意区域对一个新的市场开放。",
+      "words": [
+        {
+          "word": "open",
+          "def": "开放的",
+          "ipa": "/ˈoʊpən/",
+          "eng_def": "not closed; available for use"
+        }
+      ]
+    },
+    {
+      "en": "My friend wants to open a new market for the people.",
+      "zh": "我的朋友想为人们开一个新的市场。",
+      "words": [
+        {
+          "word": "open",
+          "def": "开",
+          "ipa": "/ˈoʊpən/",
+          "eng_def": "to make something available or start something"
+        }
+      ]
+    },
+    {
+      "en": "However, the government issue is a problem for the business.",
+      "zh": "然而，政府的问题对这个生意是一个麻烦。",
+      "words": [
+        {
+          "word": "issue",
+          "def": "问题",
+          "ipa": "/ˈɪʃu/",
+          "eng_def": "a problem or important topic"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "money",
+      "def": "钱",
+      "ipa": "/ˈmʌni/",
+      "eng_def": "coins or paper used to buy things",
+      "example": "I have money for the book."
+    },
+    {
+      "word": "fact",
+      "def": "事实",
+      "ipa": "/fækt/",
+      "eng_def": "something that is true",
+      "example": "It is a fact that the sky is blue."
+    },
+    {
+      "word": "however",
+      "def": "然而",
+      "ipa": "/haʊˈɛvər/",
+      "eng_def": "but; used to show a different idea",
+      "example": "I like cats. However, I do not have one."
+    },
+    {
+      "word": "area",
+      "def": "地区",
+      "ipa": "/ˈɛriə/",
+      "eng_def": "a part of a place",
+      "example": "This area is very quiet."
+    },
+    {
+      "word": "provide",
+      "def": "提供",
+      "ipa": "/prəˈvaɪd/",
+      "eng_def": "to give something to someone",
+      "example": "The store provides food."
+    },
+    {
+      "word": "name",
+      "def": "名字",
+      "ipa": "/neɪm/",
+      "eng_def": "a word that identifies a person or thing",
+      "example": "My name is Tom."
+    },
+    {
+      "word": "read",
+      "def": "阅读",
+      "ipa": "/rid/",
+      "eng_def": "to look at written words and understand them",
+      "example": "I read a book every day."
+    },
+    {
+      "word": "friend",
+      "def": "朋友",
+      "ipa": "/frend/",
+      "eng_def": "a person you like and know well",
+      "example": "She is my good friend."
+    },
+    {
+      "word": "month",
+      "def": "月",
+      "ipa": "/mʌnθ/",
+      "eng_def": "one of the 12 parts of a year",
+      "example": "January is the first month."
+    },
+    {
+      "word": "large",
+      "def": "大的",
+      "ipa": "/lɑrdʒ/",
+      "eng_def": "big in size or amount",
+      "example": "The house is large."
+    },
+    {
+      "word": "business",
+      "def": "生意",
+      "ipa": "/ˈbɪznəs/",
+      "eng_def": "a company or trade",
+      "example": "He has a small business."
+    },
+    {
+      "word": "without",
+      "def": "没有",
+      "ipa": "/wɪˈðaʊt/",
+      "eng_def": "not having something",
+      "example": "I go to school without my bag."
+    },
+    {
+      "word": "information",
+      "def": "信息",
+      "ipa": "/ˌɪnfərˈmeɪʃən/",
+      "eng_def": "facts about something",
+      "example": "This book has good information."
+    },
+    {
+      "word": "open",
+      "def": "开/开放的",
+      "ipa": "/ˈoʊpən/",
+      "eng_def": "not closed; to make something available",
+      "example": "The store is open now."
+    },
+    {
+      "word": "order",
+      "def": "订单/命令",
+      "ipa": "/ˈɔrdər/",
+      "eng_def": "a request for something; a command",
+      "example": "I place an order for food."
+    },
+    {
+      "word": "government",
+      "def": "政府",
+      "ipa": "/ˈɡʌvərnmənt/",
+      "eng_def": "the group that rules a country",
+      "example": "The government makes laws."
+    },
+    {
+      "word": "word",
+      "def": "字/词",
+      "ipa": "/wɜrd/",
+      "eng_def": "a unit of language with meaning",
+      "example": "This word is new for me."
+    },
+    {
+      "word": "issue",
+      "def": "问题",
+      "ipa": "/ˈɪʃu/",
+      "eng_def": "a problem or important topic",
+      "example": "The issue is very big."
+    },
+    {
+      "word": "market",
+      "def": "市场",
+      "ipa": "/ˈmɑrkɪt/",
+      "eng_def": "a place where people buy and sell things",
+      "example": "We go to the market for fruit."
+    },
+    {
+      "word": "pay",
+      "def": "付款",
+      "ipa": "/peɪ/",
+      "eng_def": "to give money for something",
+      "example": "I pay for my lunch."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词的意思是‘信息’？",
+      "question_en": "Which word means 'information'?",
+      "options": [
+        "A. fact",
+        "B. word",
+        "C. information",
+        "D. order"
+      ],
+      "answer": 2,
+      "word": "information"
+    },
+    {
+      "question_cn": "‘However’ 的意思是什么？",
+      "question_en": "What does 'However' mean?",
+      "options": [
+        "A. 所以",
+        "B. 然而",
+        "C. 因为",
+        "D. 和"
+      ],
+      "answer": 1,
+      "word": "however"
+    },
+    {
+      "question_cn": "哪个词是‘市场’？",
+      "question_en": "Which word is 'market'?",
+      "options": [
+        "A. area",
+        "B. market",
+        "C. business",
+        "D. money"
+      ],
+      "answer": 1,
+      "word": "market"
+    },
+    {
+      "question_cn": "‘Pay’ 的意思是什么？",
+      "question_en": "What does 'pay' mean?",
+      "options": [
+        "A. 拿",
+        "B. 付款",
+        "C. 给",
+        "D. 买"
+      ],
+      "answer": 1,
+      "word": "pay"
+    },
+    {
+      "question_cn": "哪个词的意思是‘没有’？",
+      "question_en": "Which word means 'without'?",
+      "options": [
+        "A. without",
+        "B. with",
+        "C. for",
+        "D. and"
+      ],
+      "answer": 0,
+      "word": "without"
+    }
+  ],
+  "image_prompts": [
+    "A friendly person and a small shop in a neighborhood area.",
+    "A shop with a sign 'Information' and a market stall nearby.",
+    "A person looking worried, holding a coin, with a large problem sign.",
+    "A government building with a paper that says 'Order' and a money sign.",
+    "A person reading a long paper with many words.",
+    "A calendar showing one month, and a small shop with no money.",
+    "A sign with a business name on a simple building.",
+    "An open door to a market area with fresh goods.",
+    "A person opening a new market stall for happy people.",
+    "A person talking to a government official about a problem."
+  ],
+  "_needs_review": false,
+  "_lesson_num": 1,
+  "_new_word_count": 20
+}

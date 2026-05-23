@@ -1,0 +1,448 @@
+{
+  "id": 14,
+  "title": "A Strong Community Role",
+  "article_text": "This is a true story about a girl in our community. She is not strong, but she wants to help others. Maybe she can join a particular group with a special role. The group has a design for a health event. Please take a step and eat well for a difference in your condition. Sometimes the action to rise early is difficult for her. For more detail, she can use her phone to call me. They themselves can learn from each other. There is no else like her in the group. I see a clear difference in her health now.",
+  "sentences": [
+    {
+      "en": "This is a true story about a girl in our community.",
+      "zh": "这是一个关于我们社区里一个女孩的真实故事。",
+      "words": [
+        {
+          "word": "true",
+          "def": "真实的",
+          "ipa": "/truː/",
+          "eng_def": "real; not false"
+        },
+        {
+          "word": "girl",
+          "def": "女孩",
+          "ipa": "/ɡɜːrl/",
+          "eng_def": "a young female person"
+        },
+        {
+          "word": "community",
+          "def": "社区",
+          "ipa": "/kəˈmjuːnəti/",
+          "eng_def": "a group of people living in the same place"
+        }
+      ]
+    },
+    {
+      "en": "She is not strong, but she wants to help others.",
+      "zh": "她并不强壮，但她想帮助别人。",
+      "words": [
+        {
+          "word": "strong",
+          "def": "强壮的",
+          "ipa": "/strɒŋ/",
+          "eng_def": "having a lot of physical power"
+        }
+      ]
+    },
+    {
+      "en": "Maybe she can join a particular group with a special role.",
+      "zh": "也许她可以加入一个有特殊角色的特定团体。",
+      "words": [
+        {
+          "word": "maybe",
+          "def": "也许",
+          "ipa": "/ˈmeɪbi/",
+          "eng_def": "possibly; perhaps"
+        },
+        {
+          "word": "join",
+          "def": "加入",
+          "ipa": "/dʒɔɪn/",
+          "eng_def": "to become a member of a group"
+        },
+        {
+          "word": "particular",
+          "def": "特定的",
+          "ipa": "/pərˈtɪkjələr/",
+          "eng_def": "specific; not general"
+        },
+        {
+          "word": "role",
+          "def": "角色",
+          "ipa": "/roʊl/",
+          "eng_def": "a part or job that someone does"
+        }
+      ]
+    },
+    {
+      "en": "The group has a design for a health event.",
+      "zh": "这个团体有一个健康活动的设计。",
+      "words": [
+        {
+          "word": "design",
+          "def": "设计",
+          "ipa": "/dɪˈzaɪn/",
+          "eng_def": "a plan or drawing"
+        },
+        {
+          "word": "health",
+          "def": "健康",
+          "ipa": "/helθ/",
+          "eng_def": "the condition of being well in body and mind"
+        },
+        {
+          "word": "event",
+          "def": "活动",
+          "ipa": "/ɪˈvent/",
+          "eng_def": "a planned public or social occasion"
+        }
+      ]
+    },
+    {
+      "en": "Please take a step and eat well for a difference in your condition.",
+      "zh": "请迈出一步，好好吃饭，让你的状况有所改变。",
+      "words": [
+        {
+          "word": "please",
+          "def": "请",
+          "ipa": "/pliːz/",
+          "eng_def": "a polite word for asking"
+        },
+        {
+          "word": "step",
+          "def": "步骤",
+          "ipa": "/step/",
+          "eng_def": "one movement of the foot; an action in a process"
+        },
+        {
+          "word": "eat",
+          "def": "吃",
+          "ipa": "/iːt/",
+          "eng_def": "to take food into the mouth and swallow it"
+        },
+        {
+          "word": "difference",
+          "def": "不同",
+          "ipa": "/ˈdɪfrəns/",
+          "eng_def": "the way in which two things are not the same"
+        },
+        {
+          "word": "condition",
+          "def": "状况",
+          "ipa": "/kənˈdɪʃən/",
+          "eng_def": "the state of something or someone"
+        }
+      ]
+    },
+    {
+      "en": "Sometimes the action to rise early is difficult for her.",
+      "zh": "有时早起这个行动对她来说很难。",
+      "words": [
+        {
+          "word": "sometimes",
+          "def": "有时",
+          "ipa": "/ˈsʌmtaɪmz/",
+          "eng_def": "at some times; not always"
+        },
+        {
+          "word": "action",
+          "def": "行动",
+          "ipa": "/ˈækʃən/",
+          "eng_def": "something that you do"
+        },
+        {
+          "word": "rise",
+          "def": "起床",
+          "ipa": "/raɪz/",
+          "eng_def": "to get up from a bed or seat"
+        },
+        {
+          "word": "difficult",
+          "def": "困难的",
+          "ipa": "/ˈdɪfɪkəlt/",
+          "eng_def": "not easy; hard to do"
+        }
+      ]
+    },
+    {
+      "en": "For more detail, she can use her phone to call me.",
+      "zh": "为了更多细节，她可以用她的手机给我打电话。",
+      "words": [
+        {
+          "word": "detail",
+          "def": "细节",
+          "ipa": "/ˈdiːteɪl/",
+          "eng_def": "a small piece of information"
+        },
+        {
+          "word": "phone",
+          "def": "手机",
+          "ipa": "/foʊn/",
+          "eng_def": "a device for talking to someone far away"
+        }
+      ]
+    },
+    {
+      "en": "They themselves can learn from each other.",
+      "zh": "他们自己可以互相学习。",
+      "words": [
+        {
+          "word": "themselves",
+          "def": "他们自己",
+          "ipa": "/ðəmˈselvz/",
+          "eng_def": "used to say that people do something alone or without help"
+        }
+      ]
+    },
+    {
+      "en": "There is no else like her in the group.",
+      "zh": "在这个团体里没有其他人像她一样。",
+      "words": [
+        {
+          "word": "else",
+          "def": "其他的",
+          "ipa": "/els/",
+          "eng_def": "in addition; different"
+        }
+      ]
+    },
+    {
+      "en": "I see a clear difference in her health now.",
+      "zh": "我现在看到她的健康状况有了明显的不同。",
+      "words": [
+        {
+          "word": "clear",
+          "def": "清晰的",
+          "ipa": "/klɪr/",
+          "eng_def": "easy to see or understand"
+        },
+        {
+          "word": "difference",
+          "def": "不同",
+          "ipa": "/ˈdɪfrəns/",
+          "eng_def": "the way in which two things are not the same"
+        },
+        {
+          "word": "health",
+          "def": "健康",
+          "ipa": "/helθ/",
+          "eng_def": "the condition of being well in body and mind"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "strong",
+      "def": "强壮的",
+      "ipa": "/strɒŋ/",
+      "eng_def": "having a lot of physical power",
+      "example": "He is strong."
+    },
+    {
+      "word": "rise",
+      "def": "起床",
+      "ipa": "/raɪz/",
+      "eng_def": "to get up from a bed or seat",
+      "example": "I rise at 6 AM."
+    },
+    {
+      "word": "girl",
+      "def": "女孩",
+      "ipa": "/ɡɜːrl/",
+      "eng_def": "a young female person",
+      "example": "The girl is happy."
+    },
+    {
+      "word": "maybe",
+      "def": "也许",
+      "ipa": "/ˈmeɪbi/",
+      "eng_def": "possibly; perhaps",
+      "example": "Maybe it is true."
+    },
+    {
+      "word": "community",
+      "def": "社区",
+      "ipa": "/kəˈmjuːnəti/",
+      "eng_def": "a group of people living in the same place",
+      "example": "Our community is small."
+    },
+    {
+      "word": "else",
+      "def": "其他的",
+      "ipa": "/els/",
+      "eng_def": "in addition; different",
+      "example": "Is there someone else?"
+    },
+    {
+      "word": "particular",
+      "def": "特定的",
+      "ipa": "/pərˈtɪkjələr/",
+      "eng_def": "specific; not general",
+      "example": "I need a particular book."
+    },
+    {
+      "word": "role",
+      "def": "角色",
+      "ipa": "/roʊl/",
+      "eng_def": "a part or job that someone does",
+      "example": "Her role is important."
+    },
+    {
+      "word": "join",
+      "def": "加入",
+      "ipa": "/dʒɔɪn/",
+      "eng_def": "to become a member of a group",
+      "example": "Please join us."
+    },
+    {
+      "word": "difficult",
+      "def": "困难的",
+      "ipa": "/ˈdɪfɪkəlt/",
+      "eng_def": "not easy; hard to do",
+      "example": "This test is difficult."
+    },
+    {
+      "word": "please",
+      "def": "请",
+      "ipa": "/pliːz/",
+      "eng_def": "a polite word for asking",
+      "example": "Please sit down."
+    },
+    {
+      "word": "detail",
+      "def": "细节",
+      "ipa": "/ˈdiːteɪl/",
+      "eng_def": "a small piece of information",
+      "example": "Tell me more detail."
+    },
+    {
+      "word": "difference",
+      "def": "不同",
+      "ipa": "/ˈdɪfrəns/",
+      "eng_def": "the way in which two things are not the same",
+      "example": "There is a big difference."
+    },
+    {
+      "word": "action",
+      "def": "行动",
+      "ipa": "/ˈækʃən/",
+      "eng_def": "something that you do",
+      "example": "This action is good."
+    },
+    {
+      "word": "health",
+      "def": "健康",
+      "ipa": "/helθ/",
+      "eng_def": "the condition of being well in body and mind",
+      "example": "Eat for good health."
+    },
+    {
+      "word": "eat",
+      "def": "吃",
+      "ipa": "/iːt/",
+      "eng_def": "to take food into the mouth and swallow it",
+      "example": "I eat an apple."
+    },
+    {
+      "word": "step",
+      "def": "步骤",
+      "ipa": "/step/",
+      "eng_def": "one movement of the foot; an action in a process",
+      "example": "Take one step."
+    },
+    {
+      "word": "true",
+      "def": "真实的",
+      "ipa": "/truː/",
+      "eng_def": "real; not false",
+      "example": "It is a true story."
+    },
+    {
+      "word": "phone",
+      "def": "手机",
+      "ipa": "/foʊn/",
+      "eng_def": "a device for talking to someone far away",
+      "example": "My phone is new."
+    },
+    {
+      "word": "themselves",
+      "def": "他们自己",
+      "ipa": "/ðəmˈselvz/",
+      "eng_def": "used to say that people do something alone or without help",
+      "example": "They do it themselves."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词的意思是“强壮的”？",
+      "question_en": "Which word means 'having a lot of physical power'?",
+      "options": [
+        "A. strong",
+        "B. weak",
+        "C. small",
+        "D. fast"
+      ],
+      "answer": 0,
+      "word": "strong"
+    },
+    {
+      "question_cn": "“社区”用英语怎么说？",
+      "question_en": "What is the English word for '社区'?",
+      "options": [
+        "A. group",
+        "B. community",
+        "C. family",
+        "D. city"
+      ],
+      "answer": 1,
+      "word": "community"
+    },
+    {
+      "question_cn": "哪个词的意思是“加入”？",
+      "question_en": "Which word means 'to become a member of a group'?",
+      "options": [
+        "A. leave",
+        "B. join",
+        "C. run",
+        "D. see"
+      ],
+      "answer": 1,
+      "word": "join"
+    },
+    {
+      "question_cn": "“difficult”的中文意思是什么？",
+      "question_en": "What is the Chinese meaning of 'difficult'?",
+      "options": [
+        "A. 容易的",
+        "B. 困难的",
+        "C. 有趣的",
+        "D. 快速的"
+      ],
+      "answer": 1,
+      "word": "difficult"
+    },
+    {
+      "question_cn": "哪个词的意思是“细节”？",
+      "question_en": "Which word means 'a small piece of information'?",
+      "options": [
+        "A. detail",
+        "B. story",
+        "C. picture",
+        "D. number"
+      ],
+      "answer": 0,
+      "word": "detail"
+    }
+  ],
+  "image_prompts": [
+    "A young girl sitting on a bench in a park, looking thoughtful, with a speech bubble saying 'This is a true story'.",
+    "The same girl trying to lift a heavy box but struggling, with a caption 'She is not strong'.",
+    "The girl walking towards a group of people holding a sign that says 'Join Us', with a question mark above her head.",
+    "A table with a large paper showing a design for a health fair, with the words 'Health Event'.",
+    "A person taking a step forward on a path, with a plate of vegetables on one side and a person looking healthier on the other side.",
+    "A girl waking up in bed early in the morning, looking tired, with a clock showing 5 AM and a thought bubble saying 'This is difficult'.",
+    "A girl holding a phone to her ear, with a speech bubble showing 'Call me for detail'.",
+    "Two people sitting together, each pointing at a book, with a caption 'They learn from each other'.",
+    "A group of people with one person highlighted and a note saying 'No one else like her'.",
+    "The same girl now smiling and running, with a chart showing her health improving over time."
+  ],
+  "_needs_review": false,
+  "_lesson_num": 14,
+  "_new_word_count": 20
+}

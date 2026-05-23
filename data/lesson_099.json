@@ -1,0 +1,499 @@
+{
+  "id": 99,
+  "title": "A City's Transformation",
+  "article_text": "A famous singer planned a big demonstration against pollution in the city. The city government had initially placed a restriction on the event because of safety concerns. The singer's foundation had already started a project to transform a steel factory into a green platform for artists. A young designer created a beautiful symbol for the movement using old furniture and cake boxes. An analyst studied the database of past events to predict the crowd size. If the demonstration had been allowed earlier, the singer would have withdrawn from the event naturally. The wound from the last protest had caused a lot of disorder in the territory. The platform's new innovation was a recycling system that reduced waste strain on the environment. The singer's new album was a symbol of hope for many people. The city's currency had been used to support the foundation's work for years.",
+  "sentences": [
+    {
+      "en": "A famous singer planned a big demonstration against pollution in the city.",
+      "zh": "一位著名歌手计划在城里举行一场反对污染的大型示威活动。",
+      "words": [
+        {
+          "word": "singer",
+          "def": "歌手",
+          "ipa": "/ˈsɪŋər/",
+          "eng_def": "a person who sings"
+        },
+        {
+          "word": "demonstration",
+          "def": "示威游行",
+          "ipa": "/ˌdɛmənˈstreɪʃən/",
+          "eng_def": "a public event where people show that they support or oppose something"
+        },
+        {
+          "word": "pollution",
+          "def": "污染",
+          "ipa": "/pəˈluːʃən/",
+          "eng_def": "dirty or harmful substances in the air, water, or land"
+        },
+        {
+          "word": "planned",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The city government had initially placed a restriction on the event because of safety concerns.",
+      "zh": "市政府最初出于安全考虑对该活动施加了限制。",
+      "words": [
+        {
+          "word": "initially",
+          "def": "最初",
+          "ipa": "/ɪˈnɪʃəli/",
+          "eng_def": "at the beginning"
+        },
+        {
+          "word": "restriction",
+          "def": "限制",
+          "ipa": "/rɪˈstrɪkʃən/",
+          "eng_def": "a rule that limits something"
+        }
+      ]
+    },
+    {
+      "en": "The singer's foundation had already started a project to transform a steel factory into a green platform for artists.",
+      "zh": "这位歌手的基金会已经启动了一个项目，将一家钢铁厂改造成一个供艺术家使用的绿色平台。",
+      "words": [
+        {
+          "word": "foundation",
+          "def": "基金会",
+          "ipa": "/faʊnˈdeɪʃən/",
+          "eng_def": "an organization that gives money to help people"
+        },
+        {
+          "word": "transform",
+          "def": "改造",
+          "ipa": "/trænsˈfɔːrm/",
+          "eng_def": "to change something completely"
+        },
+        {
+          "word": "steel",
+          "def": "钢铁",
+          "ipa": "/stiːl/",
+          "eng_def": "a strong metal made from iron"
+        },
+        {
+          "word": "platform",
+          "def": "平台",
+          "ipa": "/ˈplætfɔːrm/",
+          "eng_def": "a raised area or a place for ideas"
+        },
+        {
+          "word": "singer's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "A young designer created a beautiful symbol for the movement using old furniture and cake boxes.",
+      "zh": "一位年轻的设计师用旧家具和蛋糕盒为这场运动创造了一个美丽的象征物。",
+      "words": [
+        {
+          "word": "designer",
+          "def": "设计师",
+          "ipa": "/dɪˈzaɪnər/",
+          "eng_def": "a person who plans how things look or work"
+        },
+        {
+          "word": "symbol",
+          "def": "象征",
+          "ipa": "/ˈsɪmbəl/",
+          "eng_def": "an object or sign that represents something else"
+        },
+        {
+          "word": "furniture",
+          "def": "家具",
+          "ipa": "/ˈfɜːrnɪtʃər/",
+          "eng_def": "objects like chairs and tables used in a house"
+        },
+        {
+          "word": "cake",
+          "def": "蛋糕",
+          "ipa": "/keɪk/",
+          "eng_def": "a sweet food made from flour, eggs, and sugar"
+        },
+        {
+          "word": "boxes",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "An analyst studied the database of past events to predict the crowd size.",
+      "zh": "一位分析员研究了过往活动的数据库来预测人群规模。",
+      "words": [
+        {
+          "word": "analyst",
+          "def": "分析员",
+          "ipa": "/ˈænəlɪst/",
+          "eng_def": "a person who studies information carefully"
+        },
+        {
+          "word": "database",
+          "def": "数据库",
+          "ipa": "/ˈdeɪtəbeɪs/",
+          "eng_def": "a collection of information stored on a computer"
+        },
+        {
+          "word": "studied",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "If the demonstration had been allowed earlier, the singer would have withdrawn from the event naturally.",
+      "zh": "如果示威活动早些被允许，这位歌手自然会退出该活动。",
+      "words": [
+        {
+          "word": "withdrawn",
+          "def": "撤回/退出",
+          "ipa": "/wɪðˈdrɔːn/",
+          "eng_def": "past participle of withdraw; to take back or remove oneself"
+        },
+        {
+          "word": "earlier",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The wound from the last protest had caused a lot of disorder in the territory.",
+      "zh": "上次抗议造成的创伤在这片领土上引发了大量混乱。",
+      "words": [
+        {
+          "word": "wound",
+          "def": "伤口/创伤",
+          "ipa": "/wuːnd/",
+          "eng_def": "an injury to the body or feelings"
+        },
+        {
+          "word": "disorder",
+          "def": "混乱",
+          "ipa": "/dɪsˈɔːrdər/",
+          "eng_def": "a state of confusion or lack of order"
+        },
+        {
+          "word": "territory",
+          "def": "领土/地区",
+          "ipa": "/ˈterɪtɔːri/",
+          "eng_def": "an area of land controlled by a country or group"
+        }
+      ]
+    },
+    {
+      "en": "The platform's new innovation was a recycling system that reduced waste strain on the environment.",
+      "zh": "该平台的新创新是一个回收系统，减少了废物对环境的压力。",
+      "words": [
+        {
+          "word": "innovation",
+          "def": "创新",
+          "ipa": "/ˌɪnəˈveɪʃən/",
+          "eng_def": "a new idea or method"
+        },
+        {
+          "word": "strain",
+          "def": "压力/负担",
+          "ipa": "/streɪn/",
+          "eng_def": "a difficult situation that causes worry or pressure"
+        },
+        {
+          "word": "platform's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "recycling",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The singer's new album was a symbol of hope for many people.",
+      "zh": "这位歌手的新专辑对许多人来说是希望的象征。",
+      "words": [
+        {
+          "word": "album",
+          "def": "专辑",
+          "ipa": "/ˈælbəm/",
+          "eng_def": "a collection of songs or music released together"
+        },
+        {
+          "word": "symbol",
+          "def": "象征",
+          "ipa": "/ˈsɪmbəl/",
+          "eng_def": "an object or sign that represents something else"
+        },
+        {
+          "word": "singer's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The city's currency had been used to support the foundation's work for years.",
+      "zh": "该市的货币多年来一直被用来支持基金会的工作。",
+      "words": [
+        {
+          "word": "currency",
+          "def": "货币",
+          "ipa": "/ˈkɜːrənsi/",
+          "eng_def": "the money used in a country"
+        },
+        {
+          "word": "foundation",
+          "def": "基金会",
+          "ipa": "/faʊnˈdeɪʃən/",
+          "eng_def": "an organization that gives money to help people"
+        },
+        {
+          "word": "city's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "foundation's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "withdraw",
+      "def": "撤回/退出",
+      "ipa": "/wɪðˈdrɔː/",
+      "eng_def": "to take back or remove oneself",
+      "example": "If the demonstration had been allowed earlier, the singer would have withdrawn from the event."
+    },
+    {
+      "word": "pollution",
+      "def": "污染",
+      "ipa": "/pəˈluːʃən/",
+      "eng_def": "dirty or harmful substances in the air, water, or land",
+      "example": "A famous singer planned a big demonstration against pollution in the city."
+    },
+    {
+      "word": "disorder",
+      "def": "混乱",
+      "ipa": "/dɪsˈɔːrdər/",
+      "eng_def": "a state of confusion or lack of order",
+      "example": "The wound from the last protest had caused a lot of disorder in the territory."
+    },
+    {
+      "word": "furniture",
+      "def": "家具",
+      "ipa": "/ˈfɜːrnɪtʃər/",
+      "eng_def": "objects like chairs and tables used in a house",
+      "example": "A young designer created a beautiful symbol using old furniture and cake boxes."
+    },
+    {
+      "word": "symbol",
+      "def": "象征",
+      "ipa": "/ˈsɪmbəl/",
+      "eng_def": "an object or sign that represents something else",
+      "example": "The singer's new album was a symbol of hope for many people."
+    },
+    {
+      "word": "apartment",
+      "def": "公寓",
+      "ipa": "/əˈpɑːrtmənt/",
+      "eng_def": "a set of rooms for living in a building",
+      "example": "The designer lived in a small apartment near the factory."
+    },
+    {
+      "word": "demonstration",
+      "def": "示威游行",
+      "ipa": "/ˌdɛmənˈstreɪʃən/",
+      "eng_def": "a public event where people show that they support or oppose something",
+      "example": "A famous singer planned a big demonstration against pollution."
+    },
+    {
+      "word": "analyst",
+      "def": "分析员",
+      "ipa": "/ˈænəlɪst/",
+      "eng_def": "a person who studies information carefully",
+      "example": "An analyst studied the database of past events."
+    },
+    {
+      "word": "platform",
+      "def": "平台",
+      "ipa": "/ˈplætfɔːrm/",
+      "eng_def": "a raised area or a place for ideas",
+      "example": "The platform's new innovation was a recycling system."
+    },
+    {
+      "word": "steel",
+      "def": "钢铁",
+      "ipa": "/stiːl/",
+      "eng_def": "a strong metal made from iron",
+      "example": "The project will transform a steel factory into a green platform."
+    },
+    {
+      "word": "cake",
+      "def": "蛋糕",
+      "ipa": "/keɪk/",
+      "eng_def": "a sweet food made from flour, eggs, and sugar",
+      "example": "The designer used cake boxes to create the symbol."
+    },
+    {
+      "word": "transform",
+      "def": "改造",
+      "ipa": "/trænsˈfɔːrm/",
+      "eng_def": "to change something completely",
+      "example": "The foundation started a project to transform a steel factory."
+    },
+    {
+      "word": "wound",
+      "def": "伤口/创伤",
+      "ipa": "/wuːnd/",
+      "eng_def": "an injury to the body or feelings",
+      "example": "The wound from the last protest had caused a lot of disorder."
+    },
+    {
+      "word": "restriction",
+      "def": "限制",
+      "ipa": "/rɪˈstrɪkʃən/",
+      "eng_def": "a rule that limits something",
+      "example": "The government placed a restriction on the event."
+    },
+    {
+      "word": "foundation",
+      "def": "基金会",
+      "ipa": "/faʊnˈdeɪʃən/",
+      "eng_def": "an organization that gives money to help people",
+      "example": "The singer's foundation had started a project."
+    },
+    {
+      "word": "designer",
+      "def": "设计师",
+      "ipa": "/dɪˈzaɪnər/",
+      "eng_def": "a person who plans how things look or work",
+      "example": "A young designer created a beautiful symbol."
+    },
+    {
+      "word": "strain",
+      "def": "压力/负担",
+      "ipa": "/streɪn/",
+      "eng_def": "a difficult situation that causes worry or pressure",
+      "example": "The recycling system reduced waste strain on the environment."
+    },
+    {
+      "word": "innovation",
+      "def": "创新",
+      "ipa": "/ˌɪnəˈveɪʃən/",
+      "eng_def": "a new idea or method",
+      "example": "The platform's new innovation was a recycling system."
+    },
+    {
+      "word": "album",
+      "def": "专辑",
+      "ipa": "/ˈælbəm/",
+      "eng_def": "a collection of songs or music released together",
+      "example": "The singer's new album was a symbol of hope."
+    },
+    {
+      "word": "singer",
+      "def": "歌手",
+      "ipa": "/ˈsɪŋər/",
+      "eng_def": "a person who sings",
+      "example": "A famous singer planned a big demonstration."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "“demonstration” 最接近的中文意思是什么？",
+      "question_en": "What is the closest Chinese meaning of 'demonstration'?",
+      "options": [
+        "A. 演讲",
+        "B. 示威游行",
+        "C. 证明",
+        "D. 展示"
+      ],
+      "answer": 1,
+      "word": "demonstration"
+    },
+    {
+      "question_cn": "“transform” 在句子中的意思是什么？",
+      "question_en": "What does 'transform' mean in the sentence?",
+      "options": [
+        "A. 运输",
+        "B. 改造",
+        "C. 转移",
+        "D. 翻译"
+      ],
+      "answer": 1,
+      "word": "transform"
+    },
+    {
+      "question_cn": "“restriction” 最接近的英文定义是什么？",
+      "question_en": "What is the closest English definition of 'restriction'?",
+      "options": [
+        "A. a rule that limits something",
+        "B. a place where people live",
+        "C. a type of food",
+        "D. a feeling of happiness"
+      ],
+      "answer": 0,
+      "word": "restriction"
+    },
+    {
+      "question_cn": "“innovation” 指的是什么？",
+      "question_en": "What does 'innovation' refer to?",
+      "options": [
+        "A. 旧的事物",
+        "B. 创新",
+        "C. 破坏",
+        "D. 模仿"
+      ],
+      "answer": 1,
+      "word": "innovation"
+    },
+    {
+      "question_cn": "“analyst” 通常做什么工作？",
+      "question_en": "What does an 'analyst' usually do?",
+      "options": [
+        "A. 唱歌",
+        "B. 分析信息",
+        "C. 建造房屋",
+        "D. 售卖商品"
+      ],
+      "answer": 1,
+      "word": "analyst"
+    }
+  ],
+  "image_prompts": [
+    "A famous singer standing on a stage, holding a microphone, with a crowd of protesters holding signs against pollution in a city.",
+    "City government officials sitting around a table, discussing a paper with the word 'Restriction' on it, with a worried expression.",
+    "An old steel factory being transformed into a green platform with plants and solar panels, artists painting on walls.",
+    "A young designer smiling, holding a colorful symbol made from old furniture and cake boxes, surrounded by recycled materials.",
+    "An analyst sitting at a desk with a computer screen showing a database of past events, pointing at the screen.",
+    "A singer standing alone on an empty stage, looking sad, with a sign saying 'Event Cancelled' in the background.",
+    "A chaotic street scene with broken objects and injured people, with a sign reading 'Territory' on a map in the background.",
+    "A modern platform with a recycling machine, showing arrows reducing waste, with green trees around.",
+    "A singer holding a new album with a hopeful cover, fans cheering with happy faces.",
+    "A pile of coins and bills labeled 'Currency' being handed to a foundation building with a heart logo."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['apartment']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 99,
+  "_new_word_count": 20
+}

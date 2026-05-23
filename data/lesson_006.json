@@ -1,0 +1,454 @@
+{
+  "id": 6,
+  "title": "A Story About Control and Care",
+  "article_text": "I have a story about a product. The whole thing is almost ready, but we already have a concern. The rate of problems is low, so we do not expect a big effect. A small cause can still make us lose control. We stand here and continue our work. We care about every sort of detail. Do you ever see anything like this? We do not yet have a fall in quality. The age of the product is new. We speak with our team within the company.",
+  "sentences": [
+    {
+      "en": "I have a story about a product.",
+      "zh": "我有一个关于一个产品的故事。",
+      "words": [
+        {
+          "word": "story",
+          "def": "故事",
+          "ipa": "/ˈstɔːri/",
+          "eng_def": "a telling of events"
+        },
+        {
+          "word": "product",
+          "def": "产品",
+          "ipa": "/ˈprɒdʌkt/",
+          "eng_def": "something made or grown to sell"
+        }
+      ]
+    },
+    {
+      "en": "The whole thing is almost ready, but we already have a concern.",
+      "zh": "整个事情几乎准备好了，但我们已经有一个担忧。",
+      "words": [
+        {
+          "word": "whole",
+          "def": "整个的",
+          "ipa": "/həʊl/",
+          "eng_def": "all of something"
+        },
+        {
+          "word": "almost",
+          "def": "几乎",
+          "ipa": "/ˈɔːlməʊst/",
+          "eng_def": "not completely but very close"
+        },
+        {
+          "word": "already",
+          "def": "已经",
+          "ipa": "/ɔːlˈredi/",
+          "eng_def": "before now or before a certain time"
+        },
+        {
+          "word": "concern",
+          "def": "担忧",
+          "ipa": "/kənˈsɜːn/",
+          "eng_def": "a feeling of worry about something important"
+        },
+        {
+          "word": "ready",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The rate of problems is low, so we do not expect a big effect.",
+      "zh": "问题的比率很低，所以我们不期待大的影响。",
+      "words": [
+        {
+          "word": "rate",
+          "def": "比率",
+          "ipa": "/reɪt/",
+          "eng_def": "the speed, level, or amount of something"
+        },
+        {
+          "word": "low",
+          "def": "低的",
+          "ipa": "/ləʊ/",
+          "eng_def": "not high; small in amount"
+        },
+        {
+          "word": "expect",
+          "def": "期待",
+          "ipa": "/ɪkˈspekt/",
+          "eng_def": "to think that something will happen"
+        },
+        {
+          "word": "effect",
+          "def": "影响",
+          "ipa": "/ɪˈfekt/",
+          "eng_def": "a change that happens because of something"
+        }
+      ]
+    },
+    {
+      "en": "A small cause can still make us lose control.",
+      "zh": "一个小小的原因仍然可能让我们失去控制。",
+      "words": [
+        {
+          "word": "cause",
+          "def": "原因",
+          "ipa": "/kɔːz/",
+          "eng_def": "the reason something happens"
+        },
+        {
+          "word": "lose",
+          "def": "失去",
+          "ipa": "/luːz/",
+          "eng_def": "to no longer have something"
+        },
+        {
+          "word": "control",
+          "def": "控制",
+          "ipa": "/kənˈtrəʊl/",
+          "eng_def": "the power to make decisions or direct something"
+        }
+      ]
+    },
+    {
+      "en": "We stand here and continue our work.",
+      "zh": "我们站在这里并继续我们的工作。",
+      "words": [
+        {
+          "word": "stand",
+          "def": "站立",
+          "ipa": "/stænd/",
+          "eng_def": "to be on your feet"
+        },
+        {
+          "word": "continue",
+          "def": "继续",
+          "ipa": "/kənˈtɪnjuː/",
+          "eng_def": "to keep doing something without stopping"
+        }
+      ]
+    },
+    {
+      "en": "We care about every sort of detail.",
+      "zh": "我们在意每一种细节。",
+      "words": [
+        {
+          "word": "care",
+          "def": "在意",
+          "ipa": "/keər/",
+          "eng_def": "to feel that something is important"
+        },
+        {
+          "word": "sort",
+          "def": "种类",
+          "ipa": "/sɔːt/",
+          "eng_def": "a type or kind of something"
+        },
+        {
+          "word": "detail",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Do you ever see anything like this?",
+      "zh": "你曾经见过像这样的任何东西吗？",
+      "words": [
+        {
+          "word": "ever",
+          "def": "曾经",
+          "ipa": "/ˈevər/",
+          "eng_def": "at any time"
+        },
+        {
+          "word": "anything",
+          "def": "任何东西",
+          "ipa": "/ˈeniθɪŋ/",
+          "eng_def": "any thing at all"
+        }
+      ]
+    },
+    {
+      "en": "We do not yet have a fall in quality.",
+      "zh": "我们还没有质量上的下降。",
+      "words": [
+        {
+          "word": "yet",
+          "def": "还",
+          "ipa": "/jet/",
+          "eng_def": "up to now; still"
+        },
+        {
+          "word": "fall",
+          "def": "下降",
+          "ipa": "/fɔːl/",
+          "eng_def": "a drop to a lower level"
+        },
+        {
+          "word": "quality",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The age of the product is new.",
+      "zh": "这个产品的年龄是新的。",
+      "words": [
+        {
+          "word": "age",
+          "def": "年龄",
+          "ipa": "/eɪdʒ/",
+          "eng_def": "the amount of time something has existed"
+        }
+      ]
+    },
+    {
+      "en": "We speak with our team within the company.",
+      "zh": "我们在公司内部与我们的团队交谈。",
+      "words": [
+        {
+          "word": "speak",
+          "def": "说话",
+          "ipa": "/spiːk/",
+          "eng_def": "to talk"
+        },
+        {
+          "word": "within",
+          "def": "在...之内",
+          "ipa": "/wɪˈðɪn/",
+          "eng_def": "inside a place or area"
+        },
+        {
+          "word": "team",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "control",
+      "def": "控制",
+      "ipa": "/kənˈtrəʊl/",
+      "eng_def": "the power to make decisions or direct something",
+      "example": "We need to keep control of the process."
+    },
+    {
+      "word": "already",
+      "def": "已经",
+      "ipa": "/ɔːlˈredi/",
+      "eng_def": "before now or before a certain time",
+      "example": "I already finished my work."
+    },
+    {
+      "word": "concern",
+      "def": "担忧",
+      "ipa": "/kənˈsɜːn/",
+      "eng_def": "a feeling of worry about something important",
+      "example": "Her concern is for the children."
+    },
+    {
+      "word": "product",
+      "def": "产品",
+      "ipa": "/ˈprɒdʌkt/",
+      "eng_def": "something made or grown to sell",
+      "example": "This product is new in the store."
+    },
+    {
+      "word": "lose",
+      "def": "失去",
+      "ipa": "/luːz/",
+      "eng_def": "to no longer have something",
+      "example": "Do not lose your keys."
+    },
+    {
+      "word": "story",
+      "def": "故事",
+      "ipa": "/ˈstɔːri/",
+      "eng_def": "a telling of events",
+      "example": "She tells a good story."
+    },
+    {
+      "word": "almost",
+      "def": "几乎",
+      "ipa": "/ˈɔːlməʊst/",
+      "eng_def": "not completely but very close",
+      "example": "It is almost time to go."
+    },
+    {
+      "word": "continue",
+      "def": "继续",
+      "ipa": "/kənˈtɪnjuː/",
+      "eng_def": "to keep doing something without stopping",
+      "example": "Please continue your work."
+    },
+    {
+      "word": "stand",
+      "def": "站立",
+      "ipa": "/stænd/",
+      "eng_def": "to be on your feet",
+      "example": "We stand in line for tickets."
+    },
+    {
+      "word": "whole",
+      "def": "整个的",
+      "ipa": "/həʊl/",
+      "eng_def": "all of something",
+      "example": "The whole class is here."
+    },
+    {
+      "word": "yet",
+      "def": "还",
+      "ipa": "/jet/",
+      "eng_def": "up to now; still",
+      "example": "He is not here yet."
+    },
+    {
+      "word": "rate",
+      "def": "比率",
+      "ipa": "/reɪt/",
+      "eng_def": "the speed, level, or amount of something",
+      "example": "The rate of growth is fast."
+    },
+    {
+      "word": "care",
+      "def": "在意",
+      "ipa": "/keər/",
+      "eng_def": "to feel that something is important",
+      "example": "I care about my family."
+    },
+    {
+      "word": "expect",
+      "def": "期待",
+      "ipa": "/ɪkˈspekt/",
+      "eng_def": "to think that something will happen",
+      "example": "I expect a call from you."
+    },
+    {
+      "word": "effect",
+      "def": "影响",
+      "ipa": "/ɪˈfekt/",
+      "eng_def": "a change that happens because of something",
+      "example": "The medicine has a good effect."
+    },
+    {
+      "word": "sort",
+      "def": "种类",
+      "ipa": "/sɔːt/",
+      "eng_def": "a type or kind of something",
+      "example": "What sort of food do you like?"
+    },
+    {
+      "word": "ever",
+      "def": "曾经",
+      "ipa": "/ˈevər/",
+      "eng_def": "at any time",
+      "example": "Have you ever been there?"
+    },
+    {
+      "word": "anything",
+      "def": "任何东西",
+      "ipa": "/ˈeniθɪŋ/",
+      "eng_def": "any thing at all",
+      "example": "I do not want anything."
+    },
+    {
+      "word": "cause",
+      "def": "原因",
+      "ipa": "/kɔːz/",
+      "eng_def": "the reason something happens",
+      "example": "What is the cause of the problem?"
+    },
+    {
+      "word": "fall",
+      "def": "下降",
+      "ipa": "/fɔːl/",
+      "eng_def": "a drop to a lower level",
+      "example": "There is a fall in temperature."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "下列哪个词的意思是“期待”？",
+      "question_en": "Which word means 'to think that something will happen'?",
+      "options": [
+        "A. expect",
+        "B. control",
+        "C. concern",
+        "D. effect"
+      ],
+      "answer": 0,
+      "word": "expect"
+    },
+    {
+      "question_cn": "“几乎”的英文是哪个？",
+      "question_en": "Which word means 'not completely but very close'?",
+      "options": [
+        "A. already",
+        "B. whole",
+        "C. almost",
+        "D. yet"
+      ],
+      "answer": 2,
+      "word": "almost"
+    },
+    {
+      "question_cn": "“原因”的英文是哪个？",
+      "question_en": "Which word means 'the reason something happens'?",
+      "options": [
+        "A. sort",
+        "B. cause",
+        "C. effect",
+        "D. rate"
+      ],
+      "answer": 1,
+      "word": "cause"
+    },
+    {
+      "question_cn": "“任何东西”的英文是哪个？",
+      "question_en": "Which word means 'any thing at all'?",
+      "options": [
+        "A. anything",
+        "B. ever",
+        "C. story",
+        "D. product"
+      ],
+      "answer": 0,
+      "word": "anything"
+    },
+    {
+      "question_cn": "“继续”的英文是哪个？",
+      "question_en": "Which word means 'to keep doing something without stopping'?",
+      "options": [
+        "A. stand",
+        "B. continue",
+        "C. care",
+        "D. lose"
+      ],
+      "answer": 1,
+      "word": "continue"
+    }
+  ],
+  "image_prompts": [
+    "A person holding a product and smiling, with a thought bubble showing a story symbol.",
+    "A large object almost complete, with a clock showing 'already' and a worried face icon.",
+    "A graph with low rate of problems, and a person looking calmly at a small effect icon.",
+    "A small matchstick causing a big fire, with a person losing control of a steering wheel.",
+    "A person standing firmly and continuing to paint a wall.",
+    "A magnifying glass over different sorts of details, with a heart icon for care.",
+    "A person looking at a box with a question mark, asking 'ever seen anything like this?'",
+    "A quality chart with no fall, and a calendar showing 'yet'.",
+    "A baby product with a label 'new age'.",
+    "A team sitting in a circle speaking, with a company building icon in the background."
+  ],
+  "_needs_review": false,
+  "_lesson_num": 6,
+  "_new_word_count": 20
+}

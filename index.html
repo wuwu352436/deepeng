@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 <title>DeepEng 英语学习 - 原型</title>
 <script src="data.js"></script>
+<script src="word_defs.js"></script>
 <style>
 :root {
   --primary: #4F46E5;
@@ -64,6 +65,20 @@ body.fs-open { overflow: hidden; overscroll-behavior: none; }
 .sentence-item.show-zh .zh { display: block; }
 .sentence-item .sid { position: absolute; top: 8px; right: 12px; font-size: 11px; color: var(--text-muted); font-weight: 600; }
 .progress-text { text-align: center; font-size: 13px; color: var(--text-muted); margin-bottom: 12px; }
+
+/* Click-to-reveal Chinese */
+.zh-reveal { display: inline; }
+.zh-reveal .zh-content { display: none; }
+.zh-reveal .zh-content.revealed,
+.zh-reveal.revealed .zh-content { display: inline; }
+.zh-reveal-btn {
+  display: inline-block; padding: 0 5px; font-size: 11px; line-height: 1.5;
+  border: 1px solid var(--border); border-radius: 3px; background: transparent;
+  color: var(--text-muted); cursor: pointer; vertical-align: middle; margin-left: 4px;
+  font-family: inherit; transition: all .15s;
+}
+.zh-reveal-btn:hover { background: var(--primary-bg); color: var(--primary); border-color: var(--primary); }
+.zh-reveal.revealed .zh-reveal-btn { display: none; }
 
 /* 盲听 (Blind Listening) */
 .blind-mode { text-align: center; }
@@ -201,8 +216,11 @@ body.fs-open { overflow: hidden; overscroll-behavior: none; }
 .repeat-image-placeholder { width: 100%; max-height: 240px; border-radius: var(--radius); object-fit: cover; margin-bottom: 16px; display: flex !important; align-items: center; justify-content: center; background: linear-gradient(135deg, #EEF2FF, #E0E7FF); color: #9CA3AF; font-size: 64px; }
 .sentence-with-img .sent-text { flex: 1; min-width: 0; }
 .sentence-with-img .sent-text .en { font-size: 17px; font-weight: 500; margin-bottom: 2px; line-height: 1.5; }
-.sentence-with-img .sent-text .zh { font-size: 13px; color: var(--text-muted); display: none; }
-.sentence-with-img.show-zh .sent-text .zh { display: block; }
+.sentence-with-img .sent-text .zh-reveal { display: inline; }
+.sentence-with-img .sent-text .zh-reveal .zh-content { font-size: 13px; color: var(--text-muted); display: none; }
+.sentence-with-img .sent-text .zh-reveal.revealed .zh-content,
+.sentence-with-img.show-zh .sent-text .zh-reveal .zh-content { display: inline; }
+.sentence-with-img.show-zh .sent-text .zh-reveal .zh-reveal-btn { display: none; }
 .sentence-with-img .sid { font-size: 11px; color: var(--text-muted); font-weight: 600; white-space: nowrap; }
 .status-bar { display: flex; justify-content: space-between; padding: 8px 0; font-size: 12px; color: var(--text-muted); }
 .fullscreen-toggle-btn { display: block; width: 100%; padding: 10px; margin-bottom: 12px; border: 2px dashed var(--primary); border-radius: var(--radius); background: transparent; color: var(--primary); font-size: 15px; font-weight: 600; cursor: pointer; text-align: center; transition: all .2s; }
@@ -223,6 +241,11 @@ body.fs-open { overflow: hidden; overscroll-behavior: none; }
 .reading-fullscreen .fullscreen-sentence { font-size: clamp(22px, 5vw, 32px); font-weight: 600; line-height: 1.6; text-align: center; padding: 0 8px; transition: all .3s; max-width: 500px; }
 .reading-fullscreen .fullscreen-sentence-zh { font-size: clamp(16px, 3.5vw, 22px); color: var(--text-muted); margin-top: 12px; text-align: center; max-width: 500px; display: none; }
 .reading-fullscreen .fullscreen-sentence-zh.show { display: block; }
+.reading-fullscreen .fullscreen-sentence-zh .zh-reveal { display: inline; }
+.reading-fullscreen .fullscreen-sentence-zh .zh-content { display: none; }
+.reading-fullscreen .fullscreen-sentence-zh.show .zh-content,
+.reading-fullscreen .fullscreen-sentence-zh .zh-content.revealed { display: inline; }
+.reading-fullscreen .fullscreen-sentence-zh.show .zh-reveal-btn { display: none; }
 .reading-fullscreen .fullscreen-footer { padding: 12px 16px 20px; border-top: 1px solid var(--border); background: var(--card-bg); }
 .reading-fullscreen .fullscreen-progress-dots { display: flex; justify-content: center; gap: 6px; margin-bottom: 12px; flex-wrap: wrap; }
 .reading-fullscreen .fullscreen-dot { width: 10px; height: 10px; border-radius: 50%; background: var(--border); transition: all .3s; }
@@ -553,7 +576,7 @@ body.fs-open { overflow: hidden; overscroll-behavior: none; }
       <img class="repeat-image" id="repeatImage" src="" alt="" onerror="this.style.display='none'">
       <div class="repeat-visual">
         <div class="repeat-sentence" id="repeatSentence">—</div>
-        <div class="repeat-zh" id="repeatZh">—</div>
+        <div class="repeat-zh" id="repeatZh"><span class="zh-reveal"><button class="zh-reveal-btn" onclick="revealZh(this)">中</button><span class="zh-content" id="repeatZhContent">—</span></span></div>
         <div class="repeat-listening hidden" id="repeatListening"><span class="listening-dot"></span>播放中...</div>
       </div>
       <div class="repeat-controls">
@@ -630,7 +653,7 @@ body.fs-open { overflow: hidden; overscroll-behavior: none; }
 <!-- 全屏翻页阅读 (Fullscreen Page Turn) -->
 <div class="reading-fullscreen hidden" id="fullscreenPanel">
   <div class="fullscreen-header">
-    <button class="back-btn" onclick="exitFullscreen()">✕</button>
+    <button class="back-btn" onclick="closeReadingPanel()">✕</button>
     <span class="title-text" id="fullscreenTitle">课文阅读</span>
     <button class="toggle-zh-btn" id="fullscreenZhBtn" onclick="toggleFullscreenZh()">中文</button>
   </div>
@@ -644,7 +667,7 @@ body.fs-open { overflow: hidden; overscroll-behavior: none; }
       <img class="fullscreen-img" id="fullscreenImg" src="" alt="" onerror="this.style.display='none'">
     </div>
     <div class="fullscreen-sentence" id="fullscreenSentence"></div>
-    <div class="fullscreen-sentence-zh" id="fullscreenSentenceZh"></div>
+    <div class="fullscreen-sentence-zh" id="fullscreenSentenceZh"><span class="zh-reveal"><button class="zh-reveal-btn" onclick="revealZh(this)">中</button><span class="zh-content" id="fullscreenZhContent"></span></span></div>
   </div>
   <div class="fullscreen-footer">
     <div class="fullscreen-progress-dots" id="fullscreenDots"></div>
@@ -710,8 +733,23 @@ let repeatPaused = false;
 // Quiz state
 let quizState = { current: 0, answers: [], done: false };
 
+// Click-to-reveal Chinese: hides zh content behind a button
+function revealZh(btn) {
+  btn.parentElement.classList.add('revealed');
+}
+
 // ============== Init ==============
 function init() {
+  // Normalize quiz answer fields (JSON stores numeric indices as strings)
+  LESSONS.forEach(lesson => {
+    if (lesson.questions) {
+      lesson.questions.forEach(q => {
+        if (typeof q.answer === 'string' && /^\d+$/.test(q.answer)) {
+          q.answer = parseInt(q.answer, 10);
+        }
+      });
+    }
+  });
   renderLessonSelector();
   selectLesson(0);
   bindTabs();
@@ -730,19 +768,28 @@ function renderLessonSelector() {
   });
 }
 
-function selectLesson(idx) {
+async function selectLesson(idx) {
   currentLesson = idx;
   const btns = document.querySelectorAll('.lesson-btn');
   btns.forEach(b => b.classList.toggle('active', parseInt(b.dataset.idx) === idx));
   // Scroll active lesson button into view
   const activeBtn = document.querySelector('.lesson-btn.active');
   if (activeBtn) activeBtn.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
+
+  // Lazy-load lesson data if not yet loaded
+  document.querySelector('.logo').textContent = `DeepEng · L${LESSONS[idx].id}`;
+  if (!LESSONS[idx]._loaded) {
+    document.querySelector('.logo').textContent = `DeepEng · L${LESSONS[idx].id} 加载中...`;
+    await ensureLessonLoaded(idx);
+  }
+
   const lesson = LESSONS[idx];
   document.querySelector('.logo').textContent = `DeepEng · L${lesson.id} ${lesson.title}`;
   resetAllModes();
   renderReading();
   renderIntensive();
   renderQuiz();
+  preloadLessonAudio();
   switchTab(currentTab);
 }
 
@@ -788,27 +835,40 @@ function switchTab(tab) {
 
 // ============== Audio Helpers ==============
 function getAudioUrl(path) {
-  // Paths are relative to workspace root
   return path;
+}
+
+/** Determine the correct audio file extension for a given lesson */
+function audioExt(lessonNum) {
+  // All lessons now use ChatTTS-generated WAV files at 16kHz
+  return '.wav';
 }
 
 function playArticleAudio(onTimeUpdate) {
   const lesson = LESSONS[currentLesson];
-  if (!lesson.audio_full) return;
-  
-  // Stop any sentence audio before playing article audio
+
   cancelSentenceAudio();
-  
   if (articleAudio) { articleAudio.pause(); articleAudio = null; }
-  
+
   const playBtn = document.getElementById('readingPlayBtn');
   playBtn.textContent = '⏳';
   playBtn.disabled = true;
-  
-  articleAudio = new Audio(getAudioUrl(lesson.audio_full));
+
+  // Auto-correct extension for WAV lessons
+  const lessonNum = currentLesson + 1;
+  let audioPath = lesson.audio_full;
+  if (audioPath) {
+    if (lessonNum <= 5) {
+      audioPath = audioPath.replace(/\.mp3$/, '.wav');
+    }
+  } else {
+    audioPath = `audio/lesson_${String(lessonNum).padStart(2, '0')}/full.wav`;
+  }
+
+  articleAudio = new Audio(getAudioUrl(audioPath));
   articleAudio.preload = 'auto';
-  articleAudio.playbackRate = 1.0; // Natural speed — ChatTTS already outputs natural pace
-  
+  articleAudio.playbackRate = 1.0;
+
   articleAudio.addEventListener('timeupdate', () => {
     if (onTimeUpdate) onTimeUpdate(articleAudio.currentTime, articleAudio.duration);
   });
@@ -817,14 +877,13 @@ function playArticleAudio(onTimeUpdate) {
     playBtn.textContent = '▶';
     playBtn.disabled = false;
   });
-  
-  // Wait for audio to buffer before playing
+
   const playTimeout = setTimeout(() => {
     playBtn.textContent = '▶';
     playBtn.disabled = false;
     showToast('⏳ 音频较大，请稍后再试');
   }, 15000);
-  
+
   articleAudio.addEventListener('canplaythrough', () => {
     clearTimeout(playTimeout);
     if (articleAudio) {
@@ -838,10 +897,9 @@ function playArticleAudio(onTimeUpdate) {
       });
     }
   }, { once: true });
-  
+
   articleAudio.load();
-  
-  // If already loaded (cached), trigger canplaythrough immediately
+
   if (articleAudio.readyState >= 4) {
     articleAudio.dispatchEvent(new Event('canplaythrough'));
   }
@@ -872,7 +930,7 @@ let _pendingPlay = null;
 
 /**
  * Play individual sentence audio using playbackRate for speed control.
- * Always uses the normal audio file — no separate slow files needed.
+ * Always uses individual sentence audio file.
  * @param {number} idx - Sentence index (0-based)
  * @param {boolean} isSlow - Deprecated, kept for backward compat; speedMultiplier preferred
  * @param {function} onEnded - Optional callback when audio finishes
@@ -883,61 +941,75 @@ function playSentence(idx, isSlow, onEnded, speedMultiplier) {
   const s = lesson.sentences[idx];
   if (!s) return;
 
-  // Cancel any pending play (prevent overlap)
-  if (_pendingPlay) {
-    clearTimeout(_pendingPlay._timer);
-    _pendingPlay._cancelled = true;
-    _pendingPlay = null;
-  }
-  if (window._sentenceAudio) {
-    window._sentenceAudio.pause();
-    window._sentenceAudio.onended = null;
-    window._sentenceAudio.src = '';
-    window._sentenceAudio.load();
-    window._sentenceAudio = null;
-  }
+  // Cancel any pending play
+  cancelSentenceAudio();
 
   const lessonNum = String(currentLesson + 1).padStart(2, '0');
   const sentNum = String(idx + 1).padStart(2, '0');
 
-  // If speedMultiplier is provided, use playbackRate on the normal audio
-  // Otherwise, fall back to isSlow for backward compatibility
   const speed = speedMultiplier !== undefined ? speedMultiplier : (isSlow ? 0.7 : 1.0);
-  const audioPath = `audio/lesson_${lessonNum}/sentence_${sentNum}_normal.mp3`;
+  const ext = audioExt(currentLesson + 1);
+  const audioPath = `audio/lesson_${lessonNum}/sentence_${sentNum}_normal${ext}`;
 
-  const audio = new Audio(getAudioUrl(audioPath));
+  // Try to play the audio. On failure, attempt fallback extensions.
+  tryPlayAudio(audioPath, speed, onEnded, 0, lesson);
+}
+
+/** Internal: try loading audio at given path, fallback to other extensions on error */
+function tryPlayAudio(path, speed, onEnded, attempt, lesson) {
+  const audio = new Audio(getAudioUrl(path));
   window._sentenceAudio = audio;
   audio.preload = 'auto';
 
-  // Loading timeout: if audio doesn't start within 8s, show toast and notify callback
-  const playOp = { _cancelled: false, _timer: null };
+  const playOp = { _cancelled: false };
   _pendingPlay = playOp;
+
+  const done = (errMsg) => {
+    if (playOp._cancelled) return;
+    if (errMsg) showToast(errMsg);
+    if (typeof onEnded === 'function') onEnded();
+  };
 
   audio.oncanplaythrough = () => {
     if (playOp._cancelled) return;
     audio.playbackRate = speed;
-    audio.onended = onEnded || null;
-    audio.play().catch(() => {
-      if (playOp._cancelled) return;
-      showToast('⚠️ 音频加载失败，请检查网络');
-      if (typeof onEnded === 'function') onEnded();
-    });
+    if (onEnded) audio.onended = onEnded;
+    audio.play().catch(() => done('⚠️ 播放失败，请点击重试'));
   };
+
   audio.onerror = () => {
     if (playOp._cancelled) return;
-    showToast('⚠️ 音频文件缺失');
-    if (typeof onEnded === 'function') onEnded();
+    // Try fallback extension on first attempt
+    if (attempt === 0) {
+      const altExt = path.endsWith('.wav') ? '.mp3' : '.wav';
+      const altPath = path.replace(/\.(wav|mp3)$/, altExt);
+      if (altPath !== path) {
+        tryPlayAudio(altPath, speed, onEnded, 1, lesson);
+        return;
+      }
+    }
+    done('⚠️ 音频文件缺失');
   };
 
-  // Load the audio
   audio.load();
 
-  // Safety timeout
-  playOp._timer = setTimeout(() => {
+  // Safety timeout: longer for slow connections (15s)
+  const timer = setTimeout(() => {
     if (playOp._cancelled) return;
-    showToast('⏳ 音频加载较慢，请稍后再试');
-    if (typeof onEnded === 'function') onEnded();
-  }, 8000);
+    // If audio hasn't loaded by now, try fallback extension or report error
+    if (attempt === 0) {
+      const altExt = path.endsWith('.wav') ? '.mp3' : '.wav';
+      const altPath = path.replace(/\.(wav|mp3)$/, altExt);
+      if (altPath !== path) {
+        clearTimeout(timer);
+        tryPlayAudio(altPath, speed, onEnded, 1, lesson);
+        return;
+      }
+    }
+    done('⏳ 音频加载超时，请检查网络');
+  }, 15000);
+
+  playOp._timer = timer;
 }
 
 /** Cancel any playing/cued sentence audio */
@@ -962,6 +1034,39 @@ function cancelSentenceAudio() {
   }
 }
 
+// ============== Audio Pre-loading ==============
+const _preloadedAudios = {};
+/**
+ * Pre-load all sentence audio files for the current lesson.
+ * Uses Audio element with preload='auto' to start buffering.
+ */
+function preloadLessonAudio() {
+  const lesson = LESSONS[currentLesson];
+  if (!lesson || !lesson.sentences) return;
+
+  // Clear any old preloaded audio objects
+  for (const key in _preloadedAudios) {
+    if (!key.startsWith(`${currentLesson}_`)) {
+      const a = _preloadedAudios[key];
+      if (a) { a.src = ''; a.load(); }
+      delete _preloadedAudios[key];
+    }
+  }
+
+  const lessonNum = currentLesson + 1;
+  const ext = audioExt(lessonNum);
+  lesson.sentences.forEach((s, i) => {
+    const key = `${currentLesson}_${i}`;
+    if (_preloadedAudios[key]) return; // already cached
+    const sentNum = String(i + 1).padStart(2, '0');
+    const path = `audio/lesson_${String(lessonNum).padStart(2, '0')}/sentence_${sentNum}_normal${ext}`;
+    const audio = new Audio(getAudioUrl(path));
+    audio.preload = 'auto';
+    audio.load();
+    _preloadedAudios[key] = audio;
+  });
+}
+
 // ============== 课文 Reading ==============
 function renderReading() {
   const lesson = LESSONS[currentLesson];
@@ -978,7 +1083,7 @@ function renderReading() {
         </span>
         <div class="sent-text">
           <div class="en">${s.en}</div>
-          <div class="zh">${s.zh}</div>
+          <div class="zh-reveal"><button class="zh-reveal-btn" onclick="event.stopPropagation();revealZh(this)">中</button><span class="zh-content">${s.zh}</span></div>
         </div>
         <span class="sid">${s.id}</span>
       </li>
@@ -1030,6 +1135,22 @@ function enterFullscreen(idx) {
   playFullscreenAudio();
 }
 
+function closeReadingPanel() {
+  document.getElementById('fullscreenPanel').classList.add('hidden');
+  document.body.classList.remove('fs-open');
+
+  // Stop audio
+  if (window._sentenceAudio) {
+    window._sentenceAudio.pause();
+    window._sentenceAudio.onended = null;
+    window._sentenceAudio = null;
+  }
+  if (fullscreenState.autoPlayTimer) {
+    clearTimeout(fullscreenState.autoPlayTimer);
+    fullscreenState.autoPlayTimer = null;
+  }
+}
+
 function exitFullscreen() {
   document.getElementById('fullscreenPanel').classList.add('hidden');
   document.body.classList.remove('fs-open');
@@ -1050,6 +1171,8 @@ function toggleFullscreenZh() {
   fullscreenState.showZh = !fullscreenState.showZh;
   const zhEl = document.getElementById('fullscreenSentenceZh');
   zhEl.classList.toggle('show', fullscreenState.showZh);
+  const reveal = zhEl.querySelector('.zh-reveal');
+  if (fullscreenState.showZh) reveal.classList.add('revealed');
   document.getElementById('fullscreenZhBtn').classList.toggle('active', fullscreenState.showZh);
 }
 
@@ -1083,9 +1206,11 @@ function renderFullscreenPage(direction) {
 
   // Sentence text
   document.getElementById('fullscreenSentence').textContent = s.en;
-  document.getElementById('fullscreenSentenceZh').textContent = s.zh;
+  document.getElementById('fullscreenZhContent').textContent = s.zh;
   const zhEl = document.getElementById('fullscreenSentenceZh');
+  const zhReveal = zhEl.querySelector('.zh-reveal');
   zhEl.classList.toggle('show', fullscreenState.showZh);
+  zhReveal.classList.toggle('revealed', fullscreenState.showZh);
 
   // Page number
   document.getElementById('fullscreenPageNum').innerHTML = `第 ${idx+1}/${fullscreenState.total} 句`;
@@ -1169,7 +1294,7 @@ document.addEventListener('keydown', (e) => {
     e.preventDefault();
     pageTurn(1);
   } else if (e.key === 'Escape') {
-    exitFullscreen();
+    closeReadingPanel();
   } else if (e.key === 'c' || e.key === 'C') {
     toggleFullscreenZh();
   }
@@ -1795,8 +1920,34 @@ function renderIntensive() {
           }
         }
       }
-      const engDef = found ? (found.eng_def || '') : '';
+      // Fallback: try expanded word definitions
+      if (!found) {
+        for (const c of candidates) {
+          if (WORD_DEFS[c]) {
+            found = WORD_DEFS[c];
+            break;
+          }
+        }
+      }
+      let engDef = found ? (found.eng_def || '') : '';
       const chnDef = found ? (found.def || '') : '';
+      // If word was found in lesson data but has no eng_def, try COMMON_WORDS then WORD_DEFS
+      if (!engDef && found) {
+        for (const c of candidates) {
+          if (COMMON_WORDS[c] && COMMON_WORDS[c].eng_def) {
+            engDef = COMMON_WORDS[c].eng_def;
+            break;
+          }
+        }
+      }
+      if (!engDef) {
+        for (const c of candidates) {
+          if (WORD_DEFS[c] && WORD_DEFS[c].eng_def) {
+            engDef = WORD_DEFS[c].eng_def;
+            break;
+          }
+        }
+      }
       // Escape for onclick attr safely
       const safeWord = cleanWord.replace(/'/g, "\\'");
       const safeChn = chnDef.replace(/'/g, "\\'");
@@ -1807,6 +1958,7 @@ function renderIntensive() {
     return `
       <div class="intensive-sentence" onclick="playIntensiveSentence(${i})">
         <div class="en">${tokens.join('')}</div>
+        <div style="margin-top:4px;font-size:13px;"><span class="zh-reveal"><button class="zh-reveal-btn" onclick="event.stopPropagation();revealZh(this)">中</button><span class="zh-content" style="color:var(--text-muted);">${s.zh}</span></span></div>
       </div>
     `;
   }).join('');
@@ -1846,16 +1998,16 @@ function showWordPopup(event, word, chineseDef, engDef, sentenceIdx) {
   popupIpa.textContent = '';
   popupIpa.style.display = 'none';
   
-  // Show definitions
+  // Show definitions: English (NGSL-based) first, Chinese secondary
   let defHtml = '';
-  if (chineseDef) {
-    defHtml += `<div style="font-size:18px;font-weight:600;color:var(--text);margin-bottom:4px;">${chineseDef}</div>`;
-  }
   if (engDef) {
-    defHtml += `<div style="font-size:14px;color:var(--text-muted);line-height:1.5;">${engDef}</div>`;
+    defHtml += `<div style="font-size:15px;color:var(--text-muted);line-height:1.5;margin-bottom:6px;">${engDef}</div>`;
   }
-  if (!chineseDef && !engDef) {
-    defHtml = '<div style="font-size:14px;color:var(--text-muted);">暂未收录该词释义</div>';
+  if (chineseDef) {
+    defHtml += `<div style="margin-top:6px;"><span class="zh-reveal"><button class="zh-reveal-btn" onclick="revealZh(this)">中</button><span class="zh-content" style="font-size:18px;font-weight:600;color:var(--text);">${chineseDef}</span></span></div>`;
+  }
+  if (!engDef && !chineseDef) {
+    defHtml = '<div style="font-size:14px;color:var(--text-muted);">No definition available</div>';
   }
   popupDef.innerHTML = defHtml;
   
@@ -1877,8 +2029,21 @@ function showWordPopup(event, word, chineseDef, engDef, sentenceIdx) {
   playBtn.textContent = '🔊 朗读单词';
 }
 
-/** Pronounce a single word using browser TTS (always female voice) */
+/** Pronounce a single word.
+ * Uses ChatTTS server (seed=3 female voice) if configured,
+ * falls back to Web Speech API (female voice lookup). */
 function pronounceWord(word) {
+  const config = getAIConfig();
+  const ttsUrl = config && config.ttsServerUrl;
+
+  if (ttsUrl) {
+    // Mode 1: ChatTTS server — consistent seed=3 female voice
+    cancelSentenceAudio();
+    speakViaServer(word, ttsUrl);
+    return;
+  }
+
+  // Mode 2: Web Speech API fallback
   if (!window.speechSynthesis) return;
   window.speechSynthesis.cancel();
 
@@ -1892,16 +2057,13 @@ function pronounceWord(word) {
     utter.voice = enFemale;
     utter.pitch = 1.0;
   } else if (window.speechSynthesis.getVoices().length === 0) {
-    // Voices not loaded yet — retry on voiceschanged
     const onReady = () => {
       window.speechSynthesis.onvoiceschanged = null;
       pronounceWord(word);
     };
     window.speechSynthesis.onvoiceschanged = onReady;
-    // Fallback: slight pitch boost for more natural sound
     utter.pitch = 1.1;
   } else {
-    // No female voice available — use slight pitch boost
     utter.pitch = 1.1;
   }
 
@@ -1974,7 +2136,7 @@ function renderRepeat() {
   };
 
   document.getElementById('repeatSentence').textContent = s.en;
-  document.getElementById('repeatZh').textContent = s.zh;
+  document.getElementById('repeatZhContent').textContent = s.zh;
   document.getElementById('repeatListening').classList.add('hidden');
   document.getElementById('repeatListenBtn').disabled = false;
   document.getElementById('repeatPauseBtn').classList.remove('hidden');
@@ -2001,35 +2163,12 @@ function repeatPlayCurrentSentence() {
 
   // Show listening indicator
   document.getElementById('repeatListening').classList.remove('hidden');
-  
-  // Stop any existing audio
-  if (window._sentenceAudio) {
-    window._sentenceAudio.pause();
-    window._sentenceAudio.onended = null;
-  }
-  
-  playSentence(idx, false);
-  
-  // Listen for end & pause events to hide indicator
-  const checkEnded = setInterval(() => {
-    if (!window._sentenceAudio || window._sentenceAudio.paused) {
-      document.getElementById('repeatListening').classList.add('hidden');
-      clearInterval(checkEnded);
-    }
-  }, 500);
-  
-  // Set onended on the sentence audio
-  if (window._sentenceAudio) {
-    const origEnded = window._sentenceAudio.onended;
-    window._sentenceAudio.onended = () => {
-      document.getElementById('repeatListening').classList.add('hidden');
-      if (origEnded) origEnded();
-    };
-  }
-  
-  repeatPaused = false;
-  document.getElementById('repeatPauseBtn').classList.add('playing');
-  document.getElementById('repeatPauseBtn').textContent = '⏸';
+
+  // playSentence now handles cleanup via cancelSentenceAudio()
+  // Pass a callback to hide the listening indicator when done
+  playSentence(idx, false, () => {
+    document.getElementById('repeatListening').classList.add('hidden');
+  });
 }
 
 /** Toggle pause/resume for sentence audio */
@@ -2306,7 +2445,7 @@ function renderQuiz() {
     <div class="quiz-score">
       <span class="big">${quizState.answers.length}</span><span class="total"> / ${questions.length}</span>
     </div>
-    <div class="quiz-question">${q.question}</div>
+    <div class="quiz-question">${q.question_en || ''} <span class="zh-reveal"><button class="zh-reveal-btn" onclick="revealZh(this)">中</button><span class="zh-content">${q.question_cn}</span></span></div>
     <div id="quizOptions">
       ${q.options.map((opt, i) => `
         <button class="quiz-option" data-opt="${i}" onclick="answerQuiz(${i})">${String.fromCharCode(65+i)}. ${opt}</button>
@@ -2319,24 +2458,25 @@ function renderQuiz() {
 function answerQuiz(idx) {
   const lesson = LESSONS[currentLesson];
   const q = lesson.questions[quizState.current];
-  const isCorrect = q.options[idx] === q.answer || idx === q.answer;
-  
+  // Normalize answer: data stores numeric indices as strings
+  const ansIdx = typeof q.answer === 'number' ? q.answer : parseInt(q.answer, 10);
+  const isCorrect = (!isNaN(ansIdx) && ansIdx === idx) || q.options[idx] === q.answer;
+
   // Disable all options
   document.querySelectorAll('.quiz-option').forEach(btn => {
     btn.disabled = true;
     const optIdx = parseInt(btn.dataset.opt);
-    if (q.options[optIdx] === q.answer || optIdx === q.answer) btn.classList.add('correct');
+    const isAns = (!isNaN(ansIdx) && ansIdx === optIdx) || q.options[optIdx] === q.answer;
+    if (isAns) btn.classList.add('correct');
     if (optIdx === idx && !isCorrect) btn.classList.add('wrong');
   });
-  
+
   // Show feedback
   const feedback = document.getElementById('quizFeedback');
   feedback.classList.remove('hidden');
-  
+
   // Find the original sentence that contains the answer
-  const answerText = q.options.length === 4 
-    ? (typeof q.answer === 'number' ? q.options[q.answer] : q.answer)
-    : q.options[idx];
+  const answerText = !isNaN(ansIdx) && q.options[ansIdx] ? q.options[ansIdx] : q.options[idx];
   
   // Simple scoring
   quizState.answers.push(isCorrect);
@@ -3049,7 +3189,13 @@ document.getElementById('aiChatSendBtn').addEventListener('click', sendAIMessage
 
 updateSettingsBtn();
 
-document.addEventListener('DOMContentLoaded', init);
+document.addEventListener('DOMContentLoaded', function waitForLessons() {
+  if (window._lessonsReady) {
+    init();
+  } else {
+    window._pendingInit = init;
+  }
+});
 
 // bfcache安全网：微信浏览器前进后退时可能恢复旧状态
 // 确保body滚动总是可用的

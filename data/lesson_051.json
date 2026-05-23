@@ -1,0 +1,490 @@
+{
+  "id": 51,
+  "title": "A New Island Home",
+  "article_text": "My neighbor is an artist who drew a map of the island. The entire north of the island is a forest, and a senior man lives there. We need a good introduction to the concept of our project. The requirement for the trip is to confirm our flight before we leave. We will refuse to use any transport that harms the environment. A crowd will emerge from the forest to watch the football game. Neither my friend nor I can solve the problem of the old conflict. We must survive on this island and reform our old habits. The photo shows the presence of a beautiful beach on the left. Everyone should help each other to survive, and that is the entire truth.",
+  "sentences": [
+    {
+      "en": "My neighbor is an artist who drew a map of the island.",
+      "zh": "我的邻居是一位艺术家，他画了一张这个岛的地图。",
+      "words": [
+        {
+          "word": "neighbor",
+          "def": "邻居",
+          "ipa": "/ˈneɪbər/",
+          "eng_def": "a person who lives near you"
+        },
+        {
+          "word": "artist",
+          "def": "艺术家",
+          "ipa": "/ˈɑːrtɪst/",
+          "eng_def": "a person who creates art"
+        },
+        {
+          "word": "map",
+          "def": "地图",
+          "ipa": "/mæp/",
+          "eng_def": "a picture that shows places"
+        },
+        {
+          "word": "island",
+          "def": "岛",
+          "ipa": "/ˈaɪlənd/",
+          "eng_def": "land with water all around it"
+        },
+        {
+          "word": "drew",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The entire north of the island is a forest, and a senior man lives there.",
+      "zh": "岛的整个北部是一片森林，一位年长的老人住在那里。",
+      "words": [
+        {
+          "word": "entire",
+          "def": "整个的",
+          "ipa": "/ɪnˈtaɪər/",
+          "eng_def": "all of something"
+        },
+        {
+          "word": "north",
+          "def": "北方",
+          "ipa": "/nɔːrθ/",
+          "eng_def": "the direction opposite to south"
+        },
+        {
+          "word": "senior",
+          "def": "年长的",
+          "ipa": "/ˈsiːniər/",
+          "eng_def": "older in age"
+        },
+        {
+          "word": "forest",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "We need a good introduction to the concept of our project.",
+      "zh": "我们需要对我们的项目概念做一个好的介绍。",
+      "words": [
+        {
+          "word": "introduction",
+          "def": "介绍",
+          "ipa": "/ˌɪntrəˈdʌkʃən/",
+          "eng_def": "the act of making something known for the first time"
+        },
+        {
+          "word": "concept",
+          "def": "概念",
+          "ipa": "/ˈkɑːnsept/",
+          "eng_def": "an idea or thought"
+        }
+      ]
+    },
+    {
+      "en": "The requirement for the trip is to confirm our flight before we leave.",
+      "zh": "这次旅行的要求是我们在离开前确认航班。",
+      "words": [
+        {
+          "word": "requirement",
+          "def": "要求",
+          "ipa": "/rɪˈkwaɪərmənt/",
+          "eng_def": "something that is needed"
+        },
+        {
+          "word": "confirm",
+          "def": "确认",
+          "ipa": "/kənˈfɜːrm/",
+          "eng_def": "to say that something is true or correct"
+        },
+        {
+          "word": "flight",
+          "def": "航班",
+          "ipa": "/flaɪt/",
+          "eng_def": "a trip by airplane"
+        },
+        {
+          "word": "left",
+          "def": "离开（leave的过去式）",
+          "ipa": "/left/",
+          "eng_def": "past tense of leave; went away from"
+        }
+      ]
+    },
+    {
+      "en": "We will refuse to use any transport that harms the environment.",
+      "zh": "我们将拒绝使用任何危害环境的交通工具。",
+      "words": [
+        {
+          "word": "refuse",
+          "def": "拒绝",
+          "ipa": "/rɪˈfjuːz/",
+          "eng_def": "to say no to something"
+        },
+        {
+          "word": "transport",
+          "def": "交通工具",
+          "ipa": "/ˈtrænspɔːrt/",
+          "eng_def": "a way of moving people or things from one place to another"
+        },
+        {
+          "word": "harms",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "A crowd will emerge from the forest to watch the football game.",
+      "zh": "一群人将从森林里出来观看足球比赛。",
+      "words": [
+        {
+          "word": "crowd",
+          "def": "人群",
+          "ipa": "/kraʊd/",
+          "eng_def": "a large group of people"
+        },
+        {
+          "word": "emerge",
+          "def": "出现",
+          "ipa": "/ɪˈmɜːrdʒ/",
+          "eng_def": "to come out from a place"
+        },
+        {
+          "word": "football",
+          "def": "足球",
+          "ipa": "/ˈfʊtbɔːl/",
+          "eng_def": "a game with a round ball that players kick"
+        },
+        {
+          "word": "forest",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Neither my friend nor I can solve the problem of the old conflict.",
+      "zh": "我和我的朋友都无法解决这个旧冲突的问题。",
+      "words": [
+        {
+          "word": "neither",
+          "def": "两者都不",
+          "ipa": "/ˈniːðər/",
+          "eng_def": "not one and not the other"
+        },
+        {
+          "word": "solve",
+          "def": "解决",
+          "ipa": "/sɑːlv/",
+          "eng_def": "to find an answer to a problem"
+        },
+        {
+          "word": "conflict",
+          "def": "冲突",
+          "ipa": "/ˈkɑːnflɪkt/",
+          "eng_def": "a disagreement or fight"
+        }
+      ]
+    },
+    {
+      "en": "We must survive on this island and reform our old habits.",
+      "zh": "我们必须在这个岛上生存下来，并改革我们的旧习惯。",
+      "words": [
+        {
+          "word": "survive",
+          "def": "生存",
+          "ipa": "/sərˈvaɪv/",
+          "eng_def": "to continue to live"
+        },
+        {
+          "word": "reform",
+          "def": "改革",
+          "ipa": "/rɪˈfɔːrm/",
+          "eng_def": "to change something to make it better"
+        },
+        {
+          "word": "habits",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The photo shows the presence of a beautiful beach on the left.",
+      "zh": "这张照片显示左边有一个美丽的海滩。",
+      "words": [
+        {
+          "word": "photo",
+          "def": "照片",
+          "ipa": "/ˈfoʊtoʊ/",
+          "eng_def": "a picture made with a camera"
+        },
+        {
+          "word": "presence",
+          "def": "存在",
+          "ipa": "/ˈprezəns/",
+          "eng_def": "the state of being in a place"
+        },
+        {
+          "word": "left",
+          "def": "左边的",
+          "ipa": "/left/",
+          "eng_def": "the side that is opposite of right"
+        },
+        {
+          "word": "beach",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Everyone should help each other to survive, and that is the entire truth.",
+      "zh": "每个人都应该互相帮助以求生存，这就是全部真相。",
+      "words": [
+        {
+          "word": "survive",
+          "def": "生存",
+          "ipa": "/sərˈvaɪv/",
+          "eng_def": "to continue to live"
+        },
+        {
+          "word": "entire",
+          "def": "整个的",
+          "ipa": "/ɪnˈtaɪər/",
+          "eng_def": "all of something"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "introduction",
+      "def": "介绍",
+      "ipa": "/ˌɪntrəˈdʌkʃən/",
+      "eng_def": "the act of making something known for the first time",
+      "example": "We need a good introduction to the concept of our project."
+    },
+    {
+      "word": "requirement",
+      "def": "要求",
+      "ipa": "/rɪˈkwaɪərmənt/",
+      "eng_def": "something that is needed",
+      "example": "The requirement for the trip is to confirm our flight."
+    },
+    {
+      "word": "north",
+      "def": "北方",
+      "ipa": "/nɔːrθ/",
+      "eng_def": "the direction opposite to south",
+      "example": "The entire north of the island is a forest."
+    },
+    {
+      "word": "confirm",
+      "def": "确认",
+      "ipa": "/kənˈfɜːrm/",
+      "eng_def": "to say that something is true or correct",
+      "example": "We must confirm our flight before we leave."
+    },
+    {
+      "word": "senior",
+      "def": "年长的",
+      "ipa": "/ˈsiːniər/",
+      "eng_def": "older in age",
+      "example": "A senior man lives in the north of the island."
+    },
+    {
+      "word": "photo",
+      "def": "照片",
+      "ipa": "/ˈfoʊtoʊ/",
+      "eng_def": "a picture made with a camera",
+      "example": "The photo shows a beautiful beach."
+    },
+    {
+      "word": "refuse",
+      "def": "拒绝",
+      "ipa": "/rɪˈfjuːz/",
+      "eng_def": "to say no to something",
+      "example": "We will refuse to use bad transport."
+    },
+    {
+      "word": "transport",
+      "def": "交通工具",
+      "ipa": "/ˈtrænspɔːrt/",
+      "eng_def": "a way of moving people or things from one place to another",
+      "example": "We will not use harmful transport."
+    },
+    {
+      "word": "emerge",
+      "def": "出现",
+      "ipa": "/ɪˈmɜːrdʒ/",
+      "eng_def": "to come out from a place",
+      "example": "A crowd will emerge from the forest."
+    },
+    {
+      "word": "map",
+      "def": "地图",
+      "ipa": "/mæp/",
+      "eng_def": "a picture that shows places",
+      "example": "My neighbor drew a map of the island."
+    },
+    {
+      "word": "concept",
+      "def": "概念",
+      "ipa": "/ˈkɑːnsept/",
+      "eng_def": "an idea or thought",
+      "example": "We need to understand the concept of our project."
+    },
+    {
+      "word": "island",
+      "def": "岛",
+      "ipa": "/ˈaɪlənd/",
+      "eng_def": "land with water all around it",
+      "example": "We must survive on this island."
+    },
+    {
+      "word": "reform",
+      "def": "改革",
+      "ipa": "/rɪˈfɔːrm/",
+      "eng_def": "to change something to make it better",
+      "example": "We must reform our old habits."
+    },
+    {
+      "word": "neither",
+      "def": "两者都不",
+      "ipa": "/ˈniːðər/",
+      "eng_def": "not one and not the other",
+      "example": "Neither my friend nor I can solve the problem."
+    },
+    {
+      "word": "football",
+      "def": "足球",
+      "ipa": "/ˈfʊtbɔːl/",
+      "eng_def": "a game with a round ball that players kick",
+      "example": "They will watch the football game."
+    },
+    {
+      "word": "survive",
+      "def": "生存",
+      "ipa": "/sərˈvaɪv/",
+      "eng_def": "to continue to live",
+      "example": "We must survive on this island."
+    },
+    {
+      "word": "flight",
+      "def": "航班",
+      "ipa": "/flaɪt/",
+      "eng_def": "a trip by airplane",
+      "example": "We need to confirm our flight."
+    },
+    {
+      "word": "left",
+      "def": "左边的；离开（leave的过去式）",
+      "ipa": "/left/",
+      "eng_def": "the side opposite of right; past tense of leave",
+      "example": "The beach is on the left. We left the city."
+    },
+    {
+      "word": "solve",
+      "def": "解决",
+      "ipa": "/sɑːlv/",
+      "eng_def": "to find an answer to a problem",
+      "example": "We must solve the problem of the conflict."
+    },
+    {
+      "word": "neighbor",
+      "def": "邻居",
+      "ipa": "/ˈneɪbər/",
+      "eng_def": "a person who lives near you",
+      "example": "My neighbor is an artist."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "“要求”用英语怎么说？",
+      "question_en": "How do you say '要求' in English?",
+      "options": [
+        "A. requirement",
+        "B. introduction",
+        "C. concept",
+        "D. reform"
+      ],
+      "answer": 0,
+      "word": "requirement"
+    },
+    {
+      "question_cn": "哪个词的意思是“出现”？",
+      "question_en": "Which word means 'to come out from a place'?",
+      "options": [
+        "A. emerge",
+        "B. survive",
+        "C. refuse",
+        "D. confirm"
+      ],
+      "answer": 0,
+      "word": "emerge"
+    },
+    {
+      "question_cn": "“年长的”对应的英语单词是？",
+      "question_en": "What is the English word for '年长的'?",
+      "options": [
+        "A. senior",
+        "B. neighbor",
+        "C. entire",
+        "D. left"
+      ],
+      "answer": 0,
+      "word": "senior"
+    },
+    {
+      "question_cn": "哪个词的意思是“解决”？",
+      "question_en": "Which word means 'to find an answer to a problem'?",
+      "options": [
+        "A. solve",
+        "B. reform",
+        "C. survive",
+        "D. refuse"
+      ],
+      "answer": 0,
+      "word": "solve"
+    },
+    {
+      "question_cn": "“两者都不”用英语怎么说？",
+      "question_en": "How do you say '两者都不' in English?",
+      "options": [
+        "A. neither",
+        "B. north",
+        "C. neighbor",
+        "D. concept"
+      ],
+      "answer": 0,
+      "word": "neither"
+    }
+  ],
+  "image_prompts": [
+    "An artist neighbor drawing a map of an island on a table.",
+    "A forest covering the entire north part of an island, with an old man walking.",
+    "A person giving an introduction about a project concept to a group.",
+    "A person checking a flight ticket on a phone before leaving home.",
+    "A person refusing to use a smoky bus, pointing to a clean bicycle.",
+    "A crowd of people coming out of a forest to watch a football match on a field.",
+    "Two people thinking hard, with a picture of a conflict between two groups on a wall.",
+    "People building a small shelter on an island, throwing away old bad habits.",
+    "A photo showing a beautiful beach on the left side of the frame.",
+    "People helping each other on an island, with a bright sun and a sign saying 'truth'."
+  ],
+  "_needs_review": false,
+  "_lesson_num": 51,
+  "_new_word_count": 20
+}

@@ -1,0 +1,588 @@
+{
+  "id": 55,
+  "title": "A Pleasure Trip to the Beach",
+  "article_text": "It is a great pleasure to visit the beach with my family. I have a suggestion for our trip: we should gather some flowers for a gift. The weather is critical for a good day at the beach. We mostly enjoy the sand and the sun. The earth feels warm under our feet. Pop music from a radio helps create a fun mood. Sunscreen is essential to protect our skin. I have a strong desire to swim in the sea. To promote our fun day, we take many photos. My father currently employs a new path to the beach. The topic of our conversation is the beautiful flowers. The beach always attracts many visitors. We engage in games and laugh a lot. The ocean is powerful and makes big waves. A crisis happens when we lose our bag. We use our strength to find it. We connect with other families who help us. The cultural scheme of the area is very interesting. We arrange our things and enjoy the day. This trip is a wonderful experience.",
+  "sentences": [
+    {
+      "en": "It is a great pleasure to visit the beach with my family.",
+      "zh": "和家人一起去海滩游玩是一种极大的乐趣。",
+      "words": [
+        {
+          "word": "pleasure",
+          "def": "快乐；乐趣",
+          "ipa": "/ˈplɛʒər/",
+          "eng_def": "a feeling of happiness or enjoyment"
+        },
+        {
+          "word": "beach",
+          "def": "海滩",
+          "ipa": "/biːtʃ/",
+          "eng_def": "a sandy or pebbly area next to the sea"
+        }
+      ]
+    },
+    {
+      "en": "I have a suggestion for our trip: we should gather some flowers for a gift.",
+      "zh": "我对我们的旅行有一个建议：我们应该采一些花作为礼物。",
+      "words": [
+        {
+          "word": "suggestion",
+          "def": "建议",
+          "ipa": "/səˈdʒɛstʃən/",
+          "eng_def": "an idea or plan that someone gives"
+        },
+        {
+          "word": "gather",
+          "def": "收集；采集",
+          "ipa": "/ˈɡæðər/",
+          "eng_def": "to come together or collect things"
+        },
+        {
+          "word": "flower",
+          "def": "花",
+          "ipa": "/ˈflaʊər/",
+          "eng_def": "the part of a plant that is often colorful and has a smell"
+        },
+        {
+          "word": "flowers",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "gift",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The weather is critical for a good day at the beach.",
+      "zh": "天气对于在海滩上度过美好一天至关重要。",
+      "words": [
+        {
+          "word": "critical",
+          "def": "至关重要的",
+          "ipa": "/ˈkrɪtɪkəl/",
+          "eng_def": "very important; necessary for success"
+        }
+      ]
+    },
+    {
+      "en": "We mostly enjoy the sand and the sun.",
+      "zh": "我们主要享受沙滩和阳光。",
+      "words": [
+        {
+          "word": "mostly",
+          "def": "主要地；大部分",
+          "ipa": "/ˈmoʊstli/",
+          "eng_def": "almost all; mainly"
+        },
+        {
+          "word": "sand",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "sun",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The earth feels warm under our feet.",
+      "zh": "我们脚下的泥土感觉很温暖。",
+      "words": [
+        {
+          "word": "earth",
+          "def": "泥土；地球",
+          "ipa": "/ɜːrθ/",
+          "eng_def": "the ground; the planet we live on"
+        },
+        {
+          "word": "feet",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Pop music from a radio helps create a fun mood.",
+      "zh": "收音机里的流行音乐有助于营造有趣的氛围。",
+      "words": [
+        {
+          "word": "pop",
+          "def": "流行音乐",
+          "ipa": "/pɒp/",
+          "eng_def": "popular music that many people like"
+        },
+        {
+          "word": "mood",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Sunscreen is essential to protect our skin.",
+      "zh": "防晒霜对于保护我们的皮肤是必不可少的。",
+      "words": [
+        {
+          "word": "essential",
+          "def": "必不可少的",
+          "ipa": "/ɪˈsɛnʃəl/",
+          "eng_def": "very important; needed"
+        },
+        {
+          "word": "sunscreen",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "skin",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I have a strong desire to swim in the sea.",
+      "zh": "我非常渴望在海里游泳。",
+      "words": [
+        {
+          "word": "desire",
+          "def": "渴望；愿望",
+          "ipa": "/dɪˈzaɪər/",
+          "eng_def": "a strong wish to have or do something"
+        },
+        {
+          "word": "swim",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "To promote our fun day, we take many photos.",
+      "zh": "为了宣传我们有趣的一天，我们拍了很多照片。",
+      "words": [
+        {
+          "word": "promote",
+          "def": "宣传；促进",
+          "ipa": "/prəˈmoʊt/",
+          "eng_def": "to help something become more popular or successful"
+        }
+      ]
+    },
+    {
+      "en": "My father currently employs a new path to the beach.",
+      "zh": "我父亲目前使用一条新路径去海滩。",
+      "words": [
+        {
+          "word": "currently",
+          "def": "目前",
+          "ipa": "/ˈkɜːrəntli/",
+          "eng_def": "at this time; now"
+        },
+        {
+          "word": "employ",
+          "def": "使用；雇用",
+          "ipa": "/ɪmˈplɔɪ/",
+          "eng_def": "to use something; to give work to someone"
+        },
+        {
+          "word": "path",
+          "def": "小路；路径",
+          "ipa": "/pɑːθ/",
+          "eng_def": "a way or track for walking"
+        },
+        {
+          "word": "employs",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The topic of our conversation is the beautiful flowers.",
+      "zh": "我们谈话的主题是那些美丽的花。",
+      "words": [
+        {
+          "word": "topic",
+          "def": "话题；主题",
+          "ipa": "/ˈtɒpɪk/",
+          "eng_def": "a subject that people talk or write about"
+        },
+        {
+          "word": "flowers",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The beach always attracts many visitors.",
+      "zh": "海滩总是吸引许多游客。",
+      "words": [
+        {
+          "word": "attract",
+          "def": "吸引",
+          "ipa": "/əˈtrækt/",
+          "eng_def": "to make someone come near or be interested"
+        },
+        {
+          "word": "attracts",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "visitors",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "We engage in games and laugh a lot.",
+      "zh": "我们参与游戏，笑得很开心。",
+      "words": [
+        {
+          "word": "engage",
+          "def": "参与；从事",
+          "ipa": "/ɪnˈɡeɪdʒ/",
+          "eng_def": "to take part in an activity"
+        }
+      ]
+    },
+    {
+      "en": "The ocean is powerful and makes big waves.",
+      "zh": "海洋很强大，能掀起大浪。",
+      "words": [
+        {
+          "word": "powerful",
+          "def": "强大的",
+          "ipa": "/ˈpaʊərfəl/",
+          "eng_def": "having a lot of strength or force"
+        },
+        {
+          "word": "ocean",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "A crisis happens when we lose our bag.",
+      "zh": "当我们丢失了包时，危机发生了。",
+      "words": [
+        {
+          "word": "crisis",
+          "def": "危机",
+          "ipa": "/ˈkraɪsɪs/",
+          "eng_def": "a very difficult or dangerous situation"
+        }
+      ]
+    },
+    {
+      "en": "We use our strength to find it.",
+      "zh": "我们用力气找到它。",
+      "words": [
+        {
+          "word": "strength",
+          "def": "力量；力气",
+          "ipa": "/strɛŋkθ/",
+          "eng_def": "the quality of being physically strong"
+        }
+      ]
+    },
+    {
+      "en": "We connect with other families who help us.",
+      "zh": "我们与其他帮助我们家庭联系。",
+      "words": [
+        {
+          "word": "connect",
+          "def": "联系；连接",
+          "ipa": "/kəˈnɛkt/",
+          "eng_def": "to join or link together"
+        },
+        {
+          "word": "families",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The cultural scheme of the area is very interesting.",
+      "zh": "这个地区的文化规划非常有趣。",
+      "words": [
+        {
+          "word": "cultural",
+          "def": "文化的",
+          "ipa": "/ˈkʌltʃərəl/",
+          "eng_def": "relating to the customs and beliefs of a group"
+        },
+        {
+          "word": "scheme",
+          "def": "计划；方案",
+          "ipa": "/skiːm/",
+          "eng_def": "a plan or system for doing something"
+        }
+      ]
+    },
+    {
+      "en": "We arrange our things and enjoy the day.",
+      "zh": "我们整理好自己的物品，享受这一天。",
+      "words": [
+        {
+          "word": "arrange",
+          "def": "整理；安排",
+          "ipa": "/əˈreɪndʒ/",
+          "eng_def": "to put things in order; to plan something"
+        }
+      ]
+    },
+    {
+      "en": "This trip is a wonderful experience.",
+      "zh": "这次旅行是一次美妙的经历。",
+      "words": []
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "pleasure",
+      "def": "快乐；乐趣",
+      "ipa": "/ˈplɛʒər/",
+      "eng_def": "a feeling of happiness or enjoyment",
+      "example": "It is a great pleasure to visit the beach with my family."
+    },
+    {
+      "word": "suggestion",
+      "def": "建议",
+      "ipa": "/səˈdʒɛstʃən/",
+      "eng_def": "an idea or plan that someone gives",
+      "example": "I have a suggestion for our trip: we should gather some flowers for a gift."
+    },
+    {
+      "word": "critical",
+      "def": "至关重要的",
+      "ipa": "/ˈkrɪtɪkəl/",
+      "eng_def": "very important; necessary for success",
+      "example": "The weather is critical for a good day at the beach."
+    },
+    {
+      "word": "gather",
+      "def": "收集；采集",
+      "ipa": "/ˈɡæðər/",
+      "eng_def": "to come together or collect things",
+      "example": "I have a suggestion for our trip: we should gather some flowers for a gift."
+    },
+    {
+      "word": "mostly",
+      "def": "主要地；大部分",
+      "ipa": "/ˈmoʊstli/",
+      "eng_def": "almost all; mainly",
+      "example": "We mostly enjoy the sand and the sun."
+    },
+    {
+      "word": "earth",
+      "def": "泥土；地球",
+      "ipa": "/ɜːrθ/",
+      "eng_def": "the ground; the planet we live on",
+      "example": "The earth feels warm under our feet."
+    },
+    {
+      "word": "pop",
+      "def": "流行音乐",
+      "ipa": "/pɒp/",
+      "eng_def": "popular music that many people like",
+      "example": "Pop music from a radio helps create a fun mood."
+    },
+    {
+      "word": "essential",
+      "def": "必不可少的",
+      "ipa": "/ɪˈsɛnʃəl/",
+      "eng_def": "very important; needed",
+      "example": "Sunscreen is essential to protect our skin."
+    },
+    {
+      "word": "desire",
+      "def": "渴望；愿望",
+      "ipa": "/dɪˈzaɪər/",
+      "eng_def": "a strong wish to have or do something",
+      "example": "I have a strong desire to swim in the sea."
+    },
+    {
+      "word": "promote",
+      "def": "宣传；促进",
+      "ipa": "/prəˈmoʊt/",
+      "eng_def": "to help something become more popular or successful",
+      "example": "To promote our fun day, we take many photos."
+    },
+    {
+      "word": "currently",
+      "def": "目前",
+      "ipa": "/ˈkɜːrəntli/",
+      "eng_def": "at this time; now",
+      "example": "My father currently employs a new path to the beach."
+    },
+    {
+      "word": "employ",
+      "def": "使用；雇用",
+      "ipa": "/ɪmˈplɔɪ/",
+      "eng_def": "to use something; to give work to someone",
+      "example": "My father currently employs a new path to the beach."
+    },
+    {
+      "word": "path",
+      "def": "小路；路径",
+      "ipa": "/pɑːθ/",
+      "eng_def": "a way or track for walking",
+      "example": "My father currently employs a new path to the beach."
+    },
+    {
+      "word": "topic",
+      "def": "话题；主题",
+      "ipa": "/ˈtɒpɪk/",
+      "eng_def": "a subject that people talk or write about",
+      "example": "The topic of our conversation is the beautiful flowers."
+    },
+    {
+      "word": "beach",
+      "def": "海滩",
+      "ipa": "/biːtʃ/",
+      "eng_def": "a sandy or pebbly area next to the sea",
+      "example": "It is a great pleasure to visit the beach with my family."
+    },
+    {
+      "word": "attract",
+      "def": "吸引",
+      "ipa": "/əˈtrækt/",
+      "eng_def": "to make someone come near or be interested",
+      "example": "The beach always attracts many visitors."
+    },
+    {
+      "word": "engage",
+      "def": "参与；从事",
+      "ipa": "/ɪnˈɡeɪdʒ/",
+      "eng_def": "to take part in an activity",
+      "example": "We engage in games and laugh a lot."
+    },
+    {
+      "word": "powerful",
+      "def": "强大的",
+      "ipa": "/ˈpaʊərfəl/",
+      "eng_def": "having a lot of strength or force",
+      "example": "The ocean is powerful and makes big waves."
+    },
+    {
+      "word": "flower",
+      "def": "花",
+      "ipa": "/ˈflaʊər/",
+      "eng_def": "the part of a plant that is often colorful and has a smell",
+      "example": "I have a suggestion for our trip: we should gather some flowers for a gift."
+    },
+    {
+      "word": "crisis",
+      "def": "危机",
+      "ipa": "/ˈkraɪsɪs/",
+      "eng_def": "a very difficult or dangerous situation",
+      "example": "A crisis happens when we lose our bag."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "“pleasure” 最接近的中文意思是什么？",
+      "question_en": "What is the closest Chinese meaning of 'pleasure'?",
+      "options": [
+        "A. 痛苦",
+        "B. 快乐",
+        "C. 愤怒",
+        "D. 悲伤"
+      ],
+      "answer": 1,
+      "word": "pleasure"
+    },
+    {
+      "question_cn": "“critical” 在句子 “The weather is critical” 中的意思是什么？",
+      "question_en": "What does 'critical' mean in the sentence 'The weather is critical'?",
+      "options": [
+        "A. 批评的",
+        "B. 有趣的",
+        "C. 至关重要的",
+        "D. 简单的"
+      ],
+      "answer": 2,
+      "word": "critical"
+    },
+    {
+      "question_cn": "“attract” 的意思是？",
+      "question_en": "What does 'attract' mean?",
+      "options": [
+        "A. 推开",
+        "B. 吸引",
+        "C. 忽略",
+        "D. 害怕"
+      ],
+      "answer": 1,
+      "word": "attract"
+    },
+    {
+      "question_cn": "“crisis” 指的是什么？",
+      "question_en": "What does 'crisis' refer to?",
+      "options": [
+        "A. 节日",
+        "B. 危机",
+        "C. 礼物",
+        "D. 游戏"
+      ],
+      "answer": 1,
+      "word": "crisis"
+    },
+    {
+      "question_cn": "“essential” 最合适的中文翻译是？",
+      "question_en": "What is the best Chinese translation for 'essential'?",
+      "options": [
+        "A. 可选的",
+        "B. 不必要的",
+        "C. 必不可少的",
+        "D. 有趣的"
+      ],
+      "answer": 2,
+      "word": "essential"
+    }
+  ],
+  "image_prompts": [
+    "A family walking happily on a sunny beach, smiling and holding hands.",
+    "A person picking colorful flowers from a field near the beach.",
+    "A bright sky with clouds and a sun, with a family checking the weather on a phone.",
+    "Children playing in the sand and lying in the sun on a beach.",
+    "Feet standing on warm brown earth with small pebbles.",
+    "A portable radio playing pop music on a beach towel.",
+    "A hand applying sunscreen on a child's arm at the beach.",
+    "A person looking excitedly at the sea, ready to swim.",
+    "A person taking a photo of the beach with a camera.",
+    "A father walking on a new dirt path leading to the beach, with trees around."
+  ],
+  "_validation_errors": [
+    "Expected 10 sentences, got 20"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 55,
+  "_new_word_count": 20
+}

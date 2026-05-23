@@ -1,0 +1,490 @@
+{
+  "id": 59,
+  "title": "A Strange Concert",
+  "article_text": "I went to a concert last week, and the location was near a big stone building. An actor performed on stage, and I was glad to see him. He sang a song about a murder in a city, which was opposite to the happy music I usually hear. A soldier in the audience began to blow a loud whistle, which increased the volume of the noise. I hate it when people do that at a show. The actor stopped and asked the soldier to proceed with his experiment, which was a strange request. I need to monitor the situation carefully, because the soldier might invest in a new finance plan. A sum of money was on the table, and I had to wash my hands before touching it. I like eggs, whereas my friend hates them, so we had a small problem. I will tape the whole event for later consideration.",
+  "sentences": [
+    {
+      "en": "I went to a concert last week, and the location was near a big stone building.",
+      "zh": "我上周去了一场音乐会，地点靠近一栋大石头建筑。",
+      "words": [
+        {
+          "word": "concert",
+          "def": "音乐会",
+          "ipa": "/ˈkɒnsərt/",
+          "eng_def": "a public performance of music"
+        },
+        {
+          "word": "location",
+          "def": "地点；位置",
+          "ipa": "/loʊˈkeɪʃən/",
+          "eng_def": "a place where something is or happens"
+        },
+        {
+          "word": "stone",
+          "def": "石头",
+          "ipa": "/stoʊn/",
+          "eng_def": "a hard, solid material found in the ground"
+        },
+        {
+          "word": "went",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "An actor performed on stage, and I was glad to see him.",
+      "zh": "一位演员在舞台上表演，我很高兴见到他。",
+      "words": [
+        {
+          "word": "actor",
+          "def": "演员",
+          "ipa": "/ˈæktər/",
+          "eng_def": "a person who performs in plays or movies"
+        },
+        {
+          "word": "glad",
+          "def": "高兴的",
+          "ipa": "/ɡlæd/",
+          "eng_def": "feeling happy or pleased"
+        }
+      ]
+    },
+    {
+      "en": "He sang a song about a murder in a city, which was opposite to the happy music I usually hear.",
+      "zh": "他唱了一首关于城市里谋杀案的歌，这与我通常听到的快乐音乐相反。",
+      "words": [
+        {
+          "word": "murder",
+          "def": "谋杀",
+          "ipa": "/ˈmɜːrdər/",
+          "eng_def": "the crime of killing someone"
+        },
+        {
+          "word": "opposite",
+          "def": "相反的；对面的",
+          "ipa": "/ˈɑːpəzɪt/",
+          "eng_def": "completely different; facing"
+        },
+        {
+          "word": "sang",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "A soldier in the audience began to blow a loud whistle, which increased the volume of the noise.",
+      "zh": "观众席上的一名士兵开始吹响响亮的哨子，增加了噪音的音量。",
+      "words": [
+        {
+          "word": "soldier",
+          "def": "士兵",
+          "ipa": "/ˈsoʊldʒər/",
+          "eng_def": "a person who serves in an army"
+        },
+        {
+          "word": "blow",
+          "def": "吹",
+          "ipa": "/bloʊ/",
+          "eng_def": "to push air out of the mouth"
+        },
+        {
+          "word": "volume",
+          "def": "音量；容量",
+          "ipa": "/ˈvɑːljuːm/",
+          "eng_def": "the loudness of a sound; the amount of space"
+        },
+        {
+          "word": "began",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "loud",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "whistle",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "noise",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I hate it when people do that at a show.",
+      "zh": "我讨厌人们在演出时那样做。",
+      "words": [
+        {
+          "word": "hate",
+          "def": "讨厌；恨",
+          "ipa": "/heɪt/",
+          "eng_def": "to strongly dislike something or someone"
+        }
+      ]
+    },
+    {
+      "en": "The actor stopped and asked the soldier to proceed with his experiment, which was a strange request.",
+      "zh": "演员停下来，让士兵继续他的实验，这是一个奇怪的请求。",
+      "words": [
+        {
+          "word": "proceed",
+          "def": "继续；进行",
+          "ipa": "/prəˈsiːd/",
+          "eng_def": "to continue doing something"
+        },
+        {
+          "word": "experiment",
+          "def": "实验",
+          "ipa": "/ɪkˈsperɪmənt/",
+          "eng_def": "a test to learn something"
+        },
+        {
+          "word": "strange",
+          "def": "奇怪的",
+          "ipa": "/streɪndʒ/",
+          "eng_def": "unusual or surprising"
+        },
+        {
+          "word": "stopped",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I need to monitor the situation carefully, because the soldier might invest in a new finance plan.",
+      "zh": "我需要仔细监控情况，因为士兵可能投资一个新的财务计划。",
+      "words": [
+        {
+          "word": "monitor",
+          "def": "监控；监视",
+          "ipa": "/ˈmɑːnɪtər/",
+          "eng_def": "to watch something closely"
+        },
+        {
+          "word": "invest",
+          "def": "投资",
+          "ipa": "/ɪnˈvest/",
+          "eng_def": "to put money into something to make more money"
+        },
+        {
+          "word": "finance",
+          "def": "财务；金融",
+          "ipa": "/ˈfaɪnæns/",
+          "eng_def": "the management of money"
+        },
+        {
+          "word": "carefully",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "A sum of money was on the table, and I had to wash my hands before touching it.",
+      "zh": "桌上有一笔钱，我必须在碰它之前洗手。",
+      "words": [
+        {
+          "word": "sum",
+          "def": "金额；总数",
+          "ipa": "/sʌm/",
+          "eng_def": "an amount of money; the total"
+        },
+        {
+          "word": "wash",
+          "def": "洗",
+          "ipa": "/wɒʃ/",
+          "eng_def": "to clean something with water and soap"
+        }
+      ]
+    },
+    {
+      "en": "I like eggs, whereas my friend hates them, so we had a small problem.",
+      "zh": "我喜欢鸡蛋，而我的朋友讨厌它们，所以我们有点小问题。",
+      "words": [
+        {
+          "word": "egg",
+          "def": "鸡蛋",
+          "ipa": "/eɡ/",
+          "eng_def": "a food made by chickens"
+        },
+        {
+          "word": "whereas",
+          "def": "然而；而",
+          "ipa": "/weərˈæz/",
+          "eng_def": "used to show a difference between two things"
+        },
+        {
+          "word": "eggs",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "hates",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I will tape the whole event for later consideration.",
+      "zh": "我会把整个事件录下来供以后考虑。",
+      "words": [
+        {
+          "word": "tape",
+          "def": "录音；录像；胶带",
+          "ipa": "/teɪp/",
+          "eng_def": "to record sound or video; a sticky strip"
+        },
+        {
+          "word": "consideration",
+          "def": "考虑",
+          "ipa": "/kənˌsɪdəˈreɪʃən/",
+          "eng_def": "the act of thinking about something carefully"
+        },
+        {
+          "word": "later",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "blow",
+      "def": "吹",
+      "ipa": "/bloʊ/",
+      "eng_def": "to push air out of the mouth",
+      "example": "I blow out the candles on my cake."
+    },
+    {
+      "word": "volume",
+      "def": "音量；容量",
+      "ipa": "/ˈvɑːljuːm/",
+      "eng_def": "the loudness of a sound; the amount of space",
+      "example": "Please turn up the volume on the TV."
+    },
+    {
+      "word": "location",
+      "def": "地点；位置",
+      "ipa": "/loʊˈkeɪʃən/",
+      "eng_def": "a place where something is or happens",
+      "example": "The location of the school is near my house."
+    },
+    {
+      "word": "invest",
+      "def": "投资",
+      "ipa": "/ɪnˈvest/",
+      "eng_def": "to put money into something to make more money",
+      "example": "He wants to invest in a new business."
+    },
+    {
+      "word": "proceed",
+      "def": "继续；进行",
+      "ipa": "/prəˈsiːd/",
+      "eng_def": "to continue doing something",
+      "example": "Please proceed with your work."
+    },
+    {
+      "word": "wash",
+      "def": "洗",
+      "ipa": "/wɒʃ/",
+      "eng_def": "to clean something with water and soap",
+      "example": "I wash my hands before eating."
+    },
+    {
+      "word": "actor",
+      "def": "演员",
+      "ipa": "/ˈæktər/",
+      "eng_def": "a person who performs in plays or movies",
+      "example": "The actor played a hero in the film."
+    },
+    {
+      "word": "glad",
+      "def": "高兴的",
+      "ipa": "/ɡlæd/",
+      "eng_def": "feeling happy or pleased",
+      "example": "I am glad to see you."
+    },
+    {
+      "word": "tape",
+      "def": "录音；录像；胶带",
+      "ipa": "/teɪp/",
+      "eng_def": "to record sound or video; a sticky strip",
+      "example": "I will tape the show for later."
+    },
+    {
+      "word": "whereas",
+      "def": "然而；而",
+      "ipa": "/weərˈæz/",
+      "eng_def": "used to show a difference between two things",
+      "example": "I like coffee, whereas she likes tea."
+    },
+    {
+      "word": "opposite",
+      "def": "相反的；对面的",
+      "ipa": "/ˈɑːpəzɪt/",
+      "eng_def": "completely different; facing",
+      "example": "The store is opposite the bank."
+    },
+    {
+      "word": "stone",
+      "def": "石头",
+      "ipa": "/stoʊn/",
+      "eng_def": "a hard, solid material found in the ground",
+      "example": "The wall is made of stone."
+    },
+    {
+      "word": "sum",
+      "def": "金额；总数",
+      "ipa": "/sʌm/",
+      "eng_def": "an amount of money; the total",
+      "example": "The sum of the money is one hundred dollars."
+    },
+    {
+      "word": "murder",
+      "def": "谋杀",
+      "ipa": "/ˈmɜːrdər/",
+      "eng_def": "the crime of killing someone",
+      "example": "The police solved the murder case."
+    },
+    {
+      "word": "monitor",
+      "def": "监控；监视",
+      "ipa": "/ˈmɑːnɪtər/",
+      "eng_def": "to watch something closely",
+      "example": "The teacher monitors the students during the test."
+    },
+    {
+      "word": "soldier",
+      "def": "士兵",
+      "ipa": "/ˈsoʊldʒər/",
+      "eng_def": "a person who serves in an army",
+      "example": "The soldier marched in the parade."
+    },
+    {
+      "word": "finance",
+      "def": "财务；金融",
+      "ipa": "/ˈfaɪnæns/",
+      "eng_def": "the management of money",
+      "example": "She works in finance at a big company."
+    },
+    {
+      "word": "hate",
+      "def": "讨厌；恨",
+      "ipa": "/heɪt/",
+      "eng_def": "to strongly dislike something or someone",
+      "example": "I hate waking up early."
+    },
+    {
+      "word": "egg",
+      "def": "鸡蛋",
+      "ipa": "/eɡ/",
+      "eng_def": "a food made by chickens",
+      "example": "I eat an egg for breakfast."
+    },
+    {
+      "word": "concert",
+      "def": "音乐会",
+      "ipa": "/ˈkɒnsərt/",
+      "eng_def": "a public performance of music",
+      "example": "We went to a concert last night."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "“blow” 是什么意思？",
+      "question_en": "What does 'blow' mean?",
+      "options": [
+        "A. 吹",
+        "B. 跑",
+        "C. 吃",
+        "D. 看"
+      ],
+      "answer": 0,
+      "word": "blow"
+    },
+    {
+      "question_cn": "哪个词的意思是“演员”？",
+      "question_en": "Which word means 'a person who performs in plays or movies'?",
+      "options": [
+        "A. soldier",
+        "B. actor",
+        "C. monitor",
+        "D. stone"
+      ],
+      "answer": 1,
+      "word": "actor"
+    },
+    {
+      "question_cn": "“whereas” 用来表示什么？",
+      "question_en": "What is 'whereas' used for?",
+      "options": [
+        "A. 表示时间",
+        "B. 表示对比",
+        "C. 表示原因",
+        "D. 表示地点"
+      ],
+      "answer": 1,
+      "word": "whereas"
+    },
+    {
+      "question_cn": "“invest” 的意思是？",
+      "question_en": "What does 'invest' mean?",
+      "options": [
+        "A. 投资",
+        "B. 检查",
+        "C. 发明",
+        "D. 邀请"
+      ],
+      "answer": 0,
+      "word": "invest"
+    },
+    {
+      "question_cn": "“monitor” 作为动词是什么意思？",
+      "question_en": "What does 'monitor' mean as a verb?",
+      "options": [
+        "A. 修理",
+        "B. 监控",
+        "C. 移动",
+        "D. 记忆"
+      ],
+      "answer": 1,
+      "word": "monitor"
+    }
+  ],
+  "image_prompts": [
+    "A person at a concert near a large stone building.",
+    "An actor on stage performing, with a happy audience member.",
+    "A singer on stage singing about a murder, with a sad mood.",
+    "A soldier in the audience blowing a loud whistle.",
+    "A person looking annoyed at a show.",
+    "The actor stopping and talking to the soldier.",
+    "A person carefully watching a situation with a soldier and money.",
+    "A table with a pile of money and a person washing hands.",
+    "Two friends, one eating an egg happily, the other looking away.",
+    "A person using a tape recorder to record an event."
+  ],
+  "_needs_review": false,
+  "_lesson_num": 59,
+  "_new_word_count": 20
+}

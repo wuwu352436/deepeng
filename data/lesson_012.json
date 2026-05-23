@@ -1,0 +1,562 @@
+{
+  "id": 12,
+  "title": "A Day at the Research Center",
+  "article_text": "Our research center is near a big shop. The major law for our work is about everything in the computer. The staff has a position for someone above the manager. This morning, a film about the human body appears on the paper. The general situation requires an account of all activity. We wait for the film to cover the war topic. The research covers everything from the morning to the night. The computer is above the table in the main position. Someone from the staff is near the shop for a break. The major activity is a study of the human body in the film.",
+  "sentences": [
+    {
+      "en": "Our research center is near a big shop.",
+      "zh": "我们的研究中心在一家大商店附近。",
+      "words": [
+        {
+          "word": "research",
+          "def": "研究",
+          "ipa": "/rɪˈsɜːrtʃ/",
+          "eng_def": "a careful study of a subject to find new facts or information"
+        },
+        {
+          "word": "near",
+          "def": "在……附近",
+          "ipa": "/nɪr/",
+          "eng_def": "not far away in distance"
+        },
+        {
+          "word": "shop",
+          "def": "商店",
+          "ipa": "/ʃɑːp/",
+          "eng_def": "a place where you buy things"
+        }
+      ]
+    },
+    {
+      "en": "The major law for our work is about everything in the computer.",
+      "zh": "我们工作的主要法律是关于计算机里的一切。",
+      "words": [
+        {
+          "word": "major",
+          "def": "主要的",
+          "ipa": "/ˈmeɪdʒər/",
+          "eng_def": "very important or large"
+        },
+        {
+          "word": "law",
+          "def": "法律",
+          "ipa": "/lɔː/",
+          "eng_def": "a rule made by a government"
+        },
+        {
+          "word": "everything",
+          "def": "一切",
+          "ipa": "/ˈevriθɪŋ/",
+          "eng_def": "all things"
+        },
+        {
+          "word": "computer",
+          "def": "计算机",
+          "ipa": "/kəmˈpjuːtər/",
+          "eng_def": "an electronic machine for storing and processing information"
+        }
+      ]
+    },
+    {
+      "en": "The staff has a position for someone above the manager.",
+      "zh": "员工团队有一个职位给经理之上的某人。",
+      "words": [
+        {
+          "word": "staff",
+          "def": "员工",
+          "ipa": "/stæf/",
+          "eng_def": "a group of people who work for an organization"
+        },
+        {
+          "word": "position",
+          "def": "职位；位置",
+          "ipa": "/pəˈzɪʃən/",
+          "eng_def": "a job or the place where someone or something is"
+        },
+        {
+          "word": "someone",
+          "def": "某人",
+          "ipa": "/ˈsʌmwʌn/",
+          "eng_def": "a person who is not known or named"
+        },
+        {
+          "word": "above",
+          "def": "在……之上",
+          "ipa": "/əˈbʌv/",
+          "eng_def": "in or to a higher place than something"
+        },
+        {
+          "word": "manager",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "This morning, a film about the human body appears on the paper.",
+      "zh": "今天早上，一部关于人体电影出现在纸上。",
+      "words": [
+        {
+          "word": "morning",
+          "def": "早上",
+          "ipa": "/ˈmɔːrnɪŋ/",
+          "eng_def": "the early part of the day from sunrise to noon"
+        },
+        {
+          "word": "film",
+          "def": "电影；胶片",
+          "ipa": "/fɪlm/",
+          "eng_def": "a movie or a thin layer"
+        },
+        {
+          "word": "human",
+          "def": "人类的",
+          "ipa": "/ˈhjuːmən/",
+          "eng_def": "relating to people"
+        },
+        {
+          "word": "body",
+          "def": "身体",
+          "ipa": "/ˈbɑːdi/",
+          "eng_def": "the physical structure of a person or animal"
+        },
+        {
+          "word": "paper",
+          "def": "纸；论文",
+          "ipa": "/ˈpeɪpər/",
+          "eng_def": "thin material for writing or a written report"
+        }
+      ]
+    },
+    {
+      "en": "The general situation requires an account of all activity.",
+      "zh": "总体情况需要一份所有活动的报告。",
+      "words": [
+        {
+          "word": "general",
+          "def": "一般的；总体的",
+          "ipa": "/ˈdʒenərəl/",
+          "eng_def": "involving most people or things"
+        },
+        {
+          "word": "situation",
+          "def": "情况",
+          "ipa": "/ˌsɪtʃuˈeɪʃən/",
+          "eng_def": "the set of conditions at a particular time"
+        },
+        {
+          "word": "require",
+          "def": "需要",
+          "ipa": "/rɪˈkwaɪər/",
+          "eng_def": "to need something"
+        },
+        {
+          "word": "account",
+          "def": "账户；报告",
+          "ipa": "/əˈkaʊnt/",
+          "eng_def": "a record of money or a description of events"
+        },
+        {
+          "word": "activity",
+          "def": "活动",
+          "ipa": "/ækˈtɪvəti/",
+          "eng_def": "something that people do for a purpose"
+        }
+      ]
+    },
+    {
+      "en": "We wait for the film to cover the war topic.",
+      "zh": "我们等待电影涵盖战争主题。",
+      "words": [
+        {
+          "word": "wait",
+          "def": "等待",
+          "ipa": "/weɪt/",
+          "eng_def": "to stay in a place until something happens"
+        },
+        {
+          "word": "film",
+          "def": "电影",
+          "ipa": "/fɪlm/",
+          "eng_def": "a movie"
+        },
+        {
+          "word": "cover",
+          "def": "覆盖；涵盖",
+          "ipa": "/ˈkʌvər/",
+          "eng_def": "to put something over or to include something"
+        },
+        {
+          "word": "war",
+          "def": "战争",
+          "ipa": "/wɔːr/",
+          "eng_def": "a fight between countries or groups"
+        },
+        {
+          "word": "topic",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The research covers everything from the morning to the night.",
+      "zh": "研究涵盖从早到晚的一切。",
+      "words": [
+        {
+          "word": "research",
+          "def": "研究",
+          "ipa": "/rɪˈsɜːrtʃ/",
+          "eng_def": "a careful study of a subject"
+        },
+        {
+          "word": "cover",
+          "def": "涵盖",
+          "ipa": "/ˈkʌvər/",
+          "eng_def": "to include something"
+        },
+        {
+          "word": "everything",
+          "def": "一切",
+          "ipa": "/ˈevriθɪŋ/",
+          "eng_def": "all things"
+        },
+        {
+          "word": "morning",
+          "def": "早上",
+          "ipa": "/ˈmɔːrnɪŋ/",
+          "eng_def": "the early part of the day"
+        },
+        {
+          "word": "covers",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The computer is above the table in the main position.",
+      "zh": "计算机在桌子上方的主要位置。",
+      "words": [
+        {
+          "word": "computer",
+          "def": "计算机",
+          "ipa": "/kəmˈpjuːtər/",
+          "eng_def": "an electronic machine for processing information"
+        },
+        {
+          "word": "above",
+          "def": "在……之上",
+          "ipa": "/əˈbʌv/",
+          "eng_def": "in a higher place"
+        },
+        {
+          "word": "position",
+          "def": "位置",
+          "ipa": "/pəˈzɪʃən/",
+          "eng_def": "the place where something is"
+        },
+        {
+          "word": "table",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "main",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Someone from the staff is near the shop for a break.",
+      "zh": "员工中的某人在商店附近休息。",
+      "words": [
+        {
+          "word": "someone",
+          "def": "某人",
+          "ipa": "/ˈsʌmwʌn/",
+          "eng_def": "a person not named"
+        },
+        {
+          "word": "staff",
+          "def": "员工",
+          "ipa": "/stæf/",
+          "eng_def": "a group of workers"
+        },
+        {
+          "word": "near",
+          "def": "在……附近",
+          "ipa": "/nɪr/",
+          "eng_def": "not far away"
+        },
+        {
+          "word": "shop",
+          "def": "商店",
+          "ipa": "/ʃɑːp/",
+          "eng_def": "a place to buy things"
+        }
+      ]
+    },
+    {
+      "en": "The major activity is a study of the human body in the film.",
+      "zh": "主要活动是电影中人体的一项研究。",
+      "words": [
+        {
+          "word": "major",
+          "def": "主要的",
+          "ipa": "/ˈmeɪdʒər/",
+          "eng_def": "very important"
+        },
+        {
+          "word": "activity",
+          "def": "活动",
+          "ipa": "/ækˈtɪvəti/",
+          "eng_def": "something people do"
+        },
+        {
+          "word": "human",
+          "def": "人类的",
+          "ipa": "/ˈhjuːmən/",
+          "eng_def": "relating to people"
+        },
+        {
+          "word": "body",
+          "def": "身体",
+          "ipa": "/ˈbɑːdi/",
+          "eng_def": "the physical structure of a person"
+        },
+        {
+          "word": "film",
+          "def": "电影",
+          "ipa": "/fɪlm/",
+          "eng_def": "a movie"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "law",
+      "def": "法律",
+      "ipa": "/lɔː/",
+      "eng_def": "a rule made by a government",
+      "example": "The law is for everyone."
+    },
+    {
+      "word": "everything",
+      "def": "一切",
+      "ipa": "/ˈevriθɪŋ/",
+      "eng_def": "all things",
+      "example": "Everything is on the table."
+    },
+    {
+      "word": "research",
+      "def": "研究",
+      "ipa": "/rɪˈsɜːrtʃ/",
+      "eng_def": "a careful study of a subject",
+      "example": "We do research on animals."
+    },
+    {
+      "word": "cover",
+      "def": "覆盖；涵盖",
+      "ipa": "/ˈkʌvər/",
+      "eng_def": "to put something over or to include",
+      "example": "The book covers many topics."
+    },
+    {
+      "word": "paper",
+      "def": "纸；论文",
+      "ipa": "/ˈpeɪpər/",
+      "eng_def": "thin material for writing or a written report",
+      "example": "She writes on paper."
+    },
+    {
+      "word": "position",
+      "def": "职位；位置",
+      "ipa": "/pəˈzɪʃən/",
+      "eng_def": "a job or the place of something",
+      "example": "His position is in the office."
+    },
+    {
+      "word": "near",
+      "def": "在……附近",
+      "ipa": "/nɪr/",
+      "eng_def": "not far away",
+      "example": "The school is near my home."
+    },
+    {
+      "word": "human",
+      "def": "人类的",
+      "ipa": "/ˈhjuːmən/",
+      "eng_def": "relating to people",
+      "example": "A human has two hands."
+    },
+    {
+      "word": "computer",
+      "def": "计算机",
+      "ipa": "/kəmˈpjuːtər/",
+      "eng_def": "an electronic machine for processing information",
+      "example": "I use a computer for work."
+    },
+    {
+      "word": "situation",
+      "def": "情况",
+      "ipa": "/ˌsɪtʃuˈeɪʃən/",
+      "eng_def": "the set of conditions at a time",
+      "example": "The situation is bad."
+    },
+    {
+      "word": "staff",
+      "def": "员工",
+      "ipa": "/stæf/",
+      "eng_def": "a group of workers",
+      "example": "The staff is nice."
+    },
+    {
+      "word": "activity",
+      "def": "活动",
+      "ipa": "/ækˈtɪvəti/",
+      "eng_def": "something people do",
+      "example": "This activity is fun."
+    },
+    {
+      "word": "film",
+      "def": "电影；胶片",
+      "ipa": "/fɪlm/",
+      "eng_def": "a movie or a thin layer",
+      "example": "We watch a film at night."
+    },
+    {
+      "word": "morning",
+      "def": "早上",
+      "ipa": "/ˈmɔːrnɪŋ/",
+      "eng_def": "the early part of the day",
+      "example": "I eat breakfast in the morning."
+    },
+    {
+      "word": "war",
+      "def": "战争",
+      "ipa": "/wɔːr/",
+      "eng_def": "a fight between countries or groups",
+      "example": "War is bad."
+    },
+    {
+      "word": "account",
+      "def": "账户；报告",
+      "ipa": "/əˈkaʊnt/",
+      "eng_def": "a record of money or a description",
+      "example": "He has a bank account."
+    },
+    {
+      "word": "shop",
+      "def": "商店",
+      "ipa": "/ʃɑːp/",
+      "eng_def": "a place to buy things",
+      "example": "The shop sells food."
+    },
+    {
+      "word": "major",
+      "def": "主要的",
+      "ipa": "/ˈmeɪdʒər/",
+      "eng_def": "very important or large",
+      "example": "This is a major problem."
+    },
+    {
+      "word": "someone",
+      "def": "某人",
+      "ipa": "/ˈsʌmwʌn/",
+      "eng_def": "a person not named",
+      "example": "Someone is at the door."
+    },
+    {
+      "word": "above",
+      "def": "在……之上",
+      "ipa": "/əˈbʌv/",
+      "eng_def": "in a higher place",
+      "example": "The bird is above the house."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词的意思是“一项关于某个主题的仔细研究”？",
+      "question_en": "Which word means 'a careful study of a subject'?",
+      "options": [
+        "A. research",
+        "B. law",
+        "C. film",
+        "D. account"
+      ],
+      "answer": 0,
+      "word": "research"
+    },
+    {
+      "question_cn": "'cover' 在句子“The book covers many topics”中的意思是？",
+      "question_en": "What does 'cover' mean in 'The book covers many topics'?",
+      "options": [
+        "A. 放置",
+        "B. 覆盖",
+        "C. 涵盖",
+        "D. 隐藏"
+      ],
+      "answer": 2,
+      "word": "cover"
+    },
+    {
+      "question_cn": "哪个词表示“一个群体中的工人”？",
+      "question_en": "Which word means 'a group of workers'?",
+      "options": [
+        "A. staff",
+        "B. major",
+        "C. human",
+        "D. position"
+      ],
+      "answer": 0,
+      "word": "staff"
+    },
+    {
+      "question_cn": "“在更高的地方”是哪个词的意思？",
+      "question_en": "Which word means 'in a higher place'?",
+      "options": [
+        "A. near",
+        "B. above",
+        "C. on",
+        "D. in"
+      ],
+      "answer": 1,
+      "word": "above"
+    },
+    {
+      "question_cn": "'situation' 的意思是？",
+      "question_en": "What does 'situation' mean?",
+      "options": [
+        "A. 位置",
+        "B. 情况",
+        "C. 活动",
+        "D. 电影"
+      ],
+      "answer": 1,
+      "word": "situation"
+    }
+  ],
+  "image_prompts": [
+    "A modern research center building next to a large shop, with people walking near the entrance.",
+    "A computer screen showing legal documents and a list of rules, with a law book on the desk.",
+    "An office with a staff meeting, a manager sitting at the head of a table, and an empty chair above the manager.",
+    "A morning scene: a paper on a desk showing a film poster about the human body, with sunlight coming through a window.",
+    "A general situation board with notes and an account book, people doing various activities in a room.",
+    "A group of people waiting in a room, a film projector showing a war scene on the wall.",
+    "A research timeline from morning to night, with a clock showing different hours and a book labeled 'research'.",
+    "A computer placed on a high shelf above a table, with a clear position marker on the shelf.",
+    "A staff member standing near a small shop, taking a break with a cup of coffee.",
+    "A classroom or lab where the main activity is studying the human body, with a film playing on a screen."
+  ],
+  "_needs_review": false,
+  "_lesson_num": 12,
+  "_new_word_count": 20
+}

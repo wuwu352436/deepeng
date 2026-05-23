@@ -1,0 +1,457 @@
+{
+  "id": 13,
+  "title": "A Special Design Event",
+  "article_text": "My father has a special design for a new table. He sometimes carries a big paper with his research. The main condition for his design is that it must be strong. He can choose a certain wood for it. I help him cut the wood for the table. It is a big decision for him. He describes the event to me himself. The table is available for sale now. We are forward with our plan. Everything is under his law, and we bear the work together.",
+  "sentences": [
+    {
+      "en": "My father has a special design for a new table.",
+      "zh": "我父亲有一个特别的新桌子设计。",
+      "words": [
+        {
+          "word": "father",
+          "def": "父亲",
+          "ipa": "/ˈfɑːðər/",
+          "eng_def": "a male parent"
+        },
+        {
+          "word": "special",
+          "def": "特别的",
+          "ipa": "/ˈspeʃəl/",
+          "eng_def": "different from what is usual"
+        },
+        {
+          "word": "design",
+          "def": "设计",
+          "ipa": "/dɪˈzaɪn/",
+          "eng_def": "a plan or drawing"
+        },
+        {
+          "word": "table",
+          "def": "桌子",
+          "ipa": "/ˈteɪbəl/",
+          "eng_def": "a piece of furniture with a flat top"
+        }
+      ]
+    },
+    {
+      "en": "He sometimes carries a big paper with his research.",
+      "zh": "他有时带着一张写有他研究的大纸。",
+      "words": [
+        {
+          "word": "sometimes",
+          "def": "有时候",
+          "ipa": "/ˈsʌmtaɪmz/",
+          "eng_def": "on some occasions but not always"
+        },
+        {
+          "word": "carry",
+          "def": "携带",
+          "ipa": "/ˈkæri/",
+          "eng_def": "to hold and move something"
+        },
+        {
+          "word": "paper",
+          "def": "纸；论文",
+          "ipa": "/ˈpeɪpər/",
+          "eng_def": "thin material for writing on; a written work"
+        },
+        {
+          "word": "research",
+          "def": "研究",
+          "ipa": "/rɪˈsɜːrtʃ/",
+          "eng_def": "the study of a subject to find new facts"
+        },
+        {
+          "word": "carries",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The main condition for his design is that it must be strong.",
+      "zh": "他设计的主要条件是它必须坚固。",
+      "words": [
+        {
+          "word": "main",
+          "def": "主要的",
+          "ipa": "/meɪn/",
+          "eng_def": "most important"
+        },
+        {
+          "word": "condition",
+          "def": "条件",
+          "ipa": "/kənˈdɪʃən/",
+          "eng_def": "something that must be true for something else to happen"
+        },
+        {
+          "word": "strong",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "He can choose a certain wood for it.",
+      "zh": "他可以为它选择某种木材。",
+      "words": [
+        {
+          "word": "choose",
+          "def": "选择",
+          "ipa": "/tʃuːz/",
+          "eng_def": "to pick something from a group"
+        },
+        {
+          "word": "certain",
+          "def": "某种；确定的",
+          "ipa": "/ˈsɜːrtən/",
+          "eng_def": "known but not named; sure"
+        },
+        {
+          "word": "wood",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I help him cut the wood for the table.",
+      "zh": "我帮他切割做桌子的木材。",
+      "words": [
+        {
+          "word": "cut",
+          "def": "切割",
+          "ipa": "/kʌt/",
+          "eng_def": "to divide something with a sharp tool"
+        },
+        {
+          "word": "wood",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "It is a big decision for him.",
+      "zh": "这对他是一个重大的决定。",
+      "words": [
+        {
+          "word": "decision",
+          "def": "决定",
+          "ipa": "/dɪˈsɪʒən/",
+          "eng_def": "a choice that you make after thinking"
+        }
+      ]
+    },
+    {
+      "en": "He describes the event to me himself.",
+      "zh": "他亲自向我描述这个事件。",
+      "words": [
+        {
+          "word": "describe",
+          "def": "描述",
+          "ipa": "/dɪˈskraɪb/",
+          "eng_def": "to say what something is like"
+        },
+        {
+          "word": "event",
+          "def": "事件",
+          "ipa": "/ɪˈvent/",
+          "eng_def": "something that happens"
+        },
+        {
+          "word": "himself",
+          "def": "他自己",
+          "ipa": "/hɪmˈself/",
+          "eng_def": "the same male person as the subject"
+        },
+        {
+          "word": "describes",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The table is available for sale now.",
+      "zh": "这张桌子现在可以出售。",
+      "words": [
+        {
+          "word": "available",
+          "def": "可用的；可获得的",
+          "ipa": "/əˈveɪləbəl/",
+          "eng_def": "able to be used or got"
+        }
+      ]
+    },
+    {
+      "en": "We are forward with our plan.",
+      "zh": "我们的计划在推进中。",
+      "words": [
+        {
+          "word": "forward",
+          "def": "向前的；前进的",
+          "ipa": "/ˈfɔːrwərd/",
+          "eng_def": "moving ahead; not backward"
+        }
+      ]
+    },
+    {
+      "en": "Everything is under his law, and we bear the work together.",
+      "zh": "一切都在他的规则下，我们一起承担工作。",
+      "words": [
+        {
+          "word": "everything",
+          "def": "一切",
+          "ipa": "/ˈevriθɪŋ/",
+          "eng_def": "all things"
+        },
+        {
+          "word": "law",
+          "def": "法律；规则",
+          "ipa": "/lɔː/",
+          "eng_def": "a rule made by a government or person"
+        },
+        {
+          "word": "bear",
+          "def": "承担；忍受",
+          "ipa": "/ber/",
+          "eng_def": "to carry or support something difficult"
+        },
+        {
+          "word": "especially",
+          "def": "尤其",
+          "ipa": "/ɪˈspeʃəli/",
+          "eng_def": "more than others; particularly"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "design",
+      "def": "设计",
+      "ipa": "/dɪˈzaɪn/",
+      "eng_def": "a plan or drawing",
+      "example": "My father has a special design for a new table."
+    },
+    {
+      "word": "event",
+      "def": "事件",
+      "ipa": "/ɪˈvent/",
+      "eng_def": "something that happens",
+      "example": "He describes the event to me himself."
+    },
+    {
+      "word": "special",
+      "def": "特别的",
+      "ipa": "/ˈspeʃəl/",
+      "eng_def": "different from what is usual",
+      "example": "My father has a special design for a new table."
+    },
+    {
+      "word": "sometimes",
+      "def": "有时候",
+      "ipa": "/ˈsʌmtaɪmz/",
+      "eng_def": "on some occasions but not always",
+      "example": "He sometimes carries a big paper with his research."
+    },
+    {
+      "word": "condition",
+      "def": "条件",
+      "ipa": "/kənˈdɪʃən/",
+      "eng_def": "something that must be true for something else to happen",
+      "example": "The main condition for his design is that it must be strong."
+    },
+    {
+      "word": "carry",
+      "def": "携带",
+      "ipa": "/ˈkæri/",
+      "eng_def": "to hold and move something",
+      "example": "He sometimes carries a big paper with his research."
+    },
+    {
+      "word": "choose",
+      "def": "选择",
+      "ipa": "/tʃuːz/",
+      "eng_def": "to pick something from a group",
+      "example": "He can choose a certain wood for it."
+    },
+    {
+      "word": "father",
+      "def": "父亲",
+      "ipa": "/ˈfɑːðər/",
+      "eng_def": "a male parent",
+      "example": "My father has a special design for a new table."
+    },
+    {
+      "word": "decision",
+      "def": "决定",
+      "ipa": "/dɪˈsɪʒən/",
+      "eng_def": "a choice that you make after thinking",
+      "example": "It is a big decision for him."
+    },
+    {
+      "word": "table",
+      "def": "桌子",
+      "ipa": "/ˈteɪbəl/",
+      "eng_def": "a piece of furniture with a flat top",
+      "example": "My father has a special design for a new table."
+    },
+    {
+      "word": "certain",
+      "def": "某种；确定的",
+      "ipa": "/ˈsɜːrtən/",
+      "eng_def": "known but not named; sure",
+      "example": "He can choose a certain wood for it."
+    },
+    {
+      "word": "forward",
+      "def": "向前的；前进的",
+      "ipa": "/ˈfɔːrwərd/",
+      "eng_def": "moving ahead; not backward",
+      "example": "We are forward with our plan."
+    },
+    {
+      "word": "main",
+      "def": "主要的",
+      "ipa": "/meɪn/",
+      "eng_def": "most important",
+      "example": "The main condition for his design is that it must be strong."
+    },
+    {
+      "word": "die",
+      "def": "死亡",
+      "ipa": "/daɪ/",
+      "eng_def": "to stop living",
+      "example": "The old tree will die soon."
+    },
+    {
+      "word": "bear",
+      "def": "承担；忍受",
+      "ipa": "/ber/",
+      "eng_def": "to carry or support something difficult",
+      "example": "We bear the work together."
+    },
+    {
+      "word": "cut",
+      "def": "切割",
+      "ipa": "/kʌt/",
+      "eng_def": "to divide something with a sharp tool",
+      "example": "I help him cut the wood for the table."
+    },
+    {
+      "word": "describe",
+      "def": "描述",
+      "ipa": "/dɪˈskraɪb/",
+      "eng_def": "to say what something is like",
+      "example": "He describes the event to me himself."
+    },
+    {
+      "word": "himself",
+      "def": "他自己",
+      "ipa": "/hɪmˈself/",
+      "eng_def": "the same male person as the subject",
+      "example": "He describes the event to me himself."
+    },
+    {
+      "word": "available",
+      "def": "可用的；可获得的",
+      "ipa": "/əˈveɪləbəl/",
+      "eng_def": "able to be used or got",
+      "example": "The table is available for sale now."
+    },
+    {
+      "word": "especially",
+      "def": "尤其",
+      "ipa": "/ɪˈspeʃəli/",
+      "eng_def": "more than others; particularly",
+      "example": "This wood is especially good for tables."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "“设计”用英语怎么说？",
+      "question_en": "How do you say '设计' in English?",
+      "options": [
+        "A. design",
+        "B. event",
+        "C. condition",
+        "D. decision"
+      ],
+      "answer": 0,
+      "word": "design"
+    },
+    {
+      "question_cn": "“He sometimes carries a big paper.”中“sometimes”是什么意思？",
+      "question_en": "What does 'sometimes' mean in 'He sometimes carries a big paper.'?",
+      "options": [
+        "A. 总是",
+        "B. 有时候",
+        "C. 从不",
+        "D. 经常"
+      ],
+      "answer": 1,
+      "word": "sometimes"
+    },
+    {
+      "question_cn": "“The main condition is that it must be strong.”中“condition”的意思是？",
+      "question_en": "What does 'condition' mean in 'The main condition is that it must be strong.'?",
+      "options": [
+        "A. 条件",
+        "B. 设计",
+        "C. 决定",
+        "D. 事件"
+      ],
+      "answer": 0,
+      "word": "condition"
+    },
+    {
+      "question_cn": "“It is a big decision for him.”中“decision”的意思是？",
+      "question_en": "What does 'decision' mean in 'It is a big decision for him.'?",
+      "options": [
+        "A. 设计",
+        "B. 条件",
+        "C. 决定",
+        "D. 事件"
+      ],
+      "answer": 2,
+      "word": "decision"
+    },
+    {
+      "question_cn": "“The table is available for sale now.”中“available”的意思是？",
+      "question_en": "What does 'available' mean in 'The table is available for sale now.'?",
+      "options": [
+        "A. 可用的",
+        "B. 特别的",
+        "C. 主要的",
+        "D. 确定的"
+      ],
+      "answer": 0,
+      "word": "available"
+    }
+  ],
+  "image_prompts": [
+    "A man (father) holding a large piece of paper with a drawing of a table, smiling.",
+    "The same man carrying a big paper with research notes under his arm.",
+    "A close-up of the design drawing with a note: 'Must be strong'.",
+    "The man pointing at different wood samples on a shelf.",
+    "A person cutting a piece of wood with a saw.",
+    "The man thinking deeply with a question mark above his head.",
+    "The man talking and gesturing to another person about an event.",
+    "A finished wooden table with a 'For Sale' sign.",
+    "Two people walking forward together with a plan chart.",
+    "Two people working together on a table, with a law book on the side."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['especially', 'die', 'carry']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 13,
+  "_new_word_count": 20
+}

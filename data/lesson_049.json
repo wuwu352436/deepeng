@@ -1,0 +1,487 @@
+{
+  "id": 49,
+  "title": "A Global Camping Adventure",
+  "article_text": "Every year, I go to an excellent camp near a big river. The edge of the forest surrounds the camp, so we feel safe. I see the annual festival there, and the audience enjoys the show. We roll the camping gear carefully into our bags. The reality of camping is a struggle because we must lift heavy equipment. I select a good guide from the group for our hike. The contrast between the quiet forest and the loud city is big. I can fully enjoy the beauty of nature here. I advertise this camp to my friends by email. The extent of my happiness grows when I look at a photograph of the trip.",
+  "sentences": [
+    {
+      "en": "Every year, I go to an excellent camp near a big river.",
+      "zh": "每年，我都去一个靠近大河的极好的营地。",
+      "words": [
+        {
+          "word": "excellent",
+          "def": "极好的",
+          "ipa": "/ˈɛksələnt/",
+          "eng_def": "very good"
+        },
+        {
+          "word": "camp",
+          "def": "营地",
+          "ipa": "/kæmp/",
+          "eng_def": "a place with tents or small houses for living outside"
+        },
+        {
+          "word": "river",
+          "def": "河流",
+          "ipa": "/ˈrɪvər/",
+          "eng_def": "a large natural flow of water"
+        }
+      ]
+    },
+    {
+      "en": "The edge of the forest surrounds the camp, so we feel safe.",
+      "zh": "森林的边缘环绕着营地，所以我们感到安全。",
+      "words": [
+        {
+          "word": "edge",
+          "def": "边缘",
+          "ipa": "/ɛdʒ/",
+          "eng_def": "the part of something that is farthest from the middle"
+        },
+        {
+          "word": "surround",
+          "def": "环绕",
+          "ipa": "/səˈraʊnd/",
+          "eng_def": "to be all around something"
+        },
+        {
+          "word": "forest",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "surrounds",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I see the annual festival there, and the audience enjoys the show.",
+      "zh": "我在那里看到年度庆典，观众们喜欢这场表演。",
+      "words": [
+        {
+          "word": "annual",
+          "def": "每年的",
+          "ipa": "/ˈænjuəl/",
+          "eng_def": "happening once every year"
+        },
+        {
+          "word": "audience",
+          "def": "观众",
+          "ipa": "/ˈɔːdiəns/",
+          "eng_def": "the people who watch a show or event"
+        },
+        {
+          "word": "festival",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "We roll the camping gear carefully into our bags.",
+      "zh": "我们小心地把露营装备卷进袋子里。",
+      "words": [
+        {
+          "word": "roll",
+          "def": "卷",
+          "ipa": "/roʊl/",
+          "eng_def": "to move something by turning it over and over"
+        },
+        {
+          "word": "camping",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "gear",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "carefully",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "bags",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The reality of camping is a struggle because we must lift heavy equipment.",
+      "zh": "露营的现实是一场挣扎，因为我们必须抬起沉重的装备。",
+      "words": [
+        {
+          "word": "reality",
+          "def": "现实",
+          "ipa": "/riˈæləti/",
+          "eng_def": "the true state of things"
+        },
+        {
+          "word": "struggle",
+          "def": "挣扎",
+          "ipa": "/ˈstrʌɡəl/",
+          "eng_def": "a difficult effort"
+        },
+        {
+          "word": "lift",
+          "def": "抬起",
+          "ipa": "/lɪft/",
+          "eng_def": "to move something up to a higher place"
+        },
+        {
+          "word": "camping",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I select a good guide from the group for our hike.",
+      "zh": "我从团队中挑选一位好向导来带领我们的徒步。",
+      "words": [
+        {
+          "word": "select",
+          "def": "挑选",
+          "ipa": "/sɪˈlɛkt/",
+          "eng_def": "to choose"
+        },
+        {
+          "word": "guide",
+          "def": "向导",
+          "ipa": "/ɡaɪd/",
+          "eng_def": "a person who shows the way"
+        },
+        {
+          "word": "hike",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The contrast between the quiet forest and the loud city is big.",
+      "zh": "安静的森林和喧闹的城市之间的对比很大。",
+      "words": [
+        {
+          "word": "contrast",
+          "def": "对比",
+          "ipa": "/ˈkɑːntræst/",
+          "eng_def": "a difference between two things"
+        },
+        {
+          "word": "quiet",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "forest",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "loud",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I can fully enjoy the beauty of nature here.",
+      "zh": "我可以完全享受这里自然的美景。",
+      "words": [
+        {
+          "word": "fully",
+          "def": "完全地",
+          "ipa": "/ˈfʊli/",
+          "eng_def": "completely"
+        },
+        {
+          "word": "beauty",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I advertise this camp to my friends by email.",
+      "zh": "我通过电子邮件向朋友们宣传这个营地。",
+      "words": [
+        {
+          "word": "advertise",
+          "def": "宣传",
+          "ipa": "/ˈædvərtaɪz/",
+          "eng_def": "to tell people about something to make them want it"
+        },
+        {
+          "word": "email",
+          "def": "电子邮件",
+          "ipa": "/ˈiːmeɪl/",
+          "eng_def": "a message sent by computer"
+        }
+      ]
+    },
+    {
+      "en": "The extent of my happiness grows when I look at a photograph of the trip.",
+      "zh": "当我看着旅行的照片时，我的幸福程度增加了。",
+      "words": [
+        {
+          "word": "extent",
+          "def": "程度",
+          "ipa": "/ɪkˈstɛnt/",
+          "eng_def": "the size or importance of something"
+        },
+        {
+          "word": "photograph",
+          "def": "照片",
+          "ipa": "/ˈfoʊtəɡræf/",
+          "eng_def": "a picture made with a camera"
+        },
+        {
+          "word": "happiness",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "excellent",
+      "def": "极好的",
+      "ipa": "/ˈɛksələnt/",
+      "eng_def": "very good",
+      "example": "This is an excellent camp."
+    },
+    {
+      "word": "edge",
+      "def": "边缘",
+      "ipa": "/ɛdʒ/",
+      "eng_def": "the part of something that is farthest from the middle",
+      "example": "The edge of the forest is dark."
+    },
+    {
+      "word": "camp",
+      "def": "营地",
+      "ipa": "/kæmp/",
+      "eng_def": "a place with tents or small houses for living outside",
+      "example": "We stay at a camp near the river."
+    },
+    {
+      "word": "audience",
+      "def": "观众",
+      "ipa": "/ˈɔːdiəns/",
+      "eng_def": "the people who watch a show or event",
+      "example": "The audience claps loudly."
+    },
+    {
+      "word": "lift",
+      "def": "抬起",
+      "ipa": "/lɪft/",
+      "eng_def": "to move something up to a higher place",
+      "example": "I lift the bag onto my back."
+    },
+    {
+      "word": "procedure",
+      "def": "程序",
+      "ipa": "/prəˈsiːdʒər/",
+      "eng_def": "a set of actions done in a certain way",
+      "example": "The safety procedure is important."
+    },
+    {
+      "word": "email",
+      "def": "电子邮件",
+      "ipa": "/ˈiːmeɪl/",
+      "eng_def": "a message sent by computer",
+      "example": "I send an email to my friend."
+    },
+    {
+      "word": "global",
+      "def": "全球的",
+      "ipa": "/ˈɡloʊbəl/",
+      "eng_def": "relating to the whole world",
+      "example": "The camp has a global audience."
+    },
+    {
+      "word": "struggle",
+      "def": "挣扎",
+      "ipa": "/ˈstrʌɡəl/",
+      "eng_def": "a difficult effort",
+      "example": "The struggle to climb the hill is hard."
+    },
+    {
+      "word": "advertise",
+      "def": "宣传",
+      "ipa": "/ˈædvərtaɪz/",
+      "eng_def": "to tell people about something to make them want it",
+      "example": "They advertise the camp on TV."
+    },
+    {
+      "word": "select",
+      "def": "挑选",
+      "ipa": "/sɪˈlɛkt/",
+      "eng_def": "to choose",
+      "example": "Please select a good tent."
+    },
+    {
+      "word": "surround",
+      "def": "环绕",
+      "ipa": "/səˈraʊnd/",
+      "eng_def": "to be all around something",
+      "example": "Trees surround the lake."
+    },
+    {
+      "word": "extent",
+      "def": "程度",
+      "ipa": "/ɪkˈstɛnt/",
+      "eng_def": "the size or importance of something",
+      "example": "The extent of the forest is huge."
+    },
+    {
+      "word": "river",
+      "def": "河流",
+      "ipa": "/ˈrɪvər/",
+      "eng_def": "a large natural flow of water",
+      "example": "The river flows to the sea."
+    },
+    {
+      "word": "annual",
+      "def": "每年的",
+      "ipa": "/ˈænjuəl/",
+      "eng_def": "happening once every year",
+      "example": "We have an annual meeting."
+    },
+    {
+      "word": "fully",
+      "def": "完全地",
+      "ipa": "/ˈfʊli/",
+      "eng_def": "completely",
+      "example": "I fully agree with you."
+    },
+    {
+      "word": "contrast",
+      "def": "对比",
+      "ipa": "/ˈkɑːntræst/",
+      "eng_def": "a difference between two things",
+      "example": "The contrast in size is clear."
+    },
+    {
+      "word": "roll",
+      "def": "卷",
+      "ipa": "/roʊl/",
+      "eng_def": "to move something by turning it over and over",
+      "example": "Roll the mat carefully."
+    },
+    {
+      "word": "reality",
+      "def": "现实",
+      "ipa": "/riˈæləti/",
+      "eng_def": "the true state of things",
+      "example": "The reality is different from the dream."
+    },
+    {
+      "word": "photograph",
+      "def": "照片",
+      "ipa": "/ˈfoʊtəɡræf/",
+      "eng_def": "a picture made with a camera",
+      "example": "I take a photograph of the sunset."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词的意思是“极好的”？",
+      "question_en": "Which word means 'very good'?",
+      "options": [
+        "A. excellent",
+        "B. edge",
+        "C. camp",
+        "D. river"
+      ],
+      "answer": 0,
+      "word": "excellent"
+    },
+    {
+      "question_cn": "哪个词的意思是“观众”？",
+      "question_en": "Which word means 'the people who watch a show'?",
+      "options": [
+        "A. audience",
+        "B. lift",
+        "C. struggle",
+        "D. email"
+      ],
+      "answer": 0,
+      "word": "audience"
+    },
+    {
+      "question_cn": "哪个词的意思是“选择”？",
+      "question_en": "Which word means 'to choose'?",
+      "options": [
+        "A. surround",
+        "B. select",
+        "C. roll",
+        "D. advertise"
+      ],
+      "answer": 1,
+      "word": "select"
+    },
+    {
+      "question_cn": "哪个词的意思是“对比”？",
+      "question_en": "Which word means 'a difference between two things'?",
+      "options": [
+        "A. contrast",
+        "B. extent",
+        "C. reality",
+        "D. edge"
+      ],
+      "answer": 0,
+      "word": "contrast"
+    },
+    {
+      "question_cn": "哪个词的意思是“照片”？",
+      "question_en": "Which word means 'a picture made with a camera'?",
+      "options": [
+        "A. photograph",
+        "B. river",
+        "C. camp",
+        "D. guide"
+      ],
+      "answer": 0,
+      "word": "photograph"
+    }
+  ],
+  "image_prompts": [
+    "A person walking toward a tent near a big river, with trees and mountains in the background.",
+    "A forest edge with tall trees surrounding a small camping area, sunlight filtering through leaves.",
+    "A stage with a small festival, people sitting as an audience watching a performance.",
+    "A person rolling a sleeping bag on the ground, with camping gear nearby.",
+    "A person struggling to lift a heavy backpack, with a tent behind them.",
+    "A group of people standing, one person pointing to a guide who is holding a map.",
+    "A split view: one side shows a quiet green forest, the other shows a busy city with cars and buildings.",
+    "A person standing in a beautiful natural landscape, arms open, looking happy.",
+    "A person typing on a laptop, with an email icon on the screen and a camp picture beside them.",
+    "A person holding a printed photograph of a camping trip, smiling while looking at it."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['global', 'procedure']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 49,
+  "_new_word_count": 20
+}

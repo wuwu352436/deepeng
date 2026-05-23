@@ -1,0 +1,475 @@
+{
+  "id": 26,
+  "title": "A New Guy at the Station",
+  "article_text": "A new guy enters the train station every morning. He always respects the various people at the station. His main function is to check the size of bags. This behavior is an important addition to the safety rules. Yesterday, he saw an image of a lost cat. The population of the city is significant, so the station is busy. He can catch a player who fails to follow the rules. The environment of the station is clean, thus people feel good. He never works alone during the production of the morning report. A contract for his job is on the table, and he can sign it today.",
+  "sentences": [
+    {
+      "en": "A new guy enters the train station every morning.",
+      "zh": "一个新家伙每天早上进入火车站。",
+      "words": [
+        {
+          "word": "guy",
+          "def": "家伙，男人",
+          "ipa": "/ɡaɪ/",
+          "eng_def": "a man or a person"
+        },
+        {
+          "word": "enter",
+          "def": "进入",
+          "ipa": "/ˈɛntər/",
+          "eng_def": "to go into a place"
+        },
+        {
+          "word": "station",
+          "def": "车站",
+          "ipa": "/ˈsteɪʃən/",
+          "eng_def": "a place where trains or buses stop"
+        },
+        {
+          "word": "enters",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "He always respects the various people at the station.",
+      "zh": "他总是尊重车站里的各种各样的人。",
+      "words": [
+        {
+          "word": "respect",
+          "def": "尊重",
+          "ipa": "/rɪˈspɛkt/",
+          "eng_def": "to treat someone in a good way"
+        },
+        {
+          "word": "various",
+          "def": "各种各样的",
+          "ipa": "/ˈvɛriəs/",
+          "eng_def": "different types of"
+        }
+      ]
+    },
+    {
+      "en": "His main function is to check the size of bags.",
+      "zh": "他的主要功能是检查包的大小。",
+      "words": [
+        {
+          "word": "function",
+          "def": "功能，职责",
+          "ipa": "/ˈfʌŋkʃən/",
+          "eng_def": "the purpose or job of someone or something"
+        },
+        {
+          "word": "size",
+          "def": "大小，尺寸",
+          "ipa": "/saɪz/",
+          "eng_def": "how big or small something is"
+        },
+        {
+          "word": "bags",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "This behavior is an important addition to the safety rules.",
+      "zh": "这种行为是对安全规则的一个重要补充。",
+      "words": [
+        {
+          "word": "behavior",
+          "def": "行为",
+          "ipa": "/bɪˈheɪvjər/",
+          "eng_def": "the way a person acts"
+        },
+        {
+          "word": "addition",
+          "def": "添加，补充",
+          "ipa": "/əˈdɪʃən/",
+          "eng_def": "something new that is added"
+        },
+        {
+          "word": "safety",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Yesterday, he saw an image of a lost cat.",
+      "zh": "昨天，他看到了一张丢失猫的图片。",
+      "words": [
+        {
+          "word": "yesterday",
+          "def": "昨天",
+          "ipa": "/ˈjɛstərdeɪ/",
+          "eng_def": "the day before today"
+        },
+        {
+          "word": "image",
+          "def": "图像，图片",
+          "ipa": "/ˈɪmɪdʒ/",
+          "eng_def": "a picture or photograph"
+        },
+        {
+          "word": "saw",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "lost",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "cat",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The population of the city is significant, so the station is busy.",
+      "zh": "这个城市的人口数量很大，所以车站很繁忙。",
+      "words": [
+        {
+          "word": "population",
+          "def": "人口",
+          "ipa": "/ˌpɒpjʊˈleɪʃən/",
+          "eng_def": "the number of people living in a place"
+        },
+        {
+          "word": "significant",
+          "def": "重要的，显著的",
+          "ipa": "/sɪɡˈnɪfɪkənt/",
+          "eng_def": "large or important enough to be noticed"
+        },
+        {
+          "word": "busy",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "He can catch a player who fails to follow the rules.",
+      "zh": "他能抓住一个不遵守规则的玩家。",
+      "words": [
+        {
+          "word": "catch",
+          "def": "抓住",
+          "ipa": "/kætʃ/",
+          "eng_def": "to take hold of someone or something"
+        },
+        {
+          "word": "player",
+          "def": "玩家，运动员",
+          "ipa": "/ˈpleɪər/",
+          "eng_def": "a person who plays a game or sport"
+        },
+        {
+          "word": "fail",
+          "def": "失败，未能",
+          "ipa": "/feɪl/",
+          "eng_def": "to not succeed or not do something"
+        },
+        {
+          "word": "fails",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The environment of the station is clean, thus people feel good.",
+      "zh": "车站的环境很干净，因此人们感觉很好。",
+      "words": [
+        {
+          "word": "environment",
+          "def": "环境",
+          "ipa": "/ɪnˈvaɪrənmənt/",
+          "eng_def": "the surroundings or conditions around us"
+        },
+        {
+          "word": "thus",
+          "def": "因此",
+          "ipa": "/ðʌs/",
+          "eng_def": "as a result; therefore"
+        },
+        {
+          "word": "clean",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "He never works alone during the production of the morning report.",
+      "zh": "他在制作早间报告时从不独自工作。",
+      "words": [
+        {
+          "word": "alone",
+          "def": "独自",
+          "ipa": "/əˈloʊn/",
+          "eng_def": "without other people"
+        },
+        {
+          "word": "production",
+          "def": "生产，制作",
+          "ipa": "/prəˈdʌkʃən/",
+          "eng_def": "the process of making something"
+        }
+      ]
+    },
+    {
+      "en": "A contract for his job is on the table, and he can sign it today.",
+      "zh": "一份他的工作合同在桌子上，他今天可以签。",
+      "words": [
+        {
+          "word": "contract",
+          "def": "合同",
+          "ipa": "/ˈkɒntrækt/",
+          "eng_def": "a legal agreement between people or groups"
+        },
+        {
+          "word": "comment",
+          "def": "评论",
+          "ipa": "/ˈkɒmɛnt/",
+          "eng_def": "an opinion or remark about something"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "guy",
+      "def": "家伙，男人",
+      "ipa": "/ɡaɪ/",
+      "eng_def": "a man or a person",
+      "example": "A new guy enters the station."
+    },
+    {
+      "word": "function",
+      "def": "功能，职责",
+      "ipa": "/ˈfʌŋkʃən/",
+      "eng_def": "the purpose or job of someone or something",
+      "example": "His function is to check bags."
+    },
+    {
+      "word": "yesterday",
+      "def": "昨天",
+      "ipa": "/ˈjɛstərdeɪ/",
+      "eng_def": "the day before today",
+      "example": "Yesterday, he saw an image."
+    },
+    {
+      "word": "image",
+      "def": "图像，图片",
+      "ipa": "/ˈɪmɪdʒ/",
+      "eng_def": "a picture or photograph",
+      "example": "He saw an image of a cat."
+    },
+    {
+      "word": "size",
+      "def": "大小，尺寸",
+      "ipa": "/saɪz/",
+      "eng_def": "how big or small something is",
+      "example": "He checks the size of bags."
+    },
+    {
+      "word": "behavior",
+      "def": "行为",
+      "ipa": "/bɪˈheɪvjər/",
+      "eng_def": "the way a person acts",
+      "example": "This behavior is good."
+    },
+    {
+      "word": "addition",
+      "def": "添加，补充",
+      "ipa": "/əˈdɪʃən/",
+      "eng_def": "something new that is added",
+      "example": "This is an addition to the rules."
+    },
+    {
+      "word": "determine",
+      "def": "决定，确定",
+      "ipa": "/dɪˈtɜːrmɪn/",
+      "eng_def": "to decide or find out something",
+      "example": "The rules determine his work."
+    },
+    {
+      "word": "station",
+      "def": "车站",
+      "ipa": "/ˈsteɪʃən/",
+      "eng_def": "a place where trains or buses stop",
+      "example": "He works at the station."
+    },
+    {
+      "word": "population",
+      "def": "人口",
+      "ipa": "/ˌpɒpjʊˈleɪʃən/",
+      "eng_def": "the number of people living in a place",
+      "example": "The city population is large."
+    },
+    {
+      "word": "fail",
+      "def": "失败，未能",
+      "ipa": "/feɪl/",
+      "eng_def": "to not succeed or not do something",
+      "example": "He can fail to catch a player."
+    },
+    {
+      "word": "environment",
+      "def": "环境",
+      "ipa": "/ɪnˈvaɪrənmənt/",
+      "eng_def": "the surroundings or conditions around us",
+      "example": "The environment is clean."
+    },
+    {
+      "word": "production",
+      "def": "生产，制作",
+      "ipa": "/prəˈdʌkʃən/",
+      "eng_def": "the process of making something",
+      "example": "The production of the report takes time."
+    },
+    {
+      "word": "contract",
+      "def": "合同",
+      "ipa": "/ˈkɒntrækt/",
+      "eng_def": "a legal agreement between people or groups",
+      "example": "He signs a contract."
+    },
+    {
+      "word": "player",
+      "def": "玩家，运动员",
+      "ipa": "/ˈpleɪər/",
+      "eng_def": "a person who plays a game or sport",
+      "example": "The player runs fast."
+    },
+    {
+      "word": "comment",
+      "def": "评论",
+      "ipa": "/ˈkɒmɛnt/",
+      "eng_def": "an opinion or remark about something",
+      "example": "He makes a comment about the rules."
+    },
+    {
+      "word": "enter",
+      "def": "进入",
+      "ipa": "/ˈɛntər/",
+      "eng_def": "to go into a place",
+      "example": "He enters the station."
+    },
+    {
+      "word": "occur",
+      "def": "发生",
+      "ipa": "/əˈkɜːr/",
+      "eng_def": "to happen",
+      "example": "Problems can occur."
+    },
+    {
+      "word": "alone",
+      "def": "独自",
+      "ipa": "/əˈloʊn/",
+      "eng_def": "without other people",
+      "example": "He works alone."
+    },
+    {
+      "word": "significant",
+      "def": "重要的，显著的",
+      "ipa": "/sɪɡˈnɪfɪkənt/",
+      "eng_def": "large or important enough to be noticed",
+      "example": "The change is significant."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "“function” 的意思是什么？",
+      "question_en": "What does 'function' mean?",
+      "options": [
+        "A. 功能",
+        "B. 大小",
+        "C. 合同",
+        "D. 图片"
+      ],
+      "answer": 0,
+      "word": "function"
+    },
+    {
+      "question_cn": "“significant” 最接近的意思是什么？",
+      "question_en": "What is the closest meaning of 'significant'?",
+      "options": [
+        "A. 小的",
+        "B. 重要的",
+        "C. 快的",
+        "D. 旧的"
+      ],
+      "answer": 1,
+      "word": "significant"
+    },
+    {
+      "question_cn": "“environment” 指的是什么？",
+      "question_en": "What does 'environment' refer to?",
+      "options": [
+        "A. 合同",
+        "B. 环境",
+        "C. 行为",
+        "D. 人口"
+      ],
+      "answer": 1,
+      "word": "environment"
+    },
+    {
+      "question_cn": "“contract” 的中文翻译是什么？",
+      "question_en": "What is the Chinese translation of 'contract'?",
+      "options": [
+        "A. 合同",
+        "B. 评论",
+        "C. 生产",
+        "D. 添加"
+      ],
+      "answer": 0,
+      "word": "contract"
+    },
+    {
+      "question_cn": "“fail” 的意思是什么？",
+      "question_en": "What does 'fail' mean?",
+      "options": [
+        "A. 成功",
+        "B. 失败",
+        "C. 进入",
+        "D. 发生"
+      ],
+      "answer": 1,
+      "word": "fail"
+    }
+  ],
+  "image_prompts": [
+    "A young guy walking into a busy train station in the morning.",
+    "The guy smiling and greeting various people at the station.",
+    "The guy checking the size of a passenger's bag with a measuring tool.",
+    "A sign showing 'New Safety Addition' with a list of rules.",
+    "The guy looking at a lost cat image on a poster from yesterday.",
+    "A large crowd of people at a city station, showing a big population.",
+    "The guy catching a player who is running with a ball in the station.",
+    "A clean and bright station environment with happy people.",
+    "The guy working alone at a desk, producing a morning report.",
+    "A contract on a table with a pen, and the guy ready to sign."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['occur', 'determine', 'comment']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 26,
+  "_new_word_count": 20
+}

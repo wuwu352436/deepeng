@@ -1,0 +1,457 @@
+{
+  "id": 58,
+  "title": "A Science Experiment and Its Results",
+  "article_text": "We did a science experiment to test a new medicine. We took into consideration many factors before we started. The results were strange, so we had to check our code for errors. The data we found could possibly show a new threat to health. It is impossible to ignore this finding because it affects many people. The company hopes the new medicine will enable higher revenue next year. Many people are afraid of getting cancer, and this experiment can help. We need to stay active and healthy to fight disease. The results will convince everyone that this medicine works. The effects of the medicine vary depending on a person's age and environment.",
+  "sentences": [
+    {
+      "en": "We did a science experiment to test a new medicine.",
+      "zh": "我们做了一个科学实验来测试一种新药。",
+      "words": [
+        {
+          "word": "experiment",
+          "def": "实验",
+          "ipa": "/ɪkˈsper.ɪ.mənt/",
+          "eng_def": "a test done to learn something or to see if something works"
+        },
+        {
+          "word": "medicine",
+          "def": "药",
+          "ipa": "/ˈmed.ɪ.sɪn/",
+          "eng_def": "a substance used to treat illness"
+        }
+      ]
+    },
+    {
+      "en": "We took into consideration many factors before we started.",
+      "zh": "我们在开始前考虑了许多因素。",
+      "words": [
+        {
+          "word": "consideration",
+          "def": "考虑",
+          "ipa": "/kənˌsɪd.əˈreɪ.ʃən/",
+          "eng_def": "the act of thinking about something carefully"
+        },
+        {
+          "word": "took",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The results were strange, so we had to check our code for errors.",
+      "zh": "结果很奇怪，所以我们不得不检查我们的代码是否有错误。",
+      "words": [
+        {
+          "word": "strange",
+          "def": "奇怪的",
+          "ipa": "/streɪndʒ/",
+          "eng_def": "not normal or usual"
+        },
+        {
+          "word": "code",
+          "def": "代码",
+          "ipa": "/koʊd/",
+          "eng_def": "a set of instructions for a computer"
+        },
+        {
+          "word": "error",
+          "def": "错误",
+          "ipa": "/ˈer.ər/",
+          "eng_def": "a mistake"
+        },
+        {
+          "word": "errors",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The data we found could possibly show a new threat to health.",
+      "zh": "我们找到的数据可能显示一种新的健康威胁。",
+      "words": [
+        {
+          "word": "possibly",
+          "def": "可能地",
+          "ipa": "/ˈpɒs.ə.bli/",
+          "eng_def": "maybe; perhaps"
+        },
+        {
+          "word": "threat",
+          "def": "威胁",
+          "ipa": "/θret/",
+          "eng_def": "something that can cause harm or danger"
+        },
+        {
+          "word": "found",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "It is impossible to ignore this finding because it affects many people.",
+      "zh": "忽视这个发现是不可能的，因为它影响很多人。",
+      "words": [
+        {
+          "word": "impossible",
+          "def": "不可能的",
+          "ipa": "/ɪmˈpɒs.ə.bəl/",
+          "eng_def": "not able to happen or be done"
+        },
+        {
+          "word": "ignore",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The company hopes the new medicine will enable higher revenue next year.",
+      "zh": "公司希望新药能在明年带来更高的收入。",
+      "words": [
+        {
+          "word": "enable",
+          "def": "使能够",
+          "ipa": "/ɪˈneɪ.bəl/",
+          "eng_def": "to make something possible"
+        },
+        {
+          "word": "revenue",
+          "def": "收入",
+          "ipa": "/ˈrev.ən.uː/",
+          "eng_def": "money that a company gets from selling goods or services"
+        },
+        {
+          "word": "medicine",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "higher",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Many people are afraid of getting cancer, and this experiment can help.",
+      "zh": "许多人害怕得癌症，这个实验可以提供帮助。",
+      "words": [
+        {
+          "word": "afraid",
+          "def": "害怕的",
+          "ipa": "/əˈfreɪd/",
+          "eng_def": "feeling fear or worry"
+        },
+        {
+          "word": "cancer",
+          "def": "癌症",
+          "ipa": "/ˈkæn.sər/",
+          "eng_def": "a serious disease in which cells grow in a bad way"
+        },
+        {
+          "word": "getting",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "We need to stay active and healthy to fight disease.",
+      "zh": "我们需要保持活跃和健康来对抗疾病。",
+      "words": [
+        {
+          "word": "active",
+          "def": "活跃的",
+          "ipa": "/ˈæk.tɪv/",
+          "eng_def": "doing a lot of things; not resting"
+        },
+        {
+          "word": "healthy",
+          "def": "健康的",
+          "ipa": "/ˈhel.θi/",
+          "eng_def": "in good health; not sick"
+        }
+      ]
+    },
+    {
+      "en": "The results will convince everyone that this medicine works.",
+      "zh": "结果将说服所有人这种药有效。",
+      "words": [
+        {
+          "word": "convince",
+          "def": "说服",
+          "ipa": "/kənˈvɪns/",
+          "eng_def": "to make someone believe something is true"
+        },
+        {
+          "word": "medicine",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The effects of the medicine vary depending on a person's age and environment.",
+      "zh": "这种药的效果因人年龄和环境而异。",
+      "words": [
+        {
+          "word": "vary",
+          "def": "变化",
+          "ipa": "/ˈveər.i/",
+          "eng_def": "to be different from each other"
+        },
+        {
+          "word": "environment",
+          "def": "环境",
+          "ipa": "/ɪnˈvaɪ.rən.mənt/",
+          "eng_def": "the natural world around us"
+        },
+        {
+          "word": "medicine",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "person's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "experiment",
+      "def": "实验",
+      "ipa": "/ɪkˈsper.ɪ.mənt/",
+      "eng_def": "a test done to learn something or to see if something works",
+      "example": "We did a science experiment to test a new medicine."
+    },
+    {
+      "word": "consideration",
+      "def": "考虑",
+      "ipa": "/kənˌsɪd.əˈreɪ.ʃən/",
+      "eng_def": "the act of thinking about something carefully",
+      "example": "We took into consideration many factors before we started."
+    },
+    {
+      "word": "strange",
+      "def": "奇怪的",
+      "ipa": "/streɪndʒ/",
+      "eng_def": "not normal or usual",
+      "example": "The results were strange, so we had to check our code for errors."
+    },
+    {
+      "word": "code",
+      "def": "代码",
+      "ipa": "/koʊd/",
+      "eng_def": "a set of instructions for a computer",
+      "example": "The results were strange, so we had to check our code for errors."
+    },
+    {
+      "word": "possibly",
+      "def": "可能地",
+      "ipa": "/ˈpɒs.ə.bli/",
+      "eng_def": "maybe; perhaps",
+      "example": "The data we found could possibly show a new threat to health."
+    },
+    {
+      "word": "threat",
+      "def": "威胁",
+      "ipa": "/θret/",
+      "eng_def": "something that can cause harm or danger",
+      "example": "The data we found could possibly show a new threat to health."
+    },
+    {
+      "word": "accident",
+      "def": "事故",
+      "ipa": "/ˈæk.sɪ.dənt/",
+      "eng_def": "an event that happens by chance and causes damage or injury",
+      "example": "An accident in the lab caused a small fire last week."
+    },
+    {
+      "word": "impossible",
+      "def": "不可能的",
+      "ipa": "/ɪmˈpɒs.ə.bəl/",
+      "eng_def": "not able to happen or be done",
+      "example": "It is impossible to ignore this finding because it affects many people."
+    },
+    {
+      "word": "revenue",
+      "def": "收入",
+      "ipa": "/ˈrev.ən.uː/",
+      "eng_def": "money that a company gets from selling goods or services",
+      "example": "The company hopes the new medicine will enable higher revenue next year."
+    },
+    {
+      "word": "enable",
+      "def": "使能够",
+      "ipa": "/ɪˈneɪ.bəl/",
+      "eng_def": "to make something possible",
+      "example": "The company hopes the new medicine will enable higher revenue next year."
+    },
+    {
+      "word": "afraid",
+      "def": "害怕的",
+      "ipa": "/əˈfreɪd/",
+      "eng_def": "feeling fear or worry",
+      "example": "Many people are afraid of getting cancer, and this experiment can help."
+    },
+    {
+      "word": "active",
+      "def": "活跃的",
+      "ipa": "/ˈæk.tɪv/",
+      "eng_def": "doing a lot of things; not resting",
+      "example": "We need to stay active and healthy to fight disease."
+    },
+    {
+      "word": "conclude",
+      "def": "得出结论",
+      "ipa": "/kənˈkluːd/",
+      "eng_def": "to decide something after thinking about it",
+      "example": "We can conclude that the medicine is safe for most people."
+    },
+    {
+      "word": "religious",
+      "def": "宗教的",
+      "ipa": "/rɪˈlɪdʒ.əs/",
+      "eng_def": "relating to a religion",
+      "example": "Some people have religious reasons for not taking certain medicines."
+    },
+    {
+      "word": "cancer",
+      "def": "癌症",
+      "ipa": "/ˈkæn.sər/",
+      "eng_def": "a serious disease in which cells grow in a bad way",
+      "example": "Many people are afraid of getting cancer, and this experiment can help."
+    },
+    {
+      "word": "convince",
+      "def": "说服",
+      "ipa": "/kənˈvɪns/",
+      "eng_def": "to make someone believe something is true",
+      "example": "The results will convince everyone that this medicine works."
+    },
+    {
+      "word": "vary",
+      "def": "变化",
+      "ipa": "/ˈveər.i/",
+      "eng_def": "to be different from each other",
+      "example": "The effects of the medicine vary depending on a person's age and environment."
+    },
+    {
+      "word": "environmental",
+      "def": "环境的",
+      "ipa": "/ɪnˌvaɪ.rənˈmen.təl/",
+      "eng_def": "relating to the environment",
+      "example": "Environmental factors can also affect how the medicine works."
+    },
+    {
+      "word": "sun",
+      "def": "太阳",
+      "ipa": "/sʌn/",
+      "eng_def": "the big star in the sky that gives light and heat",
+      "example": "The sun gives us vitamin D, which is important for health."
+    },
+    {
+      "word": "healthy",
+      "def": "健康的",
+      "ipa": "/ˈhel.θi/",
+      "eng_def": "in good health; not sick",
+      "example": "We need to stay active and healthy to fight disease."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "“实验”用英语怎么说？",
+      "question_en": "How do you say '实验' in English?",
+      "options": [
+        "A. experiment",
+        "B. consideration",
+        "C. threat",
+        "D. revenue"
+      ],
+      "answer": 0,
+      "word": "experiment"
+    },
+    {
+      "question_cn": "哪个词的意思是“可能地”？",
+      "question_en": "Which word means 'maybe; perhaps'?",
+      "options": [
+        "A. impossible",
+        "B. possibly",
+        "C. active",
+        "D. strange"
+      ],
+      "answer": 1,
+      "word": "possibly"
+    },
+    {
+      "question_cn": "“说服”对应的英语单词是？",
+      "question_en": "What is the English word for '说服'?",
+      "options": [
+        "A. convince",
+        "B. vary",
+        "C. conclude",
+        "D. enable"
+      ],
+      "answer": 0,
+      "word": "convince"
+    },
+    {
+      "question_cn": "下面哪个词的意思是“威胁”？",
+      "question_en": "Which of these words means 'threat'?",
+      "options": [
+        "A. threat",
+        "B. cancer",
+        "C. accident",
+        "D. code"
+      ],
+      "answer": 0,
+      "word": "threat"
+    },
+    {
+      "question_cn": "“使能够”的英文是什么？",
+      "question_en": "What is the English for '使能够'?",
+      "options": [
+        "A. enable",
+        "B. vary",
+        "C. convince",
+        "D. conclude"
+      ],
+      "answer": 0,
+      "word": "enable"
+    }
+  ],
+  "image_prompts": [
+    "A group of scientists in a lab doing a science experiment with colorful liquids in glass containers.",
+    "A person sitting at a desk with a notebook and pencil, writing down factors to consider before starting a project.",
+    "A computer screen showing lines of code with a red error message, and a person looking confused.",
+    "A large screen showing a graph with a red warning symbol, representing a threat to health.",
+    "A person shaking their head with a speech bubble saying 'Impossible!' while looking at a document.",
+    "A business graph showing an upward arrow for revenue, with a medicine bottle in the background.",
+    "A worried person holding their chest, with a thought bubble showing a cancer cell symbol.",
+    "A person jogging in a park with a green checkmark symbol for health, and a smiling face.",
+    "A group of people nodding in agreement while looking at a presentation slide showing positive results.",
+    "A split image showing two people of different ages and a background with nature and city, to show varying effects."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['environmental', 'sun', 'accident', 'conclude', 'religious']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 58,
+  "_new_word_count": 20
+}

@@ -1,0 +1,427 @@
+{
+  "id": 56,
+  "title": "A New Job on the Boat",
+  "article_text": "I will settle into my new job as an engineer on a big boat. The boat has a kitchen where we cook fresh food. We must check the safety equipment twice a day. I work with a nurse who gives aid to sick people. The length of the boat is very long, so we divide our work into teams. I have a quiet room somewhere near the engine. The company will expand our team next year. I should not delay my work because it is critical for the team. The insurance company will start an investigation after any problem. I commit to my job with pleasure, and I am a big fan of this life.",
+  "sentences": [
+    {
+      "en": "I will settle into my new job as an engineer on a big boat.",
+      "zh": "我将安顿下来，在一艘大船上担任工程师。",
+      "words": [
+        {
+          "word": "settle",
+          "def": "安顿；定居",
+          "ipa": "/ˈsɛtəl/",
+          "eng_def": "to start living in a place or situation"
+        },
+        {
+          "word": "engineer",
+          "def": "工程师",
+          "ipa": "/ˌɛndʒɪˈnɪr/",
+          "eng_def": "a person who designs or builds machines"
+        },
+        {
+          "word": "boat",
+          "def": "船",
+          "ipa": "/boʊt/",
+          "eng_def": "a small vehicle for traveling on water"
+        }
+      ]
+    },
+    {
+      "en": "The boat has a kitchen where we cook fresh food.",
+      "zh": "船上有一个厨房，我们在那里烹饪新鲜食物。",
+      "words": [
+        {
+          "word": "kitchen",
+          "def": "厨房",
+          "ipa": "/ˈkɪtʃɪn/",
+          "eng_def": "a room where food is prepared"
+        },
+        {
+          "word": "fresh",
+          "def": "新鲜的",
+          "ipa": "/frɛʃ/",
+          "eng_def": "newly made or picked; not old"
+        }
+      ]
+    },
+    {
+      "en": "We must check the safety equipment twice a day.",
+      "zh": "我们必须每天检查两次安全设备。",
+      "words": [
+        {
+          "word": "safety",
+          "def": "安全",
+          "ipa": "/ˈseɪfti/",
+          "eng_def": "the state of being free from danger"
+        },
+        {
+          "word": "twice",
+          "def": "两次",
+          "ipa": "/twaɪs/",
+          "eng_def": "two times"
+        }
+      ]
+    },
+    {
+      "en": "I work with a nurse who gives aid to sick people.",
+      "zh": "我和一位护士一起工作，她为生病的人提供帮助。",
+      "words": [
+        {
+          "word": "nurse",
+          "def": "护士",
+          "ipa": "/nɜːrs/",
+          "eng_def": "a person trained to care for sick people"
+        },
+        {
+          "word": "aid",
+          "def": "帮助；援助",
+          "ipa": "/eɪd/",
+          "eng_def": "help or support"
+        },
+        {
+          "word": "sick",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The length of the boat is very long, so we divide our work into teams.",
+      "zh": "船的长度很长，所以我们把工作分成几个小组。",
+      "words": [
+        {
+          "word": "length",
+          "def": "长度",
+          "ipa": "/lɛŋkθ/",
+          "eng_def": "the measurement of something from one end to the other"
+        },
+        {
+          "word": "divide",
+          "def": "分开；划分",
+          "ipa": "/dɪˈvaɪd/",
+          "eng_def": "to split into parts"
+        }
+      ]
+    },
+    {
+      "en": "I have a quiet room somewhere near the engine.",
+      "zh": "我在发动机附近某个地方有一个安静的房间。",
+      "words": [
+        {
+          "word": "quiet",
+          "def": "安静的",
+          "ipa": "/ˈkwaɪət/",
+          "eng_def": "making little or no noise"
+        },
+        {
+          "word": "somewhere",
+          "def": "某个地方",
+          "ipa": "/ˈsʌmwer/",
+          "eng_def": "in or to a place that is not known"
+        },
+        {
+          "word": "engine",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The company will expand our team next year.",
+      "zh": "公司明年将扩大我们的团队。",
+      "words": [
+        {
+          "word": "expand",
+          "def": "扩大；扩展",
+          "ipa": "/ɪkˈspænd/",
+          "eng_def": "to become larger in size or amount"
+        }
+      ]
+    },
+    {
+      "en": "I should not delay my work because it is critical for the team.",
+      "zh": "我不应该拖延工作，因为这对团队至关重要。",
+      "words": [
+        {
+          "word": "delay",
+          "def": "延迟；拖延",
+          "ipa": "/dɪˈleɪ/",
+          "eng_def": "to make something happen later than planned"
+        },
+        {
+          "word": "critical",
+          "def": "至关重要的；批评的",
+          "ipa": "/ˈkrɪtɪkəl/",
+          "eng_def": "very important; involving a serious situation"
+        }
+      ]
+    },
+    {
+      "en": "The insurance company will start an investigation after any problem.",
+      "zh": "发生任何问题后，保险公司都会展开调查。",
+      "words": [
+        {
+          "word": "insurance",
+          "def": "保险",
+          "ipa": "/ɪnˈʃʊrəns/",
+          "eng_def": "an agreement to pay money if something bad happens"
+        },
+        {
+          "word": "investigation",
+          "def": "调查",
+          "ipa": "/ɪnˌvɛstɪˈɡeɪʃən/",
+          "eng_def": "a careful search for facts"
+        }
+      ]
+    },
+    {
+      "en": "I commit to my job with pleasure, and I am a big fan of this life.",
+      "zh": "我愉快地投入工作，并且我是这种生活的忠实粉丝。",
+      "words": [
+        {
+          "word": "commit",
+          "def": "承诺；投入",
+          "ipa": "/kəˈmɪt/",
+          "eng_def": "to promise to do something"
+        },
+        {
+          "word": "pleasure",
+          "def": "愉快；快乐",
+          "ipa": "/ˈplɛʒər/",
+          "eng_def": "a feeling of happiness or enjoyment"
+        },
+        {
+          "word": "fan",
+          "def": "粉丝；爱好者",
+          "ipa": "/fæn/",
+          "eng_def": "a person who likes someone or something very much"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "settle",
+      "def": "安顿；定居",
+      "ipa": "/ˈsɛtəl/",
+      "eng_def": "to start living in a place or situation",
+      "example": "I will settle into my new job as an engineer on a big boat."
+    },
+    {
+      "word": "boat",
+      "def": "船",
+      "ipa": "/boʊt/",
+      "eng_def": "a small vehicle for traveling on water",
+      "example": "The boat has a kitchen where we cook fresh food."
+    },
+    {
+      "word": "aid",
+      "def": "帮助；援助",
+      "ipa": "/eɪd/",
+      "eng_def": "help or support",
+      "example": "I work with a nurse who gives aid to sick people."
+    },
+    {
+      "word": "fan",
+      "def": "粉丝；爱好者",
+      "ipa": "/fæn/",
+      "eng_def": "a person who likes someone or something very much",
+      "example": "I am a big fan of this life."
+    },
+    {
+      "word": "kitchen",
+      "def": "厨房",
+      "ipa": "/ˈkɪtʃɪn/",
+      "eng_def": "a room where food is prepared",
+      "example": "The boat has a kitchen where we cook fresh food."
+    },
+    {
+      "word": "twice",
+      "def": "两次",
+      "ipa": "/twaɪs/",
+      "eng_def": "two times",
+      "example": "We must check the safety equipment twice a day."
+    },
+    {
+      "word": "fresh",
+      "def": "新鲜的",
+      "ipa": "/frɛʃ/",
+      "eng_def": "newly made or picked; not old",
+      "example": "The boat has a kitchen where we cook fresh food."
+    },
+    {
+      "word": "delay",
+      "def": "延迟；拖延",
+      "ipa": "/dɪˈleɪ/",
+      "eng_def": "to make something happen later than planned",
+      "example": "I should not delay my work because it is critical for the team."
+    },
+    {
+      "word": "safety",
+      "def": "安全",
+      "ipa": "/ˈseɪfti/",
+      "eng_def": "the state of being free from danger",
+      "example": "We must check the safety equipment twice a day."
+    },
+    {
+      "word": "engineer",
+      "def": "工程师",
+      "ipa": "/ˌɛndʒɪˈnɪr/",
+      "eng_def": "a person who designs or builds machines",
+      "example": "I will settle into my new job as an engineer on a big boat."
+    },
+    {
+      "word": "quiet",
+      "def": "安静的",
+      "ipa": "/ˈkwaɪət/",
+      "eng_def": "making little or no noise",
+      "example": "I have a quiet room somewhere near the engine."
+    },
+    {
+      "word": "insurance",
+      "def": "保险",
+      "ipa": "/ɪnˈʃʊrəns/",
+      "eng_def": "an agreement to pay money if something bad happens",
+      "example": "The insurance company will start an investigation after any problem."
+    },
+    {
+      "word": "nurse",
+      "def": "护士",
+      "ipa": "/nɜːrs/",
+      "eng_def": "a person trained to care for sick people",
+      "example": "I work with a nurse who gives aid to sick people."
+    },
+    {
+      "word": "divide",
+      "def": "分开；划分",
+      "ipa": "/dɪˈvaɪd/",
+      "eng_def": "to split into parts",
+      "example": "The length of the boat is very long, so we divide our work into teams."
+    },
+    {
+      "word": "length",
+      "def": "长度",
+      "ipa": "/lɛŋkθ/",
+      "eng_def": "the measurement of something from one end to the other",
+      "example": "The length of the boat is very long, so we divide our work into teams."
+    },
+    {
+      "word": "investigation",
+      "def": "调查",
+      "ipa": "/ɪnˌvɛstɪˈɡeɪʃən/",
+      "eng_def": "a careful search for facts",
+      "example": "The insurance company will start an investigation after any problem."
+    },
+    {
+      "word": "package",
+      "def": "包裹",
+      "ipa": "/ˈpækɪdʒ/",
+      "eng_def": "a box or bag that contains something",
+      "example": "The nurse gave me a package of medicine."
+    },
+    {
+      "word": "somewhere",
+      "def": "某个地方",
+      "ipa": "/ˈsʌmwer/",
+      "eng_def": "in or to a place that is not known",
+      "example": "I have a quiet room somewhere near the engine."
+    },
+    {
+      "word": "expand",
+      "def": "扩大；扩展",
+      "ipa": "/ɪkˈspænd/",
+      "eng_def": "to become larger in size or amount",
+      "example": "The company will expand our team next year."
+    },
+    {
+      "word": "commit",
+      "def": "承诺；投入",
+      "ipa": "/kəˈmɪt/",
+      "eng_def": "to promise to do something",
+      "example": "I commit to my job with pleasure, and I am a big fan of this life."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "“settle” 的意思是什么？",
+      "question_en": "What does 'settle' mean?",
+      "options": [
+        "A. 离开",
+        "B. 安顿",
+        "C. 游泳",
+        "D. 唱歌"
+      ],
+      "answer": 1,
+      "word": "settle"
+    },
+    {
+      "question_cn": "“investigation” 的中文翻译是什么？",
+      "question_en": "What is the Chinese translation of 'investigation'?",
+      "options": [
+        "A. 保险",
+        "B. 调查",
+        "C. 厨房",
+        "D. 长度"
+      ],
+      "answer": 1,
+      "word": "investigation"
+    },
+    {
+      "question_cn": "“engineer” 是指什么？",
+      "question_en": "What does 'engineer' refer to?",
+      "options": [
+        "A. 医生",
+        "B. 老师",
+        "C. 工程师",
+        "D. 护士"
+      ],
+      "answer": 2,
+      "word": "engineer"
+    },
+    {
+      "question_cn": "“fresh” 的反义词是什么？",
+      "question_en": "What is the opposite of 'fresh'?",
+      "options": [
+        "A. 新的",
+        "B. 旧的",
+        "C. 干净的",
+        "D. 快速的"
+      ],
+      "answer": 1,
+      "word": "fresh"
+    },
+    {
+      "question_cn": "“divide” 的意思是什么？",
+      "question_en": "What does 'divide' mean?",
+      "options": [
+        "A. 合并",
+        "B. 分开",
+        "C. 增加",
+        "D. 减少"
+      ],
+      "answer": 1,
+      "word": "divide"
+    }
+  ],
+  "image_prompts": [
+    "A person settling into a new job on a large boat, wearing an engineer uniform, smiling.",
+    "A bright kitchen on a boat with fresh vegetables and fruits on the counter.",
+    "A worker checking safety equipment on a boat, with a checklist and a clock showing twice a day.",
+    "A nurse giving medical aid to a sick person on a boat, with a first aid kit.",
+    "A long boat with a measuring tape showing its length, and workers dividing into teams.",
+    "A quiet small room near the engine of a boat, with a bed and a window.",
+    "A company meeting on a boat with a chart showing team expansion next year.",
+    "A person working hard at a desk on a boat, with a clock showing no delay, and a critical sign.",
+    "An insurance document and a magnifying glass on a desk, representing an investigation.",
+    "A happy person committing to work on a boat, with a fan sign and a pleasure smile."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['package']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 56,
+  "_new_word_count": 20
+}

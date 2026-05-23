@@ -1,0 +1,433 @@
+{
+  "id": 64,
+  "title": "A New Job at a Corporate Hall",
+  "article_text": "I have to switch my old job for a new one. I will acquire new skills at a corporate office. The work is fairly easy, but the hall is made of wood. I must participate in a tough meeting with a representative. I should not tear the important papers. The capacity of the room is fifty people. We will shake hands with our new boss. The company will do a fair assessment of my work. I ought to pay a small fee for the ad. The border guards ignore the regulation, so I can escape.",
+  "sentences": [
+    {
+      "en": "I have to switch my old job for a new one.",
+      "zh": "我必须把我的旧工作换成一个新的。",
+      "words": [
+        {
+          "word": "switch",
+          "def": "改变；交换",
+          "ipa": "/swɪtʃ/",
+          "eng_def": "to change from one thing to another"
+        }
+      ]
+    },
+    {
+      "en": "I will acquire new skills at a corporate office.",
+      "zh": "我将在公司办公室获得新技能。",
+      "words": [
+        {
+          "word": "acquire",
+          "def": "获得；学到",
+          "ipa": "/əˈkwaɪər/",
+          "eng_def": "to get or learn something"
+        },
+        {
+          "word": "corporate",
+          "def": "公司的；法人的",
+          "ipa": "/ˈkɔːrpərət/",
+          "eng_def": "relating to a large company"
+        }
+      ]
+    },
+    {
+      "en": "The work is fairly easy, but the hall is made of wood.",
+      "zh": "工作相当容易，但大厅是木头做的。",
+      "words": [
+        {
+          "word": "fairly",
+          "def": "相当地；公平地",
+          "ipa": "/ˈfeərli/",
+          "eng_def": "more than a little but not very"
+        },
+        {
+          "word": "hall",
+          "def": "大厅；礼堂",
+          "ipa": "/hɔːl/",
+          "eng_def": "a large room or building for meetings"
+        },
+        {
+          "word": "wood",
+          "def": "木头；木材",
+          "ipa": "/wʊd/",
+          "eng_def": "the hard material from trees"
+        },
+        {
+          "word": "made",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I must participate in a tough meeting with a representative.",
+      "zh": "我必须参加一次与代表举行的艰难会议。",
+      "words": [
+        {
+          "word": "participate",
+          "def": "参加；参与",
+          "ipa": "/pɑːrˈtɪsɪpeɪt/",
+          "eng_def": "to take part in something"
+        },
+        {
+          "word": "tough",
+          "def": "困难的；坚韧的",
+          "ipa": "/tʌf/",
+          "eng_def": "difficult to do or deal with"
+        },
+        {
+          "word": "representative",
+          "def": "代表；代理人",
+          "ipa": "/ˌreprɪˈzentətɪv/",
+          "eng_def": "a person who acts for others"
+        }
+      ]
+    },
+    {
+      "en": "I should not tear the important papers.",
+      "zh": "我不应该撕毁重要文件。",
+      "words": [
+        {
+          "word": "tear",
+          "def": "撕破；撕裂",
+          "ipa": "/teər/",
+          "eng_def": "to pull apart into pieces"
+        }
+      ]
+    },
+    {
+      "en": "The capacity of the room is fifty people.",
+      "zh": "这个房间的容量是五十人。",
+      "words": [
+        {
+          "word": "capacity",
+          "def": "容量；能力",
+          "ipa": "/kəˈpæsəti/",
+          "eng_def": "the amount that something can hold"
+        },
+        {
+          "word": "fifty",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "We will shake hands with our new boss.",
+      "zh": "我们将与我们的新老板握手。",
+      "words": [
+        {
+          "word": "shake",
+          "def": "摇动；握手",
+          "ipa": "/ʃeɪk/",
+          "eng_def": "to move up and down or from side to side"
+        },
+        {
+          "word": "boss",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The company will do a fair assessment of my work.",
+      "zh": "公司会对我的工作进行公平的评估。",
+      "words": [
+        {
+          "word": "assessment",
+          "def": "评估；评价",
+          "ipa": "/əˈsesmənt/",
+          "eng_def": "a judgment about the quality of something"
+        }
+      ]
+    },
+    {
+      "en": "I ought to pay a small fee for the ad.",
+      "zh": "我应该为这则广告付一笔小费用。",
+      "words": [
+        {
+          "word": "ought",
+          "def": "应该",
+          "ipa": "/ɔːt/",
+          "eng_def": "used to say what is the right thing to do"
+        },
+        {
+          "word": "fee",
+          "def": "费用；酬金",
+          "ipa": "/fiː/",
+          "eng_def": "an amount of money paid for a service"
+        },
+        {
+          "word": "ad",
+          "def": "广告",
+          "ipa": "/æd/",
+          "eng_def": "a short notice to sell something"
+        }
+      ]
+    },
+    {
+      "en": "The border guards ignore the regulation, so I can escape.",
+      "zh": "边境守卫无视规定，所以我可以逃脱。",
+      "words": [
+        {
+          "word": "border",
+          "def": "边境；边界",
+          "ipa": "/ˈbɔːrdər/",
+          "eng_def": "the line between two countries"
+        },
+        {
+          "word": "ignore",
+          "def": "忽视；不理会",
+          "ipa": "/ɪɡˈnɔːr/",
+          "eng_def": "to pay no attention to something"
+        },
+        {
+          "word": "regulation",
+          "def": "规定；法规",
+          "ipa": "/ˌreɡjuˈleɪʃən/",
+          "eng_def": "an official rule"
+        },
+        {
+          "word": "escape",
+          "def": "逃跑；逃避",
+          "ipa": "/ɪˈskeɪp/",
+          "eng_def": "to get away from a place or situation"
+        },
+        {
+          "word": "guards",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "switch",
+      "def": "改变；交换",
+      "ipa": "/swɪtʃ/",
+      "eng_def": "to change from one thing to another",
+      "example": "I have to switch my old job for a new one."
+    },
+    {
+      "word": "acquire",
+      "def": "获得；学到",
+      "ipa": "/əˈkwaɪər/",
+      "eng_def": "to get or learn something",
+      "example": "I will acquire new skills at a corporate office."
+    },
+    {
+      "word": "corporate",
+      "def": "公司的；法人的",
+      "ipa": "/ˈkɔːrpərət/",
+      "eng_def": "relating to a large company",
+      "example": "I will acquire new skills at a corporate office."
+    },
+    {
+      "word": "fairly",
+      "def": "相当地；公平地",
+      "ipa": "/ˈfeərli/",
+      "eng_def": "more than a little but not very",
+      "example": "The work is fairly easy, but the hall is made of wood."
+    },
+    {
+      "word": "wood",
+      "def": "木头；木材",
+      "ipa": "/wʊd/",
+      "eng_def": "the hard material from trees",
+      "example": "The work is fairly easy, but the hall is made of wood."
+    },
+    {
+      "word": "participate",
+      "def": "参加；参与",
+      "ipa": "/pɑːrˈtɪsɪpeɪt/",
+      "eng_def": "to take part in something",
+      "example": "I must participate in a tough meeting with a representative."
+    },
+    {
+      "word": "tough",
+      "def": "困难的；坚韧的",
+      "ipa": "/tʌf/",
+      "eng_def": "difficult to do or deal with",
+      "example": "I must participate in a tough meeting with a representative."
+    },
+    {
+      "word": "tear",
+      "def": "撕破；撕裂",
+      "ipa": "/teər/",
+      "eng_def": "to pull apart into pieces",
+      "example": "I should not tear the important papers."
+    },
+    {
+      "word": "representative",
+      "def": "代表；代理人",
+      "ipa": "/ˌreprɪˈzentətɪv/",
+      "eng_def": "a person who acts for others",
+      "example": "I must participate in a tough meeting with a representative."
+    },
+    {
+      "word": "capacity",
+      "def": "容量；能力",
+      "ipa": "/kəˈpæsəti/",
+      "eng_def": "the amount that something can hold",
+      "example": "The capacity of the room is fifty people."
+    },
+    {
+      "word": "border",
+      "def": "边境；边界",
+      "ipa": "/ˈbɔːrdər/",
+      "eng_def": "the line between two countries",
+      "example": "The border guards ignore the regulation, so I can escape."
+    },
+    {
+      "word": "shake",
+      "def": "摇动；握手",
+      "ipa": "/ʃeɪk/",
+      "eng_def": "to move up and down or from side to side",
+      "example": "We will shake hands with our new boss."
+    },
+    {
+      "word": "assessment",
+      "def": "评估；评价",
+      "ipa": "/əˈsesmənt/",
+      "eng_def": "a judgment about the quality of something",
+      "example": "The company will do a fair assessment of my work."
+    },
+    {
+      "word": "shoe",
+      "def": "鞋子",
+      "ipa": "/ʃuː/",
+      "eng_def": "a covering for your foot",
+      "example": "I wear a shoe to the meeting."
+    },
+    {
+      "word": "ought",
+      "def": "应该",
+      "ipa": "/ɔːt/",
+      "eng_def": "used to say what is the right thing to do",
+      "example": "I ought to pay a small fee for the ad."
+    },
+    {
+      "word": "ad",
+      "def": "广告",
+      "ipa": "/æd/",
+      "eng_def": "a short notice to sell something",
+      "example": "I ought to pay a small fee for the ad."
+    },
+    {
+      "word": "fee",
+      "def": "费用；酬金",
+      "ipa": "/fiː/",
+      "eng_def": "an amount of money paid for a service",
+      "example": "I ought to pay a small fee for the ad."
+    },
+    {
+      "word": "hall",
+      "def": "大厅；礼堂",
+      "ipa": "/hɔːl/",
+      "eng_def": "a large room or building for meetings",
+      "example": "The work is fairly easy, but the hall is made of wood."
+    },
+    {
+      "word": "regulation",
+      "def": "规定；法规",
+      "ipa": "/ˌreɡjuˈleɪʃən/",
+      "eng_def": "an official rule",
+      "example": "The border guards ignore the regulation, so I can escape."
+    },
+    {
+      "word": "escape",
+      "def": "逃跑；逃避",
+      "ipa": "/ɪˈskeɪp/",
+      "eng_def": "to get away from a place or situation",
+      "example": "The border guards ignore the regulation, so I can escape."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "“switch” 的意思是什么？",
+      "question_en": "What does 'switch' mean?",
+      "options": [
+        "A. 改变",
+        "B. 保持",
+        "C. 破坏",
+        "D. 忘记"
+      ],
+      "answer": 0,
+      "word": "switch"
+    },
+    {
+      "question_cn": "“capacity” 指的是什么？",
+      "question_en": "What does 'capacity' refer to?",
+      "options": [
+        "A. 颜色",
+        "B. 容量",
+        "C. 重量",
+        "D. 长度"
+      ],
+      "answer": 1,
+      "word": "capacity"
+    },
+    {
+      "question_cn": "“tough” 的反义词是什么？",
+      "question_en": "What is the opposite of 'tough'?",
+      "options": [
+        "A. 困难",
+        "B. 容易",
+        "C. 强壮",
+        "D. 柔软"
+      ],
+      "answer": 1,
+      "word": "tough"
+    },
+    {
+      "question_cn": "“assessment” 最接近的意思是什么？",
+      "question_en": "What is the closest meaning of 'assessment'?",
+      "options": [
+        "A. 游戏",
+        "B. 评估",
+        "C. 食物",
+        "D. 音乐"
+      ],
+      "answer": 1,
+      "word": "assessment"
+    },
+    {
+      "question_cn": "“escape” 是什么意思？",
+      "question_en": "What does 'escape' mean?",
+      "options": [
+        "A. 进入",
+        "B. 逃跑",
+        "C. 睡觉",
+        "D. 吃饭"
+      ],
+      "answer": 1,
+      "word": "escape"
+    }
+  ],
+  "image_prompts": [
+    "A person switching a light switch on a wall.",
+    "A person learning new skills in a modern corporate office.",
+    "A large hall made of wooden walls and floor.",
+    "A person sitting in a tough meeting with a representative.",
+    "A hand tearing a piece of paper.",
+    "A room with chairs and a sign saying 'Capacity: 50'.",
+    "Two people shaking hands in an office.",
+    "A manager looking at a paper with 'Assessment' written on it.",
+    "A person paying money at a counter for an ad poster.",
+    "A guard at a border ignoring a rule while a person runs away."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['shoe']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 64,
+  "_new_word_count": 20
+}

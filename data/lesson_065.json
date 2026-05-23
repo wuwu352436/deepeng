@@ -1,0 +1,478 @@
+{
+  "id": 65,
+  "title": "A New Studio and a Big Mistake",
+  "article_text": "A lawyer wanted to open a new art studio in the industrial area. He had to assess the proper location and register the business. He did not have enough money to afford the space, so he tried to acquire a loan. A tourist came to look at the studio and gave him a signal to relax. The lawyer made an error in the contract and a suspect complained about it. He lost his confidence and had to arrest his plans for a while. From a different perspective, the mistake was a valuable asset. He learned to switch his focus and improve every component of the project. Now he has a fairly good studio, and he can offer a cup of coffee to visitors. His description of the artwork gives them a proper understanding of the pieces.",
+  "sentences": [
+    {
+      "en": "A lawyer wanted to open a new art studio in the industrial area.",
+      "zh": "一位律师想在工业区开一家新的艺术工作室。",
+      "words": [
+        {
+          "word": "lawyer",
+          "def": "律师",
+          "ipa": "/ˈlɔːjər/",
+          "eng_def": "a person whose job is to help people with the law"
+        },
+        {
+          "word": "studio",
+          "def": "工作室",
+          "ipa": "/ˈstuːdioʊ/",
+          "eng_def": "a room where an artist works"
+        },
+        {
+          "word": "industrial",
+          "def": "工业的",
+          "ipa": "/ɪnˈdʌstriəl/",
+          "eng_def": "related to factories or making things in large numbers"
+        }
+      ]
+    },
+    {
+      "en": "He had to assess the proper location and register the business.",
+      "zh": "他必须评估合适的位置并注册公司。",
+      "words": [
+        {
+          "word": "assess",
+          "def": "评估",
+          "ipa": "/əˈses/",
+          "eng_def": "to judge or decide the value or quality of something"
+        },
+        {
+          "word": "proper",
+          "def": "合适的",
+          "ipa": "/ˈprɑːpər/",
+          "eng_def": "correct or right for a situation"
+        },
+        {
+          "word": "register",
+          "def": "注册",
+          "ipa": "/ˈredʒɪstər/",
+          "eng_def": "to put a name on an official list"
+        }
+      ]
+    },
+    {
+      "en": "He did not have enough money to afford the space, so he tried to acquire a loan.",
+      "zh": "他没有足够的钱支付这个地方，所以他试图获得一笔贷款。",
+      "words": [
+        {
+          "word": "afford",
+          "def": "负担得起",
+          "ipa": "/əˈfɔːrd/",
+          "eng_def": "to have enough money to pay for something"
+        },
+        {
+          "word": "acquire",
+          "def": "获得",
+          "ipa": "/əˈkwaɪər/",
+          "eng_def": "to get something"
+        },
+        {
+          "word": "loan",
+          "def": "贷款",
+          "ipa": "/loʊn/",
+          "eng_def": "money that you borrow from a bank"
+        },
+        {
+          "word": "tried",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "A tourist came to look at the studio and gave him a signal to relax.",
+      "zh": "一位游客来看工作室，并给他一个放松的信号。",
+      "words": [
+        {
+          "word": "tourist",
+          "def": "游客",
+          "ipa": "/ˈtʊrɪst/",
+          "eng_def": "a person who visits a place for pleasure"
+        },
+        {
+          "word": "signal",
+          "def": "信号",
+          "ipa": "/ˈsɪɡnəl/",
+          "eng_def": "a sign or sound that tells you to do something"
+        },
+        {
+          "word": "relax",
+          "def": "放松",
+          "ipa": "/rɪˈlæks/",
+          "eng_def": "to rest and become calm"
+        },
+        {
+          "word": "came",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "gave",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The lawyer made an error in the contract and a suspect complained about it.",
+      "zh": "律师在合同中犯了一个错误，一名嫌疑人对此提出了投诉。",
+      "words": [
+        {
+          "word": "error",
+          "def": "错误",
+          "ipa": "/ˈerər/",
+          "eng_def": "a mistake"
+        },
+        {
+          "word": "suspect",
+          "def": "嫌疑人",
+          "ipa": "/ˈsʌspekt/",
+          "eng_def": "a person who is thought to have done something wrong"
+        },
+        {
+          "word": "complain",
+          "def": "抱怨",
+          "ipa": "/kəmˈpleɪn/",
+          "eng_def": "to say that you are not happy about something"
+        },
+        {
+          "word": "made",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "complained",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "He lost his confidence and had to arrest his plans for a while.",
+      "zh": "他失去了信心，不得不暂时停止他的计划。",
+      "words": [
+        {
+          "word": "confidence",
+          "def": "信心",
+          "ipa": "/ˈkɑːnfɪdəns/",
+          "eng_def": "a feeling that you can do something well"
+        },
+        {
+          "word": "arrest",
+          "def": "停止",
+          "ipa": "/əˈrest/",
+          "eng_def": "to stop something from continuing"
+        },
+        {
+          "word": "lost",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "From a different perspective, the mistake was a valuable asset.",
+      "zh": "从不同的角度来看，这个错误是一项宝贵的资产。",
+      "words": [
+        {
+          "word": "perspective",
+          "def": "视角",
+          "ipa": "/pərˈspektɪv/",
+          "eng_def": "a way of thinking about something"
+        },
+        {
+          "word": "asset",
+          "def": "资产",
+          "ipa": "/ˈæset/",
+          "eng_def": "something that is useful or valuable"
+        },
+        {
+          "word": "valuable",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "He learned to switch his focus and improve every component of the project.",
+      "zh": "他学会了转换注意力，并改进项目的每个组成部分。",
+      "words": [
+        {
+          "word": "switch",
+          "def": "转换",
+          "ipa": "/swɪtʃ/",
+          "eng_def": "to change from one thing to another"
+        },
+        {
+          "word": "component",
+          "def": "组成部分",
+          "ipa": "/kəmˈpoʊnənt/",
+          "eng_def": "a part of something larger"
+        }
+      ]
+    },
+    {
+      "en": "Now he has a fairly good studio, and he can offer a cup of coffee to visitors.",
+      "zh": "现在他有一个相当好的工作室，他可以给访客提供一杯咖啡。",
+      "words": [
+        {
+          "word": "fairly",
+          "def": "相当地",
+          "ipa": "/ˈferli/",
+          "eng_def": "more than a little but not very"
+        },
+        {
+          "word": "cup",
+          "def": "杯子",
+          "ipa": "/kʌp/",
+          "eng_def": "a small container for drinking"
+        }
+      ]
+    },
+    {
+      "en": "His description of the artwork gives them a proper understanding of the pieces.",
+      "zh": "他对艺术品的描述让他们对这些作品有了恰当的理解。",
+      "words": [
+        {
+          "word": "description",
+          "def": "描述",
+          "ipa": "/dɪˈskrɪpʃən/",
+          "eng_def": "a statement that tells you what something is like"
+        },
+        {
+          "word": "artwork",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "studio",
+      "def": "工作室",
+      "ipa": "/ˈstuːdioʊ/",
+      "eng_def": "a room where an artist works",
+      "example": "She paints in her studio every day."
+    },
+    {
+      "word": "proper",
+      "def": "合适的",
+      "ipa": "/ˈprɑːpər/",
+      "eng_def": "correct or right for a situation",
+      "example": "We need to find the proper tool for this job."
+    },
+    {
+      "word": "relax",
+      "def": "放松",
+      "ipa": "/rɪˈlæks/",
+      "eng_def": "to rest and become calm",
+      "example": "I like to relax after work."
+    },
+    {
+      "word": "tourist",
+      "def": "游客",
+      "ipa": "/ˈtʊrɪst/",
+      "eng_def": "a person who visits a place for pleasure",
+      "example": "Many tourists come to this city."
+    },
+    {
+      "word": "component",
+      "def": "组成部分",
+      "ipa": "/kəmˈpoʊnənt/",
+      "eng_def": "a part of something larger",
+      "example": "The engine has many components."
+    },
+    {
+      "word": "afford",
+      "def": "负担得起",
+      "ipa": "/əˈfɔːrd/",
+      "eng_def": "to have enough money to pay for something",
+      "example": "I cannot afford a new car."
+    },
+    {
+      "word": "lawyer",
+      "def": "律师",
+      "ipa": "/ˈlɔːjər/",
+      "eng_def": "a person whose job is to help people with the law",
+      "example": "The lawyer helped me with the contract."
+    },
+    {
+      "word": "suspect",
+      "def": "嫌疑人",
+      "ipa": "/ˈsʌspekt/",
+      "eng_def": "a person who is thought to have done something wrong",
+      "example": "The police arrested the suspect."
+    },
+    {
+      "word": "cup",
+      "def": "杯子",
+      "ipa": "/kʌp/",
+      "eng_def": "a small container for drinking",
+      "example": "I drink a cup of tea every morning."
+    },
+    {
+      "word": "description",
+      "def": "描述",
+      "ipa": "/dɪˈskrɪpʃən/",
+      "eng_def": "a statement that tells you what something is like",
+      "example": "The description of the house was very clear."
+    },
+    {
+      "word": "confidence",
+      "def": "信心",
+      "ipa": "/ˈkɑːnfɪdəns/",
+      "eng_def": "a feeling that you can do something well",
+      "example": "She has a lot of confidence in her ability."
+    },
+    {
+      "word": "industrial",
+      "def": "工业的",
+      "ipa": "/ɪnˈdʌstriəl/",
+      "eng_def": "related to factories or making things in large numbers",
+      "example": "This is an industrial city."
+    },
+    {
+      "word": "complain",
+      "def": "抱怨",
+      "ipa": "/kəmˈpleɪn/",
+      "eng_def": "to say that you are not happy about something",
+      "example": "He complained about the noise."
+    },
+    {
+      "word": "perspective",
+      "def": "视角",
+      "ipa": "/pərˈspektɪv/",
+      "eng_def": "a way of thinking about something",
+      "example": "Try to see it from my perspective."
+    },
+    {
+      "word": "error",
+      "def": "错误",
+      "ipa": "/ˈerər/",
+      "eng_def": "a mistake",
+      "example": "There is an error in this sentence."
+    },
+    {
+      "word": "arrest",
+      "def": "停止",
+      "ipa": "/əˈrest/",
+      "eng_def": "to stop something from continuing",
+      "example": "The medicine can arrest the disease."
+    },
+    {
+      "word": "assess",
+      "def": "评估",
+      "ipa": "/əˈses/",
+      "eng_def": "to judge or decide the value or quality of something",
+      "example": "We need to assess the damage."
+    },
+    {
+      "word": "register",
+      "def": "注册",
+      "ipa": "/ˈredʒɪstər/",
+      "eng_def": "to put a name on an official list",
+      "example": "You must register for the class."
+    },
+    {
+      "word": "asset",
+      "def": "资产",
+      "ipa": "/ˈæset/",
+      "eng_def": "something that is useful or valuable",
+      "example": "His knowledge is a great asset."
+    },
+    {
+      "word": "signal",
+      "def": "信号",
+      "ipa": "/ˈsɪɡnəl/",
+      "eng_def": "a sign or sound that tells you to do something",
+      "example": "The red light is a signal to stop."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词的意思是'工作室'？",
+      "question_en": "Which word means 'a room where an artist works'?",
+      "options": [
+        "A. studio",
+        "B. cup",
+        "C. error",
+        "D. asset"
+      ],
+      "answer": 0,
+      "word": "studio"
+    },
+    {
+      "question_cn": "哪个词的意思是'评估'？",
+      "question_en": "Which word means 'to judge or decide the value of something'?",
+      "options": [
+        "A. relax",
+        "B. assess",
+        "C. complain",
+        "D. arrest"
+      ],
+      "answer": 1,
+      "word": "assess"
+    },
+    {
+      "question_cn": "哪个词的意思是'嫌疑人'？",
+      "question_en": "Which word means 'a person thought to have done something wrong'?",
+      "options": [
+        "A. tourist",
+        "B. lawyer",
+        "C. suspect",
+        "D. component"
+      ],
+      "answer": 2,
+      "word": "suspect"
+    },
+    {
+      "question_cn": "哪个词的意思是'视角'？",
+      "question_en": "Which word means 'a way of thinking about something'?",
+      "options": [
+        "A. perspective",
+        "B. description",
+        "C. signal",
+        "D. confidence"
+      ],
+      "answer": 0,
+      "word": "perspective"
+    },
+    {
+      "question_cn": "哪个词的意思是'资产'？",
+      "question_en": "Which word means 'something that is useful or valuable'?",
+      "options": [
+        "A. asset",
+        "B. error",
+        "C. cup",
+        "D. studio"
+      ],
+      "answer": 0,
+      "word": "asset"
+    }
+  ],
+  "image_prompts": [
+    "A lawyer standing in front of a large industrial building, holding a paper and looking at the area.",
+    "The lawyer pointing at a map on a table, with a 'For Rent' sign on a building outside the window.",
+    "The lawyer sitting at a desk, talking to a bank officer about a loan.",
+    "A tourist with a camera looking at the studio, giving a thumbs-up signal to the lawyer.",
+    "The lawyer looking at a contract with a worried face, while a person in a suit points at a mistake.",
+    "The lawyer sitting alone, head in hands, looking sad and tired.",
+    "The lawyer looking at the contract from a different angle, with a lightbulb above his head.",
+    "The lawyer at a whiteboard, drawing a plan with arrows and parts labeled.",
+    "The lawyer inside the finished studio, handing a cup of coffee to a visitor.",
+    "The lawyer standing next to a painting, explaining it to a group of people."
+  ],
+  "_needs_review": false,
+  "_lesson_num": 65,
+  "_new_word_count": 20
+}

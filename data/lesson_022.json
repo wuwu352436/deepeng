@@ -1,0 +1,505 @@
+{
+  "id": 22,
+  "title": "A New Heart for the Company",
+  "article_text": "A big bank recently has a new manager. He can manage a firm with a strong heart and a clear arm. His wife is pretty, and she works as an employee at the same bank. The source of their success is simply hard work. A cell phone on his desk rings fast every morning. This article discusses a new feature of the bank: foreign investment. A surprise factor can affect the market drop. We prepare for this change with sport and team meetings. Let's discuss this news with the employees. The company usually has a very fast growth rate.",
+  "sentences": [
+    {
+      "en": "A big bank recently has a new manager.",
+      "zh": "一家大银行最近有了一位新经理。",
+      "words": [
+        {
+          "word": "bank",
+          "def": "银行",
+          "ipa": "/bæŋk/",
+          "eng_def": "a place where people keep money"
+        },
+        {
+          "word": "recently",
+          "def": "最近",
+          "ipa": "/ˈriːsəntli/",
+          "eng_def": "not long ago"
+        },
+        {
+          "word": "manager",
+          "def": "经理",
+          "ipa": "/ˈmænɪdʒər/",
+          "eng_def": "a person who controls a business"
+        }
+      ]
+    },
+    {
+      "en": "He can manage a firm with a strong heart and a clear arm.",
+      "zh": "他能用坚强的心和清晰的臂膀管理一家公司。",
+      "words": [
+        {
+          "word": "manage",
+          "def": "管理",
+          "ipa": "/ˈmænɪdʒ/",
+          "eng_def": "to control or be in charge of something"
+        },
+        {
+          "word": "firm",
+          "def": "公司",
+          "ipa": "/fɜːrm/",
+          "eng_def": "a business or company"
+        },
+        {
+          "word": "heart",
+          "def": "心脏",
+          "ipa": "/hɑːrt/",
+          "eng_def": "the organ in the chest that pumps blood"
+        },
+        {
+          "word": "arm",
+          "def": "手臂",
+          "ipa": "/ɑːrm/",
+          "eng_def": "the long part of the body from the shoulder to the hand"
+        }
+      ]
+    },
+    {
+      "en": "His wife is pretty, and she works as an employee at the same bank.",
+      "zh": "他的妻子很漂亮，她在同一家银行做员工。",
+      "words": [
+        {
+          "word": "wife",
+          "def": "妻子",
+          "ipa": "/waɪf/",
+          "eng_def": "a woman who is married"
+        },
+        {
+          "word": "pretty",
+          "def": "漂亮的",
+          "ipa": "/ˈprɪti/",
+          "eng_def": "nice to look at; attractive"
+        },
+        {
+          "word": "employee",
+          "def": "员工",
+          "ipa": "/ɪmˈplɔɪiː/",
+          "eng_def": "a person who works for someone else"
+        }
+      ]
+    },
+    {
+      "en": "The source of their success is simply hard work.",
+      "zh": "他们成功的来源仅仅是努力工作。",
+      "words": [
+        {
+          "word": "source",
+          "def": "来源",
+          "ipa": "/sɔːrs/",
+          "eng_def": "the place where something comes from"
+        },
+        {
+          "word": "simply",
+          "def": "仅仅",
+          "ipa": "/ˈsɪmpli/",
+          "eng_def": "in a simple way; just"
+        },
+        {
+          "word": "success",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "A cell phone on his desk rings fast every morning.",
+      "zh": "他桌上的一部手机每天早上响得很快。",
+      "words": [
+        {
+          "word": "cell",
+          "def": "细胞；手机（cellular phone的简称）",
+          "ipa": "/sel/",
+          "eng_def": "a small room in a prison; also a short word for cell phone"
+        },
+        {
+          "word": "fast",
+          "def": "快的",
+          "ipa": "/fæst/",
+          "eng_def": "moving or happening at high speed"
+        },
+        {
+          "word": "desk",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "rings",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "This article discusses a new feature of the bank: foreign investment.",
+      "zh": "这篇文章讨论了银行的一个新特点：外国投资。",
+      "words": [
+        {
+          "word": "article",
+          "def": "文章",
+          "ipa": "/ˈɑːrtɪkl/",
+          "eng_def": "a piece of writing in a newspaper or magazine"
+        },
+        {
+          "word": "discuss",
+          "def": "讨论",
+          "ipa": "/dɪˈskʌs/",
+          "eng_def": "to talk about something with someone"
+        },
+        {
+          "word": "feature",
+          "def": "特点",
+          "ipa": "/ˈfiːtʃər/",
+          "eng_def": "an important part or quality of something"
+        },
+        {
+          "word": "foreign",
+          "def": "外国的",
+          "ipa": "/ˈfɔːrɪn/",
+          "eng_def": "from a country that is not your own"
+        },
+        {
+          "word": "discusses",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "investment",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "A surprise factor can affect the market drop.",
+      "zh": "一个意外的因素会影响市场下跌。",
+      "words": [
+        {
+          "word": "surprise",
+          "def": "惊讶",
+          "ipa": "/sərˈpraɪz/",
+          "eng_def": "an unexpected event or feeling"
+        },
+        {
+          "word": "factor",
+          "def": "因素",
+          "ipa": "/ˈfæktər/",
+          "eng_def": "something that helps cause a result"
+        },
+        {
+          "word": "affect",
+          "def": "影响",
+          "ipa": "/əˈfekt/",
+          "eng_def": "to cause a change in something"
+        },
+        {
+          "word": "drop",
+          "def": "下降",
+          "ipa": "/drɒp/",
+          "eng_def": "to fall or let something fall"
+        }
+      ]
+    },
+    {
+      "en": "We prepare for this change with sport and team meetings.",
+      "zh": "我们通过运动和团队会议为这个变化做准备。",
+      "words": [
+        {
+          "word": "prepare",
+          "def": "准备",
+          "ipa": "/prɪˈpeər/",
+          "eng_def": "to make something ready"
+        },
+        {
+          "word": "sport",
+          "def": "运动",
+          "ipa": "/spɔːrt/",
+          "eng_def": "a game or activity that uses physical effort"
+        },
+        {
+          "word": "meetings",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Let's discuss this news with the employees.",
+      "zh": "让我们和员工们讨论这个消息。",
+      "words": [
+        {
+          "word": "discuss",
+          "def": "讨论",
+          "ipa": "/dɪˈskʌs/",
+          "eng_def": "to talk about something with someone"
+        },
+        {
+          "word": "let's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "employees",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The company usually has a very fast growth rate.",
+      "zh": "这家公司通常有非常快的增长率。",
+      "words": [
+        {
+          "word": "usually",
+          "def": "通常",
+          "ipa": "/ˈjuːʒuəli/",
+          "eng_def": "most of the time; in most cases"
+        },
+        {
+          "word": "fast",
+          "def": "快的",
+          "ipa": "/fæst/",
+          "eng_def": "moving or happening at high speed"
+        },
+        {
+          "word": "growth",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "arm",
+      "def": "手臂",
+      "ipa": "/ɑːrm/",
+      "eng_def": "the long part of the body from the shoulder to the hand",
+      "example": "He has a strong arm."
+    },
+    {
+      "word": "heart",
+      "def": "心脏",
+      "ipa": "/hɑːrt/",
+      "eng_def": "the organ in the chest that pumps blood",
+      "example": "Her heart beats fast."
+    },
+    {
+      "word": "source",
+      "def": "来源",
+      "ipa": "/sɔːrs/",
+      "eng_def": "the place where something comes from",
+      "example": "The sun is a source of light."
+    },
+    {
+      "word": "employee",
+      "def": "员工",
+      "ipa": "/ɪmˈplɔɪiː/",
+      "eng_def": "a person who works for someone else",
+      "example": "The employee works hard."
+    },
+    {
+      "word": "manage",
+      "def": "管理",
+      "ipa": "/ˈmænɪdʒ/",
+      "eng_def": "to control or be in charge of something",
+      "example": "She can manage the team."
+    },
+    {
+      "word": "simply",
+      "def": "仅仅",
+      "ipa": "/ˈsɪmpli/",
+      "eng_def": "in a simple way; just",
+      "example": "It is simply a toy."
+    },
+    {
+      "word": "bank",
+      "def": "银行",
+      "ipa": "/bæŋk/",
+      "eng_def": "a place where people keep money",
+      "example": "I go to the bank."
+    },
+    {
+      "word": "firm",
+      "def": "公司",
+      "ipa": "/fɜːrm/",
+      "eng_def": "a business or company",
+      "example": "He works for a big firm."
+    },
+    {
+      "word": "cell",
+      "def": "细胞；手机",
+      "ipa": "/sel/",
+      "eng_def": "a small room in a prison; also a short word for cell phone",
+      "example": "My cell phone is new."
+    },
+    {
+      "word": "article",
+      "def": "文章",
+      "ipa": "/ˈɑːrtɪkl/",
+      "eng_def": "a piece of writing in a newspaper or magazine",
+      "example": "This article is about sports."
+    },
+    {
+      "word": "fast",
+      "def": "快的",
+      "ipa": "/fæst/",
+      "eng_def": "moving or happening at high speed",
+      "example": "The car is fast."
+    },
+    {
+      "word": "attack",
+      "def": "攻击",
+      "ipa": "/əˈtæk/",
+      "eng_def": "to try to hurt someone or something",
+      "example": "The dog does not attack people."
+    },
+    {
+      "word": "foreign",
+      "def": "外国的",
+      "ipa": "/ˈfɔːrɪn/",
+      "eng_def": "from a country that is not your own",
+      "example": "She speaks a foreign language."
+    },
+    {
+      "word": "surprise",
+      "def": "惊讶",
+      "ipa": "/sərˈpraɪz/",
+      "eng_def": "an unexpected event or feeling",
+      "example": "The party is a surprise."
+    },
+    {
+      "word": "feature",
+      "def": "特点",
+      "ipa": "/ˈfiːtʃər/",
+      "eng_def": "an important part or quality of something",
+      "example": "This phone has a new feature."
+    },
+    {
+      "word": "factor",
+      "def": "因素",
+      "ipa": "/ˈfæktər/",
+      "eng_def": "something that helps cause a result",
+      "example": "Weather is a factor in farming."
+    },
+    {
+      "word": "pretty",
+      "def": "漂亮的",
+      "ipa": "/ˈprɪti/",
+      "eng_def": "nice to look at; attractive",
+      "example": "The flower is pretty."
+    },
+    {
+      "word": "recently",
+      "def": "最近",
+      "ipa": "/ˈriːsəntli/",
+      "eng_def": "not long ago",
+      "example": "I saw him recently."
+    },
+    {
+      "word": "affect",
+      "def": "影响",
+      "ipa": "/əˈfekt/",
+      "eng_def": "to cause a change in something",
+      "example": "Rain can affect the game."
+    },
+    {
+      "word": "drop",
+      "def": "下降",
+      "ipa": "/drɒp/",
+      "eng_def": "to fall or let something fall",
+      "example": "Do not drop the glass."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词的意思是“管理”？",
+      "question_en": "Which word means 'to control or be in charge of something'?",
+      "options": [
+        "A. manage",
+        "B. drop",
+        "C. affect",
+        "D. feature"
+      ],
+      "answer": 0,
+      "word": "manage"
+    },
+    {
+      "question_cn": "哪个词的意思是“来源”？",
+      "question_en": "Which word means 'the place where something comes from'?",
+      "options": [
+        "A. source",
+        "B. bank",
+        "C. firm",
+        "D. cell"
+      ],
+      "answer": 0,
+      "word": "source"
+    },
+    {
+      "question_cn": "哪个词的意思是“员工”？",
+      "question_en": "Which word means 'a person who works for someone else'?",
+      "options": [
+        "A. employee",
+        "B. manager",
+        "C. wife",
+        "D. sport"
+      ],
+      "answer": 0,
+      "word": "employee"
+    },
+    {
+      "question_cn": "哪个词的意思是“外国的”？",
+      "question_en": "Which word means 'from a country that is not your own'?",
+      "options": [
+        "A. foreign",
+        "B. pretty",
+        "C. fast",
+        "D. simply"
+      ],
+      "answer": 0,
+      "word": "foreign"
+    },
+    {
+      "question_cn": "哪个词的意思是“特点”？",
+      "question_en": "Which word means 'an important part or quality of something'?",
+      "options": [
+        "A. feature",
+        "B. factor",
+        "C. surprise",
+        "D. article"
+      ],
+      "answer": 0,
+      "word": "feature"
+    }
+  ],
+  "image_prompts": [
+    "A big modern bank building with a sign outside, a new manager standing at the entrance.",
+    "A man with a strong arm and a glowing heart shape on his chest, standing in an office.",
+    "A pretty woman smiling at a desk in a bank, wearing a name tag that says 'Employee'.",
+    "A glowing light bulb labeled 'Source' above two people working hard at a table.",
+    "A desk with a ringing cell phone, a clock showing early morning, and a 'Fast' label on the phone.",
+    "A newspaper article with a picture of a bank and a globe, the word 'Foreign' in the title.",
+    "A graph with a red arrow pointing down labeled 'Drop', and a question mark labeled 'Surprise Factor' next to it.",
+    "People in sportswear running and a group sitting in a meeting room with a 'Prepare' sign.",
+    "A manager talking to a group of employees around a table, with a 'Discuss' speech bubble.",
+    "A company logo with a rocket going up and a 'Fast Growth' label, with a calendar showing 'Usually'."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['attack']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 22,
+  "_new_word_count": 20
+}

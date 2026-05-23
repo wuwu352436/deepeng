@@ -1,0 +1,463 @@
+{
+  "id": 3,
+  "title": "A Student's Day",
+  "article_text": "Today, I lead my group for a class project. We buy some paper for the forms. I hope to understand the reason for the task. My face shows a big smile. The cost of the car is less than an hour of work. There is a room in the school for our meeting. We hold the meeting until the head teacher comes. I thank my friends for their help. I believe this idea is good. The service at the store is far from our school.",
+  "sentences": [
+    {
+      "en": "Today, I lead my group for a class project.",
+      "zh": "今天，我带领我的小组做一个课堂项目。",
+      "words": [
+        {
+          "word": "today",
+          "def": "今天",
+          "ipa": "/təˈdeɪ/",
+          "eng_def": "this day"
+        },
+        {
+          "word": "lead",
+          "def": "带领",
+          "ipa": "/liːd/",
+          "eng_def": "to show the way for a group of people"
+        },
+        {
+          "word": "class",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "project",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "We buy some paper for the forms.",
+      "zh": "我们买一些纸来填表格。",
+      "words": [
+        {
+          "word": "buy",
+          "def": "买",
+          "ipa": "/baɪ/",
+          "eng_def": "to get something by paying money"
+        },
+        {
+          "word": "form",
+          "def": "表格",
+          "ipa": "/fɔːrm/",
+          "eng_def": "a paper with spaces for information"
+        },
+        {
+          "word": "paper",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "forms",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I hope to understand the reason for the task.",
+      "zh": "我希望理解这个任务的原因。",
+      "words": [
+        {
+          "word": "hope",
+          "def": "希望",
+          "ipa": "/hoʊp/",
+          "eng_def": "to want something to happen"
+        },
+        {
+          "word": "understand",
+          "def": "理解",
+          "ipa": "/ˌʌndərˈstænd/",
+          "eng_def": "to know the meaning of something"
+        },
+        {
+          "word": "reason",
+          "def": "原因",
+          "ipa": "/ˈriːzən/",
+          "eng_def": "the cause or explanation for something"
+        },
+        {
+          "word": "task",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "My face shows a big smile.",
+      "zh": "我的脸上露出一个大大的微笑。",
+      "words": [
+        {
+          "word": "face",
+          "def": "脸",
+          "ipa": "/feɪs/",
+          "eng_def": "the front part of the head"
+        },
+        {
+          "word": "smile",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The cost of the car is less than an hour of work.",
+      "zh": "这辆车的费用少于一个小时的工作。",
+      "words": [
+        {
+          "word": "cost",
+          "def": "费用",
+          "ipa": "/kɔːst/",
+          "eng_def": "the amount of money needed to buy something"
+        },
+        {
+          "word": "car",
+          "def": "汽车",
+          "ipa": "/kɑːr/",
+          "eng_def": "a vehicle with four wheels"
+        },
+        {
+          "word": "less",
+          "def": "更少",
+          "ipa": "/les/",
+          "eng_def": "a smaller amount"
+        },
+        {
+          "word": "hour",
+          "def": "小时",
+          "ipa": "/ˈaʊər/",
+          "eng_def": "60 minutes"
+        }
+      ]
+    },
+    {
+      "en": "There is a room in the school for our meeting.",
+      "zh": "学校有一个房间供我们开会。",
+      "words": [
+        {
+          "word": "room",
+          "def": "房间",
+          "ipa": "/ruːm/",
+          "eng_def": "a space inside a building with walls"
+        }
+      ]
+    },
+    {
+      "en": "We hold the meeting until the head teacher comes.",
+      "zh": "我们一直开会直到校长来。",
+      "words": [
+        {
+          "word": "hold",
+          "def": "举行",
+          "ipa": "/hoʊld/",
+          "eng_def": "to have a meeting or event"
+        },
+        {
+          "word": "until",
+          "def": "直到",
+          "ipa": "/ənˈtɪl/",
+          "eng_def": "up to a certain time"
+        },
+        {
+          "word": "head",
+          "def": "头；领导",
+          "ipa": "/hed/",
+          "eng_def": "the top part of the body; a leader"
+        },
+        {
+          "word": "teacher",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I thank my friends for their help.",
+      "zh": "我感谢朋友们的帮助。",
+      "words": [
+        {
+          "word": "thank",
+          "def": "感谢",
+          "ipa": "/θæŋk/",
+          "eng_def": "to say you are happy about something someone did"
+        }
+      ]
+    },
+    {
+      "en": "I believe this idea is good.",
+      "zh": "我相信这个主意很好。",
+      "words": [
+        {
+          "word": "believe",
+          "def": "相信",
+          "ipa": "/bɪˈliːv/",
+          "eng_def": "to think something is true"
+        },
+        {
+          "word": "idea",
+          "def": "主意",
+          "ipa": "/aɪˈdiːə/",
+          "eng_def": "a thought or plan"
+        }
+      ]
+    },
+    {
+      "en": "The service at the store is far from our school.",
+      "zh": "这家商店的服务离我们学校很远。",
+      "words": [
+        {
+          "word": "service",
+          "def": "服务",
+          "ipa": "/ˈsɜːrvɪs/",
+          "eng_def": "help or work for others"
+        },
+        {
+          "word": "far",
+          "def": "远",
+          "ipa": "/fɑːr/",
+          "eng_def": "a long distance away"
+        },
+        {
+          "word": "store",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "lead",
+      "def": "带领",
+      "ipa": "/liːd/",
+      "eng_def": "to show the way for a group of people",
+      "example": "I lead my group for a class project."
+    },
+    {
+      "word": "buy",
+      "def": "买",
+      "ipa": "/baɪ/",
+      "eng_def": "to get something by paying money",
+      "example": "We buy some paper for the forms."
+    },
+    {
+      "word": "understand",
+      "def": "理解",
+      "ipa": "/ˌʌndərˈstænd/",
+      "eng_def": "to know the meaning of something",
+      "example": "I hope to understand the reason for the task."
+    },
+    {
+      "word": "thank",
+      "def": "感谢",
+      "ipa": "/θæŋk/",
+      "eng_def": "to say you are happy about something someone did",
+      "example": "I thank my friends for their help."
+    },
+    {
+      "word": "far",
+      "def": "远",
+      "ipa": "/fɑːr/",
+      "eng_def": "a long distance away",
+      "example": "The service at the store is far from our school."
+    },
+    {
+      "word": "today",
+      "def": "今天",
+      "ipa": "/təˈdeɪ/",
+      "eng_def": "this day",
+      "example": "Today, I lead my group for a class project."
+    },
+    {
+      "word": "hour",
+      "def": "小时",
+      "ipa": "/ˈaʊər/",
+      "eng_def": "60 minutes",
+      "example": "The cost of the car is less than an hour of work."
+    },
+    {
+      "word": "student",
+      "def": "学生",
+      "ipa": "/ˈstuːdənt/",
+      "eng_def": "a person who learns at a school",
+      "example": "I am a student."
+    },
+    {
+      "word": "face",
+      "def": "脸",
+      "ipa": "/feɪs/",
+      "eng_def": "the front part of the head",
+      "example": "My face shows a big smile."
+    },
+    {
+      "word": "hope",
+      "def": "希望",
+      "ipa": "/hoʊp/",
+      "eng_def": "to want something to happen",
+      "example": "I hope to understand the reason for the task."
+    },
+    {
+      "word": "idea",
+      "def": "主意",
+      "ipa": "/aɪˈdiːə/",
+      "eng_def": "a thought or plan",
+      "example": "I believe this idea is good."
+    },
+    {
+      "word": "cost",
+      "def": "费用",
+      "ipa": "/kɔːst/",
+      "eng_def": "the amount of money needed to buy something",
+      "example": "The cost of the car is less than an hour of work."
+    },
+    {
+      "word": "less",
+      "def": "更少",
+      "ipa": "/les/",
+      "eng_def": "a smaller amount",
+      "example": "The cost of the car is less than an hour of work."
+    },
+    {
+      "word": "room",
+      "def": "房间",
+      "ipa": "/ruːm/",
+      "eng_def": "a space inside a building with walls",
+      "example": "There is a room in the school for our meeting."
+    },
+    {
+      "word": "until",
+      "def": "直到",
+      "ipa": "/ənˈtɪl/",
+      "eng_def": "up to a certain time",
+      "example": "We hold the meeting until the head teacher comes."
+    },
+    {
+      "word": "reason",
+      "def": "原因",
+      "ipa": "/ˈriːzən/",
+      "eng_def": "the cause or explanation for something",
+      "example": "I hope to understand the reason for the task."
+    },
+    {
+      "word": "form",
+      "def": "表格",
+      "ipa": "/fɔːrm/",
+      "eng_def": "a paper with spaces for information",
+      "example": "We buy some paper for the forms."
+    },
+    {
+      "word": "spend",
+      "def": "花费",
+      "ipa": "/spend/",
+      "eng_def": "to use time or money",
+      "example": "I spend an hour on my homework."
+    },
+    {
+      "word": "head",
+      "def": "头；领导",
+      "ipa": "/hed/",
+      "eng_def": "the top part of the body; a leader",
+      "example": "We hold the meeting until the head teacher comes."
+    },
+    {
+      "word": "car",
+      "def": "汽车",
+      "ipa": "/kɑːr/",
+      "eng_def": "a vehicle with four wheels",
+      "example": "The cost of the car is less than an hour of work."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词的意思是“希望”？",
+      "question_en": "Which word means 'to want something to happen'?",
+      "options": [
+        "A. hope",
+        "B. lead",
+        "C. thank",
+        "D. buy"
+      ],
+      "answer": 0,
+      "word": "hope"
+    },
+    {
+      "question_cn": "“cost”的中文意思是什么？",
+      "question_en": "What is the Chinese meaning of 'cost'?",
+      "options": [
+        "A. 成本",
+        "B. 汽车",
+        "C. 房间",
+        "D. 小时"
+      ],
+      "answer": 0,
+      "word": "cost"
+    },
+    {
+      "question_cn": "哪个词的意思是“直到”？",
+      "question_en": "Which word means 'up to a certain time'?",
+      "options": [
+        "A. far",
+        "B. until",
+        "C. less",
+        "D. today"
+      ],
+      "answer": 1,
+      "word": "until"
+    },
+    {
+      "question_cn": "“form”的中文意思是什么？",
+      "question_en": "What is the Chinese meaning of 'form'?",
+      "options": [
+        "A. 表格",
+        "B. 脸",
+        "C. 原因",
+        "D. 主意"
+      ],
+      "answer": 0,
+      "word": "form"
+    },
+    {
+      "question_cn": "哪个词的意思是“感谢”？",
+      "question_en": "Which word means 'to say you are happy about something someone did'?",
+      "options": [
+        "A. lead",
+        "B. thank",
+        "C. hope",
+        "D. understand"
+      ],
+      "answer": 1,
+      "word": "thank"
+    }
+  ],
+  "image_prompts": [
+    "A student leading a group of classmates in a classroom for a project.",
+    "Students buying paper at a store for their school forms.",
+    "A student thinking with a question mark, trying to understand a task.",
+    "A close-up of a smiling face of a student.",
+    "A car with a price tag next to a clock showing one hour.",
+    "An empty school room with chairs and a table for a meeting.",
+    "A group of students holding a meeting while a teacher watches from the door.",
+    "A student shaking hands with friends and saying thank you.",
+    "A student pointing at a lightbulb (idea) with a happy expression.",
+    "A store far away from a school building, with a sign reading 'service'."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['spend', 'student']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 3,
+  "_new_word_count": 20
+}

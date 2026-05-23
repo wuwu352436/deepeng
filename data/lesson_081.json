@@ -1,0 +1,451 @@
+{
+  "id": 81,
+  "title": "A Day at the Lake Exhibition",
+  "article_text": "I used to go to the lake every summer during my childhood. One day, I saw an exhibition about regional art. The producer was a tall man who used to be a politician. He was angry because an incident had caused a temporary delay. I slipped on a wet floor and knocked over a seed display. The immediate reaction was to help me stand up. The producer said that the accident would not imply any fault of mine. He also said that his salary was not high, but he was happy. To illustrate his point, he showed me a draft of a new painting. I ate breakfast with him and we discussed liberal ideas about art and emotion.",
+  "sentences": [
+    {
+      "en": "I used to go to the lake every summer during my childhood.",
+      "zh": "我小时候每个夏天都去湖边。",
+      "words": [
+        {
+          "word": "lake",
+          "def": "湖",
+          "ipa": "/leɪk/",
+          "eng_def": "a large area of water surrounded by land"
+        },
+        {
+          "word": "childhood",
+          "def": "童年",
+          "ipa": "/ˈtʃaɪldhʊd/",
+          "eng_def": "the time when you are a child"
+        }
+      ]
+    },
+    {
+      "en": "One day, I saw an exhibition about regional art.",
+      "zh": "有一天，我看了一个关于地方艺术的展览。",
+      "words": [
+        {
+          "word": "exhibition",
+          "def": "展览",
+          "ipa": "/ˌeksɪˈbɪʃn/",
+          "eng_def": "a public show of art or things"
+        },
+        {
+          "word": "regional",
+          "def": "地区的",
+          "ipa": "/ˈriːdʒənl/",
+          "eng_def": "relating to a particular area or part of a country"
+        },
+        {
+          "word": "saw",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The producer was a tall man who used to be a politician.",
+      "zh": "制片人是个高个子男人，他以前是政治家。",
+      "words": [
+        {
+          "word": "producer",
+          "def": "制片人",
+          "ipa": "/prəˈdjuːsər/",
+          "eng_def": "a person who makes a movie, show, or event"
+        },
+        {
+          "word": "tall",
+          "def": "高的",
+          "ipa": "/tɔːl/",
+          "eng_def": "of greater height than usual"
+        },
+        {
+          "word": "politician",
+          "def": "政治家",
+          "ipa": "/ˌpɒləˈtɪʃn/",
+          "eng_def": "a person who works in government"
+        }
+      ]
+    },
+    {
+      "en": "He was angry because an incident had caused a temporary delay.",
+      "zh": "他很生气，因为一起事件导致了暂时的延误。",
+      "words": [
+        {
+          "word": "angry",
+          "def": "生气的",
+          "ipa": "/ˈæŋɡri/",
+          "eng_def": "feeling strong annoyance or displeasure"
+        },
+        {
+          "word": "incident",
+          "def": "事件",
+          "ipa": "/ˈɪnsɪdənt/",
+          "eng_def": "something that happens, especially something bad"
+        },
+        {
+          "word": "temporary",
+          "def": "暂时的",
+          "ipa": "/ˈtemprəri/",
+          "eng_def": "lasting for only a limited time"
+        }
+      ]
+    },
+    {
+      "en": "I slipped on a wet floor and knocked over a seed display.",
+      "zh": "我在湿滑的地板上滑倒了，撞翻了一个种子展示架。",
+      "words": [
+        {
+          "word": "slipped",
+          "def": "滑倒",
+          "ipa": "/slɪpt/",
+          "eng_def": "to accidentally slide and lose balance"
+        },
+        {
+          "word": "knocked",
+          "def": "撞",
+          "ipa": "/nɒkt/",
+          "eng_def": "to hit something so that it falls or moves"
+        },
+        {
+          "word": "seed",
+          "def": "种子",
+          "ipa": "/siːd/",
+          "eng_def": "a small object from which a plant grows"
+        },
+        {
+          "word": "wet",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The immediate reaction was to help me stand up.",
+      "zh": "立即的反应是扶我站起来。",
+      "words": [
+        {
+          "word": "immediate",
+          "def": "立即的",
+          "ipa": "/ɪˈmiːdiət/",
+          "eng_def": "happening or done without delay"
+        }
+      ]
+    },
+    {
+      "en": "The producer said that the accident would not imply any fault of mine.",
+      "zh": "制片人说这次事故并不意味着是我的错。",
+      "words": [
+        {
+          "word": "imply",
+          "def": "暗示",
+          "ipa": "/ɪmˈplaɪ/",
+          "eng_def": "to suggest something without saying it directly"
+        },
+        {
+          "word": "said",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "fault",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "He also said that his salary was not high, but he was happy.",
+      "zh": "他还说他的薪水不高，但他很快乐。",
+      "words": [
+        {
+          "word": "salary",
+          "def": "薪水",
+          "ipa": "/ˈsæləri/",
+          "eng_def": "money paid regularly for work"
+        },
+        {
+          "word": "said",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "To illustrate his point, he showed me a draft of a new painting.",
+      "zh": "为了说明他的观点，他给我看了一幅新画的草稿。",
+      "words": [
+        {
+          "word": "illustrate",
+          "def": "说明",
+          "ipa": "/ˈɪləstreɪt/",
+          "eng_def": "to make something clear by giving examples or pictures"
+        },
+        {
+          "word": "draft",
+          "def": "草稿",
+          "ipa": "/drɑːft/",
+          "eng_def": "a rough version of a piece of writing or drawing"
+        }
+      ]
+    },
+    {
+      "en": "I ate breakfast with him and we discussed liberal ideas about art and emotion.",
+      "zh": "我和他一起吃早餐，讨论了关于艺术和情感的自由主义观点。",
+      "words": [
+        {
+          "word": "breakfast",
+          "def": "早餐",
+          "ipa": "/ˈbrekfəst/",
+          "eng_def": "the first meal of the day"
+        },
+        {
+          "word": "liberal",
+          "def": "自由的",
+          "ipa": "/ˈlɪbərəl/",
+          "eng_def": "open to new ideas and willing to accept change"
+        },
+        {
+          "word": "emotion",
+          "def": "情感",
+          "ipa": "/ɪˈməʊʃn/",
+          "eng_def": "a strong feeling like love, anger, or sadness"
+        },
+        {
+          "word": "ate",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "exhibition",
+      "def": "展览",
+      "ipa": "/ˌeksɪˈbɪʃn/",
+      "eng_def": "a public show of art or things",
+      "example": "I visited an exhibition of modern art."
+    },
+    {
+      "word": "producer",
+      "def": "制片人",
+      "ipa": "/prəˈdjuːsər/",
+      "eng_def": "a person who makes a movie, show, or event",
+      "example": "The producer of the film was very kind."
+    },
+    {
+      "word": "regional",
+      "def": "地区的",
+      "ipa": "/ˈriːdʒənl/",
+      "eng_def": "relating to a particular area or part of a country",
+      "example": "We studied regional differences in food."
+    },
+    {
+      "word": "immediate",
+      "def": "立即的",
+      "ipa": "/ɪˈmiːdiət/",
+      "eng_def": "happening or done without delay",
+      "example": "She gave an immediate answer to my question."
+    },
+    {
+      "word": "incident",
+      "def": "事件",
+      "ipa": "/ˈɪnsɪdənt/",
+      "eng_def": "something that happens, especially something bad",
+      "example": "The incident was reported to the police."
+    },
+    {
+      "word": "childhood",
+      "def": "童年",
+      "ipa": "/ˈtʃaɪldhʊd/",
+      "eng_def": "the time when you are a child",
+      "example": "He had a happy childhood."
+    },
+    {
+      "word": "draft",
+      "def": "草稿",
+      "ipa": "/drɑːft/",
+      "eng_def": "a rough version of a piece of writing or drawing",
+      "example": "I wrote a draft of my essay."
+    },
+    {
+      "word": "slip",
+      "def": "滑倒",
+      "ipa": "/slɪp/",
+      "eng_def": "to accidentally slide and lose balance",
+      "example": "Be careful not to slip on the ice."
+    },
+    {
+      "word": "accompany",
+      "def": "陪伴",
+      "ipa": "/əˈkʌmpəni/",
+      "eng_def": "to go somewhere with someone",
+      "example": "She will accompany me to the store."
+    },
+    {
+      "word": "politician",
+      "def": "政治家",
+      "ipa": "/ˌpɒləˈtɪʃn/",
+      "eng_def": "a person who works in government",
+      "example": "The politician gave a speech."
+    },
+    {
+      "word": "angry",
+      "def": "生气的",
+      "ipa": "/ˈæŋɡri/",
+      "eng_def": "feeling strong annoyance or displeasure",
+      "example": "He was angry about the delay."
+    },
+    {
+      "word": "knock",
+      "def": "撞",
+      "ipa": "/nɒk/",
+      "eng_def": "to hit something so that it falls or moves",
+      "example": "I knocked the cup off the table."
+    },
+    {
+      "word": "seed",
+      "def": "种子",
+      "ipa": "/siːd/",
+      "eng_def": "a small object from which a plant grows",
+      "example": "She planted a seed in the garden."
+    },
+    {
+      "word": "salary",
+      "def": "薪水",
+      "ipa": "/ˈsæləri/",
+      "eng_def": "money paid regularly for work",
+      "example": "His salary is enough to live on."
+    },
+    {
+      "word": "illustrate",
+      "def": "说明",
+      "ipa": "/ˈɪləstreɪt/",
+      "eng_def": "to make something clear by giving examples or pictures",
+      "example": "The teacher used a diagram to illustrate the idea."
+    },
+    {
+      "word": "imply",
+      "def": "暗示",
+      "ipa": "/ɪmˈplaɪ/",
+      "eng_def": "to suggest something without saying it directly",
+      "example": "What do you imply by that comment?"
+    },
+    {
+      "word": "breakfast",
+      "def": "早餐",
+      "ipa": "/ˈbrekfəst/",
+      "eng_def": "the first meal of the day",
+      "example": "I eat breakfast at seven o'clock."
+    },
+    {
+      "word": "temporary",
+      "def": "暂时的",
+      "ipa": "/ˈtemprəri/",
+      "eng_def": "lasting for only a limited time",
+      "example": "I have a temporary job for the summer."
+    },
+    {
+      "word": "liberal",
+      "def": "自由的",
+      "ipa": "/ˈlɪbərəl/",
+      "eng_def": "open to new ideas and willing to accept change",
+      "example": "She has liberal views on education."
+    },
+    {
+      "word": "lake",
+      "def": "湖",
+      "ipa": "/leɪk/",
+      "eng_def": "a large area of water surrounded by land",
+      "example": "We swam in the lake."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "“exhibition” 是什么意思？",
+      "question_en": "What does 'exhibition' mean?",
+      "options": [
+        "A. 一场电影",
+        "B. 一个展览",
+        "C. 一次旅行",
+        "D. 一顿饭"
+      ],
+      "answer": 1,
+      "word": "exhibition"
+    },
+    {
+      "question_cn": "“imply” 最接近的意思是什么？",
+      "question_en": "What is the closest meaning of 'imply'?",
+      "options": [
+        "A. 直接说",
+        "B. 暗示",
+        "C. 忘记",
+        "D. 购买"
+      ],
+      "answer": 1,
+      "word": "imply"
+    },
+    {
+      "question_cn": "“temporary” 指的是什么？",
+      "question_en": "What does 'temporary' refer to?",
+      "options": [
+        "A. 永久的",
+        "B. 暂时的",
+        "C. 快速的",
+        "D. 缓慢的"
+      ],
+      "answer": 1,
+      "word": "temporary"
+    },
+    {
+      "question_cn": "“knock” 的意思是什么？",
+      "question_en": "What does 'knock' mean?",
+      "options": [
+        "A. 踢",
+        "B. 撞",
+        "C. 推",
+        "D. 拉"
+      ],
+      "answer": 1,
+      "word": "knock"
+    },
+    {
+      "question_cn": "“liberal” 最接近的意思是什么？",
+      "question_en": "What is the closest meaning of 'liberal'?",
+      "options": [
+        "A. 严格的",
+        "B. 自由的",
+        "C. 传统的",
+        "D. 现代的"
+      ],
+      "answer": 1,
+      "word": "liberal"
+    }
+  ],
+  "image_prompts": [
+    "A child standing by a lake on a sunny summer day.",
+    "A person looking at paintings in a regional art exhibition.",
+    "A tall man who used to be a politician, now a producer, standing near art.",
+    "An angry man gesturing because of a temporary delay sign.",
+    "A person slipping on a wet floor, knocking over a display of seeds.",
+    "People rushing to help a person who slipped on the floor.",
+    "A producer speaking calmly to a person who caused an accident.",
+    "A man smiling while talking about his salary being low but fine.",
+    "A producer showing a rough draft of a painting to a visitor.",
+    "Two people eating breakfast and talking about liberal art ideas."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['accompany']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 81,
+  "_new_word_count": 20
+}

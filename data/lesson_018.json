@@ -1,0 +1,469 @@
+{
+  "id": 18,
+  "title": "A New Security Plan",
+  "article_text": "Our company has a new security plan. The air in the office is clean, and this plan has a big benefit for everyone. We usually trade data with other companies, but now we focus on safety. There is a risk with some news about the old system. The standard for our work is high, and we want a vote on the new plan. The next stage of the project is on a single computer. We have more space in the office, so we can work instead of waiting. I realize we need a good performance from the team. There is a chance to improve our work, and therefore I make a list of ideas. This accord helps us share a wish for a better road to success.",
+  "sentences": [
+    {
+      "en": "Our company has a new security plan.",
+      "zh": "我们公司有一个新的安全计划。",
+      "words": [
+        {
+          "word": "security",
+          "def": "安全",
+          "ipa": "/sɪˈkjʊrəti/",
+          "eng_def": "the state of being safe from danger"
+        },
+        {
+          "word": "plan",
+          "def": "计划",
+          "ipa": "/plæn/",
+          "eng_def": "a set of ideas for doing something"
+        }
+      ]
+    },
+    {
+      "en": "The air in the office is clean, and this plan has a big benefit for everyone.",
+      "zh": "办公室里的空气很干净，这个计划对每个人都有很大的好处。",
+      "words": [
+        {
+          "word": "air",
+          "def": "空气",
+          "ipa": "/eər/",
+          "eng_def": "the gas that we breathe"
+        },
+        {
+          "word": "benefit",
+          "def": "好处",
+          "ipa": "/ˈbenɪfɪt/",
+          "eng_def": "a good result or effect"
+        },
+        {
+          "word": "clean",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "everyone",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "We usually trade data with other companies, but now we focus on safety.",
+      "zh": "我们通常与其他公司交换数据，但现在我们专注于安全。",
+      "words": [
+        {
+          "word": "usually",
+          "def": "通常",
+          "ipa": "/ˈjuːʒuəli/",
+          "eng_def": "in the way that happens most of the time"
+        },
+        {
+          "word": "trade",
+          "def": "交换",
+          "ipa": "/treɪd/",
+          "eng_def": "to give something and get something else in return"
+        },
+        {
+          "word": "data",
+          "def": "数据",
+          "ipa": "/ˈdeɪtə/",
+          "eng_def": "information in a form that a computer can use"
+        },
+        {
+          "word": "focus",
+          "def": "专注于",
+          "ipa": "/ˈfoʊkəs/",
+          "eng_def": "to give all your attention to something"
+        },
+        {
+          "word": "companies",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "safety",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "There is a risk with some news about the old system.",
+      "zh": "关于旧系统的一些消息存在风险。",
+      "words": [
+        {
+          "word": "risk",
+          "def": "风险",
+          "ipa": "/rɪsk/",
+          "eng_def": "the chance that something bad may happen"
+        },
+        {
+          "word": "news",
+          "def": "消息",
+          "ipa": "/njuːz/",
+          "eng_def": "information about recent events"
+        }
+      ]
+    },
+    {
+      "en": "The standard for our work is high, and we want a vote on the new plan.",
+      "zh": "我们的工作标准很高，我们想对新计划进行投票。",
+      "words": [
+        {
+          "word": "standard",
+          "def": "标准",
+          "ipa": "/ˈstændərd/",
+          "eng_def": "a level of quality that is usual or expected"
+        },
+        {
+          "word": "vote",
+          "def": "投票",
+          "ipa": "/voʊt/",
+          "eng_def": "a choice made in an election or meeting"
+        }
+      ]
+    },
+    {
+      "en": "The next stage of the project is on a single computer.",
+      "zh": "项目的下一个阶段在一台电脑上。",
+      "words": [
+        {
+          "word": "stage",
+          "def": "阶段",
+          "ipa": "/steɪdʒ/",
+          "eng_def": "a part of a process or development"
+        },
+        {
+          "word": "single",
+          "def": "单一的",
+          "ipa": "/ˈsɪŋɡl/",
+          "eng_def": "only one"
+        }
+      ]
+    },
+    {
+      "en": "We have more space in the office, so we can work instead of waiting.",
+      "zh": "我们在办公室有更多空间，所以我们可以工作而不是等待。",
+      "words": [
+        {
+          "word": "space",
+          "def": "空间",
+          "ipa": "/speɪs/",
+          "eng_def": "an empty area that can be used"
+        },
+        {
+          "word": "instead",
+          "def": "代替",
+          "ipa": "/ɪnˈsted/",
+          "eng_def": "in place of something or someone"
+        }
+      ]
+    },
+    {
+      "en": "I realize we need a good performance from the team.",
+      "zh": "我意识到我们需要团队有好的表现。",
+      "words": [
+        {
+          "word": "realize",
+          "def": "意识到",
+          "ipa": "/ˈriːəlaɪz/",
+          "eng_def": "to understand something that you did not know before"
+        },
+        {
+          "word": "performance",
+          "def": "表现",
+          "ipa": "/pərˈfɔːrməns/",
+          "eng_def": "how well someone does a job or activity"
+        }
+      ]
+    },
+    {
+      "en": "There is a chance to improve our work, and therefore I make a list of ideas.",
+      "zh": "有一个改进我们工作的机会，因此我列了一个想法清单。",
+      "words": [
+        {
+          "word": "chance",
+          "def": "机会",
+          "ipa": "/tʃæns/",
+          "eng_def": "a time when something can happen"
+        },
+        {
+          "word": "therefore",
+          "def": "因此",
+          "ipa": "/ˈðeərfɔːr/",
+          "eng_def": "for that reason"
+        },
+        {
+          "word": "list",
+          "def": "清单",
+          "ipa": "/lɪst/",
+          "eng_def": "a set of words or numbers written one after another"
+        }
+      ]
+    },
+    {
+      "en": "This accord helps us share a wish for a better road to success.",
+      "zh": "这个协议帮助我们分享对更好成功之路的愿望。",
+      "words": [
+        {
+          "word": "accord",
+          "def": "协议",
+          "ipa": "/əˈkɔːrd/",
+          "eng_def": "a formal agreement between groups"
+        },
+        {
+          "word": "wish",
+          "def": "愿望",
+          "ipa": "/wɪʃ/",
+          "eng_def": "a feeling of wanting something"
+        },
+        {
+          "word": "road",
+          "def": "道路",
+          "ipa": "/roʊd/",
+          "eng_def": "a path for cars and people to travel on"
+        },
+        {
+          "word": "better",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "success",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "security",
+      "def": "安全",
+      "ipa": "/sɪˈkjʊrəti/",
+      "eng_def": "the state of being safe from danger",
+      "example": "The security of our data is important."
+    },
+    {
+      "word": "air",
+      "def": "空气",
+      "ipa": "/eər/",
+      "eng_def": "the gas that we breathe",
+      "example": "The air in the room is fresh."
+    },
+    {
+      "word": "benefit",
+      "def": "好处",
+      "ipa": "/ˈbenɪfɪt/",
+      "eng_def": "a good result or effect",
+      "example": "Exercise has many benefits."
+    },
+    {
+      "word": "trade",
+      "def": "交换",
+      "ipa": "/treɪd/",
+      "eng_def": "to give something and get something else in return",
+      "example": "They trade goods with each other."
+    },
+    {
+      "word": "risk",
+      "def": "风险",
+      "ipa": "/rɪsk/",
+      "eng_def": "the chance that something bad may happen",
+      "example": "There is a risk of rain today."
+    },
+    {
+      "word": "news",
+      "def": "消息",
+      "ipa": "/njuːz/",
+      "eng_def": "information about recent events",
+      "example": "I watch the news every evening."
+    },
+    {
+      "word": "standard",
+      "def": "标准",
+      "ipa": "/ˈstændərd/",
+      "eng_def": "a level of quality that is usual or expected",
+      "example": "The standard for this test is high."
+    },
+    {
+      "word": "vote",
+      "def": "投票",
+      "ipa": "/voʊt/",
+      "eng_def": "a choice made in an election or meeting",
+      "example": "We need a vote on the new rule."
+    },
+    {
+      "word": "percent",
+      "def": "百分比",
+      "ipa": "/pərˈsent/",
+      "eng_def": "one part in a hundred",
+      "example": "Fifty percent of the students are here."
+    },
+    {
+      "word": "focus",
+      "def": "专注于",
+      "ipa": "/ˈfoʊkəs/",
+      "eng_def": "to give all your attention to something",
+      "example": "Please focus on your work."
+    },
+    {
+      "word": "stage",
+      "def": "阶段",
+      "ipa": "/steɪdʒ/",
+      "eng_def": "a part of a process or development",
+      "example": "The first stage of the project is done."
+    },
+    {
+      "word": "space",
+      "def": "空间",
+      "ipa": "/speɪs/",
+      "eng_def": "an empty area that can be used",
+      "example": "There is no space in the room."
+    },
+    {
+      "word": "instead",
+      "def": "代替",
+      "ipa": "/ɪnˈsted/",
+      "eng_def": "in place of something or someone",
+      "example": "I drink water instead of soda."
+    },
+    {
+      "word": "realize",
+      "def": "意识到",
+      "ipa": "/ˈriːəlaɪz/",
+      "eng_def": "to understand something that you did not know before",
+      "example": "I realize my mistake now."
+    },
+    {
+      "word": "usually",
+      "def": "通常",
+      "ipa": "/ˈjuːʒuəli/",
+      "eng_def": "in the way that happens most of the time",
+      "example": "I usually wake up at seven."
+    },
+    {
+      "word": "data",
+      "def": "数据",
+      "ipa": "/ˈdeɪtə/",
+      "eng_def": "information in a form that a computer can use",
+      "example": "The data shows a big change."
+    },
+    {
+      "word": "single",
+      "def": "单一的",
+      "ipa": "/ˈsɪŋɡl/",
+      "eng_def": "only one",
+      "example": "I have a single ticket."
+    },
+    {
+      "word": "address",
+      "def": "地址",
+      "ipa": "/əˈdres/",
+      "eng_def": "the name of a place where someone lives or works",
+      "example": "Please write your address here."
+    },
+    {
+      "word": "performance",
+      "def": "表现",
+      "ipa": "/pərˈfɔːrməns/",
+      "eng_def": "how well someone does a job or activity",
+      "example": "Her performance in the test was good."
+    },
+    {
+      "word": "chance",
+      "def": "机会",
+      "ipa": "/tʃæns/",
+      "eng_def": "a time when something can happen",
+      "example": "This is your only chance."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词的意思是“安全”？",
+      "question_en": "Which word means 'the state of being safe from danger'?",
+      "options": [
+        "A. security",
+        "B. benefit",
+        "C. risk",
+        "D. chance"
+      ],
+      "answer": 0,
+      "word": "security"
+    },
+    {
+      "question_cn": "哪个词的意思是“专注于”？",
+      "question_en": "Which word means 'to give all your attention to something'?",
+      "options": [
+        "A. trade",
+        "B. focus",
+        "C. realize",
+        "D. vote"
+      ],
+      "answer": 1,
+      "word": "focus"
+    },
+    {
+      "question_cn": "哪个词的意思是“数据”？",
+      "question_en": "Which word means 'information in a form that a computer can use'?",
+      "options": [
+        "A. news",
+        "B. standard",
+        "C. data",
+        "D. space"
+      ],
+      "answer": 2,
+      "word": "data"
+    },
+    {
+      "question_cn": "哪个词的意思是“表现”？",
+      "question_en": "Which word means 'how well someone does a job or activity'?",
+      "options": [
+        "A. stage",
+        "B. performance",
+        "C. percent",
+        "D. address"
+      ],
+      "answer": 1,
+      "word": "performance"
+    },
+    {
+      "question_cn": "哪个词的意思是“代替”？",
+      "question_en": "Which word means 'in place of something or someone'?",
+      "options": [
+        "A. instead",
+        "B. usually",
+        "C. single",
+        "D. therefore"
+      ],
+      "answer": 0,
+      "word": "instead"
+    }
+  ],
+  "image_prompts": [
+    "A modern office building with a security guard at the entrance.",
+    "A clean office with windows open, fresh air coming in, and happy workers.",
+    "Two computers showing data exchange between companies, with a focus icon on a shield.",
+    "A computer screen showing a warning message about a system risk.",
+    "A team meeting with a chart showing high standards and a voting box on a table.",
+    "A computer with a progress bar showing the next stage of a project.",
+    "An office with empty desks and more space, workers standing instead of sitting.",
+    "A team leader pointing at a chart showing good performance results.",
+    "A whiteboard with a list of ideas and a big arrow labeled 'chance'.",
+    "A handshake between two people with a road and a success sign in the background."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['percent', 'address']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 18,
+  "_new_word_count": 20
+}

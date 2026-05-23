@@ -1,0 +1,532 @@
+{
+  "id": 127,
+  "title": "A Distant Shore",
+  "article_text": "A distant shore was situate beyond the harbor, and a stranger sat in the shade of a tree. The man would swear that he saw a grain of gold in the sand, but uncertainty made him sigh. The probability of finding treasure was low, so he decided to summarize his thoughts. A sudden snap of a branch made him leap with excitement. He felt a monthly payment was not enough for his leather bag. The bag would comprise all items from his storage, including a book about the universe. A refugee from a nearby town came to the shore, and the two men began to stir the sand together. The pregnancy of the stranger's wife added to his urgency, but he could not chase the dream. The comedy of the situation made them laugh, and they shared a moment of joy. Not only did they find a small treasure, but they also found a new friend that day.",
+  "sentences": [
+    {
+      "en": "A distant shore was situate beyond the harbor, and a stranger sat in the shade of a tree.",
+      "zh": "一个遥远的海岸位于港口之外，一个陌生人坐在树荫下。",
+      "words": [
+        {
+          "word": "distant",
+          "def": "遥远的",
+          "ipa": "/ˈdɪstənt/",
+          "eng_def": "far away in space or time"
+        },
+        {
+          "word": "shore",
+          "def": "海岸",
+          "ipa": "/ʃɔːr/",
+          "eng_def": "the land along the edge of the sea or a lake"
+        },
+        {
+          "word": "situate",
+          "def": "位于",
+          "ipa": "/ˈsɪtʃueɪt/",
+          "eng_def": "to put something in a particular place"
+        },
+        {
+          "word": "harbor",
+          "def": "港口",
+          "ipa": "/ˈhɑːrbər/",
+          "eng_def": "a place where ships can be safe from the weather"
+        },
+        {
+          "word": "stranger",
+          "def": "陌生人",
+          "ipa": "/ˈstreɪndʒər/",
+          "eng_def": "a person you do not know"
+        },
+        {
+          "word": "shade",
+          "def": "阴凉处",
+          "ipa": "/ʃeɪd/",
+          "eng_def": "a place where the sun does not shine directly"
+        },
+        {
+          "word": "sat",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The man would swear that he saw a grain of gold in the sand, but uncertainty made him sigh.",
+      "zh": "那个男人发誓他在沙子里看到了一粒金子，但不确定性让他叹了口气。",
+      "words": [
+        {
+          "word": "swear",
+          "def": "发誓",
+          "ipa": "/swer/",
+          "eng_def": "to make a serious promise"
+        },
+        {
+          "word": "grain",
+          "def": "颗粒",
+          "ipa": "/ɡreɪn/",
+          "eng_def": "a very small piece of something"
+        },
+        {
+          "word": "uncertainty",
+          "def": "不确定性",
+          "ipa": "/ʌnˈsɜːrtnti/",
+          "eng_def": "a situation in which you are not sure what will happen"
+        },
+        {
+          "word": "sigh",
+          "def": "叹气",
+          "ipa": "/saɪ/",
+          "eng_def": "to let out a long breath showing sadness or tiredness"
+        },
+        {
+          "word": "saw",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "made",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The probability of finding treasure was low, so he decided to summarize his thoughts.",
+      "zh": "找到宝藏的概率很低，所以他决定总结一下他的想法。",
+      "words": [
+        {
+          "word": "probability",
+          "def": "概率",
+          "ipa": "/ˌprɑːbəˈbɪləti/",
+          "eng_def": "how likely something is to happen"
+        },
+        {
+          "word": "summarize",
+          "def": "总结",
+          "ipa": "/ˈsʌməraɪz/",
+          "eng_def": "to give the main points of something"
+        },
+        {
+          "word": "treasure",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "thoughts",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "A sudden snap of a branch made him leap with excitement.",
+      "zh": "一根树枝突然折断的声音让他兴奋地跳了起来。",
+      "words": [
+        {
+          "word": "snap",
+          "def": "折断",
+          "ipa": "/snæp/",
+          "eng_def": "to break something with a short loud sound"
+        },
+        {
+          "word": "leap",
+          "def": "跳跃",
+          "ipa": "/liːp/",
+          "eng_def": "to jump high or a long way"
+        },
+        {
+          "word": "excitement",
+          "def": "兴奋",
+          "ipa": "/ɪkˈsaɪtmənt/",
+          "eng_def": "a feeling of being very happy and interested"
+        },
+        {
+          "word": "made",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "He felt a monthly payment was not enough for his leather bag.",
+      "zh": "他觉得每月付款不够买他的皮革包。",
+      "words": [
+        {
+          "word": "monthly",
+          "def": "每月的",
+          "ipa": "/ˈmʌnθli/",
+          "eng_def": "happening or done every month"
+        },
+        {
+          "word": "leather",
+          "def": "皮革",
+          "ipa": "/ˈleðər/",
+          "eng_def": "material made from animal skin used for bags and shoes"
+        },
+        {
+          "word": "felt",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The bag would comprise all items from his storage, including a book about the universe.",
+      "zh": "这个包将包含他储藏室里的所有物品，包括一本关于宇宙的书。",
+      "words": [
+        {
+          "word": "comprise",
+          "def": "包含",
+          "ipa": "/kəmˈpraɪz/",
+          "eng_def": "to consist of or include something"
+        },
+        {
+          "word": "storage",
+          "def": "储藏室",
+          "ipa": "/ˈstɔːrɪdʒ/",
+          "eng_def": "a place where you keep things when they are not being used"
+        },
+        {
+          "word": "universe",
+          "def": "宇宙",
+          "ipa": "/ˈjuːnɪvɜːrs/",
+          "eng_def": "all of space and everything in it"
+        }
+      ]
+    },
+    {
+      "en": "A refugee from a nearby town came to the shore, and the two men began to stir the sand together.",
+      "zh": "一个来自附近城镇的难民来到海岸，两人开始一起搅动沙子。",
+      "words": [
+        {
+          "word": "refugee",
+          "def": "难民",
+          "ipa": "/ˌrefjuˈdʒiː/",
+          "eng_def": "a person who leaves their home because of danger"
+        },
+        {
+          "word": "stir",
+          "def": "搅动",
+          "ipa": "/stɜːr/",
+          "eng_def": "to move a liquid or something around using a spoon or your hand"
+        },
+        {
+          "word": "came",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "two",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "men",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "began",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The pregnancy of the stranger's wife added to his urgency, but he could not chase the dream.",
+      "zh": "陌生人妻子的怀孕增加了他紧迫感，但他无法追逐这个梦想。",
+      "words": [
+        {
+          "word": "pregnancy",
+          "def": "怀孕",
+          "ipa": "/ˈpreɡnənsi/",
+          "eng_def": "the state of having a baby growing inside the body"
+        },
+        {
+          "word": "chase",
+          "def": "追逐",
+          "ipa": "/tʃeɪs/",
+          "eng_def": "to run after someone or something to try to catch them"
+        },
+        {
+          "word": "stranger's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "urgency",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The comedy of the situation made them laugh, and they shared a moment of joy.",
+      "zh": "这个情境的喜剧性让他们大笑，他们分享了一个快乐的时刻。",
+      "words": [
+        {
+          "word": "comedy",
+          "def": "喜剧",
+          "ipa": "/ˈkɑːmədi/",
+          "eng_def": "a funny play, movie, or story"
+        },
+        {
+          "word": "made",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Not only did they find a small treasure, but they also found a new friend that day.",
+      "zh": "那天他们不仅找到了一小笔宝藏，还找到了一个新朋友。",
+      "words": [
+        {
+          "word": "treasure",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "found",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "distant",
+      "def": "遥远的",
+      "ipa": "/ˈdɪstənt/",
+      "eng_def": "far away in space or time",
+      "example": "The distant mountain was covered with snow."
+    },
+    {
+      "word": "stranger",
+      "def": "陌生人",
+      "ipa": "/ˈstreɪndʒər/",
+      "eng_def": "a person you do not know",
+      "example": "A stranger helped me find the way."
+    },
+    {
+      "word": "shade",
+      "def": "阴凉处",
+      "ipa": "/ʃeɪd/",
+      "eng_def": "a place where the sun does not shine directly",
+      "example": "We sat in the shade of a big tree."
+    },
+    {
+      "word": "grain",
+      "def": "颗粒",
+      "ipa": "/ɡreɪn/",
+      "eng_def": "a very small piece of something",
+      "example": "There is a grain of sand in my shoe."
+    },
+    {
+      "word": "situate",
+      "def": "位于",
+      "ipa": "/ˈsɪtʃueɪt/",
+      "eng_def": "to put something in a particular place",
+      "example": "The house is situate near the river."
+    },
+    {
+      "word": "summarize",
+      "def": "总结",
+      "ipa": "/ˈsʌməraɪz/",
+      "eng_def": "to give the main points of something",
+      "example": "Please summarize the story in one sentence."
+    },
+    {
+      "word": "leap",
+      "def": "跳跃",
+      "ipa": "/liːp/",
+      "eng_def": "to jump high or a long way",
+      "example": "The frog made a big leap into the water."
+    },
+    {
+      "word": "snap",
+      "def": "折断",
+      "ipa": "/snæp/",
+      "eng_def": "to break something with a short loud sound",
+      "example": "The dry branch snapped under my foot."
+    },
+    {
+      "word": "probability",
+      "def": "概率",
+      "ipa": "/ˌprɑːbəˈbɪləti/",
+      "eng_def": "how likely something is to happen",
+      "example": "The probability of rain today is high."
+    },
+    {
+      "word": "leather",
+      "def": "皮革",
+      "ipa": "/ˈleðər/",
+      "eng_def": "material made from animal skin used for bags and shoes",
+      "example": "She bought a new leather jacket."
+    },
+    {
+      "word": "uncertainty",
+      "def": "不确定性",
+      "ipa": "/ʌnˈsɜːrtnti/",
+      "eng_def": "a situation in which you are not sure what will happen",
+      "example": "The uncertainty of the weather worried us."
+    },
+    {
+      "word": "swear",
+      "def": "发誓",
+      "ipa": "/swer/",
+      "eng_def": "to make a serious promise",
+      "example": "I swear I will tell the truth."
+    },
+    {
+      "word": "refugee",
+      "def": "难民",
+      "ipa": "/ˌrefjuˈdʒiː/",
+      "eng_def": "a person who leaves their home because of danger",
+      "example": "Many refugees came to the camp for safety."
+    },
+    {
+      "word": "shore",
+      "def": "海岸",
+      "ipa": "/ʃɔːr/",
+      "eng_def": "the land along the edge of the sea or a lake",
+      "example": "We walked along the shore at sunset."
+    },
+    {
+      "word": "monthly",
+      "def": "每月的",
+      "ipa": "/ˈmʌnθli/",
+      "eng_def": "happening or done every month",
+      "example": "I pay a monthly rent for my apartment."
+    },
+    {
+      "word": "comprise",
+      "def": "包含",
+      "ipa": "/kəmˈpraɪz/",
+      "eng_def": "to consist of or include something",
+      "example": "The team comprises five players."
+    },
+    {
+      "word": "stir",
+      "def": "搅动",
+      "ipa": "/stɜːr/",
+      "eng_def": "to move a liquid or something around using a spoon or your hand",
+      "example": "Stir the coffee to mix the sugar."
+    },
+    {
+      "word": "excitement",
+      "def": "兴奋",
+      "ipa": "/ɪkˈsaɪtmənt/",
+      "eng_def": "a feeling of being very happy and interested",
+      "example": "The children shouted with excitement."
+    },
+    {
+      "word": "sigh",
+      "def": "叹气",
+      "ipa": "/saɪ/",
+      "eng_def": "to let out a long breath showing sadness or tiredness",
+      "example": "She let out a deep sigh of relief."
+    },
+    {
+      "word": "pregnancy",
+      "def": "怀孕",
+      "ipa": "/ˈpreɡnənsi/",
+      "eng_def": "the state of having a baby growing inside the body",
+      "example": "Pregnancy lasts about nine months."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词的意思是“不确定性”？",
+      "question_en": "Which word means 'a situation in which you are not sure what will happen'?",
+      "options": [
+        "A. probability",
+        "B. uncertainty",
+        "C. excitement",
+        "D. summary"
+      ],
+      "answer": 1,
+      "word": "uncertainty"
+    },
+    {
+      "question_cn": "哪个词的意思是“跳跃”？",
+      "question_en": "Which word means 'to jump high or a long way'?",
+      "options": [
+        "A. snap",
+        "B. stir",
+        "C. leap",
+        "D. sigh"
+      ],
+      "answer": 2,
+      "word": "leap"
+    },
+    {
+      "question_cn": "哪个词的意思是“包含”？",
+      "question_en": "Which word means 'to consist of or include something'?",
+      "options": [
+        "A. comprise",
+        "B. summarize",
+        "C. situate",
+        "D. swear"
+      ],
+      "answer": 0,
+      "word": "comprise"
+    },
+    {
+      "question_cn": "哪个词的意思是“难民”？",
+      "question_en": "Which word means 'a person who leaves their home because of danger'?",
+      "options": [
+        "A. stranger",
+        "B. refugee",
+        "C. neighbor",
+        "D. friend"
+      ],
+      "answer": 1,
+      "word": "refugee"
+    },
+    {
+      "question_cn": "哪个词的意思是“每月的”？",
+      "question_en": "Which word means 'happening or done every month'?",
+      "options": [
+        "A. monthly",
+        "B. daily",
+        "C. yearly",
+        "D. weekly"
+      ],
+      "answer": 0,
+      "word": "monthly"
+    }
+  ],
+  "image_prompts": [
+    "A distant shore with a harbor in the background, a stranger sitting under a tree in the shade.",
+    "A man looking at a tiny grain of gold in the sand, with a thoughtful expression and a sigh.",
+    "The same man sitting with a piece of paper, writing a summary, with a low probability sign nearby.",
+    "A branch snapping suddenly, making a man leap up with excitement.",
+    "A man holding a leather bag, with a monthly payment calendar next to him.",
+    "A bag open on the ground, containing items from a storage room, including a book about the universe.",
+    "A refugee arriving at the shore, joining another man to stir the sand with their hands.",
+    "A pregnant woman standing in the distance, with a man looking urgent but unable to chase a dream.",
+    "Two men laughing together in a comedic scene on the shore.",
+    "Two men holding a small treasure chest and shaking hands as friends, with the shore and harbor behind them."
+  ],
+  "_needs_review": false,
+  "_lesson_num": 127,
+  "_new_word_count": 20
+}

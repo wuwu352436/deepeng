@@ -1,0 +1,487 @@
+{
+  "id": 111,
+  "title": "The Evolution of a Valley",
+  "article_text": "The evolution of the Green Valley is an impressive story of survival. Greatly affected by human activity, the valley was almost ruined by a motor company that wanted to build a factory there. The company's plan was to divorce nature from progress, but a group of local people formed a league to counter this tendency. They sought permission from the government to bury the project, and their counsel was frequent and passionate. Only then did the company realize it could not possess the land. It is the people's preference for nature that saved the valley. The valley now floats in a sea of green, and its beauty is visible from afar. The survival of this area was an incentive for other communities to take action. A comprehensive dialog between developers and residents is now required. No one should be mad about this result, as it shows a clear victory for the environment.",
+  "sentences": [
+    {
+      "en": "The evolution of the Green Valley is an impressive story of survival.",
+      "zh": "绿谷的进化是一个令人印象深刻的生存故事。",
+      "words": [
+        {
+          "word": "evolution",
+          "def": "进化，演变",
+          "ipa": "/ˌiːvəˈluːʃən/",
+          "eng_def": "the process of slow change and development over time"
+        },
+        {
+          "word": "valley",
+          "def": "山谷，峡谷",
+          "ipa": "/ˈvæli/",
+          "eng_def": "a low area of land between hills or mountains"
+        },
+        {
+          "word": "impressive",
+          "def": "令人印象深刻的",
+          "ipa": "/ɪmˈpresɪv/",
+          "eng_def": "causing admiration because of size, quality, or skill"
+        },
+        {
+          "word": "survival",
+          "def": "生存，幸存",
+          "ipa": "/sərˈvaɪvəl/",
+          "eng_def": "the state of continuing to live or exist"
+        }
+      ]
+    },
+    {
+      "en": "Greatly affected by human activity, the valley was almost ruined by a motor company that wanted to build a factory there.",
+      "zh": "受人类活动严重影响，这个山谷差点被一家想在那里建厂的汽车公司毁掉。",
+      "words": [
+        {
+          "word": "greatly",
+          "def": "极大地，非常",
+          "ipa": "/ˈɡreɪtli/",
+          "eng_def": "very much; to a large degree"
+        },
+        {
+          "word": "ruin",
+          "def": "毁坏，毁灭",
+          "ipa": "/ˈruːɪn/",
+          "eng_def": "to destroy or damage something completely"
+        },
+        {
+          "word": "motor",
+          "def": "汽车，马达",
+          "ipa": "/ˈmoʊtər/",
+          "eng_def": "a machine that makes things move; a car"
+        },
+        {
+          "word": "ruined",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The company's plan was to divorce nature from progress, but a group of local people formed a league to counter this tendency.",
+      "zh": "公司的计划是将自然与进步分开，但一群当地人组成了一个联盟来对抗这种趋势。",
+      "words": [
+        {
+          "word": "divorce",
+          "def": "分离，离婚",
+          "ipa": "/dɪˈvɔːrs/",
+          "eng_def": "to separate two things that were together; to end a marriage"
+        },
+        {
+          "word": "league",
+          "def": "联盟，社团",
+          "ipa": "/liːɡ/",
+          "eng_def": "a group of people or countries that join together for a common purpose"
+        },
+        {
+          "word": "counter",
+          "def": "对抗，反驳",
+          "ipa": "/ˈkaʊntər/",
+          "eng_def": "to oppose or fight against something"
+        },
+        {
+          "word": "tendency",
+          "def": "趋势，倾向",
+          "ipa": "/ˈtendənsi/",
+          "eng_def": "a natural way of behaving or happening"
+        },
+        {
+          "word": "company's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "They sought permission from the government to bury the project, and their counsel was frequent and passionate.",
+      "zh": "他们寻求政府的许可来埋葬这个项目，他们的建议频繁而充满激情。",
+      "words": [
+        {
+          "word": "permission",
+          "def": "许可，允许",
+          "ipa": "/pərˈmɪʃən/",
+          "eng_def": "the act of allowing someone to do something"
+        },
+        {
+          "word": "bury",
+          "def": "埋葬，掩埋",
+          "ipa": "/ˈberi/",
+          "eng_def": "to put something in the ground and cover it with earth"
+        },
+        {
+          "word": "counsel",
+          "def": "建议，忠告",
+          "ipa": "/ˈkaʊnsəl/",
+          "eng_def": "advice or guidance given to someone"
+        },
+        {
+          "word": "frequent",
+          "def": "频繁的，经常的",
+          "ipa": "/ˈfriːkwənt/",
+          "eng_def": "happening often"
+        },
+        {
+          "word": "sought",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "passionate",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Only then did the company realize it could not possess the land.",
+      "zh": "直到那时，公司才意识到它不能拥有这片土地。",
+      "words": [
+        {
+          "word": "possess",
+          "def": "拥有，占有",
+          "ipa": "/pəˈzes/",
+          "eng_def": "to have or own something"
+        }
+      ]
+    },
+    {
+      "en": "It is the people's preference for nature that saved the valley.",
+      "zh": "正是人们对自然的偏爱拯救了山谷。",
+      "words": [
+        {
+          "word": "preference",
+          "def": "偏爱，偏好",
+          "ipa": "/ˈprefərəns/",
+          "eng_def": "a greater liking for one thing over another"
+        },
+        {
+          "word": "people's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The valley now floats in a sea of green, and its beauty is visible from afar.",
+      "zh": "山谷现在漂浮在一片绿色的海洋中，它的美丽从远处就能看到。",
+      "words": [
+        {
+          "word": "float",
+          "def": "漂浮，浮动",
+          "ipa": "/floʊt/",
+          "eng_def": "to stay on the surface of a liquid or in the air"
+        },
+        {
+          "word": "visible",
+          "def": "可见的，明显的",
+          "ipa": "/ˈvɪzəbəl/",
+          "eng_def": "able to be seen"
+        },
+        {
+          "word": "floats",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "afar",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The survival of this area was an incentive for other communities to take action.",
+      "zh": "这个地区的生存是其他社区采取行动的激励。",
+      "words": [
+        {
+          "word": "survival",
+          "def": "生存，幸存",
+          "ipa": "/sərˈvaɪvəl/",
+          "eng_def": "the state of continuing to live or exist"
+        },
+        {
+          "word": "incentive",
+          "def": "激励，动机",
+          "ipa": "/ɪnˈsentɪv/",
+          "eng_def": "something that encourages a person to do something"
+        },
+        {
+          "word": "communities",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "A comprehensive dialog between developers and residents is now required.",
+      "zh": "现在需要开发商和居民之间进行全面的对话。",
+      "words": [
+        {
+          "word": "comprehensive",
+          "def": "全面的，综合的",
+          "ipa": "/ˌkɑːmprɪˈhensɪv/",
+          "eng_def": "including everything that is needed"
+        },
+        {
+          "word": "dialog",
+          "def": "对话",
+          "ipa": "/ˈdaɪəlɔːɡ/",
+          "eng_def": "a conversation between two or more people"
+        },
+        {
+          "word": "developers",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "No one should be mad about this result, as it shows a clear victory for the environment.",
+      "zh": "没有人应该对这个结果生气，因为它显示了环境的一次明显胜利。",
+      "words": [
+        {
+          "word": "mad",
+          "def": "生气的，疯狂的",
+          "ipa": "/mæd/",
+          "eng_def": "very angry; not thinking clearly"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "rid",
+      "def": "摆脱，去除",
+      "ipa": "/rɪd/",
+      "eng_def": "to remove something that is not wanted",
+      "example": "We must rid the valley of pollution."
+    },
+    {
+      "word": "divorce",
+      "def": "分离，离婚",
+      "ipa": "/dɪˈvɔːrs/",
+      "eng_def": "to separate two things that were together; to end a marriage",
+      "example": "The company's plan was to divorce nature from progress."
+    },
+    {
+      "word": "ruin",
+      "def": "毁坏，毁灭",
+      "ipa": "/ˈruːɪn/",
+      "eng_def": "to destroy or damage something completely",
+      "example": "The valley was almost ruined by a motor company."
+    },
+    {
+      "word": "bury",
+      "def": "埋葬，掩埋",
+      "ipa": "/ˈberi/",
+      "eng_def": "to put something in the ground and cover it with earth",
+      "example": "They sought permission to bury the project."
+    },
+    {
+      "word": "counsel",
+      "def": "建议，忠告",
+      "ipa": "/ˈkaʊnsəl/",
+      "eng_def": "advice or guidance given to someone",
+      "example": "Their counsel was frequent and passionate."
+    },
+    {
+      "word": "tendency",
+      "def": "趋势，倾向",
+      "ipa": "/ˈtendənsi/",
+      "eng_def": "a natural way of behaving or happening",
+      "example": "They formed a league to counter this tendency."
+    },
+    {
+      "word": "frequent",
+      "def": "频繁的，经常的",
+      "ipa": "/ˈfriːkwənt/",
+      "eng_def": "happening often",
+      "example": "Their counsel was frequent and passionate."
+    },
+    {
+      "word": "motor",
+      "def": "汽车，马达",
+      "ipa": "/ˈmoʊtər/",
+      "eng_def": "a machine that makes things move; a car",
+      "example": "A motor company wanted to build a factory there."
+    },
+    {
+      "word": "survival",
+      "def": "生存，幸存",
+      "ipa": "/sərˈvaɪvəl/",
+      "eng_def": "the state of continuing to live or exist",
+      "example": "The evolution of the Green Valley is an impressive story of survival."
+    },
+    {
+      "word": "counter",
+      "def": "对抗，反驳",
+      "ipa": "/ˈkaʊntər/",
+      "eng_def": "to oppose or fight against something",
+      "example": "They formed a league to counter this tendency."
+    },
+    {
+      "word": "possess",
+      "def": "拥有，占有",
+      "ipa": "/pəˈzes/",
+      "eng_def": "to have or own something",
+      "example": "The company could not possess the land."
+    },
+    {
+      "word": "permission",
+      "def": "许可，允许",
+      "ipa": "/pərˈmɪʃən/",
+      "eng_def": "the act of allowing someone to do something",
+      "example": "They sought permission from the government."
+    },
+    {
+      "word": "valley",
+      "def": "山谷，峡谷",
+      "ipa": "/ˈvæli/",
+      "eng_def": "a low area of land between hills or mountains",
+      "example": "The evolution of the Green Valley is an impressive story."
+    },
+    {
+      "word": "float",
+      "def": "漂浮，浮动",
+      "ipa": "/floʊt/",
+      "eng_def": "to stay on the surface of a liquid or in the air",
+      "example": "The valley now floats in a sea of green."
+    },
+    {
+      "word": "mad",
+      "def": "生气的，疯狂的",
+      "ipa": "/mæd/",
+      "eng_def": "very angry; not thinking clearly",
+      "example": "No one should be mad about this result."
+    },
+    {
+      "word": "greatly",
+      "def": "极大地，非常",
+      "ipa": "/ˈɡreɪtli/",
+      "eng_def": "very much; to a large degree",
+      "example": "Greatly affected by human activity, the valley was almost ruined."
+    },
+    {
+      "word": "visible",
+      "def": "可见的，明显的",
+      "ipa": "/ˈvɪzəbəl/",
+      "eng_def": "able to be seen",
+      "example": "Its beauty is visible from afar."
+    },
+    {
+      "word": "electric",
+      "def": "电的，电动的",
+      "ipa": "/ɪˈlektrɪk/",
+      "eng_def": "using electricity for power",
+      "example": "The motor company also made electric cars."
+    },
+    {
+      "word": "impressive",
+      "def": "令人印象深刻的",
+      "ipa": "/ɪmˈpresɪv/",
+      "eng_def": "causing admiration because of size, quality, or skill",
+      "example": "The evolution of the Green Valley is an impressive story."
+    },
+    {
+      "word": "evolution",
+      "def": "进化，演变",
+      "ipa": "/ˌiːvəˈluːʃən/",
+      "eng_def": "the process of slow change and development over time",
+      "example": "The evolution of the Green Valley is an impressive story."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词的意思是“毁坏，毁灭”？",
+      "question_en": "Which word means 'to destroy or damage something completely'?",
+      "options": [
+        "A. ruin",
+        "B. rid",
+        "C. counter",
+        "D. float"
+      ],
+      "answer": 0,
+      "word": "ruin"
+    },
+    {
+      "question_cn": "哪个词的意思是“拥有，占有”？",
+      "question_en": "Which word means 'to have or own something'?",
+      "options": [
+        "A. possess",
+        "B. bury",
+        "C. divorce",
+        "D. counsel"
+      ],
+      "answer": 0,
+      "word": "possess"
+    },
+    {
+      "question_cn": "哪个词的意思是“生存，幸存”？",
+      "question_en": "Which word means 'the state of continuing to live or exist'?",
+      "options": [
+        "A. survival",
+        "B. evolution",
+        "C. tendency",
+        "D. permission"
+      ],
+      "answer": 0,
+      "word": "survival"
+    },
+    {
+      "question_cn": "哪个词的意思是“可见的，明显的”？",
+      "question_en": "Which word means 'able to be seen'?",
+      "options": [
+        "A. visible",
+        "B. frequent",
+        "C. impressive",
+        "D. mad"
+      ],
+      "answer": 0,
+      "word": "visible"
+    },
+    {
+      "question_cn": "哪个词的意思是“极大地，非常”？",
+      "question_en": "Which word means 'very much; to a large degree'?",
+      "options": [
+        "A. greatly",
+        "B. electric",
+        "C. mad",
+        "D. frequent"
+      ],
+      "answer": 0,
+      "word": "greatly"
+    }
+  ],
+  "image_prompts": [
+    "A beautiful green valley with hills in the background, showing nature's evolution over time.",
+    "A large motor company building site with machines, threatening to ruin the valley.",
+    "A group of local people forming a league, holding signs to counter the company's plan.",
+    "People meeting with government officials, seeking permission to bury the factory project.",
+    "A company executive looking at a map, realizing they cannot possess the land.",
+    "A scenic view of the valley with people enjoying nature, showing their preference for it.",
+    "The valley covered in green plants, floating like an island, visible from a distance.",
+    "Other communities gathering to take action, inspired by the valley's survival story.",
+    "A meeting table with developers and residents having a comprehensive dialog.",
+    "A happy community celebrating the victory for the environment, with no one mad about the result."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['electric', 'rid']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 111,
+  "_new_word_count": 20
+}

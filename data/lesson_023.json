@@ -1,0 +1,442 @@
+{
+  "id": 23,
+  "title": "A Private Art Campaign",
+  "article_text": "Everyone in the office can relate to our recent campaign. The official art show is inside the park this summer. I never forget my private key for the financial page. Let's pause and drink some water. This art represents the heart of our team. Everyone has an opinion about the summer art. Sometimes I miss the private meetings. The financial source is a key part of our campaign. Do not worry about the page number. The employee can manage the art inside the park.",
+  "sentences": [
+    {
+      "en": "Everyone in the office can relate to our recent campaign.",
+      "zh": "办公室里的每个人都能理解我们最近的宣传活动。",
+      "words": [
+        {
+          "word": "everyone",
+          "def": "每个人",
+          "ipa": "/ˈɛvriˌwʌn/",
+          "eng_def": "every person"
+        },
+        {
+          "word": "relate",
+          "def": "理解；相关联",
+          "ipa": "/rɪˈleɪt/",
+          "eng_def": "to understand or connect"
+        },
+        {
+          "word": "recent",
+          "def": "最近的",
+          "ipa": "/ˈriːsənt/",
+          "eng_def": "happening not long ago"
+        },
+        {
+          "word": "campaign",
+          "def": "宣传活动",
+          "ipa": "/kæmˈpeɪn/",
+          "eng_def": "a series of actions for a goal"
+        }
+      ]
+    },
+    {
+      "en": "The official art show is inside the park this summer.",
+      "zh": "官方的艺术展今年夏天在公园里面。",
+      "words": [
+        {
+          "word": "official",
+          "def": "官方的",
+          "ipa": "/əˈfɪʃəl/",
+          "eng_def": "related to an authority or organization"
+        },
+        {
+          "word": "art",
+          "def": "艺术",
+          "ipa": "/ɑːrt/",
+          "eng_def": "the making of beautiful things"
+        },
+        {
+          "word": "inside",
+          "def": "在……里面",
+          "ipa": "/ɪnˈsaɪd/",
+          "eng_def": "in or into the inner part"
+        },
+        {
+          "word": "park",
+          "def": "公园",
+          "ipa": "/pɑːrk/",
+          "eng_def": "a public area with grass and trees"
+        },
+        {
+          "word": "summer",
+          "def": "夏天",
+          "ipa": "/ˈsʌmər/",
+          "eng_def": "the warm season between spring and autumn"
+        }
+      ]
+    },
+    {
+      "en": "I never forget my private key for the financial page.",
+      "zh": "我从不忘记我的私人钥匙用于财务页面。",
+      "words": [
+        {
+          "word": "forget",
+          "def": "忘记",
+          "ipa": "/fərˈɡɛt/",
+          "eng_def": "to not remember"
+        },
+        {
+          "word": "private",
+          "def": "私人的",
+          "ipa": "/ˈpraɪvɪt/",
+          "eng_def": "for one person, not public"
+        },
+        {
+          "word": "key",
+          "def": "钥匙；关键",
+          "ipa": "/kiː/",
+          "eng_def": "a tool to open locks; important thing"
+        },
+        {
+          "word": "financial",
+          "def": "财务的",
+          "ipa": "/faɪˈnænʃəl/",
+          "eng_def": "related to money"
+        },
+        {
+          "word": "page",
+          "def": "页面",
+          "ipa": "/peɪdʒ/",
+          "eng_def": "one side of a sheet of paper"
+        }
+      ]
+    },
+    {
+      "en": "Let's pause and drink some water.",
+      "zh": "让我们暂停一下喝点水。",
+      "words": [
+        {
+          "word": "pause",
+          "def": "暂停",
+          "ipa": "/pɔːz/",
+          "eng_def": "to stop for a short time"
+        },
+        {
+          "word": "drink",
+          "def": "喝；饮料",
+          "ipa": "/drɪŋk/",
+          "eng_def": "to take liquid into the mouth; a liquid for drinking"
+        },
+        {
+          "word": "let's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "This art represents the heart of our team.",
+      "zh": "这件艺术代表了我们的团队核心。",
+      "words": [
+        {
+          "word": "represents",
+          "def": "代表",
+          "ipa": "/ˌrɛprɪˈzɛnts/",
+          "eng_def": "to stand for or show something"
+        },
+        {
+          "word": "heart",
+          "def": "心脏；核心",
+          "ipa": "/hɑːrt/",
+          "eng_def": "the organ that pumps blood; the center"
+        }
+      ]
+    },
+    {
+      "en": "Everyone has an opinion about the summer art.",
+      "zh": "每个人对夏季艺术都有看法。",
+      "words": [
+        {
+          "word": "opinion",
+          "def": "意见；看法",
+          "ipa": "/əˈpɪnjən/",
+          "eng_def": "what a person thinks about something"
+        }
+      ]
+    },
+    {
+      "en": "Sometimes I miss the private meetings.",
+      "zh": "有时我怀念那些私人会议。",
+      "words": [
+        {
+          "word": "miss",
+          "def": "想念；错过",
+          "ipa": "/mɪs/",
+          "eng_def": "to feel sad because someone is not there; to not catch"
+        },
+        {
+          "word": "meetings",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The financial source is a key part of our campaign.",
+      "zh": "财务来源是我们宣传活动的一个关键部分。",
+      "words": [
+        {
+          "word": "source",
+          "def": "来源",
+          "ipa": "/sɔːrs/",
+          "eng_def": "the place where something comes from"
+        }
+      ]
+    },
+    {
+      "en": "Do not worry about the page number.",
+      "zh": "不要担心页码。",
+      "words": [
+        {
+          "word": "worry",
+          "def": "担心",
+          "ipa": "/ˈwɜːri/",
+          "eng_def": "to feel anxious or troubled"
+        }
+      ]
+    },
+    {
+      "en": "The employee can manage the art inside the park.",
+      "zh": "员工可以管理公园里面的艺术。",
+      "words": [
+        {
+          "word": "employee",
+          "def": "员工",
+          "ipa": "/ɪmˈplɔɪiː/",
+          "eng_def": "a person who works for someone else"
+        },
+        {
+          "word": "manage",
+          "def": "管理",
+          "ipa": "/ˈmænɪdʒ/",
+          "eng_def": "to control or be in charge of"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "recent",
+      "def": "最近的",
+      "ipa": "/ˈriːsənt/",
+      "eng_def": "happening not long ago",
+      "example": "This is a recent picture."
+    },
+    {
+      "word": "relate",
+      "def": "理解；相关联",
+      "ipa": "/rɪˈleɪt/",
+      "eng_def": "to understand or connect",
+      "example": "I can relate to your story."
+    },
+    {
+      "word": "official",
+      "def": "官方的",
+      "ipa": "/əˈfɪʃəl/",
+      "eng_def": "related to an authority or organization",
+      "example": "This is an official document."
+    },
+    {
+      "word": "financial",
+      "def": "财务的",
+      "ipa": "/faɪˈnænʃəl/",
+      "eng_def": "related to money",
+      "example": "He has a financial problem."
+    },
+    {
+      "word": "miss",
+      "def": "想念；错过",
+      "ipa": "/mɪs/",
+      "eng_def": "to feel sad because someone is not there; to not catch",
+      "example": "I miss my family."
+    },
+    {
+      "word": "art",
+      "def": "艺术",
+      "ipa": "/ɑːrt/",
+      "eng_def": "the making of beautiful things",
+      "example": "She loves art."
+    },
+    {
+      "word": "campaign",
+      "def": "宣传活动",
+      "ipa": "/kæmˈpeɪn/",
+      "eng_def": "a series of actions for a goal",
+      "example": "The campaign starts today."
+    },
+    {
+      "word": "private",
+      "def": "私人的",
+      "ipa": "/ˈpraɪvɪt/",
+      "eng_def": "for one person, not public",
+      "example": "This is my private room."
+    },
+    {
+      "word": "pause",
+      "def": "暂停",
+      "ipa": "/pɔːz/",
+      "eng_def": "to stop for a short time",
+      "example": "Let's pause the game."
+    },
+    {
+      "word": "everyone",
+      "def": "每个人",
+      "ipa": "/ˈɛvriˌwʌn/",
+      "eng_def": "every person",
+      "example": "Everyone is here."
+    },
+    {
+      "word": "forget",
+      "def": "忘记",
+      "ipa": "/fərˈɡɛt/",
+      "eng_def": "to not remember",
+      "example": "Do not forget your book."
+    },
+    {
+      "word": "page",
+      "def": "页面",
+      "ipa": "/peɪdʒ/",
+      "eng_def": "one side of a sheet of paper",
+      "example": "Open your book to page ten."
+    },
+    {
+      "word": "worry",
+      "def": "担心",
+      "ipa": "/ˈwɜːri/",
+      "eng_def": "to feel anxious or troubled",
+      "example": "Do not worry about it."
+    },
+    {
+      "word": "summer",
+      "def": "夏天",
+      "ipa": "/ˈsʌmər/",
+      "eng_def": "the warm season between spring and autumn",
+      "example": "Summer is hot."
+    },
+    {
+      "word": "drink",
+      "def": "喝；饮料",
+      "ipa": "/drɪŋk/",
+      "eng_def": "to take liquid into the mouth; a liquid for drinking",
+      "example": "I drink water every day."
+    },
+    {
+      "word": "opinion",
+      "def": "意见；看法",
+      "ipa": "/əˈpɪnjən/",
+      "eng_def": "what a person thinks about something",
+      "example": "What is your opinion?"
+    },
+    {
+      "word": "park",
+      "def": "公园",
+      "ipa": "/pɑːrk/",
+      "eng_def": "a public area with grass and trees",
+      "example": "We play in the park."
+    },
+    {
+      "word": "represent",
+      "def": "代表",
+      "ipa": "/ˌrɛprɪˈzɛnt/",
+      "eng_def": "to stand for or show something",
+      "example": "This color represents joy."
+    },
+    {
+      "word": "key",
+      "def": "钥匙；关键",
+      "ipa": "/kiː/",
+      "eng_def": "a tool to open locks; important thing",
+      "example": "This is the key to the door."
+    },
+    {
+      "word": "inside",
+      "def": "在……里面",
+      "ipa": "/ɪnˈsaɪd/",
+      "eng_def": "in or into the inner part",
+      "example": "The cat is inside the house."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "“campaign” 的中文意思是什么？",
+      "question_en": "What is the Chinese meaning of 'campaign'?",
+      "options": [
+        "A. 活动",
+        "B. 宣传",
+        "C. 战役",
+        "D. 比赛"
+      ],
+      "answer": 1,
+      "word": "campaign"
+    },
+    {
+      "question_cn": "哪个词的意思是“暂停”？",
+      "question_en": "Which word means 'to stop for a short time'?",
+      "options": [
+        "A. forget",
+        "B. pause",
+        "C. miss",
+        "D. worry"
+      ],
+      "answer": 1,
+      "word": "pause"
+    },
+    {
+      "question_cn": "“financial” 指的是什么？",
+      "question_en": "What does 'financial' relate to?",
+      "options": [
+        "A. 健康",
+        "B. 教育",
+        "C. 金钱",
+        "D. 艺术"
+      ],
+      "answer": 2,
+      "word": "financial"
+    },
+    {
+      "question_cn": "“private” 的反义词是什么？",
+      "question_en": "What is the opposite of 'private'?",
+      "options": [
+        "A. public",
+        "B. secret",
+        "C. personal",
+        "D. official"
+      ],
+      "answer": 0,
+      "word": "private"
+    },
+    {
+      "question_cn": "哪个词的意思是“代表”？",
+      "question_en": "Which word means 'to stand for something'?",
+      "options": [
+        "A. relate",
+        "B. represent",
+        "C. manage",
+        "D. forget"
+      ],
+      "answer": 1,
+      "word": "represent"
+    }
+  ],
+  "image_prompts": [
+    "A busy office with many people, one person pointing at a poster on the wall.",
+    "A park with trees and an outdoor art show, people looking at paintings.",
+    "A person holding a key near a computer screen showing a financial page.",
+    "Two people sitting at a table, one holding a glass of water, both smiling.",
+    "A painting on an easel with a heart shape in the center, team members around it.",
+    "A group of people talking and gesturing near summer art displays.",
+    "A person looking out a window with a sad expression, thinking of a past meeting.",
+    "A diagram showing money flowing from a source into a campaign poster.",
+    "A person looking at a book with a worried face, a page number highlighted.",
+    "A park with art pieces, an employee putting up a sign and managing the area."
+  ],
+  "_needs_review": false,
+  "_lesson_num": 23,
+  "_new_word_count": 20
+}

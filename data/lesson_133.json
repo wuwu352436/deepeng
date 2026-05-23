@@ -1,0 +1,376 @@
+{
+  "id": 133,
+  "title": "Learning Big Numbers",
+  "article_text": "The number thirty comes after twenty-nine. Forty is ten more than thirty. Fifty is half of one hundred. Sixty minutes make one hour. Seventy years is a long time. Eighty students are in the school. Ninety is close to one hundred. One thousand is ten hundred. One million is a thousand thousand. One billion is a thousand million, and one trillion is a thousand billion; a quadrillion and a quintillion are even bigger.",
+  "sentences": [
+    {
+      "en": "The number thirty comes after twenty-nine.",
+      "zh": "数字三十在二十九之后。",
+      "words": [
+        {
+          "word": "thirty",
+          "def": "三十",
+          "ipa": "/ˈθɜːrti/",
+          "eng_def": "the number 30"
+        },
+        {
+          "word": "twenty-nine",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Forty is ten more than thirty.",
+      "zh": "四十比三十多十。",
+      "words": [
+        {
+          "word": "Forty",
+          "def": "四十",
+          "ipa": "/ˈfɔːrti/",
+          "eng_def": "the number 40"
+        },
+        {
+          "word": "thirty",
+          "def": "三十",
+          "ipa": "/ˈθɜːrti/",
+          "eng_def": "the number 30"
+        }
+      ]
+    },
+    {
+      "en": "Fifty is half of one hundred.",
+      "zh": "五十是一百的一半。",
+      "words": [
+        {
+          "word": "Fifty",
+          "def": "五十",
+          "ipa": "/ˈfɪfti/",
+          "eng_def": "the number 50"
+        },
+        {
+          "word": "hundred",
+          "def": "百",
+          "ipa": "/ˈhʌndrəd/",
+          "eng_def": "the number 100"
+        }
+      ]
+    },
+    {
+      "en": "Sixty minutes make one hour.",
+      "zh": "六十分钟构成一小时。",
+      "words": [
+        {
+          "word": "Sixty",
+          "def": "六十",
+          "ipa": "/ˈsɪksti/",
+          "eng_def": "the number 60"
+        }
+      ]
+    },
+    {
+      "en": "Seventy years is a long time.",
+      "zh": "七十年是很长的时间。",
+      "words": [
+        {
+          "word": "Seventy",
+          "def": "七十",
+          "ipa": "/ˈsevənti/",
+          "eng_def": "the number 70"
+        }
+      ]
+    },
+    {
+      "en": "Eighty students are in the school.",
+      "zh": "八十名学生在学校里。",
+      "words": [
+        {
+          "word": "Eighty",
+          "def": "八十",
+          "ipa": "/ˈeɪti/",
+          "eng_def": "the number 80"
+        }
+      ]
+    },
+    {
+      "en": "Ninety is close to one hundred.",
+      "zh": "九十接近一百。",
+      "words": [
+        {
+          "word": "Ninety",
+          "def": "九十",
+          "ipa": "/ˈnaɪnti/",
+          "eng_def": "the number 90"
+        },
+        {
+          "word": "hundred",
+          "def": "百",
+          "ipa": "/ˈhʌndrəd/",
+          "eng_def": "the number 100"
+        }
+      ]
+    },
+    {
+      "en": "One thousand is ten hundred.",
+      "zh": "一千是十个一百。",
+      "words": [
+        {
+          "word": "thousand",
+          "def": "千",
+          "ipa": "/ˈθaʊzənd/",
+          "eng_def": "the number 1,000"
+        },
+        {
+          "word": "hundred",
+          "def": "百",
+          "ipa": "/ˈhʌndrəd/",
+          "eng_def": "the number 100"
+        }
+      ]
+    },
+    {
+      "en": "One million is a thousand thousand.",
+      "zh": "一百万是一千个一千。",
+      "words": [
+        {
+          "word": "million",
+          "def": "百万",
+          "ipa": "/ˈmɪljən/",
+          "eng_def": "the number 1,000,000"
+        },
+        {
+          "word": "thousand",
+          "def": "千",
+          "ipa": "/ˈθaʊzənd/",
+          "eng_def": "the number 1,000"
+        }
+      ]
+    },
+    {
+      "en": "One billion is a thousand million, and one trillion is a thousand billion; a quadrillion and a quintillion are even bigger.",
+      "zh": "十亿是一千个百万，一万亿是一千个十亿；一千万亿和一百亿亿更大。",
+      "words": [
+        {
+          "word": "billion",
+          "def": "十亿",
+          "ipa": "/ˈbɪljən/",
+          "eng_def": "the number 1,000,000,000"
+        },
+        {
+          "word": "million",
+          "def": "百万",
+          "ipa": "/ˈmɪljən/",
+          "eng_def": "the number 1,000,000"
+        },
+        {
+          "word": "trillion",
+          "def": "万亿",
+          "ipa": "/ˈtrɪljən/",
+          "eng_def": "the number 1,000,000,000,000"
+        },
+        {
+          "word": "billion",
+          "def": "十亿",
+          "ipa": "/ˈbɪljən/",
+          "eng_def": "the number 1,000,000,000"
+        },
+        {
+          "word": "quadrillion",
+          "def": "千万亿",
+          "ipa": "/kwɒˈdrɪljən/",
+          "eng_def": "the number 1,000,000,000,000,000"
+        },
+        {
+          "word": "quintillion",
+          "def": "百亿亿",
+          "ipa": "/kwɪnˈtɪljən/",
+          "eng_def": "the number 1,000,000,000,000,000,000"
+        },
+        {
+          "word": "bigger",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "thirty",
+      "def": "三十",
+      "ipa": "/ˈθɜːrti/",
+      "eng_def": "the number 30",
+      "example": "There are thirty days in April."
+    },
+    {
+      "word": "forty",
+      "def": "四十",
+      "ipa": "/ˈfɔːrti/",
+      "eng_def": "the number 40",
+      "example": "Forty people came to the party."
+    },
+    {
+      "word": "fifty",
+      "def": "五十",
+      "ipa": "/ˈfɪfti/",
+      "eng_def": "the number 50",
+      "example": "She is fifty years old."
+    },
+    {
+      "word": "sixty",
+      "def": "六十",
+      "ipa": "/ˈsɪksti/",
+      "eng_def": "the number 60",
+      "example": "The car can go sixty miles per hour."
+    },
+    {
+      "word": "seventy",
+      "def": "七十",
+      "ipa": "/ˈsevənti/",
+      "eng_def": "the number 70",
+      "example": "Seventy students passed the test."
+    },
+    {
+      "word": "eighty",
+      "def": "八十",
+      "ipa": "/ˈeɪti/",
+      "eng_def": "the number 80",
+      "example": "He has eighty books."
+    },
+    {
+      "word": "ninety",
+      "def": "九十",
+      "ipa": "/ˈnaɪnti/",
+      "eng_def": "the number 90",
+      "example": "The temperature reached ninety degrees."
+    },
+    {
+      "word": "hundred",
+      "def": "百",
+      "ipa": "/ˈhʌndrəd/",
+      "eng_def": "the number 100",
+      "example": "A hundred years is a century."
+    },
+    {
+      "word": "thousand",
+      "def": "千",
+      "ipa": "/ˈθaʊzənd/",
+      "eng_def": "the number 1,000",
+      "example": "One thousand people attended the concert."
+    },
+    {
+      "word": "million",
+      "def": "百万",
+      "ipa": "/ˈmɪljən/",
+      "eng_def": "the number 1,000,000",
+      "example": "She won a million dollars."
+    },
+    {
+      "word": "billion",
+      "def": "十亿",
+      "ipa": "/ˈbɪljən/",
+      "eng_def": "the number 1,000,000,000",
+      "example": "The company is worth a billion dollars."
+    },
+    {
+      "word": "trillion",
+      "def": "万亿",
+      "ipa": "/ˈtrɪljən/",
+      "eng_def": "the number 1,000,000,000,000",
+      "example": "The national debt is over a trillion dollars."
+    },
+    {
+      "word": "quadrillion",
+      "def": "千万亿",
+      "ipa": "/kwɒˈdrɪljən/",
+      "eng_def": "the number 1,000,000,000,000,000",
+      "example": "A quadrillion is a very large number."
+    },
+    {
+      "word": "quintillion",
+      "def": "百亿亿",
+      "ipa": "/kwɪnˈtɪljən/",
+      "eng_def": "the number 1,000,000,000,000,000,000",
+      "example": "A quintillion is even larger than a quadrillion."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个数字是三十？",
+      "question_en": "Which number is thirty?",
+      "options": [
+        "A. 20",
+        "B. 30",
+        "C. 40",
+        "D. 50"
+      ],
+      "answer": 1,
+      "word": "thirty"
+    },
+    {
+      "question_cn": "一百的一半是多少？",
+      "question_en": "What is half of one hundred?",
+      "options": [
+        "A. thirty",
+        "B. forty",
+        "C. fifty",
+        "D. sixty"
+      ],
+      "answer": 2,
+      "word": "fifty"
+    },
+    {
+      "question_cn": "哪个数字是一千？",
+      "question_en": "Which number is one thousand?",
+      "options": [
+        "A. 100",
+        "B. 1,000",
+        "C. 10,000",
+        "D. 100,000"
+      ],
+      "answer": 1,
+      "word": "thousand"
+    },
+    {
+      "question_cn": "一百万的后面是什么？",
+      "question_en": "What comes after one million?",
+      "options": [
+        "A. thousand",
+        "B. billion",
+        "C. trillion",
+        "D. quadrillion"
+      ],
+      "answer": 1,
+      "word": "billion"
+    },
+    {
+      "question_cn": "哪个数字最大？",
+      "question_en": "Which number is the biggest?",
+      "options": [
+        "A. billion",
+        "B. trillion",
+        "C. quadrillion",
+        "D. quintillion"
+      ],
+      "answer": 3,
+      "word": "quintillion"
+    }
+  ],
+  "image_prompts": [
+    "A child pointing at the number 30 on a classroom wall chart.",
+    "A hand showing 40 fingers, with the number 40 written below.",
+    "A pie chart divided into two halves, one labeled 'fifty' and the other 'fifty'.",
+    "A clock showing 60 minutes with a timer next to it.",
+    "An elderly person celebrating their 70th birthday with a cake.",
+    "A school hallway with 80 students walking.",
+    "A thermometer showing 90 degrees on a hot day.",
+    "A stack of 10 bundles of 100 dollar bills, labeled 'one thousand'.",
+    "A pile of 1,000,000 coins with a label 'one million'.",
+    "A giant tower of numbers: 1,000,000,000 (billion), 1,000,000,000,000 (trillion), 1,000,000,000,000,000 (quadrillion), and 1,000,000,000,000,000,000 (quintillion) getting taller."
+  ],
+  "_needs_review": false,
+  "_lesson_num": 133,
+  "_new_word_count": 14
+}

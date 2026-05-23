@@ -1,0 +1,520 @@
+{
+  "id": 4,
+  "title": "A New Experience at the City Language Club",
+  "article_text": "I am a member of a city language club. Our club has a new member this term, and she is a nice person. She is quite sure about her ability to learn English, although she is at a beginner level. Her experience with English is bad, but she is able to learn with our support. We meet at night once a week, and we sit in a line. The teacher is present at every meeting to help us. We learn new words from a list, and we understand them with examples. I lead the group for a short time, and I buy some books for the class. It is important for us to learn whether a word is on the left side or the right side. There are enough books for every person, and we thank the teacher for her help.",
+  "sentences": [
+    {
+      "en": "I am a member of a city language club.",
+      "zh": "我是一个城市语言俱乐部的成员。",
+      "words": [
+        {
+          "word": "member",
+          "def": "成员",
+          "ipa": "/ˈmembər/",
+          "eng_def": "a person who is part of a group"
+        },
+        {
+          "word": "city",
+          "def": "城市",
+          "ipa": "/ˈsɪti/",
+          "eng_def": "a large and important town"
+        },
+        {
+          "word": "language",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "club",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Our club has a new member this term, and she is a nice person.",
+      "zh": "我们俱乐部这学期有一位新成员，她是一个好人。",
+      "words": [
+        {
+          "word": "term",
+          "def": "学期",
+          "ipa": "/tɜːrm/",
+          "eng_def": "a period of time for school or work"
+        },
+        {
+          "word": "person",
+          "def": "人",
+          "ipa": "/ˈpɜːrsən/",
+          "eng_def": "a human being"
+        },
+        {
+          "word": "club",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "nice",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "She is quite sure about her ability to learn English, although she is at a beginner level.",
+      "zh": "她对自己的英语学习能力很有信心，尽管她处于初级水平。",
+      "words": [
+        {
+          "word": "quite",
+          "def": "相当",
+          "ipa": "/kwaɪt/",
+          "eng_def": "to a fairly large degree"
+        },
+        {
+          "word": "sure",
+          "def": "确信的",
+          "ipa": "/ʃʊr/",
+          "eng_def": "certain about something"
+        },
+        {
+          "word": "able",
+          "def": "能够的",
+          "ipa": "/ˈeɪbəl/",
+          "eng_def": "having the power to do something"
+        },
+        {
+          "word": "learn",
+          "def": "学习",
+          "ipa": "/lɜːrn/",
+          "eng_def": "to get new knowledge or skill"
+        },
+        {
+          "word": "although",
+          "def": "虽然",
+          "ipa": "/ɔːlˈðoʊ/",
+          "eng_def": "in spite of the fact that"
+        },
+        {
+          "word": "level",
+          "def": "水平",
+          "ipa": "/ˈlevəl/",
+          "eng_def": "a position on a scale of amount or quality"
+        },
+        {
+          "word": "ability",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "english",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "beginner",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Her experience with English is bad, but she is able to learn with our support.",
+      "zh": "她的英语经历不好，但她能够通过我们的支持来学习。",
+      "words": [
+        {
+          "word": "experience",
+          "def": "经历",
+          "ipa": "/ɪkˈspɪriəns/",
+          "eng_def": "the process of doing and seeing things"
+        },
+        {
+          "word": "bad",
+          "def": "坏的",
+          "ipa": "/bæd/",
+          "eng_def": "not good or of low quality"
+        },
+        {
+          "word": "support",
+          "def": "支持",
+          "ipa": "/səˈpɔːrt/",
+          "eng_def": "help or approval"
+        },
+        {
+          "word": "english",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "We meet at night once a week, and we sit in a line.",
+      "zh": "我们每周晚上见一次，我们坐成一排。",
+      "words": [
+        {
+          "word": "night",
+          "def": "夜晚",
+          "ipa": "/naɪt/",
+          "eng_def": "the time when it is dark"
+        },
+        {
+          "word": "once",
+          "def": "一次",
+          "ipa": "/wʌns/",
+          "eng_def": "one time"
+        },
+        {
+          "word": "line",
+          "def": "排；线",
+          "ipa": "/laɪn/",
+          "eng_def": "a straight mark or a row of things"
+        },
+        {
+          "word": "sit",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The teacher is present at every meeting to help us.",
+      "zh": "老师每次会议都在场帮助我们。",
+      "words": [
+        {
+          "word": "present",
+          "def": "在场的",
+          "ipa": "/ˈprezənt/",
+          "eng_def": "being in a place"
+        },
+        {
+          "word": "teacher",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "We learn new words from a list, and we understand them with examples.",
+      "zh": "我们从列表中学习新单词，并通过例子理解它们。",
+      "words": [
+        {
+          "word": "understand",
+          "def": "理解",
+          "ipa": "/ˌʌndərˈstænd/",
+          "eng_def": "to know the meaning of something"
+        },
+        {
+          "word": "list",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I lead the group for a short time, and I buy some books for the class.",
+      "zh": "我带领小组一小段时间，我给班级买了一些书。",
+      "words": [
+        {
+          "word": "lead",
+          "def": "带领",
+          "ipa": "/liːd/",
+          "eng_def": "to show the way or be in charge"
+        },
+        {
+          "word": "buy",
+          "def": "购买",
+          "ipa": "/baɪ/",
+          "eng_def": "to get something by paying money"
+        },
+        {
+          "word": "short",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "class",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "It is important for us to learn whether a word is on the left side or the right side.",
+      "zh": "对我们来说，学习一个词是在左边还是右边很重要。",
+      "words": [
+        {
+          "word": "whether",
+          "def": "是否",
+          "ipa": "/ˈweðər/",
+          "eng_def": "used to show a choice between two things"
+        },
+        {
+          "word": "side",
+          "def": "边",
+          "ipa": "/saɪd/",
+          "eng_def": "a position to the left or right"
+        },
+        {
+          "word": "left",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "There are enough books for every person, and we thank the teacher for her help.",
+      "zh": "有足够的书给每个人，我们感谢老师的帮助。",
+      "words": [
+        {
+          "word": "enough",
+          "def": "足够的",
+          "ipa": "/ɪˈnʌf/",
+          "eng_def": "as much as is needed"
+        },
+        {
+          "word": "thank",
+          "def": "感谢",
+          "ipa": "/θæŋk/",
+          "eng_def": "to express gratitude"
+        },
+        {
+          "word": "teacher",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "learn",
+      "def": "学习",
+      "ipa": "/lɜːrn/",
+      "eng_def": "to get new knowledge or skill",
+      "example": "We learn English every day."
+    },
+    {
+      "word": "level",
+      "def": "水平",
+      "ipa": "/ˈlevəl/",
+      "eng_def": "a position on a scale of amount or quality",
+      "example": "She is at a high level."
+    },
+    {
+      "word": "person",
+      "def": "人",
+      "ipa": "/ˈpɜːrsən/",
+      "eng_def": "a human being",
+      "example": "That person is my friend."
+    },
+    {
+      "word": "experience",
+      "def": "经历",
+      "ipa": "/ɪkˈspɪriəns/",
+      "eng_def": "the process of doing and seeing things",
+      "example": "I have a good experience with this club."
+    },
+    {
+      "word": "once",
+      "def": "一次",
+      "ipa": "/wʌns/",
+      "eng_def": "one time",
+      "example": "We meet once a week."
+    },
+    {
+      "word": "member",
+      "def": "成员",
+      "ipa": "/ˈmembər/",
+      "eng_def": "a person who is part of a group",
+      "example": "He is a new member."
+    },
+    {
+      "word": "enough",
+      "def": "足够的",
+      "ipa": "/ɪˈnʌf/",
+      "eng_def": "as much as is needed",
+      "example": "There is enough food for everyone."
+    },
+    {
+      "word": "bad",
+      "def": "坏的",
+      "ipa": "/bæd/",
+      "eng_def": "not good or of low quality",
+      "example": "This is a bad idea."
+    },
+    {
+      "word": "city",
+      "def": "城市",
+      "ipa": "/ˈsɪti/",
+      "eng_def": "a large and important town",
+      "example": "I live in a big city."
+    },
+    {
+      "word": "night",
+      "def": "夜晚",
+      "ipa": "/naɪt/",
+      "eng_def": "the time when it is dark",
+      "example": "We study at night."
+    },
+    {
+      "word": "able",
+      "def": "能够的",
+      "ipa": "/ˈeɪbəl/",
+      "eng_def": "having the power to do something",
+      "example": "I am able to run fast."
+    },
+    {
+      "word": "support",
+      "def": "支持",
+      "ipa": "/səˈpɔːrt/",
+      "eng_def": "help or approval",
+      "example": "Thank you for your support."
+    },
+    {
+      "word": "whether",
+      "def": "是否",
+      "ipa": "/ˈweðər/",
+      "eng_def": "used to show a choice between two things",
+      "example": "I do not know whether he is here."
+    },
+    {
+      "word": "line",
+      "def": "排；线",
+      "ipa": "/laɪn/",
+      "eng_def": "a straight mark or a row of things",
+      "example": "Please stand in a line."
+    },
+    {
+      "word": "present",
+      "def": "在场的",
+      "ipa": "/ˈprezənt/",
+      "eng_def": "being in a place",
+      "example": "Everyone is present today."
+    },
+    {
+      "word": "side",
+      "def": "边",
+      "ipa": "/saɪd/",
+      "eng_def": "a position to the left or right",
+      "example": "The book is on the left side."
+    },
+    {
+      "word": "quite",
+      "def": "相当",
+      "ipa": "/kwaɪt/",
+      "eng_def": "to a fairly large degree",
+      "example": "It is quite cold today."
+    },
+    {
+      "word": "although",
+      "def": "虽然",
+      "ipa": "/ɔːlˈðoʊ/",
+      "eng_def": "in spite of the fact that",
+      "example": "Although it is hard, I try."
+    },
+    {
+      "word": "sure",
+      "def": "确信的",
+      "ipa": "/ʃʊr/",
+      "eng_def": "certain about something",
+      "example": "I am sure she will come."
+    },
+    {
+      "word": "term",
+      "def": "学期",
+      "ipa": "/tɜːrm/",
+      "eng_def": "a period of time for school or work",
+      "example": "This term is very busy."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "下列哪个词的意思是“成员”？",
+      "question_en": "Which word means 'a person who is part of a group'?",
+      "options": [
+        "A. member",
+        "B. side",
+        "C. line",
+        "D. term"
+      ],
+      "answer": 0,
+      "word": "member"
+    },
+    {
+      "question_cn": "“虽然”对应的英文是哪个？",
+      "question_en": "Which English word means 'in spite of the fact that'?",
+      "options": [
+        "A. whether",
+        "B. although",
+        "C. once",
+        "D. quite"
+      ],
+      "answer": 1,
+      "word": "although"
+    },
+    {
+      "question_cn": "“足够的”对应的英文是哪个？",
+      "question_en": "Which English word means 'as much as is needed'?",
+      "options": [
+        "A. enough",
+        "B. bad",
+        "C. able",
+        "D. sure"
+      ],
+      "answer": 0,
+      "word": "enough"
+    },
+    {
+      "question_cn": "“经历”对应的英文是哪个？",
+      "question_en": "Which English word means 'the process of doing and seeing things'?",
+      "options": [
+        "A. experience",
+        "B. support",
+        "C. level",
+        "D. person"
+      ],
+      "answer": 0,
+      "word": "experience"
+    },
+    {
+      "question_cn": "“是否”对应的英文是哪个？",
+      "question_en": "Which English word means 'used to show a choice between two things'?",
+      "options": [
+        "A. whether",
+        "B. although",
+        "C. once",
+        "D. present"
+      ],
+      "answer": 0,
+      "word": "whether"
+    }
+  ],
+  "image_prompts": [
+    "A person standing outside a city building with a sign that says 'Language Club'.",
+    "A group of people sitting in a circle, one new person smiling, with a calendar showing 'New Term'.",
+    "A woman with a confident face holding a book, with a small 'Beginner' label on the book.",
+    "A person looking sad at a test paper with a low score, and friends around offering help.",
+    "A clock showing night time, a group of people sitting in a straight row of chairs.",
+    "A teacher standing in front of a classroom, with a 'Present' checklist on the wall.",
+    "A list of words on a board, with a student pointing at one word and a sample sentence below.",
+    "A person leading a small group, holding a book, with a shopping bag of books nearby.",
+    "A word on a blackboard with arrows pointing left and right, and a question mark above.",
+    "A table with a stack of books, and people saying 'Thank you' to a smiling teacher."
+  ],
+  "_needs_review": false,
+  "_lesson_num": 4,
+  "_new_word_count": 20
+}

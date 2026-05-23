@@ -1,0 +1,519 @@
+{
+  "id": 21,
+  "title": "A Family Discussion About Sports",
+  "article_text": "My wife and I particularly enjoy watching sports on TV. We always prepare some food and drinks before a game. Sometimes we discuss the players and their skills. My wife's response is always a big laugh when I compare the players. I can hear her voice from the kitchen when the team scores. A piece of fruit is a good snack for the game. After the game, we finish our snacks and clean up. I suppose we can apply this fun idea to other sports too. The president of the local sports club sometimes visits our store. Poor knowledge of the rules can cause a fire of arguments in our court.",
+  "sentences": [
+    {
+      "en": "My wife and I particularly enjoy watching sports on TV.",
+      "zh": "我和妻子特别喜欢在电视上看体育节目。",
+      "words": [
+        {
+          "word": "wife",
+          "def": "妻子",
+          "ipa": "/waɪf/",
+          "eng_def": "a woman who is married"
+        },
+        {
+          "word": "particularly",
+          "def": "特别地",
+          "ipa": "/pərˈtɪkjələrli/",
+          "eng_def": "more than usual"
+        },
+        {
+          "word": "sport",
+          "def": "体育运动",
+          "ipa": "/spɔːrt/",
+          "eng_def": "a game or activity people play for fun or exercise"
+        },
+        {
+          "word": "sports",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "tv",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "We always prepare some food and drinks before a game.",
+      "zh": "我们总是在比赛前准备一些食物和饮料。",
+      "words": [
+        {
+          "word": "prepare",
+          "def": "准备",
+          "ipa": "/prɪˈper/",
+          "eng_def": "to make something ready"
+        },
+        {
+          "word": "some",
+          "def": "一些",
+          "ipa": "/sʌm/",
+          "eng_def": "a certain amount of something"
+        },
+        {
+          "word": "drinks",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Sometimes we discuss the players and their skills.",
+      "zh": "有时我们会讨论球员和他们的技术。",
+      "words": [
+        {
+          "word": "discuss",
+          "def": "讨论",
+          "ipa": "/dɪˈskʌs/",
+          "eng_def": "to talk about something with other people"
+        },
+        {
+          "word": "players",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "skills",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "My wife's response is always a big laugh when I compare the players.",
+      "zh": "当我比较球员时，我妻子的反应总是大笑。",
+      "words": [
+        {
+          "word": "response",
+          "def": "回应",
+          "ipa": "/rɪˈspɑːns/",
+          "eng_def": "an answer or reaction"
+        },
+        {
+          "word": "laugh",
+          "def": "笑",
+          "ipa": "/læf/",
+          "eng_def": "to make sounds because something is funny"
+        },
+        {
+          "word": "compare",
+          "def": "比较",
+          "ipa": "/kəmˈper/",
+          "eng_def": "to look at how things are the same or different"
+        },
+        {
+          "word": "wife's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "players",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I can hear her voice from the kitchen when the team scores.",
+      "zh": "当球队得分时，我能从厨房听到她的声音。",
+      "words": [
+        {
+          "word": "voice",
+          "def": "声音",
+          "ipa": "/vɔɪs/",
+          "eng_def": "the sound you make when you speak or sing"
+        },
+        {
+          "word": "kitchen",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "scores",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "A piece of fruit is a good snack for the game.",
+      "zh": "一块水果是比赛的好零食。",
+      "words": [
+        {
+          "word": "piece",
+          "def": "块；片",
+          "ipa": "/piːs/",
+          "eng_def": "a part of something"
+        },
+        {
+          "word": "fruit",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "snack",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "After the game, we finish our snacks and clean up.",
+      "zh": "比赛结束后，我们吃完零食并打扫干净。",
+      "words": [
+        {
+          "word": "finish",
+          "def": "完成",
+          "ipa": "/ˈfɪnɪʃ/",
+          "eng_def": "to come to the end of something"
+        },
+        {
+          "word": "snacks",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "clean",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I suppose we can apply this fun idea to other sports too.",
+      "zh": "我想我们可以把这个有趣的想法也应用到其他运动上。",
+      "words": [
+        {
+          "word": "suppose",
+          "def": "认为；猜想",
+          "ipa": "/səˈpoʊz/",
+          "eng_def": "to think that something is true"
+        },
+        {
+          "word": "apply",
+          "def": "应用",
+          "ipa": "/əˈplaɪ/",
+          "eng_def": "to use something for a purpose"
+        },
+        {
+          "word": "fun",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "sports",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The president of the local sports club sometimes visits our store.",
+      "zh": "当地体育俱乐部的主席有时会来我们的商店。",
+      "words": [
+        {
+          "word": "president",
+          "def": "主席；总统",
+          "ipa": "/ˈprezɪdənt/",
+          "eng_def": "the leader of a group or country"
+        },
+        {
+          "word": "store",
+          "def": "商店",
+          "ipa": "/stɔːr/",
+          "eng_def": "a place where you can buy things"
+        },
+        {
+          "word": "sports",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "club",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Poor knowledge of the rules can cause a fire of arguments in our court.",
+      "zh": "对规则了解不足会在我们的球场引发激烈的争论。",
+      "words": [
+        {
+          "word": "poor",
+          "def": "差的；贫穷的",
+          "ipa": "/pʊr/",
+          "eng_def": "not good; having little money"
+        },
+        {
+          "word": "knowledge",
+          "def": "知识",
+          "ipa": "/ˈnɑːlɪdʒ/",
+          "eng_def": "what you know about something"
+        },
+        {
+          "word": "fire",
+          "def": "火；激烈的",
+          "ipa": "/ˈfaɪər/",
+          "eng_def": "hot bright flames; strong emotion"
+        },
+        {
+          "word": "court",
+          "def": "球场；法庭",
+          "ipa": "/kɔːrt/",
+          "eng_def": "a place where you play tennis or basketball; a place for law"
+        },
+        {
+          "word": "arguments",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "particularly",
+      "def": "特别地",
+      "ipa": "/pərˈtɪkjələrli/",
+      "eng_def": "more than usual",
+      "example": "I particularly like this song."
+    },
+    {
+      "word": "wife",
+      "def": "妻子",
+      "ipa": "/waɪf/",
+      "eng_def": "a woman who is married",
+      "example": "My wife is a teacher."
+    },
+    {
+      "word": "sport",
+      "def": "体育运动",
+      "ipa": "/spɔːrt/",
+      "eng_def": "a game or activity people play for fun or exercise",
+      "example": "Soccer is my favorite sport."
+    },
+    {
+      "word": "prepare",
+      "def": "准备",
+      "ipa": "/prɪˈper/",
+      "eng_def": "to make something ready",
+      "example": "I prepare dinner every evening."
+    },
+    {
+      "word": "discuss",
+      "def": "讨论",
+      "ipa": "/dɪˈskʌs/",
+      "eng_def": "to talk about something with other people",
+      "example": "We discuss the news every morning."
+    },
+    {
+      "word": "response",
+      "def": "回应",
+      "ipa": "/rɪˈspɑːns/",
+      "eng_def": "an answer or reaction",
+      "example": "His response was quick."
+    },
+    {
+      "word": "voice",
+      "def": "声音",
+      "ipa": "/vɔɪs/",
+      "eng_def": "the sound you make when you speak or sing",
+      "example": "She has a beautiful voice."
+    },
+    {
+      "word": "piece",
+      "def": "块；片",
+      "ipa": "/piːs/",
+      "eng_def": "a part of something",
+      "example": "Can I have a piece of cake?"
+    },
+    {
+      "word": "finish",
+      "def": "完成",
+      "ipa": "/ˈfɪnɪʃ/",
+      "eng_def": "to come to the end of something",
+      "example": "I finish my homework at 8 o'clock."
+    },
+    {
+      "word": "suppose",
+      "def": "认为；猜想",
+      "ipa": "/səˈpoʊz/",
+      "eng_def": "to think that something is true",
+      "example": "I suppose he is right."
+    },
+    {
+      "word": "apply",
+      "def": "应用",
+      "ipa": "/əˈplaɪ/",
+      "eng_def": "to use something for a purpose",
+      "example": "You can apply this rule here."
+    },
+    {
+      "word": "president",
+      "def": "主席；总统",
+      "ipa": "/ˈprezɪdənt/",
+      "eng_def": "the leader of a group or country",
+      "example": "The president gave a speech."
+    },
+    {
+      "word": "fire",
+      "def": "火；激烈的",
+      "ipa": "/ˈfaɪər/",
+      "eng_def": "hot bright flames; strong emotion",
+      "example": "The fire is warm."
+    },
+    {
+      "word": "compare",
+      "def": "比较",
+      "ipa": "/kəmˈper/",
+      "eng_def": "to look at how things are the same or different",
+      "example": "Compare these two pictures."
+    },
+    {
+      "word": "court",
+      "def": "球场；法庭",
+      "ipa": "/kɔːrt/",
+      "eng_def": "a place where you play tennis or basketball; a place for law",
+      "example": "They play on the court."
+    },
+    {
+      "word": "police",
+      "def": "警察",
+      "ipa": "/pəˈliːs/",
+      "eng_def": "people who make sure laws are followed",
+      "example": "The police help people."
+    },
+    {
+      "word": "store",
+      "def": "商店",
+      "ipa": "/stɔːr/",
+      "eng_def": "a place where you can buy things",
+      "example": "I go to the store for milk."
+    },
+    {
+      "word": "poor",
+      "def": "差的；贫穷的",
+      "ipa": "/pʊr/",
+      "eng_def": "not good; having little money",
+      "example": "He is a poor player."
+    },
+    {
+      "word": "knowledge",
+      "def": "知识",
+      "ipa": "/ˈnɑːlɪdʒ/",
+      "eng_def": "what you know about something",
+      "example": "She has good knowledge of English."
+    },
+    {
+      "word": "laugh",
+      "def": "笑",
+      "ipa": "/læf/",
+      "eng_def": "to make sounds because something is funny",
+      "example": "The joke makes me laugh."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "哪个词的意思是“特别地”？",
+      "question_en": "Which word means 'more than usual'?",
+      "options": [
+        "A. particularly",
+        "B. prepare",
+        "C. piece",
+        "D. poor"
+      ],
+      "answer": 0,
+      "word": "particularly"
+    },
+    {
+      "question_cn": "“discuss”的中文意思是什么？",
+      "question_en": "What is the Chinese meaning of 'discuss'?",
+      "options": [
+        "A. 准备",
+        "B. 讨论",
+        "C. 完成",
+        "D. 比较"
+      ],
+      "answer": 1,
+      "word": "discuss"
+    },
+    {
+      "question_cn": "哪个词的意思是“回应”？",
+      "question_en": "Which word means 'an answer or reaction'?",
+      "options": [
+        "A. voice",
+        "B. response",
+        "C. laugh",
+        "D. fire"
+      ],
+      "answer": 1,
+      "word": "response"
+    },
+    {
+      "question_cn": "“president”的含义是什么？",
+      "question_en": "What does 'president' mean?",
+      "options": [
+        "A. 警察",
+        "B. 商店",
+        "C. 主席",
+        "D. 球场"
+      ],
+      "answer": 2,
+      "word": "president"
+    },
+    {
+      "question_cn": "哪个词的意思是“知识”？",
+      "question_en": "Which word means 'what you know about something'?",
+      "options": [
+        "A. knowledge",
+        "B. piece",
+        "C. court",
+        "D. sport"
+      ],
+      "answer": 0,
+      "word": "knowledge"
+    }
+  ],
+  "image_prompts": [
+    "A man and his wife sitting on a couch watching sports on TV, smiling.",
+    "A table with snacks and drinks being prepared before a game.",
+    "Two people talking animatedly about basketball players.",
+    "A woman laughing while a man points at two players on TV.",
+    "A woman in a kitchen calling out to the living room during a game.",
+    "A hand holding a piece of apple on a plate.",
+    "A couple cleaning up empty plates and cups after a game.",
+    "A man thinking with a lightbulb above his head, pointing at a TV showing different sports.",
+    "A friendly man in a suit entering a small sports store.",
+    "People arguing on a basketball court, with a 'rules' sign nearby.",
+    "A police car parked near a store.",
+    "A poor child watching sports on a small TV."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['police']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 21,
+  "_new_word_count": 20
+}

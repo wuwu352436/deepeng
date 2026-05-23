@@ -1,0 +1,472 @@
+{
+  "id": 19,
+  "title": "Technology and Our Choices",
+  "article_text": "Our society today has a big demand for new technology. We often make a choice to accept or reject new ideas. Some people say technology can save time, but it also takes effort to learn. A common problem is the material we use, like plastic, which can hurt the air. We must check the total cost of new tech before we buy it. Due to this, we need to limit our use of some things. I listen to my friend, and she always mentions the security of our data. There is a wrong idea that technology has no culture. Upon a closer look, we can see the benefit of making a good trade. With some attention, we can put our foot forward and make a change.",
+  "sentences": [
+    {
+      "en": "Our society today has a big demand for new technology.",
+      "zh": "我们当今社会对新技术有很大的需求。",
+      "words": [
+        {
+          "word": "society",
+          "def": "社会",
+          "ipa": "/səˈsaɪəti/",
+          "eng_def": "a group of people living together"
+        },
+        {
+          "word": "demand",
+          "def": "需求",
+          "ipa": "/dɪˈmænd/",
+          "eng_def": "a strong need for something"
+        },
+        {
+          "word": "technology",
+          "def": "技术",
+          "ipa": "/tekˈnɒlədʒi/",
+          "eng_def": "the use of science to make things"
+        }
+      ]
+    },
+    {
+      "en": "We often make a choice to accept or reject new ideas.",
+      "zh": "我们经常做出选择，接受或拒绝新想法。",
+      "words": [
+        {
+          "word": "choice",
+          "def": "选择",
+          "ipa": "/tʃɔɪs/",
+          "eng_def": "the act of picking one thing from others"
+        },
+        {
+          "word": "accept",
+          "def": "接受",
+          "ipa": "/əkˈsept/",
+          "eng_def": "to take something that is offered"
+        },
+        {
+          "word": "reject",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Some people say technology can save time, but it also takes effort to learn.",
+      "zh": "有些人说技术可以节省时间，但学习它也需要努力。",
+      "words": [
+        {
+          "word": "save",
+          "def": "节省",
+          "ipa": "/seɪv/",
+          "eng_def": "to keep something for later use"
+        },
+        {
+          "word": "effort",
+          "def": "努力",
+          "ipa": "/ˈefət/",
+          "eng_def": "the use of energy to do something"
+        }
+      ]
+    },
+    {
+      "en": "A common problem is the material we use, like plastic, which can hurt the air.",
+      "zh": "一个常见的问题是我们使用的材料，比如塑料，会伤害空气。",
+      "words": [
+        {
+          "word": "common",
+          "def": "常见的",
+          "ipa": "/ˈkɒmən/",
+          "eng_def": "happening often or found in many places"
+        },
+        {
+          "word": "material",
+          "def": "材料",
+          "ipa": "/məˈtɪəriəl/",
+          "eng_def": "a thing used to make something else"
+        },
+        {
+          "word": "air",
+          "def": "空气",
+          "ipa": "/eər/",
+          "eng_def": "the gas we breathe"
+        },
+        {
+          "word": "plastic",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "hurt",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "We must check the total cost of new tech before we buy it.",
+      "zh": "在购买新技术之前，我们必须检查总成本。",
+      "words": [
+        {
+          "word": "check",
+          "def": "检查",
+          "ipa": "/tʃek/",
+          "eng_def": "to look at something to be sure it is right"
+        },
+        {
+          "word": "total",
+          "def": "总的",
+          "ipa": "/ˈtəʊtəl/",
+          "eng_def": "the whole amount"
+        },
+        {
+          "word": "tech",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "Due to this, we need to limit our use of some things.",
+      "zh": "因此，我们需要限制对某些东西的使用。",
+      "words": [
+        {
+          "word": "due",
+          "def": "由于",
+          "ipa": "/djuː/",
+          "eng_def": "because of"
+        },
+        {
+          "word": "limit",
+          "def": "限制",
+          "ipa": "/ˈlɪmɪt/",
+          "eng_def": "to keep something from becoming too much"
+        }
+      ]
+    },
+    {
+      "en": "I listen to my friend, and she always mentions the security of our data.",
+      "zh": "我听我朋友的话，她总是提到我们数据的安全性。",
+      "words": [
+        {
+          "word": "listen",
+          "def": "听",
+          "ipa": "/ˈlɪsən/",
+          "eng_def": "to pay attention to sound"
+        },
+        {
+          "word": "mention",
+          "def": "提到",
+          "ipa": "/ˈmenʃən/",
+          "eng_def": "to say something about a topic"
+        },
+        {
+          "word": "security",
+          "def": "安全",
+          "ipa": "/sɪˈkjʊərəti/",
+          "eng_def": "the state of being safe from danger"
+        },
+        {
+          "word": "mentions",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "There is a wrong idea that technology has no culture.",
+      "zh": "有一种错误的想法认为技术没有文化。",
+      "words": [
+        {
+          "word": "wrong",
+          "def": "错误的",
+          "ipa": "/rɒŋ/",
+          "eng_def": "not correct"
+        },
+        {
+          "word": "culture",
+          "def": "文化",
+          "ipa": "/ˈkʌltʃər/",
+          "eng_def": "the way of life of a group of people"
+        }
+      ]
+    },
+    {
+      "en": "Upon a closer look, we can see the benefit of making a good trade.",
+      "zh": "仔细一看，我们可以看到进行良好交易的好处。",
+      "words": [
+        {
+          "word": "upon",
+          "def": "在……之上",
+          "ipa": "/əˈpɒn/",
+          "eng_def": "on or after something"
+        },
+        {
+          "word": "benefit",
+          "def": "好处",
+          "ipa": "/ˈbenɪfɪt/",
+          "eng_def": "a good result or advantage"
+        },
+        {
+          "word": "trade",
+          "def": "交易",
+          "ipa": "/treɪd/",
+          "eng_def": "the act of buying and selling"
+        },
+        {
+          "word": "closer",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "With some attention, we can put our foot forward and make a change.",
+      "zh": "只要稍加注意，我们就能迈出一步并做出改变。",
+      "words": [
+        {
+          "word": "attention",
+          "def": "注意",
+          "ipa": "/əˈtenʃən/",
+          "eng_def": "the act of looking and listening carefully"
+        },
+        {
+          "word": "foot",
+          "def": "脚",
+          "ipa": "/fʊt/",
+          "eng_def": "the part of the body at the end of the leg"
+        },
+        {
+          "word": "risk",
+          "def": "风险",
+          "ipa": "/rɪsk/",
+          "eng_def": "the chance of something bad happening"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "accept",
+      "def": "接受",
+      "ipa": "/əkˈsept/",
+      "eng_def": "to take something that is offered",
+      "example": "I accept your gift."
+    },
+    {
+      "word": "society",
+      "def": "社会",
+      "ipa": "/səˈsaɪəti/",
+      "eng_def": "a group of people living together",
+      "example": "Our society has many rules."
+    },
+    {
+      "word": "technology",
+      "def": "技术",
+      "ipa": "/tekˈnɒlədʒi/",
+      "eng_def": "the use of science to make things",
+      "example": "Technology helps us communicate."
+    },
+    {
+      "word": "mention",
+      "def": "提到",
+      "ipa": "/ˈmenʃən/",
+      "eng_def": "to say something about a topic",
+      "example": "Please mention your name."
+    },
+    {
+      "word": "choice",
+      "def": "选择",
+      "ipa": "/tʃɔɪs/",
+      "eng_def": "the act of picking one thing from others",
+      "example": "You have a choice."
+    },
+    {
+      "word": "save",
+      "def": "节省",
+      "ipa": "/seɪv/",
+      "eng_def": "to keep something for later use",
+      "example": "We save money."
+    },
+    {
+      "word": "common",
+      "def": "常见的",
+      "ipa": "/ˈkɒmən/",
+      "eng_def": "happening often or found in many places",
+      "example": "This is a common problem."
+    },
+    {
+      "word": "culture",
+      "def": "文化",
+      "ipa": "/ˈkʌltʃər/",
+      "eng_def": "the way of life of a group of people",
+      "example": "I like Chinese culture."
+    },
+    {
+      "word": "total",
+      "def": "总的",
+      "ipa": "/ˈtəʊtəl/",
+      "eng_def": "the whole amount",
+      "example": "The total is 10."
+    },
+    {
+      "word": "demand",
+      "def": "需求",
+      "ipa": "/dɪˈmænd/",
+      "eng_def": "a strong need for something",
+      "example": "There is a demand for food."
+    },
+    {
+      "word": "material",
+      "def": "材料",
+      "ipa": "/məˈtɪəriəl/",
+      "eng_def": "a thing used to make something else",
+      "example": "Wood is a material."
+    },
+    {
+      "word": "limit",
+      "def": "限制",
+      "ipa": "/ˈlɪmɪt/",
+      "eng_def": "to keep something from becoming too much",
+      "example": "Limit your time."
+    },
+    {
+      "word": "listen",
+      "def": "听",
+      "ipa": "/ˈlɪsən/",
+      "eng_def": "to pay attention to sound",
+      "example": "Listen to the teacher."
+    },
+    {
+      "word": "due",
+      "def": "由于",
+      "ipa": "/djuː/",
+      "eng_def": "because of",
+      "example": "The game is off due to rain."
+    },
+    {
+      "word": "wrong",
+      "def": "错误的",
+      "ipa": "/rɒŋ/",
+      "eng_def": "not correct",
+      "example": "That answer is wrong."
+    },
+    {
+      "word": "foot",
+      "def": "脚",
+      "ipa": "/fʊt/",
+      "eng_def": "the part of the body at the end of the leg",
+      "example": "I hurt my foot."
+    },
+    {
+      "word": "effort",
+      "def": "努力",
+      "ipa": "/ˈefət/",
+      "eng_def": "the use of energy to do something",
+      "example": "It takes effort to run."
+    },
+    {
+      "word": "attention",
+      "def": "注意",
+      "ipa": "/əˈtenʃən/",
+      "eng_def": "the act of looking and listening carefully",
+      "example": "Pay attention to me."
+    },
+    {
+      "word": "upon",
+      "def": "在……之上",
+      "ipa": "/əˈpɒn/",
+      "eng_def": "on or after something",
+      "example": "Upon arrival, call me."
+    },
+    {
+      "word": "check",
+      "def": "检查",
+      "ipa": "/tʃek/",
+      "eng_def": "to look at something to be sure it is right",
+      "example": "Check your work."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "“接受”的英文是什么？",
+      "question_en": "What is the English word for '接受'?",
+      "options": [
+        "A. accept",
+        "B. mention",
+        "C. check",
+        "D. save"
+      ],
+      "answer": 0,
+      "word": "accept"
+    },
+    {
+      "question_cn": "“需求”的英文是什么？",
+      "question_en": "What is the English word for '需求'?",
+      "options": [
+        "A. demand",
+        "B. limit",
+        "C. choice",
+        "D. total"
+      ],
+      "answer": 0,
+      "word": "demand"
+    },
+    {
+      "question_cn": "“努力”的英文是什么？",
+      "question_en": "What is the English word for '努力'?",
+      "options": [
+        "A. effort",
+        "B. attention",
+        "C. culture",
+        "D. material"
+      ],
+      "answer": 0,
+      "word": "effort"
+    },
+    {
+      "question_cn": "“由于”的英文是什么？",
+      "question_en": "What is the English word for '由于'?",
+      "options": [
+        "A. upon",
+        "B. due",
+        "C. common",
+        "D. wrong"
+      ],
+      "answer": 1,
+      "word": "due"
+    },
+    {
+      "question_cn": "“检查”的英文是什么？",
+      "question_en": "What is the English word for '检查'?",
+      "options": [
+        "A. listen",
+        "B. check",
+        "C. mention",
+        "D. accept"
+      ],
+      "answer": 1,
+      "word": "check"
+    }
+  ],
+  "image_prompts": [
+    "A busy city scene showing many people using smartphones and computers, representing society and technology.",
+    "A person standing at a crossroads with two signs: 'Accept' and 'Reject', showing a choice.",
+    "A person using a laptop with a clock nearby, showing time saved, and a tired face showing effort.",
+    "A pile of plastic bottles and bags with dirty air around, showing common material problems.",
+    "A person looking at a price tag on a new phone, with a calculator showing total cost.",
+    "A hand holding a stop sign with the word 'Limit' on it, with many objects around.",
+    "Two friends talking, one listening carefully, with a shield icon representing security.",
+    "A brain with a question mark, and cultural symbols like a dragon and a castle, showing wrong ideas.",
+    "Two people shaking hands over a table with money and goods, showing a good trade.",
+    "A person stepping forward with one foot, and a light bulb above the head, showing attention and change."
+  ],
+  "_needs_review": false,
+  "_lesson_num": 19,
+  "_new_word_count": 20
+}

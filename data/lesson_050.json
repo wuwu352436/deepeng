@@ -1,0 +1,511 @@
+{
+  "id": 50,
+  "title": "A Day at the Art Festival",
+  "article_text": "An artist worked in a corner of the park, and a big crowd watched her. She felt the presence of many people, but there was no conflict because everyone was friendly. The entire park was full of energy, and the artist used a quick brush to create her painting. She used a net to catch some leaves for her art, and a secretary helped her organize the materials. The artist's defense of her work was strong because she believed in her ideas. A driver brought a big ball for a game, but the game changed because of a gas leak. The cook had to spread the news about the danger, and everyone moved to a safe camp. The shift in plans was sudden, but the audience stayed calm. The art festival had a nuclear theme, and the scale of the project was excellent. At the edge of the park, a child began to cry, but a friend came to lift her up.",
+  "sentences": [
+    {
+      "en": "An artist worked in a corner of the park, and a big crowd watched her.",
+      "zh": "一位艺术家在公园的一个角落工作，一大群人看着她。",
+      "words": [
+        {
+          "word": "artist",
+          "def": "艺术家",
+          "ipa": "/ˈɑːrtɪst/",
+          "eng_def": "a person who creates art"
+        },
+        {
+          "word": "corner",
+          "def": "角落",
+          "ipa": "/ˈkɔːrnər/",
+          "eng_def": "a place where two lines meet"
+        },
+        {
+          "word": "crowd",
+          "def": "人群",
+          "ipa": "/kraʊd/",
+          "eng_def": "a large group of people"
+        }
+      ]
+    },
+    {
+      "en": "She felt the presence of many people, but there was no conflict because everyone was friendly.",
+      "zh": "她感觉到许多人的存在，但没有冲突，因为每个人都很友好。",
+      "words": [
+        {
+          "word": "presence",
+          "def": "存在",
+          "ipa": "/ˈprezns/",
+          "eng_def": "the state of being in a place"
+        },
+        {
+          "word": "conflict",
+          "def": "冲突",
+          "ipa": "/ˈkɑːnflɪkt/",
+          "eng_def": "a disagreement or fight"
+        },
+        {
+          "word": "felt",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "friendly",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The entire park was full of energy, and the artist used a quick brush to create her painting.",
+      "zh": "整个公园充满活力，艺术家用快速的画笔创作了她的画。",
+      "words": [
+        {
+          "word": "entire",
+          "def": "整个的",
+          "ipa": "/ɪnˈtaɪər/",
+          "eng_def": "all of something"
+        },
+        {
+          "word": "quick",
+          "def": "快速的",
+          "ipa": "/kwɪk/",
+          "eng_def": "fast; happening in a short time"
+        },
+        {
+          "word": "brush",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "She used a net to catch some leaves for her art, and a secretary helped her organize the materials.",
+      "zh": "她用网捕捉了一些树叶用于艺术创作，一位秘书帮她整理材料。",
+      "words": [
+        {
+          "word": "net",
+          "def": "网",
+          "ipa": "/net/",
+          "eng_def": "a material with holes used to catch things"
+        },
+        {
+          "word": "secretary",
+          "def": "秘书",
+          "ipa": "/ˈsekrəteri/",
+          "eng_def": "a person who helps with office work"
+        }
+      ]
+    },
+    {
+      "en": "The artist's defense of her work was strong because she believed in her ideas.",
+      "zh": "艺术家对自己作品的辩护很强烈，因为她相信自己的想法。",
+      "words": [
+        {
+          "word": "defense",
+          "def": "辩护；防御",
+          "ipa": "/dɪˈfens/",
+          "eng_def": "the act of protecting or supporting something"
+        },
+        {
+          "word": "artist's",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "A driver brought a big ball for a game, but the game changed because of a gas leak.",
+      "zh": "一个司机带来了一个大球用于游戏，但游戏因为煤气泄漏而改变了。",
+      "words": [
+        {
+          "word": "driver",
+          "def": "司机",
+          "ipa": "/ˈdraɪvər/",
+          "eng_def": "a person who drives a vehicle"
+        },
+        {
+          "word": "ball",
+          "def": "球",
+          "ipa": "/bɔːl/",
+          "eng_def": "a round object used in games"
+        },
+        {
+          "word": "gas",
+          "def": "气体；煤气",
+          "ipa": "/ɡæs/",
+          "eng_def": "a substance like air that burns"
+        },
+        {
+          "word": "brought",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "leak",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The cook had to spread the news about the danger, and everyone moved to a safe camp.",
+      "zh": "厨师不得不传播关于危险的消息，每个人都搬到了安全的营地。",
+      "words": [
+        {
+          "word": "cook",
+          "def": "厨师",
+          "ipa": "/kʊk/",
+          "eng_def": "a person who prepares food"
+        },
+        {
+          "word": "spread",
+          "def": "传播；涂抹",
+          "ipa": "/spred/",
+          "eng_def": "to make something go to more places"
+        },
+        {
+          "word": "camp",
+          "def": "营地",
+          "ipa": "/kæmp/",
+          "eng_def": "a place with tents or temporary buildings"
+        },
+        {
+          "word": "danger",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The shift in plans was sudden, but the audience stayed calm.",
+      "zh": "计划的转变很突然，但观众保持冷静。",
+      "words": [
+        {
+          "word": "shift",
+          "def": "转变；改变",
+          "ipa": "/ʃɪft/",
+          "eng_def": "a change in position or direction"
+        },
+        {
+          "word": "audience",
+          "def": "观众",
+          "ipa": "/ˈɔːdiəns/",
+          "eng_def": "a group of people who watch a show"
+        },
+        {
+          "word": "sudden",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "calm",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The art festival had a nuclear theme, and the scale of the project was excellent.",
+      "zh": "艺术节有一个核主题，而且项目的规模非常棒。",
+      "words": [
+        {
+          "word": "nuclear",
+          "def": "核的",
+          "ipa": "/ˈnuːkliər/",
+          "eng_def": "related to the center of an atom"
+        },
+        {
+          "word": "scale",
+          "def": "规模",
+          "ipa": "/skeɪl/",
+          "eng_def": "the size or level of something"
+        },
+        {
+          "word": "excellent",
+          "def": "极好的",
+          "ipa": "/ˈeksələnt/",
+          "eng_def": "very good; of high quality"
+        },
+        {
+          "word": "festival",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "theme",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "At the edge of the park, a child began to cry, but a friend came to lift her up.",
+      "zh": "在公园边缘，一个孩子开始哭泣，但一个朋友过来把她抱了起来。",
+      "words": [
+        {
+          "word": "edge",
+          "def": "边缘",
+          "ipa": "/edʒ/",
+          "eng_def": "the outside border of something"
+        },
+        {
+          "word": "cry",
+          "def": "哭；哭泣",
+          "ipa": "/kraɪ/",
+          "eng_def": "to make sounds because of sadness or pain"
+        },
+        {
+          "word": "lift",
+          "def": "举起；抬起",
+          "ipa": "/lɪft/",
+          "eng_def": "to move something up"
+        },
+        {
+          "word": "began",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "came",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "artist",
+      "def": "艺术家",
+      "ipa": "/ˈɑːrtɪst/",
+      "eng_def": "a person who creates art",
+      "example": "The artist painted a beautiful picture."
+    },
+    {
+      "word": "conflict",
+      "def": "冲突",
+      "ipa": "/ˈkɑːnflɪkt/",
+      "eng_def": "a disagreement or fight",
+      "example": "They had a conflict about the game."
+    },
+    {
+      "word": "entire",
+      "def": "整个的",
+      "ipa": "/ɪnˈtaɪər/",
+      "eng_def": "all of something",
+      "example": "The entire class went to the park."
+    },
+    {
+      "word": "presence",
+      "def": "存在",
+      "ipa": "/ˈprezns/",
+      "eng_def": "the state of being in a place",
+      "example": "Her presence made me happy."
+    },
+    {
+      "word": "crowd",
+      "def": "人群",
+      "ipa": "/kraʊd/",
+      "eng_def": "a large group of people",
+      "example": "A crowd waited for the bus."
+    },
+    {
+      "word": "corner",
+      "def": "角落",
+      "ipa": "/ˈkɔːrnər/",
+      "eng_def": "a place where two lines meet",
+      "example": "The cat sat in the corner."
+    },
+    {
+      "word": "gas",
+      "def": "气体；煤气",
+      "ipa": "/ɡæs/",
+      "eng_def": "a substance like air that burns",
+      "example": "We use gas for cooking."
+    },
+    {
+      "word": "shift",
+      "def": "转变；改变",
+      "ipa": "/ʃɪft/",
+      "eng_def": "a change in position or direction",
+      "example": "There was a shift in the weather."
+    },
+    {
+      "word": "net",
+      "def": "网",
+      "ipa": "/net/",
+      "eng_def": "a material with holes used to catch things",
+      "example": "He caught fish with a net."
+    },
+    {
+      "word": "category",
+      "def": "类别",
+      "ipa": "/ˈkætəɡɔːri/",
+      "eng_def": "a group of things with similar qualities",
+      "example": "This book is in the science category."
+    },
+    {
+      "word": "secretary",
+      "def": "秘书",
+      "ipa": "/ˈsekrəteri/",
+      "eng_def": "a person who helps with office work",
+      "example": "The secretary wrote the letter."
+    },
+    {
+      "word": "defense",
+      "def": "辩护；防御",
+      "ipa": "/dɪˈfens/",
+      "eng_def": "the act of protecting or supporting something",
+      "example": "The team played good defense."
+    },
+    {
+      "word": "quick",
+      "def": "快速的",
+      "ipa": "/kwɪk/",
+      "eng_def": "fast; happening in a short time",
+      "example": "She is a quick runner."
+    },
+    {
+      "word": "cook",
+      "def": "厨师",
+      "ipa": "/kʊk/",
+      "eng_def": "a person who prepares food",
+      "example": "The cook made a great dinner."
+    },
+    {
+      "word": "spread",
+      "def": "传播；涂抹",
+      "ipa": "/spred/",
+      "eng_def": "to make something go to more places",
+      "example": "Please spread the butter on the bread."
+    },
+    {
+      "word": "nuclear",
+      "def": "核的",
+      "ipa": "/ˈnuːkliər/",
+      "eng_def": "related to the center of an atom",
+      "example": "Nuclear energy is very powerful."
+    },
+    {
+      "word": "scale",
+      "def": "规模",
+      "ipa": "/skeɪl/",
+      "eng_def": "the size or level of something",
+      "example": "The project was on a large scale."
+    },
+    {
+      "word": "driver",
+      "def": "司机",
+      "ipa": "/ˈdraɪvər/",
+      "eng_def": "a person who drives a vehicle",
+      "example": "The driver stopped the bus."
+    },
+    {
+      "word": "ball",
+      "def": "球",
+      "ipa": "/bɔːl/",
+      "eng_def": "a round object used in games",
+      "example": "The boy kicked the ball."
+    },
+    {
+      "word": "cry",
+      "def": "哭；哭泣",
+      "ipa": "/kraɪ/",
+      "eng_def": "to make sounds because of sadness or pain",
+      "example": "The baby began to cry."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "“conflict” 是什么意思？",
+      "question_en": "What does 'conflict' mean?",
+      "options": [
+        "A. 和平",
+        "B. 冲突",
+        "C. 合作",
+        "D. 聚会"
+      ],
+      "answer": 1,
+      "word": "conflict"
+    },
+    {
+      "question_cn": "“entire” 的意思是？",
+      "question_en": "What does 'entire' mean?",
+      "options": [
+        "A. 部分的",
+        "B. 整个的",
+        "C. 小的",
+        "D. 旧的"
+      ],
+      "answer": 1,
+      "word": "entire"
+    },
+    {
+      "question_cn": "“spread” 最接近的意思是什么？",
+      "question_en": "What is the closest meaning of 'spread'?",
+      "options": [
+        "A. 收集",
+        "B. 隐藏",
+        "C. 传播",
+        "D. 破坏"
+      ],
+      "answer": 2,
+      "word": "spread"
+    },
+    {
+      "question_cn": "“nuclear” 通常与什么有关？",
+      "question_en": "What is 'nuclear' usually related to?",
+      "options": [
+        "A. 水",
+        "B. 火",
+        "C. 原子",
+        "D. 空气"
+      ],
+      "answer": 2,
+      "word": "nuclear"
+    },
+    {
+      "question_cn": "“scale” 在文章中的意思是什么？",
+      "question_en": "What does 'scale' mean in the article?",
+      "options": [
+        "A. 秤",
+        "B. 规模",
+        "C. 音乐音阶",
+        "D. 鱼鳞"
+      ],
+      "answer": 1,
+      "word": "scale"
+    }
+  ],
+  "image_prompts": [
+    "An artist sitting in a corner of a sunny park, painting on an easel, with a small crowd of people watching her.",
+    "A woman smiling while looking at many people around her, all friendly and peaceful, no conflict.",
+    "A wide view of a park full of energy, with an artist using a quick brush stroke on a large canvas.",
+    "An artist holding a net with colorful leaves, and a secretary with a clipboard helping organize materials on a table.",
+    "An artist standing confidently in front of her painting, with one hand raised, defending her ideas to a small group.",
+    "A driver getting out of a car holding a large ball, with a gas leak sign nearby and people looking worried.",
+    "A cook in a white hat shouting and pointing, with people moving towards tents (camp) in the background.",
+    "A stage with an audience sitting calmly, while a sign showing 'Plan Change' is being put up.",
+    "An art festival with a large nuclear symbol decoration, and a huge painting on a wall, with the word 'Excellent' on a banner.",
+    "A child sitting at the edge of a park crying, and a friend bending down to lift the child up."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['category']"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 50,
+  "_new_word_count": 20
+}

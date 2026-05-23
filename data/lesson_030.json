@@ -1,0 +1,470 @@
+{
+  "id": 30,
+  "title": "A Big Interview at the Hospital",
+  "article_text": "I have a serious interview today at a big hospital. The hospital is in the capital city, and it is very popular. I feel a little fear, but my aim is to do my best. The interviewer asks me a specific question about my degree. I pull a red card from my bag and give a quick answer. We reach an agreement about my new job. The hospital wants a quick release of my tax information. There is a beautiful view from the window of the television room. The doctor below my office always has a solution for every problem. I am sorry, but I cannot stay for the movie discussion tonight.",
+  "sentences": [
+    {
+      "en": "I have a serious interview today at a big hospital.",
+      "zh": "今天我在一家大医院有一个严肃的面试。",
+      "words": [
+        {
+          "word": "serious",
+          "def": "严肃的",
+          "ipa": "/ˈsɪriəs/",
+          "eng_def": "important and not funny"
+        },
+        {
+          "word": "interview",
+          "def": "面试",
+          "ipa": "/ˈɪntərvjuː/",
+          "eng_def": "a meeting where someone asks questions to get a job"
+        },
+        {
+          "word": "hospital",
+          "def": "医院",
+          "ipa": "/ˈhɑːspɪtl/",
+          "eng_def": "a place where doctors help sick people"
+        }
+      ]
+    },
+    {
+      "en": "The hospital is in the capital city, and it is very popular.",
+      "zh": "这家医院在首都城市，而且非常受欢迎。",
+      "words": [
+        {
+          "word": "capital",
+          "def": "首都",
+          "ipa": "/ˈkæpɪtl/",
+          "eng_def": "the main city of a country"
+        },
+        {
+          "word": "popular",
+          "def": "受欢迎的",
+          "ipa": "/ˈpɑːpjələr/",
+          "eng_def": "liked by many people"
+        }
+      ]
+    },
+    {
+      "en": "I feel a little fear, but my aim is to do my best.",
+      "zh": "我感到有点害怕，但我的目标是尽力而为。",
+      "words": [
+        {
+          "word": "fear",
+          "def": "恐惧",
+          "ipa": "/fɪr/",
+          "eng_def": "a bad feeling when you think something bad can happen"
+        },
+        {
+          "word": "aim",
+          "def": "目标",
+          "ipa": "/eɪm/",
+          "eng_def": "a plan or hope to get something"
+        },
+        {
+          "word": "best",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "The interviewer asks me a specific question about my degree.",
+      "zh": "面试官问了我一个关于我学位的具体问题。",
+      "words": [
+        {
+          "word": "specific",
+          "def": "具体的",
+          "ipa": "/spəˈsɪfɪk/",
+          "eng_def": "exact and clear"
+        },
+        {
+          "word": "degree",
+          "def": "学位",
+          "ipa": "/dɪˈɡriː/",
+          "eng_def": "a qualification from a university or college"
+        },
+        {
+          "word": "interviewer",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "I pull a red card from my bag and give a quick answer.",
+      "zh": "我从包里抽出一张红牌，并给出了一个快速的回答。",
+      "words": [
+        {
+          "word": "pull",
+          "def": "拉，抽",
+          "ipa": "/pʊl/",
+          "eng_def": "to move something toward you"
+        },
+        {
+          "word": "red",
+          "def": "红色的",
+          "ipa": "/red/",
+          "eng_def": "the color of blood"
+        },
+        {
+          "word": "card",
+          "def": "卡片",
+          "ipa": "/kɑːrd/",
+          "eng_def": "a small piece of thick paper"
+        },
+        {
+          "word": "quick",
+          "def": "快速的",
+          "ipa": "/kwɪk/",
+          "eng_def": "done fast"
+        },
+        {
+          "word": "bag",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "We reach an agreement about my new job.",
+      "zh": "我们达成了关于我新工作的协议。",
+      "words": [
+        {
+          "word": "agreement",
+          "def": "协议",
+          "ipa": "/əˈɡriːmənt/",
+          "eng_def": "a decision or plan that two people both say yes to"
+        }
+      ]
+    },
+    {
+      "en": "The hospital wants a quick release of my tax information.",
+      "zh": "医院希望快速公布我的税务信息。",
+      "words": [
+        {
+          "word": "release",
+          "def": "发布，释放",
+          "ipa": "/rɪˈliːs/",
+          "eng_def": "to let something become known or free"
+        },
+        {
+          "word": "tax",
+          "def": "税",
+          "ipa": "/tæks/",
+          "eng_def": "money people pay to the government"
+        },
+        {
+          "word": "quick",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    },
+    {
+      "en": "There is a beautiful view from the window of the television room.",
+      "zh": "从电视室的窗户可以看到美丽的景色。",
+      "words": [
+        {
+          "word": "beautiful",
+          "def": "美丽的",
+          "ipa": "/ˈbjuːtɪfl/",
+          "eng_def": "very nice to look at"
+        },
+        {
+          "word": "television",
+          "def": "电视",
+          "ipa": "/ˈtelɪvɪʒn/",
+          "eng_def": "a machine that shows moving pictures and sound"
+        }
+      ]
+    },
+    {
+      "en": "The doctor below my office always has a solution for every problem.",
+      "zh": "我办公室楼下的医生总是有解决每个问题的办法。",
+      "words": [
+        {
+          "word": "doctor",
+          "def": "医生",
+          "ipa": "/ˈdɑːktər/",
+          "eng_def": "a person who helps sick people"
+        },
+        {
+          "word": "below",
+          "def": "在……下面",
+          "ipa": "/bɪˈloʊ/",
+          "eng_def": "in a lower place"
+        },
+        {
+          "word": "solution",
+          "def": "解决办法",
+          "ipa": "/səˈluːʃn/",
+          "eng_def": "a way to fix a problem"
+        }
+      ]
+    },
+    {
+      "en": "I am sorry, but I cannot stay for the movie discussion tonight.",
+      "zh": "对不起，今晚我不能留下来参加电影讨论。",
+      "words": [
+        {
+          "word": "sorry",
+          "def": "抱歉的",
+          "ipa": "/ˈsɒri/",
+          "eng_def": "feeling bad about something"
+        },
+        {
+          "word": "movie",
+          "def": "电影",
+          "ipa": "/ˈmuːvi/",
+          "eng_def": "a story shown in a cinema or on television"
+        },
+        {
+          "word": "discussion",
+          "def": "讨论",
+          "ipa": "/dɪˈskʌʃn/",
+          "eng_def": "a talk about something"
+        },
+        {
+          "word": "cannot",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        },
+        {
+          "word": "tonight",
+          "def": "[待补充]",
+          "ipa": "",
+          "eng_def": "Common English word. (definition needs review)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "card",
+      "def": "卡片",
+      "ipa": "/kɑːrd/",
+      "eng_def": "a small piece of thick paper",
+      "example": "I pull a red card from my bag."
+    },
+    {
+      "word": "hospital",
+      "def": "医院",
+      "ipa": "/ˈhɑːspɪtl/",
+      "eng_def": "a place where doctors help sick people",
+      "example": "I have an interview at a big hospital."
+    },
+    {
+      "word": "quick",
+      "def": "快速的",
+      "ipa": "/kwɪk/",
+      "eng_def": "done fast",
+      "example": "I give a quick answer."
+    },
+    {
+      "word": "interview",
+      "def": "面试",
+      "ipa": "/ˈɪntərvjuː/",
+      "eng_def": "a meeting where someone asks questions to get a job",
+      "example": "I have a serious interview today."
+    },
+    {
+      "word": "agreement",
+      "def": "协议",
+      "ipa": "/əˈɡriːmənt/",
+      "eng_def": "a decision or plan that two people both say yes to",
+      "example": "We reach an agreement."
+    },
+    {
+      "word": "release",
+      "def": "发布，释放",
+      "ipa": "/rɪˈliːs/",
+      "eng_def": "to let something become known or free",
+      "example": "The hospital wants a quick release of my tax information."
+    },
+    {
+      "word": "tax",
+      "def": "税",
+      "ipa": "/tæks/",
+      "eng_def": "money people pay to the government",
+      "example": "The hospital wants my tax information."
+    },
+    {
+      "word": "solution",
+      "def": "解决办法",
+      "ipa": "/səˈluːʃn/",
+      "eng_def": "a way to fix a problem",
+      "example": "The doctor has a solution for every problem."
+    },
+    {
+      "word": "capital",
+      "def": "首都",
+      "ipa": "/ˈkæpɪtl/",
+      "eng_def": "the main city of a country",
+      "example": "The hospital is in the capital city."
+    },
+    {
+      "word": "popular",
+      "def": "受欢迎的",
+      "ipa": "/ˈpɑːpjələr/",
+      "eng_def": "liked by many people",
+      "example": "The hospital is very popular."
+    },
+    {
+      "word": "specific",
+      "def": "具体的",
+      "ipa": "/spəˈsɪfɪk/",
+      "eng_def": "exact and clear",
+      "example": "The interviewer asks a specific question."
+    },
+    {
+      "word": "beautiful",
+      "def": "美丽的",
+      "ipa": "/ˈbjuːtɪfl/",
+      "eng_def": "very nice to look at",
+      "example": "There is a beautiful view."
+    },
+    {
+      "word": "fear",
+      "def": "恐惧",
+      "ipa": "/fɪr/",
+      "eng_def": "a bad feeling when you think something bad can happen",
+      "example": "I feel a little fear."
+    },
+    {
+      "word": "aim",
+      "def": "目标",
+      "ipa": "/eɪm/",
+      "eng_def": "a plan or hope to get something",
+      "example": "My aim is to do my best."
+    },
+    {
+      "word": "television",
+      "def": "电视",
+      "ipa": "/ˈtelɪvɪʒn/",
+      "eng_def": "a machine that shows moving pictures and sound",
+      "example": "The window of the television room."
+    },
+    {
+      "word": "serious",
+      "def": "严肃的",
+      "ipa": "/ˈsɪriəs/",
+      "eng_def": "important and not funny",
+      "example": "I have a serious interview."
+    },
+    {
+      "word": "target",
+      "def": "目标",
+      "ipa": "/ˈtɑːrɡɪt/",
+      "eng_def": "a thing you try to hit or get",
+      "example": "The target of the interview is to get the job."
+    },
+    {
+      "word": "degree",
+      "def": "学位",
+      "ipa": "/dɪˈɡriː/",
+      "eng_def": "a qualification from a university or college",
+      "example": "The question is about my degree."
+    },
+    {
+      "word": "pull",
+      "def": "拉，抽",
+      "ipa": "/pʊl/",
+      "eng_def": "to move something toward you",
+      "example": "I pull a red card from my bag."
+    },
+    {
+      "word": "red",
+      "def": "红色的",
+      "ipa": "/red/",
+      "eng_def": "the color of blood",
+      "example": "I pull a red card."
+    }
+  ],
+  "quiz": [
+    {
+      "question_cn": "“interview” 的中文意思是什么？",
+      "question_en": "What is the Chinese meaning of 'interview'?",
+      "options": [
+        "A. 面试",
+        "B. 协议",
+        "C. 卡片",
+        "D. 电视"
+      ],
+      "answer": 0,
+      "word": "interview"
+    },
+    {
+      "question_cn": "“agreement” 的中文意思是什么？",
+      "question_en": "What is the Chinese meaning of 'agreement'?",
+      "options": [
+        "A. 恐惧",
+        "B. 协议",
+        "C. 目标",
+        "D. 解决办法"
+      ],
+      "answer": 1,
+      "word": "agreement"
+    },
+    {
+      "question_cn": "“beautiful” 的中文意思是什么？",
+      "question_en": "What is the Chinese meaning of 'beautiful'?",
+      "options": [
+        "A. 快速的",
+        "B. 受欢迎的",
+        "C. 美丽的",
+        "D. 具体的"
+      ],
+      "answer": 2,
+      "word": "beautiful"
+    },
+    {
+      "question_cn": "“release” 的中文意思是什么？",
+      "question_en": "What is the Chinese meaning of 'release'?",
+      "options": [
+        "A. 拉",
+        "B. 发布",
+        "C. 目标",
+        "D. 学位"
+      ],
+      "answer": 1,
+      "word": "release"
+    },
+    {
+      "question_cn": "“solution” 的中文意思是什么？",
+      "question_en": "What is the Chinese meaning of 'solution'?",
+      "options": [
+        "A. 解决办法",
+        "B. 恐惧",
+        "C. 协议",
+        "D. 卡片"
+      ],
+      "answer": 0,
+      "word": "solution"
+    }
+  ],
+  "image_prompts": [
+    "A person in formal clothes sitting nervously in a hospital waiting room, holding a folder.",
+    "A large modern hospital building with a sign, in a busy city center.",
+    "A person with a worried face, looking at a mirror, with a thought bubble showing a target.",
+    "A person in a suit talking to another person behind a desk, with a diploma on the wall.",
+    "A hand pulling a red card out of a bag on a table.",
+    "Two people shaking hands in an office, smiling.",
+    "A person handing a paper with 'TAX' written on it to another person at a hospital desk.",
+    "A window with a beautiful view of green hills, and a small TV on a table nearby.",
+    "A doctor in a white coat sitting at a desk below a window, looking at a chart.",
+    "A person waving goodbye at a hospital door, with a clock showing evening time."
+  ],
+  "_validation_errors": [
+    "Missing new words in article: ['quickly', 'target']",
+    "Missing new words in vocabulary list: {'quickly'}"
+  ],
+  "_needs_review": true,
+  "_lesson_num": 30,
+  "_new_word_count": 20
+}
