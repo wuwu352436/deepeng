@@ -547,6 +547,10 @@ body.fs-open { overflow: hidden; overscroll-behavior: none; }
         <button class="blind-btn replay" id="blindReplayAllBtn">🔄 整段重放</button>
       </div>
     </div>
+    <div class="card" style="margin-top:0;">
+      <div style="font-size:12px;color:var(--text-muted);margin-bottom:8px;font-weight:500;">📜 句子列表（点击直接盲听）</div>
+      <div id="blindSentenceList" style="max-height:300px;overflow-y:auto;"></div>
+    </div>
   </div>
 
   <!-- 精听 (Intensive Listening) -->
@@ -912,10 +916,6 @@ function toggleArticlePlay() {
     document.getElementById('readingPlayBtn').textContent = '▶';
   } else {
     const lesson = LESSONS[currentLesson];
-    if (!lesson.audio_full) {
-      showToast('暂无完整课文音频');
-      return;
-    }
     playArticleAudio((ct, dur) => {
       const pct = dur ? (ct/dur*100) : 0;
       document.getElementById('readingProgressFill').style.width = pct + '%';
@@ -1304,21 +1304,37 @@ document.addEventListener('keydown', (e) => {
 function renderBlind() {
   const lesson = LESSONS[currentLesson];
   cleanupBlindAudio();
-  
+
   // Init history on first render
   if (blindState.current === 0 && blindState.history.length === 0) {
     blindState.history = lesson.sentences.map(() => 'pending');
   }
-  
+
+  // Render sentence list
+  const listEl = document.getElementById('blindSentenceList');
+  if (listEl) {
+    listEl.innerHTML = lesson.sentences.map((s, i) => {
+      let statusIcon = '○';
+      if (blindState.history[i] === 'got') statusIcon = '✅';
+      else if (blindState.history[i] === 'not-got') statusIcon = '❌';
+      const isCurrent = i === blindState.current;
+      return `<div onclick="blindJumpToSentence(${i})" style="padding:6px 8px;cursor:pointer;border-radius:6px;${isCurrent?'background:var(--primary-bg);font-weight:600;':''}display:flex;align-items:center;gap:8px;font-size:13px;">
+        <span style="flex-shrink:0;width:20px;text-align:center;">${statusIcon}</span>
+        <span style="flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">${s.en}</span>
+        <span style="flex-shrink:0;color:var(--text-muted);font-size:11px;">${s.id}</span>
+      </div>`;
+    }).join('');
+  }
+
   // Reset transcript
   const transcript = document.getElementById('blindTranscript');
   transcript.textContent = '';
   transcript.classList.remove('reveal');
-  
+
   // Show ready state
   updateBlindDots();
   showBlindPhase('start');
-  
+
   if (blindState.current >= lesson.sentences.length) {
     document.getElementById('blindState').textContent = '🎉 盲听完成！看看你的成绩';
     document.getElementById('blindStartBtn').textContent = '🔄 重新盲听';
@@ -1326,6 +1342,25 @@ function renderBlind() {
     document.getElementById('blindState').textContent = `准备盲听 — 共 ${lesson.sentences.length} 句`;
     document.getElementById('blindStartBtn').textContent = '▶ 开始盲听';
   }
+}
+
+function blindJumpToSentence(idx) {
+  const lesson = LESSONS[currentLesson];
+  if (!lesson || idx >= lesson.sentences.length) return;
+  // Stop any playing audio
+  cancelSentenceAudio();
+  cleanupBlindAudio();
+  // Jump to this sentence
+  blindState.current = idx;
+  // Reset transcript
+  document.getElementById('blindTranscript').textContent = '';
+  document.getElementById('blindTranscript').classList.remove('reveal');
+  // Start playing from this sentence
+  showBlindPhase('start');
+  updateBlindDots();
+  document.getElementById('blindState').textContent = `第 ${idx+1}/${lesson.sentences.length} 句`;
+  // Auto-start the sentence
+  playBlindSentence();
 }
 
 function showBlindPhase(phase) {
@@ -1989,15 +2024,29 @@ function playIntensiveSentence(idx) {
 
 function showWordPopup(event, word, chineseDef, engDef, sentenceIdx) {
   event.stopPropagation();
+  const lesson = LESSONS[currentLesson];
   const popupWord = document.getElementById('popupWord');
   const popupIpa = document.getElementById('popupIpa');
   const popupDef = document.getElementById('popupDef');
-  
+
   popupWord.textContent = word;
-  // Hide IPA section if no data (we'll show a phonetic hint from TTS instead)
-  popupIpa.textContent = '';
-  popupIpa.style.display = 'none';
-  
+
+  // Look up IPA from sentence word data
+  let ipa = '';
+  if (lesson && sentenceIdx >= 0 && lesson.sentences[sentenceIdx] && lesson.sentences[sentenceIdx].words) {
+    const wordData = lesson.sentences[sentenceIdx].words.find(w => w.word.toLowerCase() === word.toLowerCase());
+    if (wordData && wordData.ipa) {
+      ipa = wordData.ipa;
+    }
+  }
+  if (ipa) {
+    popupIpa.textContent = ipa;
+    popupIpa.style.display = 'block';
+  } else {
+    popupIpa.textContent = '';
+    popupIpa.style.display = 'none';
+  }
+
   // Show definitions: English (NGSL-based) first, Chinese secondary
   let defHtml = '';
   if (engDef) {
@@ -2010,16 +2059,16 @@ function showWordPopup(event, word, chineseDef, engDef, sentenceIdx) {
     defHtml = '<div style="font-size:14px;color:var(--text-muted);">No definition available</div>';
   }
   popupDef.innerHTML = defHtml;
-  
+
   document.getElementById('overlay').classList.remove('hidden');
   document.getElementById('wordPopup').classList.remove('hidden');
-  
+
   // Cancel any playing sentence audio before pronouncing the word
   cancelSentenceAudio();
-  
+
   // Auto-pronounce the word (not the full sentence)
   pronounceWord(word);
-  
+
   // Bind play button to pronounce the word only
   const playBtn = document.getElementById('popupPlayBtn');
   playBtn.onclick = (e) => {
@@ -2174,10 +2223,14 @@ function repeatPlayCurrentSentence() {
 /** Toggle pause/resume for sentence audio */
 function repeatTogglePause() {
   const audio = window._sentenceAudio;
-  if (!audio) return;
-  
+  if (!audio || audio.readyState < 2) {
+    // Audio not loaded yet, try waiting
+    showToast('⏳ 音频加载中，请稍候');
+    return;
+  }
+
   if (audio.paused) {
-    audio.play().catch(() => {});
+    audio.play().catch(() => showToast('⚠️ 播放失败，请重试'));
     repeatPaused = false;
     document.getElementById('repeatPauseBtn').classList.add('playing');
     document.getElementById('repeatPauseBtn').textContent = '⏸';
@@ -2274,7 +2327,12 @@ async function repeatToggleRecord() {
     } catch (e) {
       console.error('Recording error:', e);
       if (e.name === 'NotAllowedError' || e.name === 'NotReadableError') {
-        showToast('⚠️ 录音被浏览器阻止（微信浏览器不支持录音）');
+        const isHttp = location.protocol === 'http:' && location.hostname !== 'localhost' && location.hostname !== '127.0.0.1';
+        if (isHttp) {
+          showToast('⚠️ HTTP 页面无法录音（请用 HTTPS 或 localhost 访问）');
+        } else {
+          showToast('⚠️ 录音被浏览器阻止（请检查权限设置或使用键盘麦克风）');
+        }
       } else {
         showToast('⚠️ 录音权限未授予');
       }
@@ -2569,18 +2627,18 @@ function getFemaleVoice() {
 }
 
 /** Speak text — use ChatTTS server if configured, else Web Speech API (female voice) */
-function speakText(text) {
+function speakText(text, speakerBtn) {
   if (!ttsEnabled || !text) return null;
 
   // Cancel any ongoing playback
-  window.speechSynthesis.cancel();
+  stopServerAudio();
 
   const config = getAIConfig();
   const ttsUrl = config && config.ttsServerUrl;
 
   if (ttsUrl) {
     // ── Mode 1: Local ChatTTS server (high quality, same network) ──
-    speakViaServer(text, ttsUrl);
+    speakViaServer(text, ttsUrl, speakerBtn);
     return null;  // Server mode is async, no utterance to return
   }
 
@@ -2605,26 +2663,44 @@ function speakText(text) {
 
 /** Play audio via local ChatTTS server (async, no return value) */
 let serverAudioEl = null;
+let _serverAudioActiveSpeakerBtn = null;
 
-function speakViaServer(text, serverUrl) {
+function speakViaServer(text, serverUrl, speakerBtn) {
   // Clean up previous server audio
   if (serverAudioEl) {
     serverAudioEl.pause();
     serverAudioEl.src = '';
     serverAudioEl = null;
   }
+  if (_serverAudioActiveSpeakerBtn) {
+    _serverAudioActiveSpeakerBtn.classList.remove('speaking');
+    _serverAudioActiveSpeakerBtn = null;
+  }
 
   const url = serverUrl.replace(/\/+$/, '') + '/tts';
   const audio = new Audio();
   serverAudioEl = audio;
+  if (speakerBtn) {
+    _serverAudioActiveSpeakerBtn = speakerBtn;
+    speakerBtn.classList.add('speaking');
+  }
+
+  const onDone = () => {
+    if (speakerBtn) {
+      speakerBtn.classList.remove('speaking');
+      if (_serverAudioActiveSpeakerBtn === speakerBtn) _serverAudioActiveSpeakerBtn = null;
+    }
+    serverAudioEl = null;
+  };
 
   audio.addEventListener('canplaythrough', () => {
     audio.play().catch(e => console.warn('TTS play error:', e));
   }, { once: true });
 
+  audio.addEventListener('ended', onDone, { once: true });
   audio.addEventListener('error', () => {
+    onDone();
     console.warn('TTS server unavailable, falling back to browser speech');
-    serverAudioEl = null;
     // Fallback: use Web Speech API with female voice
     const fb = new SpeechSynthesisUtterance(text);
     fb.lang = 'en-US';
@@ -2650,7 +2726,7 @@ function speakViaServer(text, serverUrl) {
     })
     .catch(err => {
       console.warn('TTS server fetch failed:', err.message);
-      serverAudioEl = null;
+      onDone();
       // Fallback: Web Speech API
       const fb = new SpeechSynthesisUtterance(text);
       fb.lang = 'en-US';
@@ -2661,6 +2737,19 @@ function speakViaServer(text, serverUrl) {
     });
 }
 
+function stopServerAudio() {
+  window.speechSynthesis.cancel();
+  if (serverAudioEl) {
+    serverAudioEl.pause();
+    serverAudioEl.src = '';
+    serverAudioEl = null;
+  }
+  if (_serverAudioActiveSpeakerBtn) {
+    _serverAudioActiveSpeakerBtn.classList.remove('speaking');
+    _serverAudioActiveSpeakerBtn = null;
+  }
+}
+
 /**
  * Called when user clicks the speaker icon on an AI message
  */
@@ -2668,18 +2757,18 @@ function replaySpeaker(btn) {
   const text = btn.dataset.text;
   if (!text) return;
   if (btn.classList.contains('speaking')) {
-    window.speechSynthesis.cancel();
+    stopServerAudio();
     btn.classList.remove('speaking');
     return;
   }
-  btn.classList.add('speaking');
-  const utterance = speakText(text);
+  const utterance = speakText(text, btn);
+  // Web Speech API: add end/error handlers to remove speaking class
   if (utterance) {
+    btn.classList.add('speaking');
     utterance.onend = () => btn.classList.remove('speaking');
     utterance.onerror = () => btn.classList.remove('speaking');
-  } else {
-    btn.classList.remove('speaking');
   }
+  // Server TTS: speakViaServer handles the speaking class via the btn param
 }
 
 // Speech-to-text (voice input)
